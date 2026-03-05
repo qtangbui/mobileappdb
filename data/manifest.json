@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "updated_at": "2026-03-06",
+  "sentences_path": "/data/sentences.json",
+  "vocab_path": "/data/vocab.json",
+  "note": "Mobileapp content pack"
+}
