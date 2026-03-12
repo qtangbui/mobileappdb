@@ -2,8 +2,16 @@ name: Check Playlist for New Videos
 
 on:
   schedule:
-    # Run every 6 hours
-    - cron: "0 */6 * * *"
+    # 8 times/day, focused on morning & evening (UTC times)
+    # Vietnam = UTC+7, so UTC 0:00 = VN 7:00 AM, UTC 14:00 = VN 9:00 PM
+    - cron: "0 0 * * *"    # VN 7:00 AM
+    - cron: "0 2 * * *"    # VN 9:00 AM
+    - cron: "0 5 * * *"    # VN 12:00 PM
+    - cron: "0 8 * * *"    # VN 3:00 PM
+    - cron: "0 10 * * *"   # VN 5:00 PM
+    - cron: "0 12 * * *"   # VN 7:00 PM
+    - cron: "0 14 * * *"   # VN 9:00 PM
+    - cron: "0 16 * * *"   # VN 11:00 PM
   workflow_dispatch: # Allow manual trigger
 
 permissions:
