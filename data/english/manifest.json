@@ -4,5 +4,5 @@
   "sentences_path": "/data/english/sentences.json",
   "vocab_path": "/data/english/vocab.json",
   "structures_path": "/data/english/structures.json",
-  "note": "ZipSpeak English app content"
+  "note": "ZipSpeak English app content. IMPORTANT: Increase 'version' (e.g. 1 -> 2) whenever you update sentences, vocab, or structures. The app only syncs when it detects a higher version number."
 }
