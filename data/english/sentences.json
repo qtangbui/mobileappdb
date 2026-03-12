@@ -1,0 +1,2277 @@
+[
+  {
+    "id": "S0001",
+    "text": "How are you?",
+    "meaning_vi": "Bạn khỏe không?"
+  },
+  {
+    "id": "S0002",
+    "text": "Hey, how've you been?",
+    "meaning_vi": "Dạo này bạn thế nào?"
+  },
+  {
+    "id": "S0003",
+    "text": "Not bad, thanks for asking.",
+    "meaning_vi": "Cũng ổn, cảm ơn nhé."
+  },
+  {
+    "id": "S0004",
+    "text": "Long time no see!",
+    "meaning_vi": "Lâu rồi không gặp!"
+  },
+  {
+    "id": "S0005",
+    "text": "Same old, same old.",
+    "meaning_vi": "Vẫn như cũ thôi."
+  },
+  {
+    "id": "S0006",
+    "text": "How's everything going?",
+    "meaning_vi": "Mọi thứ thế nào rồi?"
+  },
+  {
+    "id": "S0007",
+    "text": "I'm doing pretty good.",
+    "meaning_vi": "Mình ổn lắm."
+  },
+  {
+    "id": "S0008",
+    "text": "Can't complain.",
+    "meaning_vi": "Cũng ổn thôi."
+  },
+  {
+    "id": "S0009",
+    "text": "It's been a while!",
+    "meaning_vi": "Lâu rồi nhỉ!"
+  },
+  {
+    "id": "S0010",
+    "text": "You look great today!",
+    "meaning_vi": "Hôm nay bạn trông đẹp!"
+  },
+  {
+    "id": "S0011",
+    "text": "What have you been up to?",
+    "meaning_vi": "Dạo này bạn làm gì vậy?"
+  },
+  {
+    "id": "S0012",
+    "text": "Just keeping busy.",
+    "meaning_vi": "Cứ bận rộn thôi"
+  },
+  {
+    "id": "S0013",
+    "text": "Nice to meet you!",
+    "meaning_vi": "Rất vui được gặp bạn!"
+  },
+  {
+    "id": "S0014",
+    "text": "Likewise!",
+    "meaning_vi": "Mình cũng vậy!"
+  },
+  {
+    "id": "S0015",
+    "text": "Take care of yourself!",
+    "meaning_vi": "Bảo trọng nhé!"
+  },
+  {
+    "id": "S0016",
+    "text": "See you around!",
+    "meaning_vi": "Gặp lại sau nhé!"
+  },
+  {
+    "id": "S0017",
+    "text": "Have a good one!",
+    "meaning_vi": "Chúc bạn một ngày tốt!"
+  },
+  {
+    "id": "S0018",
+    "text": "Talk to you later.",
+    "meaning_vi": "Nói chuyện sau nhé."
+  },
+  {
+    "id": "S0019",
+    "text": "Catch you later!",
+    "meaning_vi": "Gặp sau nhé."
+  },
+  {
+    "id": "S0020",
+    "text": "How's the family?",
+    "meaning_vi": "Gia đình bạn thế nào?"
+  },
+  {
+    "id": "S0021",
+    "text": "Good to see you again.",
+    "meaning_vi": "Vui quá khi gặp lại bạn."
+  },
+  {
+    "id": "S0022",
+    "text": "You haven't changed a bit!",
+    "meaning_vi": "Bạn không thay đổi chút nào!"
+  },
+  {
+    "id": "S0023",
+    "text": "What's new with you?",
+    "meaning_vi": "Có tin gì mới không?"
+  },
+  {
+    "id": "S0024",
+    "text": "Nothing much, just chilling.",
+    "meaning_vi": "Không có gì nhiều"
+  },
+  {
+    "id": "S0025",
+    "text": "I'm swamped right now.",
+    "meaning_vi": "Mình bận quá."
+  },
+  {
+    "id": "S0026",
+    "text": "We should hang out sometime.",
+    "meaning_vi": "Hôm nào đi chơi nhé."
+  },
+  {
+    "id": "S0027",
+    "text": "It's been ages!",
+    "meaning_vi": "Lâu lắm không gặp!"
+  },
+  {
+    "id": "S0028",
+    "text": "How did things go?",
+    "meaning_vi": "Mọi chuyện diễn ra thế nào?"
+  },
+  {
+    "id": "S0029",
+    "text": "Glad you made it!",
+    "meaning_vi": "Vui quá vì bạn đến !"
+  },
+  {
+    "id": "S0030",
+    "text": "You doing okay?",
+    "meaning_vi": "Bạn ổn không?"
+  },
+  {
+    "id": "S0031",
+    "text": "Welcome back!",
+    "meaning_vi": "Chào mừng trở lại!"
+  },
+  {
+    "id": "S0032",
+    "text": "Where have you been?",
+    "meaning_vi": "Bạn đi đâu vậy?"
+  },
+  {
+    "id": "S0033",
+    "text": "I almost didn't recognize you!",
+    "meaning_vi": "Mình suýt không nhận ra bạn!"
+  },
+  {
+    "id": "S0034",
+    "text": "It's great to see you!",
+    "meaning_vi": "Thật tuyệt khi gặp lại bạn!"
+  },
+  {
+    "id": "S0035",
+    "text": "Let's keep in touch.",
+    "meaning_vi": "Mình giữ liên lạc nhé."
+  },
+  {
+    "id": "S0036",
+    "text": "I'll be in touch.",
+    "meaning_vi": "Mình sẽ liên hệ nhé."
+  },
+  {
+    "id": "S0037",
+    "text": "Say hi to everyone for me.",
+    "meaning_vi": "Cho mình gửi lời hỏi thăm mọi người"
+  },
+  {
+    "id": "S0038",
+    "text": "Relax.",
+    "meaning_vi": "Bình tĩnh nhé."
+  },
+  {
+    "id": "S0039",
+    "text": "Don’t give up!",
+    "meaning_vi": "Đừng bỏ cuộc!"
+  },
+  {
+    "id": "S0040",
+    "text": "You're looking well!",
+    "meaning_vi": "Trông bạn khỏe lắm!"
+  },
+  {
+    "id": "S0041",
+    "text": "What a small world!",
+    "meaning_vi": "Thế giới nhỏ bé!"
+  },
+  {
+    "id": "S0042",
+    "text": "I've missed you!",
+    "meaning_vi": "Mình nhớ bạn lắm!"
+  },
+  {
+    "id": "S0043",
+    "text": "Don't be a stranger!",
+    "meaning_vi": "Đừng mất liên lạc nhé!"
+  },
+  {
+    "id": "S0044",
+    "text": "Hope all is well.",
+    "meaning_vi": "Mong mọi thứ đều tốt đẹp."
+  },
+  {
+    "id": "S0045",
+    "text": "Drop by anytime!",
+    "meaning_vi": "Rảnh ghé chơi nhé!"
+  },
+  {
+    "id": "S0046",
+    "text": "It's always good seeing you.",
+    "meaning_vi": "Gặp bạn lúc nào cũng vui."
+  },
+  {
+    "id": "S0047",
+    "text": "I've been thinking about you.",
+    "meaning_vi": "Mình có nghĩ đến bạn đấy."
+  },
+  {
+    "id": "S0048",
+    "text": "You seem happy today!",
+    "meaning_vi": "Hôm nay bạn trông vui vẻ thật!"
+  },
+  {
+    "id": "S0049",
+    "text": "So good to finally meet you!",
+    "meaning_vi": "Thật vui khi cuối cùng được gặp bạn!"
+  },
+  {
+    "id": "S0050",
+    "text": "We'll catch up soon.",
+    "meaning_vi": "Chúng ta sẽ nói chuyện đầy đủ hơn sớm"
+  },
+  {
+    "id": "S0051",
+    "text": "I’m very hungry.",
+    "meaning_vi": "Mình đói quá."
+  },
+  {
+    "id": "S0052",
+    "text": "I need coffee first.",
+    "meaning_vi": "Phải uống cà phê trước đã."
+  },
+  {
+    "id": "S0053",
+    "text": "I overslept again.",
+    "meaning_vi": "Mình ngủ quên lại rồi."
+  },
+  {
+    "id": "S0054",
+    "text": "I'm running late.",
+    "meaning_vi": "Mình bị trễ rồi."
+  },
+  {
+    "id": "S0055",
+    "text": "What time is it?",
+    "meaning_vi": "Mấy giờ rồi?"
+  },
+  {
+    "id": "S0056",
+    "text": "I'm exhausted.",
+    "meaning_vi": "Mình mệt quá."
+  },
+  {
+    "id": "S0057",
+    "text": "I need a break.",
+    "meaning_vi": "Mình cần nghỉ ngơi ."
+  },
+  {
+    "id": "S0058",
+    "text": "I can't sleep.",
+    "meaning_vi": "Mình không ngủ được."
+  },
+  {
+    "id": "S0059",
+    "text": "I slept like a rock.",
+    "meaning_vi": "Mình ngủ rất ngon."
+  },
+  {
+    "id": "S0060",
+    "text": "What's for dinner?",
+    "meaning_vi": "Tối nay ăn gì vậy?"
+  },
+  {
+    "id": "S0061",
+    "text": "I'll do it later.",
+    "meaning_vi": "Lát nữa mình làm."
+  },
+  {
+    "id": "S0062",
+    "text": "I'm on my way.",
+    "meaning_vi": "Mình đang trên đường đến rồi."
+  },
+  {
+    "id": "S0063",
+    "text": "I just got home.",
+    "meaning_vi": "Mình vừa về đến nhà."
+  },
+  {
+    "id": "S0064",
+    "text": "I'm about to head out.",
+    "meaning_vi": "Mình sắp ra ngoài rồi."
+  },
+  {
+    "id": "S0065",
+    "text": "Time to hit the gym.",
+    "meaning_vi": "Đến lúc đi tập gym rồi."
+  },
+  {
+    "id": "S0066",
+    "text": "I skipped breakfast.",
+    "meaning_vi": "Mình bỏ bữa sáng rồi."
+  },
+  {
+    "id": "S0067",
+    "text": "I'm stuck in traffic.",
+    "meaning_vi": "Mình đang bị kẹt xe."
+  },
+  {
+    "id": "S0068",
+    "text": "I need to get going.",
+    "meaning_vi": "Mình phải đi rồi."
+  },
+  {
+    "id": "S0069",
+    "text": "Let me get ready first.",
+    "meaning_vi": "Cho mình chuẩn bị xong đã."
+  },
+  {
+    "id": "S0070",
+    "text": "I'll be back in a minute.",
+    "meaning_vi": "Mình quay lại ngay thôi"
+  },
+  {
+    "id": "S0071",
+    "text": "I'm dead tired.",
+    "meaning_vi": "Mình mệt rã rời."
+  },
+  {
+    "id": "S0072",
+    "text": "I need to unwind.",
+    "meaning_vi": "Mình cần thư giãn."
+  },
+  {
+    "id": "S0073",
+    "text": "What a long day.",
+    "meaning_vi": "Thật là một ngày dài."
+  },
+  {
+    "id": "S0074",
+    "text": "I've got a lot on my plate.",
+    "meaning_vi": "Mình nhiều việc quá."
+  },
+  {
+    "id": "S0075",
+    "text": "I'm pulling an all-nighter.",
+    "meaning_vi": "Mình thức thâu đêm."
+  },
+  {
+    "id": "S0076",
+    "text": "Can you wake me up at 7?",
+    "meaning_vi": "Bạn đánh thức mình lúc 7 giờ được"
+  },
+  {
+    "id": "S0077",
+    "text": "I need to charge my phone.",
+    "meaning_vi": "Mình cần sạc điện thoại."
+  },
+  {
+    "id": "S0078",
+    "text": "I forgot to set my alarm.",
+    "meaning_vi": "Mình quên đặt báo thức rồi."
+  },
+  {
+    "id": "S0079",
+    "text": "I'm trying to eat healthier.",
+    "meaning_vi": "Mình đang cố ăn lành mạnh hơn."
+  },
+  {
+    "id": "S0080",
+    "text": "I'm cutting back on sugar.",
+    "meaning_vi": "Mình đang hạn chế ăn đường."
+  },
+  {
+    "id": "S0081",
+    "text": "I just need five more minutes.",
+    "meaning_vi": "Cho mình thêm năm phút nữa thôi"
+  },
+  {
+    "id": "S0082",
+    "text": "I'm going to bed early tonight.",
+    "meaning_vi": "Tối nay mình đi ngủ sớm."
+  },
+  {
+    "id": "S0083",
+    "text": "I'm so behind on everything.",
+    "meaning_vi": "Mình bị chậm trễ đủ thứ rồi."
+  },
+  {
+    "id": "S0084",
+    "text": "I've been super busy lately.",
+    "meaning_vi": "Dạo này mình bận lắm."
+  },
+  {
+    "id": "S0085",
+    "text": "I need to clean up.",
+    "meaning_vi": "Mình cần dọn dẹp."
+  },
+  {
+    "id": "S0086",
+    "text": "I'm addicted to my phone.",
+    "meaning_vi": "Mình nghiện điện thoại ."
+  },
+  {
+    "id": "S0087",
+    "text": "I work from home.",
+    "meaning_vi": "Mình làm việc ở nhà."
+  },
+  {
+    "id": "S0088",
+    "text": "I need to meal prep.",
+    "meaning_vi": "Mình cần chuẩn bị đồ ăn trước."
+  },
+  {
+    "id": "S0089",
+    "text": "I lost track of time.",
+    "meaning_vi": "Mình không để ý thời gian."
+  },
+  {
+    "id": "S0090",
+    "text": "I'm a night owl.",
+    "meaning_vi": "Mình là người thức khuya."
+  },
+  {
+    "id": "S0091",
+    "text": "I'm an early bird.",
+    "meaning_vi": "Mình là người dậy sớm."
+  },
+  {
+    "id": "S0092",
+    "text": "I need to do laundry.",
+    "meaning_vi": "Mình cần giặt đồ."
+  },
+  {
+    "id": "S0093",
+    "text": "I've got a headache.",
+    "meaning_vi": "Mình bị đau đầu."
+  },
+  {
+    "id": "S0094",
+    "text": "I'm feeling under the weather.",
+    "meaning_vi": "Mình đang không được khỏe."
+  },
+  {
+    "id": "S0095",
+    "text": "I need some fresh air.",
+    "meaning_vi": "Mình cần ra ngoài hít thở chút."
+  },
+  {
+    "id": "S0096",
+    "text": "I'm craving something sweet.",
+    "meaning_vi": "Mình đang thèm đồ ngọt."
+  },
+  {
+    "id": "S0097",
+    "text": "I keep procrastinating.",
+    "meaning_vi": "Mình cứ trì hoãn hoài."
+  },
+  {
+    "id": "S0098",
+    "text": "I set three alarms.",
+    "meaning_vi": "Mình đặt ba cái báo thức."
+  },
+  {
+    "id": "S0099",
+    "text": "I work best at night.",
+    "meaning_vi": "Mình làm tốt nhất ban đêm."
+  },
+  {
+    "id": "S0100",
+    "text": "I'm trying to build a routine.",
+    "meaning_vi": "Mình đang cố tạo thói quen đều đặn."
+  },
+  {
+    "id": "S0101",
+    "text": "I'm over the moon!",
+    "meaning_vi": "Mình vui lắm!"
+  },
+  {
+    "id": "S0102",
+    "text": "That breaks my heart.",
+    "meaning_vi": "Điều đó làm mình đau lòng lắm."
+  },
+  {
+    "id": "S0103",
+    "text": "I'm so stressed out.",
+    "meaning_vi": "Mình căng thẳng quá."
+  },
+  {
+    "id": "S0104",
+    "text": "I feel like crying.",
+    "meaning_vi": "Mình muốn khóc quá."
+  },
+  {
+    "id": "S0105",
+    "text": "That made my day!",
+    "meaning_vi": "Làm mình vui cả ngày!"
+  },
+  {
+    "id": "S0106",
+    "text": "I'm nervous as hell.",
+    "meaning_vi": "Mình hồi hộp lắm."
+  },
+  {
+    "id": "S0107",
+    "text": "I can't stop smiling.",
+    "meaning_vi": "Mình cứ cười hoài không thôi"
+  },
+  {
+    "id": "S0108",
+    "text": "I feel so relieved.",
+    "meaning_vi": "Mình thấy nhẹ nhõm hẳn."
+  },
+  {
+    "id": "S0109",
+    "text": "I'm really worried.",
+    "meaning_vi": "Mình lo quá."
+  },
+  {
+    "id": "S0110",
+    "text": "I'm at my limit.",
+    "meaning_vi": "Mình đã đến giới hạn rồi."
+  },
+  {
+    "id": "S0111",
+    "text": "I feel so lost.",
+    "meaning_vi": "Mình cảm thấy lạc lõng quá."
+  },
+  {
+    "id": "S0112",
+    "text": "That really got to me.",
+    "meaning_vi": "Điều đó ảnh hưởng đến mình thật."
+  },
+  {
+    "id": "S0113",
+    "text": "I'm proud of you.",
+    "meaning_vi": "Mình tự hào về bạn lắm."
+  },
+  {
+    "id": "S0114",
+    "text": "I'm ashamed of myself.",
+    "meaning_vi": "Mình xấu hổ với chính mình."
+  },
+  {
+    "id": "S0115",
+    "text": "I'm so disappointed.",
+    "meaning_vi": "Mình thất vọng quá."
+  },
+  {
+    "id": "S0116",
+    "text": "That was embarrassing.",
+    "meaning_vi": "Cái đó xấu hổ."
+  },
+  {
+    "id": "S0117",
+    "text": "I'm irritated.",
+    "meaning_vi": "Mình đang bực bội."
+  },
+  {
+    "id": "S0118",
+    "text": "I feel so guilty.",
+    "meaning_vi": "Mình cảm thấy tội lỗi quá."
+  },
+  {
+    "id": "S0119",
+    "text": "I'm in a good mood today.",
+    "meaning_vi": "Hôm nay mình đang ở trạng thái vui."
+  },
+  {
+    "id": "S0120",
+    "text": "I woke up on the wrong side.",
+    "meaning_vi": "Hôm nay mình cáu quá."
+  },
+  {
+    "id": "S0121",
+    "text": "Don't take it personally.",
+    "meaning_vi": "Đừng nhận vào lòng nhé."
+  },
+  {
+    "id": "S0122",
+    "text": "I feel butterflies in my stomach.",
+    "meaning_vi": "Mình đang hồi hộp"
+  },
+  {
+    "id": "S0123",
+    "text": "I'm emotionally drained.",
+    "meaning_vi": "Mình bị kiệt sức về tinh thần."
+  },
+  {
+    "id": "S0124",
+    "text": "I feel so much better now.",
+    "meaning_vi": "Bây giờ mình thấy khỏe hơn nhiều rồi."
+  },
+  {
+    "id": "S0125",
+    "text": "I'm on edge today.",
+    "meaning_vi": "Hôm nay mình căng thẳng."
+  },
+  {
+    "id": "S0126",
+    "text": "That really cheered me up.",
+    "meaning_vi": "Điều đó làm mình vui hẳn lên."
+  },
+  {
+    "id": "S0127",
+    "text": "I'm feeling overwhelmed.",
+    "meaning_vi": "Mình đang cảm thấy quá tải."
+  },
+  {
+    "id": "S0128",
+    "text": "I'm so thankful for you.",
+    "meaning_vi": "Mình biết ơn bạn."
+  },
+  {
+    "id": "S0129",
+    "text": "You drive me crazy!",
+    "meaning_vi": "Bạn làm mình rối quá!"
+  },
+  {
+    "id": "S0130",
+    "text": "I miss the old days.",
+    "meaning_vi": "Mình nhớ ngày xưa lắm."
+  },
+  {
+    "id": "S0131",
+    "text": "I'm not in the mood.",
+    "meaning_vi": "Mình không có tâm trạng."
+  },
+  {
+    "id": "S0132",
+    "text": "I feel so alive!",
+    "meaning_vi": "Mình cảm thấy tràn đầy sức sống!"
+  },
+  {
+    "id": "S0133",
+    "text": "That's a bummer.",
+    "meaning_vi": "Tiếc thật."
+  },
+  {
+    "id": "S0134",
+    "text": "I'm on cloud nine.",
+    "meaning_vi": "Mình vui lắm!"
+  },
+  {
+    "id": "S0135",
+    "text": "I'm having second thoughts.",
+    "meaning_vi": "Mình đang do dự rồi."
+  },
+  {
+    "id": "S0136",
+    "text": "I can't get over it.",
+    "meaning_vi": "Mình không thể quên được điều đó."
+  },
+  {
+    "id": "S0137",
+    "text": "I'm really touched.",
+    "meaning_vi": "Mình cảm động."
+  },
+  {
+    "id": "S0138",
+    "text": "I've been feeling down.",
+    "meaning_vi": "Dạo này mình đang buồn."
+  },
+  {
+    "id": "S0139",
+    "text": "That made me uncomfortable.",
+    "meaning_vi": "Điều đó làm mình không thoải mái."
+  },
+  {
+    "id": "S0140",
+    "text": "I'm so fed up.",
+    "meaning_vi": "Mình chán ngán rồi."
+  },
+  {
+    "id": "S0141",
+    "text": "I feel like myself again.",
+    "meaning_vi": "Mình cảm thấy như là chính mình lại"
+  },
+  {
+    "id": "S0142",
+    "text": "I'm worried sick.",
+    "meaning_vi": "Mình lo lắng đến bệnh mất."
+  },
+  {
+    "id": "S0143",
+    "text": "I feel so stupid.",
+    "meaning_vi": "Mình cảm thấy mình ngốc."
+  },
+  {
+    "id": "S0144",
+    "text": "I'm bursting with excitement.",
+    "meaning_vi": "Mình đang vô cùng phấn khích."
+  },
+  {
+    "id": "S0145",
+    "text": "I feel so misunderstood.",
+    "meaning_vi": "Mình cảm thấy mọi người không hiểu"
+  },
+  {
+    "id": "S0146",
+    "text": "That scared me to death.",
+    "meaning_vi": "Làm mình sợ quá."
+  },
+  {
+    "id": "S0147",
+    "text": "I'm so glad it's over.",
+    "meaning_vi": "Mình mừng quá vì chuyện đó kết thúc"
+  },
+  {
+    "id": "S0148",
+    "text": "You mean a lot to me.",
+    "meaning_vi": "Bạn quan trọng với mình."
+  },
+  {
+    "id": "S0149",
+    "text": "I feel so much lighter now.",
+    "meaning_vi": "Bây giờ mình cảm thấy nhẹ nhõm hơn"
+  },
+  {
+    "id": "S0150",
+    "text": "I'm conflicted about this.",
+    "meaning_vi": "Mình đang lưỡng lự về chuyện này."
+  },
+  {
+    "id": "S0151",
+    "text": "I totally agree.",
+    "meaning_vi": "Mình hoàn toàn đồng ý."
+  },
+  {
+    "id": "S0152",
+    "text": "That's a fair point.",
+    "meaning_vi": "Đó là một điểm có lý."
+  },
+  {
+    "id": "S0153",
+    "text": "I see where you're coming from.",
+    "meaning_vi": "Mình hiểu quan điểm của bạn."
+  },
+  {
+    "id": "S0154",
+    "text": "I beg to differ.",
+    "meaning_vi": "Mình không đồng ý với điều đó."
+  },
+  {
+    "id": "S0155",
+    "text": "You've got a point.",
+    "meaning_vi": "Bạn có lý đấy."
+  },
+  {
+    "id": "S0156",
+    "text": "I'm on the fence.",
+    "meaning_vi": "Mình chưa quyết định được bên nào."
+  },
+  {
+    "id": "S0157",
+    "text": "That's debatable.",
+    "meaning_vi": "Cái đó còn đáng tranh luận đấy."
+  },
+  {
+    "id": "S0158",
+    "text": "You nailed it.",
+    "meaning_vi": "Bạn nói đúng chuẩn rồi."
+  },
+  {
+    "id": "S0159",
+    "text": "That's not my thing.",
+    "meaning_vi": "Đó không phải sở thích của mình."
+  },
+  {
+    "id": "S0160",
+    "text": "I couldn't agree more.",
+    "meaning_vi": "Mình đồng ý hoàn toàn."
+  },
+  {
+    "id": "S0161",
+    "text": "That's a stretch.",
+    "meaning_vi": "Cái đó hơi quá đáng rồi."
+  },
+  {
+    "id": "S0162",
+    "text": "That makes total sense.",
+    "meaning_vi": "Điều đó hoàn toàn có lý."
+  },
+  {
+    "id": "S0163",
+    "text": "I'm not so sure about that.",
+    "meaning_vi": "Mình không chắc lắm về điều đó."
+  },
+  {
+    "id": "S0164",
+    "text": "That's just my opinion.",
+    "meaning_vi": "Đó chỉ là ý kiến của mình thôi"
+  },
+  {
+    "id": "S0165",
+    "text": "To each their own.",
+    "meaning_vi": "Mỗi người mỗi ý"
+  },
+  {
+    "id": "S0166",
+    "text": "That's a tough call.",
+    "meaning_vi": "Đó là quyết định khó đưa ra."
+  },
+  {
+    "id": "S0167",
+    "text": "That's not how I see it.",
+    "meaning_vi": "Mình không nhìn nhận như vậy."
+  },
+  {
+    "id": "S0168",
+    "text": "I think so too.",
+    "meaning_vi": "Mình cũng nghĩ vậy."
+  },
+  {
+    "id": "S0169",
+    "text": "That's a good point.",
+    "meaning_vi": "Đó là một điểm hay đấy."
+  },
+  {
+    "id": "S0170",
+    "text": "I had no idea.",
+    "meaning_vi": "Mình không biết điều đó."
+  },
+  {
+    "id": "S0171",
+    "text": "Honestly, I don't know.",
+    "meaning_vi": "Thật ra, mình không biết."
+  },
+  {
+    "id": "S0172",
+    "text": "That's interesting.",
+    "meaning_vi": "Thú vị đấy."
+  },
+  {
+    "id": "S0173",
+    "text": "I never thought about it that way.",
+    "meaning_vi": "Mình chưa bao giờ nghĩ theo hướng đó."
+  },
+  {
+    "id": "S0174",
+    "text": "That doesn't make sense to me.",
+    "meaning_vi": "Điều đó không có lý với mình."
+  },
+  {
+    "id": "S0175",
+    "text": "I disagree, but I respect your view.",
+    "meaning_vi": "Mình không đồng ý"
+  },
+  {
+    "id": "S0176",
+    "text": "What do you think?",
+    "meaning_vi": "Bạn nghĩ sao?"
+  },
+  {
+    "id": "S0177",
+    "text": "I was wrong about that.",
+    "meaning_vi": "Mình đã sai về điều đó."
+  },
+  {
+    "id": "S0178",
+    "text": "That's exactly what I meant.",
+    "meaning_vi": "Đó chính xác là điều mình muốn nói."
+  },
+  {
+    "id": "S0179",
+    "text": "I stand by what I said.",
+    "meaning_vi": "Mình giữ nguyên những gì mình đã nói."
+  },
+  {
+    "id": "S0180",
+    "text": "I changed my mind.",
+    "meaning_vi": "Mình đổi ý rồi."
+  },
+  {
+    "id": "S0181",
+    "text": "You make a compelling argument.",
+    "meaning_vi": "Bạn đưa ra lập luận thuyết phục đấy."
+  },
+  {
+    "id": "S0182",
+    "text": "Let's agree to disagree.",
+    "meaning_vi": "Mỗi người một ý nhé."
+  },
+  {
+    "id": "S0183",
+    "text": "I'm willing to hear you out.",
+    "meaning_vi": "Mình sẵn sàng lắng nghe bạn nói hết."
+  },
+  {
+    "id": "S0184",
+    "text": "That's a valid concern.",
+    "meaning_vi": "Đó là mối lo ngại có cơ sở."
+  },
+  {
+    "id": "S0185",
+    "text": "Okay, I understand.",
+    "meaning_vi": "Ok, mình hiểu."
+  },
+  {
+    "id": "S0186",
+    "text": "That's up for debate.",
+    "meaning_vi": "Điều đó còn nhiều tranh cãi."
+  },
+  {
+    "id": "S0187",
+    "text": "I'm not buying it.",
+    "meaning_vi": "Mình không tin."
+  },
+  {
+    "id": "S0188",
+    "text": "That resonates with me.",
+    "meaning_vi": "Điều đó có sự đồng cảm với mình."
+  },
+  {
+    "id": "S0189",
+    "text": "I see both sides.",
+    "meaning_vi": "Mình thấy cả hai phía đều có lý."
+  },
+  {
+    "id": "S0190",
+    "text": "That's a bit much.",
+    "meaning_vi": "Cái đó hơi quá."
+  },
+  {
+    "id": "S0191",
+    "text": "I'm with you on that.",
+    "meaning_vi": "Mình đồng ý với bạn về điểm đó."
+  },
+  {
+    "id": "S0192",
+    "text": "That's not the point.",
+    "meaning_vi": "Đó không phải vấn đề cần bàn."
+  },
+  {
+    "id": "S0193",
+    "text": "You're overthinking it.",
+    "meaning_vi": "Bạn nghĩ nhiều quá."
+  },
+  {
+    "id": "S0194",
+    "text": "That's easier said than done.",
+    "meaning_vi": "Nói dễ, làm khó."
+  },
+  {
+    "id": "S0195",
+    "text": "I have mixed feelings.",
+    "meaning_vi": "Mình có cảm xúc lẫn lộn về điều đó."
+  },
+  {
+    "id": "S0196",
+    "text": "I take your word for it.",
+    "meaning_vi": "Mình tin lời bạn."
+  },
+  {
+    "id": "S0197",
+    "text": "That speaks for itself.",
+    "meaning_vi": "Điều đó tự nói lên tất cả."
+  },
+  {
+    "id": "S0198",
+    "text": "That's beyond me.",
+    "meaning_vi": "Điều đó vượt quá khả năng của mình."
+  },
+  {
+    "id": "S0199",
+    "text": "I'll take that into account.",
+    "meaning_vi": "Mình sẽ ghi nhớ điều đó."
+  },
+  {
+    "id": "S0200",
+    "text": "You've given me a lot to think about.",
+    "meaning_vi": "Bạn đã cho mình nhiều điều để suy"
+  },
+  {
+    "id": "S0201",
+    "text": "Could you do me a favor?",
+    "meaning_vi": "Bạn có thể giúp mình một việc không?"
+  },
+  {
+    "id": "S0202",
+    "text": "Would you mind helping me?",
+    "meaning_vi": "Bạn có phiền giúp mình không?"
+  },
+  {
+    "id": "S0203",
+    "text": "Let me know if you need anything.",
+    "meaning_vi": "Cần gì cứ nói mình biết nhé."
+  },
+  {
+    "id": "S0204",
+    "text": "Feel free to ask.",
+    "meaning_vi": "Cứ tự nhiên hỏi nhé."
+  },
+  {
+    "id": "S0205",
+    "text": "Can I give you a hand?",
+    "meaning_vi": "Để mình giúp một tay được không?"
+  },
+  {
+    "id": "S0206",
+    "text": "How about we try this instead?",
+    "meaning_vi": "Sao không thử cách này xem sao?"
+  },
+  {
+    "id": "S0207",
+    "text": "Why don't we just...?",
+    "meaning_vi": "Sao mình không cứ...?"
+  },
+  {
+    "id": "S0208",
+    "text": "Do you want me to help?",
+    "meaning_vi": "Bạn muốn mình giúp không?"
+  },
+  {
+    "id": "S0209",
+    "text": "I'll take care of it.",
+    "meaning_vi": "Mình sẽ lo chuyện đó."
+  },
+  {
+    "id": "S0210",
+    "text": "Let's split it.",
+    "meaning_vi": "Để mình chia đôi nhé."
+  },
+  {
+    "id": "S0211",
+    "text": "I insist.",
+    "meaning_vi": "Mình nài đấy."
+  },
+  {
+    "id": "S0212",
+    "text": "It's on me.",
+    "meaning_vi": "Mình trả nhé."
+  },
+  {
+    "id": "S0213",
+    "text": "We could always...",
+    "meaning_vi": "Lúc nào mình cũng có thể..."
+  },
+  {
+    "id": "S0214",
+    "text": "Have you tried...?",
+    "meaning_vi": "Bạn đã thử... chưa?"
+  },
+  {
+    "id": "S0215",
+    "text": "You should check it out.",
+    "meaning_vi": "Bạn nên thử xem đi."
+  },
+  {
+    "id": "S0216",
+    "text": "Mind if I sit here?",
+    "meaning_vi": "Mình ngồi đây được không?"
+  },
+  {
+    "id": "S0217",
+    "text": "Could you pass that over?",
+    "meaning_vi": "Bạn chuyền cái đó qua cho mình được"
+  },
+  {
+    "id": "S0218",
+    "text": "Would you be up for it?",
+    "meaning_vi": "Bạn có muốn tham gia không?"
+  },
+  {
+    "id": "S0219",
+    "text": "I suggest we go early.",
+    "meaning_vi": "Mình đề nghị đi sớm."
+  },
+  {
+    "id": "S0220",
+    "text": "Just say the word.",
+    "meaning_vi": "Cứ nói một tiếng là mình làm ngay."
+  },
+  {
+    "id": "S0221",
+    "text": "Can you cover for me?",
+    "meaning_vi": "Bạn có thể làm hộ mình không?"
+  },
+  {
+    "id": "S0222",
+    "text": "Let me get that for you.",
+    "meaning_vi": "Để mình lấy cái đó cho."
+  },
+  {
+    "id": "S0223",
+    "text": "You should give it a shot.",
+    "meaning_vi": "Bạn nên thử xem."
+  },
+  {
+    "id": "S0224",
+    "text": "Can we reschedule?",
+    "meaning_vi": "Mình đổi lịch được không?"
+  },
+  {
+    "id": "S0225",
+    "text": "Let's figure this out together.",
+    "meaning_vi": "Mình cùng giải quyết chuyện này nhé."
+  },
+  {
+    "id": "S0226",
+    "text": "Could you keep it down?",
+    "meaning_vi": "Bạn có thể giữ im lặng hơn không?"
+  },
+  {
+    "id": "S0227",
+    "text": "Can I borrow that?",
+    "meaning_vi": "Mình mượn cái đó được không?"
+  },
+  {
+    "id": "S0228",
+    "text": "Is there anything I can do?",
+    "meaning_vi": "Có gì mình có thể làm không?"
+  },
+  {
+    "id": "S0229",
+    "text": "Would you like some help?",
+    "meaning_vi": "Bạn có cần giúp không?"
+  },
+  {
+    "id": "S0230",
+    "text": "Don't hesitate to reach out.",
+    "meaning_vi": "Đừng ngại liên lạc với mình nhé."
+  },
+  {
+    "id": "S0231",
+    "text": "What if we...?",
+    "meaning_vi": "Nếu mình... thì sao?"
+  },
+  {
+    "id": "S0232",
+    "text": "Maybe we could try...",
+    "meaning_vi": "Có lẽ mình có thể thử..."
+  },
+  {
+    "id": "S0233",
+    "text": "I'd recommend...",
+    "meaning_vi": "Mình gợi ý..."
+  },
+  {
+    "id": "S0234",
+    "text": "That might work.",
+    "meaning_vi": "Cái đó có thể được đấy."
+  },
+  {
+    "id": "S0235",
+    "text": "Let me think about it.",
+    "meaning_vi": "Để mình suy nghĩ thêm."
+  },
+  {
+    "id": "S0236",
+    "text": "Let's play it by ear.",
+    "meaning_vi": "Cứ tùy tình hình mà xử lý."
+  },
+  {
+    "id": "S0237",
+    "text": "Can I ask you something?",
+    "meaning_vi": "Mình hỏi bạn điều gì được không?"
+  },
+  {
+    "id": "S0238",
+    "text": "How can I help?",
+    "meaning_vi": "Mình có thể giúp gì được không?"
+  },
+  {
+    "id": "S0239",
+    "text": "Let's take turns.",
+    "meaning_vi": "Mình thay nhau làm nhé."
+  },
+  {
+    "id": "S0240",
+    "text": "Could you be more specific?",
+    "meaning_vi": "Bạn có thể nói cụ thể hơn không?"
+  },
+  {
+    "id": "S0241",
+    "text": "Want to grab a bite?",
+    "meaning_vi": "Muốn đi ăn gì không?"
+  },
+  {
+    "id": "S0242",
+    "text": "Let's meet halfway.",
+    "meaning_vi": "Mình thỏa hiệp nhé."
+  },
+  {
+    "id": "S0243",
+    "text": "What do you say?",
+    "meaning_vi": "Ý bạn thế nào?"
+  },
+  {
+    "id": "S0244",
+    "text": "I'm up for anything.",
+    "meaning_vi": "Mình ok với bất cứ điều gì."
+  },
+  {
+    "id": "S0245",
+    "text": "Leave it to me.",
+    "meaning_vi": "Cứ giao cho mình."
+  },
+  {
+    "id": "S0246",
+    "text": "Can we talk about this later?",
+    "meaning_vi": "Chúng ta có thể nói chuyện sau không?"
+  },
+  {
+    "id": "S0247",
+    "text": "Would you mind repeating that?",
+    "meaning_vi": "Bạn có thể nhắc lại không?"
+  },
+  {
+    "id": "S0248",
+    "text": "Could you explain that again?",
+    "meaning_vi": "Bạn có thể giải thích lại không?"
+  },
+  {
+    "id": "S0249",
+    "text": "I'll handle it.",
+    "meaning_vi": "Mình sẽ xử lý chuyện đó."
+  },
+  {
+    "id": "S0250",
+    "text": "You should try it sometime.",
+    "meaning_vi": "Khi nào bạn nên thử xem."
+  },
+  {
+    "id": "S0251",
+    "text": "I'm swamped with work.",
+    "meaning_vi": "Mình đang ngập đầu công việc."
+  },
+  {
+    "id": "S0256",
+    "text": "I got fired.",
+    "meaning_vi": "Mình bị sa thải rồi."
+  },
+  {
+    "id": "S0260",
+    "text": "Can we push the meeting back?",
+    "meaning_vi": "Mình có thể đẩy lùi cuộc họp không?"
+  },
+  {
+    "id": "S0262",
+    "text": "I need to focus.",
+    "meaning_vi": "Mình cần tập trung."
+  },
+  {
+    "id": "S0263",
+    "text": "I'm way behind on this.",
+    "meaning_vi": "Mình đang chậm tiến độ nhiều."
+  },
+  {
+    "id": "S0264",
+    "text": "Let's brainstorm some ideas.",
+    "meaning_vi": "Mình cùng nghĩ ra vài ý tưởng nhé."
+  },
+  {
+    "id": "S0265",
+    "text": "Can you loop me in?",
+    "meaning_vi": "Bạn có thể cho mình biết thêm không?"
+  },
+  {
+    "id": "S0266",
+    "text": "Keep me posted.",
+    "meaning_vi": "Cập nhật cho mình nhé."
+  },
+  {
+    "id": "S0267",
+    "text": "I'll get back to you on that.",
+    "meaning_vi": "Mình sẽ phản hồi bạn về chuyện đó."
+  },
+  {
+    "id": "S0268",
+    "text": "Let's circle back later.",
+    "meaning_vi": "Lát nữa mình quay lại chủ đề này nhé."
+  },
+  {
+    "id": "S0269",
+    "text": "I'll touch base with you.",
+    "meaning_vi": "Mình sẽ liên lạc với bạn."
+  },
+  {
+    "id": "S0270",
+    "text": "Can you walk me through it?",
+    "meaning_vi": "Bạn chỉ mình từng bước được không?"
+  },
+  {
+    "id": "S0273",
+    "text": "I pulled an all-nighter to study.",
+    "meaning_vi": "Mình thức thâu đêm để ôn bài."
+  },
+  {
+    "id": "S0276",
+    "text": "Can I get an extension?",
+    "meaning_vi": "Mình có thể xin gia hạn không?"
+  },
+  {
+    "id": "S0277",
+    "text": "I need to catch up on work.",
+    "meaning_vi": "Mình cần bắt kịp công việc."
+  },
+  {
+    "id": "S0278",
+    "text": "I'm burned out.",
+    "meaning_vi": "Mình kiệt sức vì làm việc quá nhiều"
+  },
+  {
+    "id": "S0279",
+    "text": "Let's get down to business.",
+    "meaning_vi": "Mình đi thẳng vào việc thôi"
+  },
+  {
+    "id": "S0280",
+    "text": "I need to step up my game.",
+    "meaning_vi": "Mình cần cố gắng hơn nữa."
+  },
+  {
+    "id": "S0282",
+    "text": "My workload is insane.",
+    "meaning_vi": "Công việc nhiều quá."
+  },
+  {
+    "id": "S0286",
+    "text": "I gave it my all.",
+    "meaning_vi": "Mình đã cố hết sức rồi."
+  },
+  {
+    "id": "S0287",
+    "text": "I'm under a lot of pressure.",
+    "meaning_vi": "Mình đang chịu nhiều áp lực."
+  },
+  {
+    "id": "S0288",
+    "text": "I need to delegate more.",
+    "meaning_vi": "Mình cần giao việc nhiều hơn."
+  },
+  {
+    "id": "S0289",
+    "text": "I'm waiting to hear back.",
+    "meaning_vi": "Mình đang chờ phản hồi."
+  },
+  {
+    "id": "S0291",
+    "text": "I'm on probation.",
+    "meaning_vi": "Mình đang trong thời gian thử việc."
+  },
+  {
+    "id": "S0292",
+    "text": "I work the night shift.",
+    "meaning_vi": "Mình làm ca đêm."
+  },
+  {
+    "id": "S0293",
+    "text": "I'm taking a personal day.",
+    "meaning_vi": "Hôm nay mình nghỉ phép cá nhân."
+  },
+  {
+    "id": "S0294",
+    "text": "I need a sick day.",
+    "meaning_vi": "Mình cần nghỉ ốm."
+  },
+  {
+    "id": "S0295",
+    "text": "I'm calling in sick.",
+    "meaning_vi": "Mình gọi báo nghỉ ốm."
+  },
+  {
+    "id": "S0296",
+    "text": "I'm up for the challenge.",
+    "meaning_vi": "Mình sẵn sàng đối mặt với thử thách."
+  },
+  {
+    "id": "S0297",
+    "text": "I work well under pressure.",
+    "meaning_vi": "Mình làm tốt khi áp lực."
+  },
+  {
+    "id": "S0299",
+    "text": "I love what I do.",
+    "meaning_vi": "Mình yêu công việc của mình."
+  },
+  {
+    "id": "S0300",
+    "text": "It's a stepping stone.",
+    "meaning_vi": "Đó là bước đệm để tiến xa hơn."
+  },
+  {
+    "id": "S0301",
+    "text": "I'm so hungry I could eat a horse.",
+    "meaning_vi": "Mình đói đến mức có thể ăn cả con"
+  },
+  {
+    "id": "S0302",
+    "text": "This is to die for!",
+    "meaning_vi": "Cái này ngon tuyệt vời!"
+  },
+  {
+    "id": "S0303",
+    "text": "I'm not a picky eater.",
+    "meaning_vi": "Mình không kén ăn."
+  },
+  {
+    "id": "S0304",
+    "text": "I'll have what she's having.",
+    "meaning_vi": "Cho mình như của cô ấy ấy."
+  },
+  {
+    "id": "S0306",
+    "text": "Check, please!",
+    "meaning_vi": "Cho mình tính tiền nhé!"
+  },
+  {
+    "id": "S0308",
+    "text": "I'll treat you.",
+    "meaning_vi": "Mình đãi bạn."
+  },
+  {
+    "id": "S0310",
+    "text": "I'm craving pizza.",
+    "meaning_vi": "Mình đang thèm pizza."
+  },
+  {
+    "id": "S0311",
+    "text": "That smells amazing.",
+    "meaning_vi": "Cái đó ngửi thơm quá."
+  },
+  {
+    "id": "S0312",
+    "text": "I'm on a diet.",
+    "meaning_vi": "Mình đang ăn kiêng."
+  },
+  {
+    "id": "S0314",
+    "text": "Do you have any specials today?",
+    "meaning_vi": "Hôm nay có món đặc biệt không?"
+  },
+  {
+    "id": "S0318",
+    "text": "That was absolutely delicious.",
+    "meaning_vi": "Cái đó ngon tuyệt đối."
+  },
+  {
+    "id": "S0319",
+    "text": "I ate way too much.",
+    "meaning_vi": "Mình ăn quá nhiều rồi."
+  },
+  {
+    "id": "S0320",
+    "text": "I'm window shopping.",
+    "meaning_vi": "Mình chỉ đi xem chứ không mua."
+  },
+  {
+    "id": "S0321",
+    "text": "It's on sale!",
+    "meaning_vi": "Nó đang giảm giá!"
+  },
+  {
+    "id": "S0322",
+    "text": "That's a steal!",
+    "meaning_vi": "Mua rẻ quá như được tặng không!"
+  },
+  {
+    "id": "S0323",
+    "text": "That's way overpriced.",
+    "meaning_vi": "Cái đó mắc quá."
+  },
+  {
+    "id": "S0324",
+    "text": "Can I get a discount?",
+    "meaning_vi": "Mình có thể được giảm giá không?"
+  },
+  {
+    "id": "S0326",
+    "text": "I'm just browsing, thanks.",
+    "meaning_vi": "Mình chỉ xem thôi, cảm ơn."
+  },
+  {
+    "id": "S0327",
+    "text": "I'm a shopaholic.",
+    "meaning_vi": "Mình nghiện mua sắm."
+  },
+  {
+    "id": "S0328",
+    "text": "I blew my budget.",
+    "meaning_vi": "Mình đã vượt ngân sách rồi."
+  },
+  {
+    "id": "S0329",
+    "text": "This is a must-try.",
+    "meaning_vi": "Cái này phải thử mới được."
+  },
+  {
+    "id": "S0330",
+    "text": "I prefer home-cooked meals.",
+    "meaning_vi": "Mình thích đồ ăn nhà nấu hơn."
+  },
+  {
+    "id": "S0331",
+    "text": "Do you take card?",
+    "meaning_vi": "Bạn có nhận thẻ không?"
+  },
+  {
+    "id": "S0332",
+    "text": "Keep the change.",
+    "meaning_vi": "Khỏi thối lại."
+  },
+  {
+    "id": "S0334",
+    "text": "I forgot my wallet.",
+    "meaning_vi": "Mình quên ví rồi."
+  },
+  {
+    "id": "S0335",
+    "text": "I'm good, thanks.",
+    "meaning_vi": "Mình ổn, cảm ơn."
+  },
+  {
+    "id": "S0336",
+    "text": "Can I get this to go?",
+    "meaning_vi": "Cho mình mang về được không?"
+  },
+  {
+    "id": "S0337",
+    "text": "I'll just have water.",
+    "meaning_vi": "Mình uống nước lọc thôi"
+  },
+  {
+    "id": "S0338",
+    "text": "I'm lactose intolerant.",
+    "meaning_vi": "Mình không dung nạp được sữa."
+  },
+  {
+    "id": "S0339",
+    "text": "I got carried away shopping.",
+    "meaning_vi": "Mình mua sắm quá đà rồi."
+  },
+  {
+    "id": "S0340",
+    "text": "This hit the spot!",
+    "meaning_vi": "Cái này đúng ý mình luôn!"
+  },
+  {
+    "id": "S0341",
+    "text": "I need to return this.",
+    "meaning_vi": "Mình cần trả lại cái này."
+  },
+  {
+    "id": "S0343",
+    "text": "I'm waiting for a table.",
+    "meaning_vi": "Mình đang chờ bàn."
+  },
+  {
+    "id": "S0344",
+    "text": "Can we get a booth?",
+    "meaning_vi": "Mình có thể ngồi ở khu ghế riêng"
+  },
+  {
+    "id": "S0346",
+    "text": "I'll have the usual.",
+    "meaning_vi": "Cho mình món quen như mọi khi."
+  },
+  {
+    "id": "S0347",
+    "text": "What do you recommend?",
+    "meaning_vi": "Bạn gợi ý món gì?"
+  },
+  {
+    "id": "S0348",
+    "text": "Everything was perfect.",
+    "meaning_vi": "Mọi thứ đều tuyệt vời."
+  },
+  {
+    "id": "S0349",
+    "text": "I'm going back for seconds.",
+    "meaning_vi": "Mình sẽ lấy thêm nữa."
+  },
+  {
+    "id": "S0350",
+    "text": "Can we box this up?",
+    "meaning_vi": "Cho mình gói mang về nhé."
+  },
+  {
+    "id": "S0351",
+    "text": "How do I get to...?",
+    "meaning_vi": "Làm thế nào để đến...?"
+  },
+  {
+    "id": "S0352",
+    "text": "Is it within walking distance?",
+    "meaning_vi": "Đi bộ đến đó được không?"
+  },
+  {
+    "id": "S0353",
+    "text": "I think I'm lost.",
+    "meaning_vi": "Mình nghĩ mình bị lạc rồi."
+  },
+  {
+    "id": "S0354",
+    "text": "Can you drop me off here?",
+    "meaning_vi": "Bạn có thể thả mình xuống đây không?"
+  },
+  {
+    "id": "S0356",
+    "text": "My bag is overweight.",
+    "meaning_vi": "Hành lý của mình vượt cân rồi."
+  },
+  {
+    "id": "S0357",
+    "text": "Where's the nearest exit?",
+    "meaning_vi": "Lối ra gần nhất ở đâu?"
+  },
+  {
+    "id": "S0358",
+    "text": "Is this seat taken?",
+    "meaning_vi": "Ghế này có người ngồi chưa?"
+  },
+  {
+    "id": "S0359",
+    "text": "How long is the drive?",
+    "meaning_vi": "Lái xe mất bao lâu?"
+  },
+  {
+    "id": "S0360",
+    "text": "I'm jet-lagged.",
+    "meaning_vi": "Mình đang bị lệch múi giờ."
+  },
+  {
+    "id": "S0361",
+    "text": "I need a window seat.",
+    "meaning_vi": "Mình cần ghế cạnh cửa sổ."
+  },
+  {
+    "id": "S0362",
+    "text": "I travel light.",
+    "meaning_vi": "Mình hay đi du lịch với ít hành lý."
+  },
+  {
+    "id": "S0363",
+    "text": "I'm a frequent flyer.",
+    "meaning_vi": "Mình hay đi máy bay thường xuyên."
+  },
+  {
+    "id": "S0364",
+    "text": "Can I get a map?",
+    "meaning_vi": "Cho mình xin bản đồ được không?"
+  },
+  {
+    "id": "S0368",
+    "text": "Is traffic bad right now?",
+    "meaning_vi": "Giờ này kẹt xe không?"
+  },
+  {
+    "id": "S0369",
+    "text": "I'll take a cab.",
+    "meaning_vi": "Mình bắt taxi đi."
+  },
+  {
+    "id": "S0371",
+    "text": "Are you a tourist?",
+    "meaning_vi": "Bạn là khách du lịch à?"
+  },
+  {
+    "id": "S0372",
+    "text": "I'm visiting for a week.",
+    "meaning_vi": "Mình đến thăm một tuần."
+  },
+  {
+    "id": "S0373",
+    "text": "This is my first time here.",
+    "meaning_vi": "Đây là lần đầu mình đến đây."
+  },
+  {
+    "id": "S0374",
+    "text": "What time does it close?",
+    "meaning_vi": "Mấy giờ nơi đó đóng cửa?"
+  },
+  {
+    "id": "S0376",
+    "text": "My room isn't ready yet.",
+    "meaning_vi": "Phòng của mình chưa sẵn sàng."
+  },
+  {
+    "id": "S0378",
+    "text": "Where can I exchange money?",
+    "meaning_vi": "Mình có thể đổi tiền ở đâu?"
+  },
+  {
+    "id": "S0379",
+    "text": "Is the tip included?",
+    "meaning_vi": "Tiền tip đã bao gồm chưa?"
+  },
+  {
+    "id": "S0380",
+    "text": "I need to book a hotel.",
+    "meaning_vi": "Mình cần đặt khách sạn."
+  },
+  {
+    "id": "S0381",
+    "text": "It's around the corner.",
+    "meaning_vi": "Nó ở ngay góc phố kia thôi"
+  },
+  {
+    "id": "S0382",
+    "text": "Turn left at the lights.",
+    "meaning_vi": "Rẽ trái tại đèn giao thông."
+  },
+  {
+    "id": "S0383",
+    "text": "You can't miss it.",
+    "meaning_vi": "Bạn không thể không thấy đâu."
+  },
+  {
+    "id": "S0384",
+    "text": "It's about a 10-minute walk.",
+    "meaning_vi": "Đi bộ khoảng 10 phút."
+  },
+  {
+    "id": "S0385",
+    "text": "I need to refuel.",
+    "meaning_vi": "Mình cần đổ xăng."
+  },
+  {
+    "id": "S0386",
+    "text": "There's a lot of construction.",
+    "meaning_vi": "Khu vực đó đang xây dựng nhiều lắm."
+  },
+  {
+    "id": "S0387",
+    "text": "I'll GPS it.",
+    "meaning_vi": "Mình xem GPS."
+  },
+  {
+    "id": "S0388",
+    "text": "Which bus goes downtown?",
+    "meaning_vi": "Xe buýt nào đi vào trung tâm?"
+  },
+  {
+    "id": "S0390",
+    "text": "I love road trips.",
+    "meaning_vi": "Mình thích đi du lịch bằng ô tô lắm."
+  },
+  {
+    "id": "S0391",
+    "text": "I packed too much.",
+    "meaning_vi": "Mình đóng gói quá nhiều đồ rồi."
+  },
+  {
+    "id": "S0393",
+    "text": "I always get motion sickness.",
+    "meaning_vi": "Mình hay bị say xe."
+  },
+  {
+    "id": "S0394",
+    "text": "What's the local specialty?",
+    "meaning_vi": "Đặc sản địa phương là gì?"
+  },
+  {
+    "id": "S0395",
+    "text": "I love exploring new places.",
+    "meaning_vi": "Mình thích khám phá những nơi mới."
+  },
+  {
+    "id": "S0396",
+    "text": "I need travel insurance.",
+    "meaning_vi": "Mình cần bảo hiểm du lịch."
+  },
+  {
+    "id": "S0397",
+    "text": "I'm on a solo trip.",
+    "meaning_vi": "Mình đang đi du lịch một mình."
+  },
+  {
+    "id": "S0398",
+    "text": "The scenery is breathtaking.",
+    "meaning_vi": "Cảnh đẹp đến nín thở."
+  },
+  {
+    "id": "S0399",
+    "text": "I overpacked.",
+    "meaning_vi": "Mình mang theo quá nhiều đồ."
+  },
+  {
+    "id": "S0400",
+    "text": "Where's a good place to stay?",
+    "meaning_vi": "Chỗ nào ở tốt quanh đây?"
+  },
+  {
+    "id": "S0401",
+    "text": "Can you hear me now?",
+    "meaning_vi": "Bây giờ bạn nghe thấy không?"
+  },
+  {
+    "id": "S0402",
+    "text": "You're breaking up.",
+    "meaning_vi": "Bạn bị ngắt quãng rồi."
+  },
+  {
+    "id": "S0403",
+    "text": "I'll call you back.",
+    "meaning_vi": "Mình sẽ gọi lại cho bạn."
+  },
+  {
+    "id": "S0404",
+    "text": "I missed your call.",
+    "meaning_vi": "Mình nhỡ cuộc gọi của bạn."
+  },
+  {
+    "id": "S0405",
+    "text": "Let me put you on speaker.",
+    "meaning_vi": "Để mình để loa ngoài nhé."
+  },
+  {
+    "id": "S0406",
+    "text": "I'll text you the details.",
+    "meaning_vi": "Mình sẽ nhắn tin chi tiết cho bạn."
+  },
+  {
+    "id": "S0407",
+    "text": "Did you see my message?",
+    "meaning_vi": "Bạn có thấy tin nhắn của mình không?"
+  },
+  {
+    "id": "S0408",
+    "text": "Why haven't you replied?",
+    "meaning_vi": "Sao bạn chưa trả lời vậy?"
+  },
+  {
+    "id": "S0409",
+    "text": "I'll DM you.",
+    "meaning_vi": "Mình nhắn tin riêng cho bạn."
+  },
+  {
+    "id": "S0411",
+    "text": "I'm going live tonight.",
+    "meaning_vi": "Tối nay mình livestream."
+  },
+  {
+    "id": "S0413",
+    "text": "I just posted.",
+    "meaning_vi": "Mình vừa đăng bài xong."
+  },
+  {
+    "id": "S0417",
+    "text": "I'm taking a social media break.",
+    "meaning_vi": "Mình đang tạm ngưng mạng xã hội."
+  },
+  {
+    "id": "S0418",
+    "text": "That blew up overnight.",
+    "meaning_vi": "Cái đó nổi rầm chỉ sau 1 đêm."
+  },
+  {
+    "id": "S0419",
+    "text": "I unfollowed them.",
+    "meaning_vi": "Mình đã bỏ theo dõi họ rồi."
+  },
+  {
+    "id": "S0420",
+    "text": "I blocked them.",
+    "meaning_vi": "Mình đã chặn họ rồi."
+  },
+  {
+    "id": "S0422",
+    "text": "My phone died.",
+    "meaning_vi": "Điện thoại hết pin."
+  },
+  {
+    "id": "S0424",
+    "text": "Do you have WiFi?",
+    "meaning_vi": "Bạn có WiFi không?"
+  },
+  {
+    "id": "S0429",
+    "text": "I went on a phone detox.",
+    "meaning_vi": "Mình đã cai điện thoại một thời gian."
+  },
+  {
+    "id": "S0430",
+    "text": "I'm bad at replying.",
+    "meaning_vi": "Mình hay trả lời tin nhắn trễ lắm."
+  },
+  {
+    "id": "S0431",
+    "text": "I left them on read.",
+    "meaning_vi": "Mình đọc rồi nhưng không trả lời."
+  },
+  {
+    "id": "S0432",
+    "text": "That meme is so relatable.",
+    "meaning_vi": "Cái meme đó đúng với mình ghê."
+  },
+  {
+    "id": "S0434",
+    "text": "I'll hop on a call.",
+    "meaning_vi": "Mình sẽ vào cuộc gọi."
+  },
+  {
+    "id": "S0435",
+    "text": "Can we video call instead?",
+    "meaning_vi": "Mình gọi video cho tiện nhé?"
+  },
+  {
+    "id": "S0436",
+    "text": "My signal is bad here.",
+    "meaning_vi": "Chỗ này sóng yếu lắm."
+  },
+  {
+    "id": "S0437",
+    "text": "I'm not online right now.",
+    "meaning_vi": "Mình không online lúc này."
+  },
+  {
+    "id": "S0439",
+    "text": "I barely use social media.",
+    "meaning_vi": "Mình hầu như không dùng mạng xã hội."
+  },
+  {
+    "id": "S0440",
+    "text": "I spend way too much time online.",
+    "meaning_vi": "Mình dành quá nhiều thời gian online."
+  },
+  {
+    "id": "S0441",
+    "text": "I went on a digital detox.",
+    "meaning_vi": "Mình đã thử cai công nghệ một thời"
+  },
+  {
+    "id": "S0442",
+    "text": "My storage is full.",
+    "meaning_vi": "Bộ nhớ điện thoại mình đầy rồi."
+  },
+  {
+    "id": "S0443",
+    "text": "I need to update my phone.",
+    "meaning_vi": "Mình cần cập nhật điện thoại."
+  },
+  {
+    "id": "S0444",
+    "text": "Do you use WhatsApp?",
+    "meaning_vi": "Bạn dùng WhatsApp không?"
+  },
+  {
+    "id": "S0446",
+    "text": "I'll pin that.",
+    "meaning_vi": "Mình sẽ ghim cái đó lại."
+  },
+  {
+    "id": "S0447",
+    "text": "I just went live.",
+    "meaning_vi": "Mình vừa livestream xong."
+  },
+  {
+    "id": "S0448",
+    "text": "That's trending right now.",
+    "meaning_vi": "Cái đó đang trending lắm."
+  },
+  {
+    "id": "S0449",
+    "text": "I got hacked.",
+    "meaning_vi": "Mình bị hack tài khoản rồi."
+  },
+  {
+    "id": "S0450",
+    "text": "Let's stay connected.",
+    "meaning_vi": "Mình giữ liên lạc nhé."
+  },
+  {
+    "id": "S0451",
+    "text": "That's lit!",
+    "meaning_vi": "Cái đó xịn"
+  },
+  {
+    "id": "S0452",
+    "text": "Seriously.",
+    "meaning_vi": "Nghiêm túc đó."
+  },
+  {
+    "id": "S0453",
+    "text": "It's giving...",
+    "meaning_vi": "Nó mang cảm giác"
+  },
+  {
+    "id": "S0454",
+    "text": "Okay.",
+    "meaning_vi": "Ok."
+  },
+  {
+    "id": "S0455",
+    "text": "That's sus.",
+    "meaning_vi": "Cái đó đáng ngờ lắm."
+  },
+  {
+    "id": "S0456",
+    "text": "You do you.",
+    "meaning_vi": "Cứ làm theo ý bạn thôi"
+  },
+  {
+    "id": "S0457",
+    "text": "I'm dead!",
+    "meaning_vi": "Mình cười chết mất!"
+  },
+  {
+    "id": "S0458",
+    "text": "That's lowkey amazing.",
+    "meaning_vi": "Cái đó ra ngầu lắm đó."
+  },
+  {
+    "id": "S0459",
+    "text": "I'm highkey obsessed.",
+    "meaning_vi": "Mình mê cái đó lắm luôn."
+  },
+  {
+    "id": "S0460",
+    "text": "It is what it is.",
+    "meaning_vi": "Thì nó vậy rồi, chấp nhận thôi"
+  },
+  {
+    "id": "S0461",
+    "text": "She's a mood.",
+    "meaning_vi": "Cô ấy quá đúng tâm trạng"
+  },
+  {
+    "id": "S0462",
+    "text": "That's so extra.",
+    "meaning_vi": "Cái đó quá lố rồi."
+  },
+  {
+    "id": "S0463",
+    "text": "I'm shook.",
+    "meaning_vi": "Mình sốc"
+  },
+  {
+    "id": "S0464",
+    "text": "That slaps!",
+    "meaning_vi": "Cái đó hay quá"
+  },
+  {
+    "id": "S0465",
+    "text": "Don't ghost me.",
+    "meaning_vi": "Đừng mất liên lạc với mình nhé."
+  },
+  {
+    "id": "S0466",
+    "text": "They're so salty.",
+    "meaning_vi": "Họ đang cáu bẳn"
+  },
+  {
+    "id": "S0467",
+    "text": "That's a vibe.",
+    "meaning_vi": "Cái đó có cảm giác"
+  },
+  {
+    "id": "S0468",
+    "text": "I'm woke.",
+    "meaning_vi": "Mình ý thức được vấn đề xã hội."
+  },
+  {
+    "id": "S0469",
+    "text": "That's cringe.",
+    "meaning_vi": "Cái đó xấu hổ"
+  },
+  {
+    "id": "S0470",
+    "text": "She's clout chasing.",
+    "meaning_vi": "Cô ấy đang cố kiếm sự nổi tiếng."
+  },
+  {
+    "id": "S0471",
+    "text": "I got played.",
+    "meaning_vi": "Mình bị lừa rồi."
+  },
+  {
+    "id": "S0472",
+    "text": "You're goated!",
+    "meaning_vi": "Bạn là số một"
+  },
+  {
+    "id": "S0473",
+    "text": "That's fire!",
+    "meaning_vi": "Cái đó cực ngầu!"
+  },
+  {
+    "id": "S0474",
+    "text": "I'm boujee.",
+    "meaning_vi": "Mình hơi sống sang chảnh."
+  },
+  {
+    "id": "S0475",
+    "text": "She's a pick-me.",
+    "meaning_vi": "Cô ấy hay cố gắng để được chú ý."
+  },
+  {
+    "id": "S0477",
+    "text": "I'm down bad.",
+    "meaning_vi": "Mình đang mê ai đó"
+  },
+  {
+    "id": "S0478",
+    "text": "That's bussin!",
+    "meaning_vi": "Cái đó ngon"
+  },
+  {
+    "id": "S0479",
+    "text": "To be honest, I'm not sure.",
+    "meaning_vi": "Thật lòng mà nói, mình không chắc."
+  },
+  {
+    "id": "S0480",
+    "text": "That came out of nowhere.",
+    "meaning_vi": "Điều đó đến bất ngờ quá."
+  },
+  {
+    "id": "S0481",
+    "text": "That's a red flag.",
+    "meaning_vi": "Đó là dấu hiệu cảnh báo."
+  },
+  {
+    "id": "S0482",
+    "text": "She's a green flag.",
+    "meaning_vi": "Cô ấy là người tốt, đáng tin."
+  },
+  {
+    "id": "S0483",
+    "text": "I dodged a bullet.",
+    "meaning_vi": "Mình thoát khỏi tình huống nguy hiểm"
+  },
+  {
+    "id": "S0484",
+    "text": "She's toxic.",
+    "meaning_vi": "Cô ấy độc hại lắm."
+  },
+  {
+    "id": "S0485",
+    "text": "I'm in my era.",
+    "meaning_vi": "Mình đang trong giai đoạn của mình."
+  },
+  {
+    "id": "S0486",
+    "text": "That's a flex.",
+    "meaning_vi": "Đó là khoe khoang"
+  },
+  {
+    "id": "S0487",
+    "text": "He's a simp.",
+    "meaning_vi": "Anh ta quá chiều chuộng người kia."
+  },
+  {
+    "id": "S0488",
+    "text": "That's so mid.",
+    "meaning_vi": "Cái đó bình thường thôi"
+  },
+  {
+    "id": "S0489",
+    "text": "I think we understand it differently.",
+    "meaning_vi": "Mình nghĩ chúng ta hiểu khác nhau."
+  },
+  {
+    "id": "S0490",
+    "text": "I read the room wrong.",
+    "meaning_vi": "Mình đọc sai không khí rồi."
+  },
+  {
+    "id": "S0491",
+    "text": "I'm a walking red flag.",
+    "meaning_vi": "Mình tự thấy mình có nhiều vấn đề."
+  },
+  {
+    "id": "S0492",
+    "text": "She served!",
+    "meaning_vi": "Cô ấy trông đẹp"
+  },
+  {
+    "id": "S0493",
+    "text": "I'm manifesting it.",
+    "meaning_vi": "Mình đang hướng đến điều đó"
+  },
+  {
+    "id": "S0495",
+    "text": "I'm unbothered.",
+    "meaning_vi": "Mình không quan tâm"
+  },
+  {
+    "id": "S0496",
+    "text": "Main character energy.",
+    "meaning_vi": "Phong cách như nhân vật chính."
+  },
+  {
+    "id": "S0497",
+    "text": "I slept on that.",
+    "meaning_vi": "Mình đã bỏ lỡ điều đó trước đây."
+  },
+  {
+    "id": "S0498",
+    "text": "That's unhinged.",
+    "meaning_vi": "Cái đó điên quá"
+  },
+  {
+    "id": "S0499",
+    "text": "She ate that up.",
+    "meaning_vi": "Cô ấy làm điều đó xuất sắc."
+  },
+  {
+    "id": "S0500",
+    "text": "I'm not the one.",
+    "meaning_vi": "Đừng chọc tới mình"
+  },
+  {
+    "id": "S0501",
+    "text": "Let’s move on.",
+    "meaning_vi": "Mình chuyển sang chuyện khác nhé."
+  },
+  {
+    "id": "S0502",
+    "text": "What’s up?",
+    "meaning_vi": "Có gì mới?"
+  },
+  {
+    "id": "S0503",
+    "text": "Hang in there!",
+    "meaning_vi": "Cố lên nhé!"
+  },
+  {
+    "id": "S0504",
+    "text": "Fair enough.",
+    "meaning_vi": "Nghe hợp lý đó."
+  },
+  {
+    "id": "S0505",
+    "text": "I’m not gonna lie.",
+    "meaning_vi": "Thật lòng mà nói."
+  },
+  {
+    "id": "S0506",
+    "text": "We’re not on the same page.",
+    "meaning_vi": "Chúng ta chưa hiểu giống nhau."
+  },
+  {
+    "id": "S0507",
+    "text": "I’m starving.",
+    "meaning_vi": "Mình đói lắm."
+  },
+  {
+    "id": "S0508",
+    "text": "Take it easy.",
+    "meaning_vi": "Bình tĩnh thôi."
+  },
+  {
+    "id": "S0509",
+    "text": "I’m freaking out.",
+    "meaning_vi": "Mình hoảng quá."
+  }
+]

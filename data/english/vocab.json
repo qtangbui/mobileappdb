@@ -1,0 +1,10502 @@
+[
+  {
+    "id": "V0001",
+    "word": "about",
+    "pos": "preposition",
+    "ipa": "/ʌbˈaʊt/",
+    "meaning_vi": "về"
+  },
+  {
+    "id": "V0002",
+    "word": "above",
+    "pos": "preposition",
+    "ipa": "/ʌbˈʌv/",
+    "meaning_vi": "bên trên"
+  },
+  {
+    "id": "V0003",
+    "word": "accept",
+    "pos": "noun,verb",
+    "ipa": "/æksˈɛpt/",
+    "meaning_vi": "chấp nhận"
+  },
+  {
+    "id": "V0004",
+    "word": "account",
+    "pos": "noun,verb",
+    "ipa": "/ʌkˈaʊnt/",
+    "meaning_vi": "tài khoản"
+  },
+  {
+    "id": "V0005",
+    "word": "across",
+    "pos": "preposition",
+    "ipa": "/ʌkɹˈɔs/",
+    "meaning_vi": "băng qua"
+  },
+  {
+    "id": "V0006",
+    "word": "act",
+    "pos": "noun,verb",
+    "ipa": "/ˈækt/",
+    "meaning_vi": "hành động"
+  },
+  {
+    "id": "V0007",
+    "word": "action",
+    "pos": "noun",
+    "ipa": "/ˈækʃʌn/",
+    "meaning_vi": "hoạt động"
+  },
+  {
+    "id": "V0008",
+    "word": "active",
+    "pos": "adjective",
+    "ipa": "/ˈæktɪv/",
+    "meaning_vi": "tích cực"
+  },
+  {
+    "id": "V0009",
+    "word": "activity",
+    "pos": "noun",
+    "ipa": "/æktˈɪvʌti/",
+    "meaning_vi": "hoạt động"
+  },
+  {
+    "id": "V0010",
+    "word": "actually",
+    "pos": "adverb",
+    "ipa": "/ˈæktʃˌuʌli/",
+    "meaning_vi": "Thực ra"
+  },
+  {
+    "id": "V0011",
+    "word": "add",
+    "pos": "noun,verb",
+    "ipa": "/ˈæd/",
+    "meaning_vi": "thêm vào"
+  },
+  {
+    "id": "V0012",
+    "word": "address",
+    "pos": "noun,verb",
+    "ipa": "/ˈædɹˌɛs/",
+    "meaning_vi": "Địa chỉ"
+  },
+  {
+    "id": "V0013",
+    "word": "admit",
+    "pos": "noun,verb",
+    "ipa": "/ʌdmˈɪt/",
+    "meaning_vi": "thừa nhận"
+  },
+  {
+    "id": "V0014",
+    "word": "adult",
+    "pos": "noun,verb",
+    "ipa": "/ʌdˈʌlt/",
+    "meaning_vi": "người lớn"
+  },
+  {
+    "id": "V0015",
+    "word": "affect",
+    "pos": "noun,verb",
+    "ipa": "/ʌfˈɛkt/",
+    "meaning_vi": "ảnh hưởng"
+  },
+  {
+    "id": "V0016",
+    "word": "after",
+    "pos": "preposition",
+    "ipa": "/ˈæftɝ/",
+    "meaning_vi": "sau đó"
+  },
+  {
+    "id": "V0017",
+    "word": "again",
+    "pos": "noun,verb",
+    "ipa": "/ʌɡˈɛn/",
+    "meaning_vi": "lại"
+  },
+  {
+    "id": "V0018",
+    "word": "against",
+    "pos": "preposition",
+    "ipa": "/ʌɡˈɛnst/",
+    "meaning_vi": "chống lại"
+  },
+  {
+    "id": "V0019",
+    "word": "age",
+    "pos": "noun",
+    "ipa": "/ˈeɪdʒ/",
+    "meaning_vi": "tuổi"
+  },
+  {
+    "id": "V0020",
+    "word": "ago",
+    "pos": "noun,verb",
+    "ipa": "/ʌɡˈoʊ/",
+    "meaning_vi": "trước kia"
+  },
+  {
+    "id": "V0021",
+    "word": "agree",
+    "pos": "noun,verb",
+    "ipa": "/ʌɡɹˈi/",
+    "meaning_vi": "đồng ý"
+  },
+  {
+    "id": "V0022",
+    "word": "air",
+    "pos": "noun,verb",
+    "ipa": "/ˈɛɹ/",
+    "meaning_vi": "không khí"
+  },
+  {
+    "id": "V0023",
+    "word": "all",
+    "pos": "noun,verb",
+    "ipa": "/ˈɔl/",
+    "meaning_vi": "tất cả"
+  },
+  {
+    "id": "V0024",
+    "word": "allow",
+    "pos": "noun,verb",
+    "ipa": "/ʌlˈaʊ/",
+    "meaning_vi": "cho phép"
+  },
+  {
+    "id": "V0025",
+    "word": "almost",
+    "pos": "noun,verb",
+    "ipa": "/ˈɔlmˌoʊst/",
+    "meaning_vi": "hầu hết"
+  },
+  {
+    "id": "V0026",
+    "word": "alone",
+    "pos": "noun,verb",
+    "ipa": "/ʌlˈoʊn/",
+    "meaning_vi": "một mình"
+  },
+  {
+    "id": "V0027",
+    "word": "along",
+    "pos": "preposition",
+    "ipa": "/ʌlˈɔŋ/",
+    "meaning_vi": "dọc theo"
+  },
+  {
+    "id": "V0028",
+    "word": "already",
+    "pos": "adjective",
+    "ipa": "/ɔlɹˈɛdi/",
+    "meaning_vi": "đã"
+  },
+  {
+    "id": "V0029",
+    "word": "also",
+    "pos": "noun,verb",
+    "ipa": "/ˈɔlsoʊ/",
+    "meaning_vi": "Mà còn"
+  },
+  {
+    "id": "V0030",
+    "word": "although",
+    "pos": "conjunction",
+    "ipa": "/ˌɔlðˈoʊ/",
+    "meaning_vi": "mặc dù"
+  },
+  {
+    "id": "V0031",
+    "word": "always",
+    "pos": "noun,verb",
+    "ipa": "/ˈɔlwˌeɪz/",
+    "meaning_vi": "luôn luôn"
+  },
+  {
+    "id": "V0032",
+    "word": "amazing",
+    "pos": "verb,adjective",
+    "ipa": "/ʌmˈeɪzɪŋ/",
+    "meaning_vi": "tuyệt vời"
+  },
+  {
+    "id": "V0033",
+    "word": "amount",
+    "pos": "noun,verb",
+    "ipa": "/ʌmˈaʊnt/",
+    "meaning_vi": "số lượng"
+  },
+  {
+    "id": "V0034",
+    "word": "an",
+    "pos": "determiner",
+    "ipa": "/ˈæn/",
+    "meaning_vi": "MỘT"
+  },
+  {
+    "id": "V0035",
+    "word": "and",
+    "pos": "conjunction",
+    "ipa": "/ʌnd/",
+    "meaning_vi": "Và"
+  },
+  {
+    "id": "V0036",
+    "word": "anger",
+    "pos": "noun,verb",
+    "ipa": "/ˈæŋɡɝ/",
+    "meaning_vi": "sự tức giận"
+  },
+  {
+    "id": "V0037",
+    "word": "animal",
+    "pos": "adjective",
+    "ipa": "/ˈænʌmʌl/",
+    "meaning_vi": "động vật"
+  },
+  {
+    "id": "V0038",
+    "word": "answer",
+    "pos": "noun,verb",
+    "ipa": "/ˈænsɝ/",
+    "meaning_vi": "trả lời"
+  },
+  {
+    "id": "V0039",
+    "word": "any",
+    "pos": "determiner",
+    "ipa": "/ˈɛni/",
+    "meaning_vi": "bất kì"
+  },
+  {
+    "id": "V0040",
+    "word": "anyone",
+    "pos": "noun,verb",
+    "ipa": "/ˈɛniwˌʌn/",
+    "meaning_vi": "bất kỳ ai"
+  },
+  {
+    "id": "V0041",
+    "word": "anything",
+    "pos": "verb,adjective",
+    "ipa": "/ˈɛniθˌɪŋ/",
+    "meaning_vi": "bất cứ điều gì"
+  },
+  {
+    "id": "V0042",
+    "word": "appear",
+    "pos": "noun,verb",
+    "ipa": "/ʌpˈɪɹ/",
+    "meaning_vi": "xuất hiện"
+  },
+  {
+    "id": "V0043",
+    "word": "apply",
+    "pos": "adverb",
+    "ipa": "/ʌplˈaɪ/",
+    "meaning_vi": "áp dụng"
+  },
+  {
+    "id": "V0044",
+    "word": "area",
+    "pos": "noun,verb",
+    "ipa": "/ˈɛɹiʌ/",
+    "meaning_vi": "khu vực"
+  },
+  {
+    "id": "V0045",
+    "word": "argue",
+    "pos": "noun,verb",
+    "ipa": "/ˈɑɹɡju/",
+    "meaning_vi": "tranh cãi"
+  },
+  {
+    "id": "V0046",
+    "word": "arm",
+    "pos": "noun,verb",
+    "ipa": "/ˈɑɹm/",
+    "meaning_vi": "cánh tay"
+  },
+  {
+    "id": "V0047",
+    "word": "around",
+    "pos": "preposition",
+    "ipa": "/ɝˈaʊnd/",
+    "meaning_vi": "xung quanh"
+  },
+  {
+    "id": "V0048",
+    "word": "arrive",
+    "pos": "adjective",
+    "ipa": "/ɝˈaɪv/",
+    "meaning_vi": "đến"
+  },
+  {
+    "id": "V0049",
+    "word": "art",
+    "pos": "noun,verb",
+    "ipa": "/ˈɑɹt/",
+    "meaning_vi": "nghệ thuật"
+  },
+  {
+    "id": "V0050",
+    "word": "as",
+    "pos": "noun,verb",
+    "ipa": "/ˈæz/",
+    "meaning_vi": "BẰNG"
+  },
+  {
+    "id": "V0051",
+    "word": "ask",
+    "pos": "noun,verb",
+    "ipa": "/ˈæsk/",
+    "meaning_vi": "hỏi"
+  },
+  {
+    "id": "V0052",
+    "word": "at",
+    "pos": "preposition",
+    "ipa": "/ˈæt/",
+    "meaning_vi": "Tại"
+  },
+  {
+    "id": "V0053",
+    "word": "attack",
+    "pos": "noun,verb",
+    "ipa": "/ʌtˈæk/",
+    "meaning_vi": "tấn công"
+  },
+  {
+    "id": "V0054",
+    "word": "attention",
+    "pos": "noun",
+    "ipa": "/ʌtˈɛnʃʌn/",
+    "meaning_vi": "chú ý"
+  },
+  {
+    "id": "V0055",
+    "word": "aunt",
+    "pos": "noun,verb",
+    "ipa": "/ˈænt/",
+    "meaning_vi": "dì"
+  },
+  {
+    "id": "V0056",
+    "word": "autumn",
+    "pos": "noun,verb",
+    "ipa": "/ˈɔtʌm/",
+    "meaning_vi": "mùa thu"
+  },
+  {
+    "id": "V0057",
+    "word": "avoid",
+    "pos": "noun,verb",
+    "ipa": "/ʌvˈɔɪd/",
+    "meaning_vi": "tránh"
+  },
+  {
+    "id": "V0058",
+    "word": "awake",
+    "pos": "noun,verb",
+    "ipa": "/ʌwˈeɪk/",
+    "meaning_vi": "thức giấc"
+  },
+  {
+    "id": "V0059",
+    "word": "baby",
+    "pos": "adjective",
+    "ipa": "/bˈeɪbi/",
+    "meaning_vi": "Đứa bé"
+  },
+  {
+    "id": "V0060",
+    "word": "back",
+    "pos": "noun,verb",
+    "ipa": "/bˈæk/",
+    "meaning_vi": "mặt sau"
+  },
+  {
+    "id": "V0061",
+    "word": "bad",
+    "pos": "noun,verb",
+    "ipa": "/bˈæd/",
+    "meaning_vi": "xấu"
+  },
+  {
+    "id": "V0062",
+    "word": "bag",
+    "pos": "noun,verb",
+    "ipa": "/bˈæɡ/",
+    "meaning_vi": "cái túi"
+  },
+  {
+    "id": "V0063",
+    "word": "bake",
+    "pos": "noun,verb",
+    "ipa": "/bˈeɪk/",
+    "meaning_vi": "nướng"
+  },
+  {
+    "id": "V0064",
+    "word": "balcony",
+    "pos": "adjective",
+    "ipa": "/bˈælkʌni/",
+    "meaning_vi": "ban công"
+  },
+  {
+    "id": "V0065",
+    "word": "ball",
+    "pos": "noun,verb",
+    "ipa": "/bˈɔl/",
+    "meaning_vi": "quả bóng"
+  },
+  {
+    "id": "V0066",
+    "word": "band",
+    "pos": "noun,verb",
+    "ipa": "/bˈænd/",
+    "meaning_vi": "ban nhạc"
+  },
+  {
+    "id": "V0067",
+    "word": "bank",
+    "pos": "noun,verb",
+    "ipa": "/bˈæŋk/",
+    "meaning_vi": "ngân hàng"
+  },
+  {
+    "id": "V0068",
+    "word": "bar",
+    "pos": "noun,verb",
+    "ipa": "/bˈɑɹ/",
+    "meaning_vi": "thanh"
+  },
+  {
+    "id": "V0069",
+    "word": "base",
+    "pos": "noun,verb",
+    "ipa": "/bˈeɪs/",
+    "meaning_vi": "căn cứ"
+  },
+  {
+    "id": "V0070",
+    "word": "basic",
+    "pos": "adjective",
+    "ipa": "/bˈeɪsɪk/",
+    "meaning_vi": "nền tảng"
+  },
+  {
+    "id": "V0071",
+    "word": "bathroom",
+    "pos": "noun,verb",
+    "ipa": "/bˈæθɹˌum/",
+    "meaning_vi": "phòng tắm"
+  },
+  {
+    "id": "V0072",
+    "word": "be",
+    "pos": "auxiliary,verb",
+    "ipa": "/bˈi/",
+    "meaning_vi": "là"
+  },
+  {
+    "id": "V0073",
+    "word": "beach",
+    "pos": "noun,verb",
+    "ipa": "/bˈitʃ/",
+    "meaning_vi": "bãi biển"
+  },
+  {
+    "id": "V0074",
+    "word": "beat",
+    "pos": "noun,verb",
+    "ipa": "/bˈit/",
+    "meaning_vi": "tiết tấu"
+  },
+  {
+    "id": "V0075",
+    "word": "beautiful",
+    "pos": "adjective",
+    "ipa": "/bjˈutʌfʌl/",
+    "meaning_vi": "xinh đẹp"
+  },
+  {
+    "id": "V0076",
+    "word": "because",
+    "pos": "conjunction",
+    "ipa": "/bɪkˈɔz/",
+    "meaning_vi": "bởi vì"
+  },
+  {
+    "id": "V0077",
+    "word": "become",
+    "pos": "noun,verb",
+    "ipa": "/bɪkˈʌm/",
+    "meaning_vi": "trở nên"
+  },
+  {
+    "id": "V0078",
+    "word": "bed",
+    "pos": "verb,adjective",
+    "ipa": "/bˈɛd/",
+    "meaning_vi": "giường"
+  },
+  {
+    "id": "V0079",
+    "word": "bedroom",
+    "pos": "noun,verb",
+    "ipa": "/bˈɛdɹˌum/",
+    "meaning_vi": "phòng ngủ"
+  },
+  {
+    "id": "V0080",
+    "word": "before",
+    "pos": "preposition",
+    "ipa": "/bɪfˈɔɹ/",
+    "meaning_vi": "trước"
+  },
+  {
+    "id": "V0081",
+    "word": "begin",
+    "pos": "noun,verb",
+    "ipa": "/bɪɡˈɪn/",
+    "meaning_vi": "bắt đầu"
+  },
+  {
+    "id": "V0082",
+    "word": "behave",
+    "pos": "noun,verb",
+    "ipa": "/bɪhˈeɪv/",
+    "meaning_vi": "ứng xử"
+  },
+  {
+    "id": "V0083",
+    "word": "behind",
+    "pos": "preposition",
+    "ipa": "/bɪhˈaɪnd/",
+    "meaning_vi": "phía sau"
+  },
+  {
+    "id": "V0084",
+    "word": "believe",
+    "pos": "noun,verb",
+    "ipa": "/bɪlˈiv/",
+    "meaning_vi": "tin tưởng"
+  },
+  {
+    "id": "V0085",
+    "word": "bell",
+    "pos": "noun,verb",
+    "ipa": "/bˈɛl/",
+    "meaning_vi": "chuông"
+  },
+  {
+    "id": "V0086",
+    "word": "below",
+    "pos": "preposition",
+    "ipa": "/bɪlˈoʊ/",
+    "meaning_vi": "dưới"
+  },
+  {
+    "id": "V0087",
+    "word": "belt",
+    "pos": "noun,verb",
+    "ipa": "/bˈɛlt/",
+    "meaning_vi": "thắt lưng"
+  },
+  {
+    "id": "V0088",
+    "word": "best",
+    "pos": "noun,verb",
+    "ipa": "/bˈɛst/",
+    "meaning_vi": "tốt nhất"
+  },
+  {
+    "id": "V0089",
+    "word": "better",
+    "pos": "noun,verb",
+    "ipa": "/bˈɛtɝ/",
+    "meaning_vi": "tốt hơn"
+  },
+  {
+    "id": "V0090",
+    "word": "between",
+    "pos": "preposition",
+    "ipa": "/bɪtwˈin/",
+    "meaning_vi": "giữa"
+  },
+  {
+    "id": "V0091",
+    "word": "beyond",
+    "pos": "preposition",
+    "ipa": "/bɪˈɑnd/",
+    "meaning_vi": "vượt ra"
+  },
+  {
+    "id": "V0092",
+    "word": "big",
+    "pos": "noun,verb",
+    "ipa": "/bˈɪɡ/",
+    "meaning_vi": "to lớn"
+  },
+  {
+    "id": "V0093",
+    "word": "bike",
+    "pos": "noun,verb",
+    "ipa": "/bˈaɪk/",
+    "meaning_vi": "xe đạp"
+  },
+  {
+    "id": "V0094",
+    "word": "bill",
+    "pos": "noun,verb",
+    "ipa": "/bˈɪl/",
+    "meaning_vi": "hóa đơn"
+  },
+  {
+    "id": "V0095",
+    "word": "bird",
+    "pos": "noun,verb",
+    "ipa": "/bˈɝd/",
+    "meaning_vi": "chim"
+  },
+  {
+    "id": "V0096",
+    "word": "birthday",
+    "pos": "adjective",
+    "ipa": "/bˈɝθdˌeɪ/",
+    "meaning_vi": "sinh nhật"
+  },
+  {
+    "id": "V0097",
+    "word": "bit",
+    "pos": "noun,verb",
+    "ipa": "/bˈɪt/",
+    "meaning_vi": "chút"
+  },
+  {
+    "id": "V0098",
+    "word": "black",
+    "pos": "noun,verb",
+    "ipa": "/blˈæk/",
+    "meaning_vi": "đen"
+  },
+  {
+    "id": "V0099",
+    "word": "blind",
+    "pos": "noun,verb",
+    "ipa": "/blˈaɪnd/",
+    "meaning_vi": "mù"
+  },
+  {
+    "id": "V0100",
+    "word": "block",
+    "pos": "noun,verb",
+    "ipa": "/blˈɑk/",
+    "meaning_vi": "khối"
+  },
+  {
+    "id": "V0101",
+    "word": "blood",
+    "pos": "noun,verb",
+    "ipa": "/blˈʌd/",
+    "meaning_vi": "máu"
+  },
+  {
+    "id": "V0102",
+    "word": "blue",
+    "pos": "noun,verb",
+    "ipa": "/blˈu/",
+    "meaning_vi": "màu xanh da trời"
+  },
+  {
+    "id": "V0103",
+    "word": "board",
+    "pos": "noun,verb",
+    "ipa": "/bˈɔɹd/",
+    "meaning_vi": "Cái bảng"
+  },
+  {
+    "id": "V0104",
+    "word": "boat",
+    "pos": "noun,verb",
+    "ipa": "/bˈoʊt/",
+    "meaning_vi": "thuyền"
+  },
+  {
+    "id": "V0105",
+    "word": "body",
+    "pos": "adjective",
+    "ipa": "/bˈɑdi/",
+    "meaning_vi": "thân hình"
+  },
+  {
+    "id": "V0106",
+    "word": "book",
+    "pos": "noun,verb",
+    "ipa": "/bˈʊk/",
+    "meaning_vi": "sách"
+  },
+  {
+    "id": "V0107",
+    "word": "boot",
+    "pos": "noun,verb",
+    "ipa": "/bˈut/",
+    "meaning_vi": "khởi động"
+  },
+  {
+    "id": "V0108",
+    "word": "both",
+    "pos": "noun,verb",
+    "ipa": "/bˈoʊθ/",
+    "meaning_vi": "cả hai"
+  },
+  {
+    "id": "V0109",
+    "word": "bottle",
+    "pos": "noun,verb",
+    "ipa": "/bˈɑtʌl/",
+    "meaning_vi": "cái chai"
+  },
+  {
+    "id": "V0110",
+    "word": "bottom",
+    "pos": "noun,verb",
+    "ipa": "/bˈɑtʌm/",
+    "meaning_vi": "đáy"
+  },
+  {
+    "id": "V0111",
+    "word": "box",
+    "pos": "noun,verb",
+    "ipa": "/bˈɑks/",
+    "meaning_vi": "hộp"
+  },
+  {
+    "id": "V0112",
+    "word": "boy",
+    "pos": "adjective",
+    "ipa": "/bˈɔɪ/",
+    "meaning_vi": "con trai"
+  },
+  {
+    "id": "V0113",
+    "word": "brain",
+    "pos": "noun,verb",
+    "ipa": "/bɹˈeɪn/",
+    "meaning_vi": "não"
+  },
+  {
+    "id": "V0114",
+    "word": "branch",
+    "pos": "noun,verb",
+    "ipa": "/bɹˈæntʃ/",
+    "meaning_vi": "chi nhánh"
+  },
+  {
+    "id": "V0115",
+    "word": "bread",
+    "pos": "noun,verb",
+    "ipa": "/bɹˈɛd/",
+    "meaning_vi": "bánh mỳ"
+  },
+  {
+    "id": "V0116",
+    "word": "break",
+    "pos": "noun,verb",
+    "ipa": "/bɹˈeɪk/",
+    "meaning_vi": "phá vỡ"
+  },
+  {
+    "id": "V0117",
+    "word": "breakfast",
+    "pos": "noun,verb",
+    "ipa": "/bɹˈɛkfʌst/",
+    "meaning_vi": "bữa sáng"
+  },
+  {
+    "id": "V0118",
+    "word": "breathe",
+    "pos": "noun,verb",
+    "ipa": "/bɹˈið/",
+    "meaning_vi": "thở"
+  },
+  {
+    "id": "V0119",
+    "word": "bridge",
+    "pos": "noun,verb",
+    "ipa": "/bɹˈɪdʒ/",
+    "meaning_vi": "cầu"
+  },
+  {
+    "id": "V0120",
+    "word": "bring",
+    "pos": "verb,adjective",
+    "ipa": "/bɹˈɪŋ/",
+    "meaning_vi": "mang"
+  },
+  {
+    "id": "V0121",
+    "word": "brother",
+    "pos": "noun,verb",
+    "ipa": "/bɹˈʌðɝ/",
+    "meaning_vi": "anh trai"
+  },
+  {
+    "id": "V0122",
+    "word": "brown",
+    "pos": "noun,verb",
+    "ipa": "/bɹˈaʊn/",
+    "meaning_vi": "màu nâu"
+  },
+  {
+    "id": "V0123",
+    "word": "build",
+    "pos": "noun,verb",
+    "ipa": "/bˈɪld/",
+    "meaning_vi": "xây dựng"
+  },
+  {
+    "id": "V0124",
+    "word": "builder",
+    "pos": "noun,verb",
+    "ipa": "/bˈɪldɝ/",
+    "meaning_vi": "thợ xây"
+  },
+  {
+    "id": "V0125",
+    "word": "bus",
+    "pos": "noun,verb",
+    "ipa": "/bˈʌs/",
+    "meaning_vi": "xe buýt"
+  },
+  {
+    "id": "V0126",
+    "word": "business",
+    "pos": "noun",
+    "ipa": "/bˈɪznʌs/",
+    "meaning_vi": "việc kinh doanh"
+  },
+  {
+    "id": "V0127",
+    "word": "busy",
+    "pos": "adjective",
+    "ipa": "/bˈɪzi/",
+    "meaning_vi": "bận"
+  },
+  {
+    "id": "V0128",
+    "word": "but",
+    "pos": "conjunction",
+    "ipa": "/bˈʌt/",
+    "meaning_vi": "Nhưng"
+  },
+  {
+    "id": "V0129",
+    "word": "buy",
+    "pos": "adjective",
+    "ipa": "/bˈaɪ/",
+    "meaning_vi": "mua"
+  },
+  {
+    "id": "V0130",
+    "word": "by",
+    "pos": "preposition",
+    "ipa": "/bˈaɪ/",
+    "meaning_vi": "qua"
+  },
+  {
+    "id": "V0131",
+    "word": "call",
+    "pos": "noun,verb",
+    "ipa": "/kˈɔl/",
+    "meaning_vi": "gọi"
+  },
+  {
+    "id": "V0132",
+    "word": "calm",
+    "pos": "noun,verb",
+    "ipa": "/kˈɑm/",
+    "meaning_vi": "điềm tĩnh"
+  },
+  {
+    "id": "V0133",
+    "word": "camera",
+    "pos": "noun,verb",
+    "ipa": "/kˈæmɝʌ/",
+    "meaning_vi": "máy ảnh"
+  },
+  {
+    "id": "V0134",
+    "word": "can",
+    "pos": "auxiliary,verb",
+    "ipa": "/kˈæn/",
+    "meaning_vi": "Có thể"
+  },
+  {
+    "id": "V0135",
+    "word": "cancel",
+    "pos": "noun,verb",
+    "ipa": "/kˈænsʌl/",
+    "meaning_vi": "Hủy bỏ"
+  },
+  {
+    "id": "V0136",
+    "word": "cancer",
+    "pos": "noun,verb",
+    "ipa": "/kˈænsɝ/",
+    "meaning_vi": "bệnh ung thư"
+  },
+  {
+    "id": "V0137",
+    "word": "candidate",
+    "pos": "noun,verb",
+    "ipa": "/kˈændʌdeɪt/",
+    "meaning_vi": "ứng viên"
+  },
+  {
+    "id": "V0138",
+    "word": "cap",
+    "pos": "noun,verb",
+    "ipa": "/kˈæp/",
+    "meaning_vi": "mũ"
+  },
+  {
+    "id": "V0139",
+    "word": "car",
+    "pos": "noun,verb",
+    "ipa": "/kˈɑɹ/",
+    "meaning_vi": "xe hơi"
+  },
+  {
+    "id": "V0140",
+    "word": "card",
+    "pos": "noun,verb",
+    "ipa": "/kˈɑɹd/",
+    "meaning_vi": "thẻ"
+  },
+  {
+    "id": "V0141",
+    "word": "care",
+    "pos": "noun,verb",
+    "ipa": "/kˈɛɹ/",
+    "meaning_vi": "chăm sóc"
+  },
+  {
+    "id": "V0142",
+    "word": "careful",
+    "pos": "adjective",
+    "ipa": "/kˈɛɹfʌl/",
+    "meaning_vi": "cẩn thận"
+  },
+  {
+    "id": "V0143",
+    "word": "carry",
+    "pos": "adjective",
+    "ipa": "/kˈæɹi/",
+    "meaning_vi": "mang"
+  },
+  {
+    "id": "V0144",
+    "word": "case",
+    "pos": "noun,verb",
+    "ipa": "/kˈeɪs/",
+    "meaning_vi": "trường hợp"
+  },
+  {
+    "id": "V0145",
+    "word": "cash",
+    "pos": "noun,verb",
+    "ipa": "/kˈæʃ/",
+    "meaning_vi": "tiền mặt"
+  },
+  {
+    "id": "V0146",
+    "word": "cat",
+    "pos": "noun,verb",
+    "ipa": "/kˈæt/",
+    "meaning_vi": "con mèo"
+  },
+  {
+    "id": "V0147",
+    "word": "catch",
+    "pos": "noun,verb",
+    "ipa": "/kˈætʃ/",
+    "meaning_vi": "nắm lấy"
+  },
+  {
+    "id": "V0148",
+    "word": "cause",
+    "pos": "noun,verb",
+    "ipa": "/kˈɑz/",
+    "meaning_vi": "gây ra"
+  },
+  {
+    "id": "V0149",
+    "word": "ceiling",
+    "pos": "verb,adjective",
+    "ipa": "/sˈilɪŋ/",
+    "meaning_vi": "trần nhà"
+  },
+  {
+    "id": "V0150",
+    "word": "celebrate",
+    "pos": "noun,verb",
+    "ipa": "/sˈɛlʌbɹˌeɪt/",
+    "meaning_vi": "kỉ niệm"
+  },
+  {
+    "id": "V0151",
+    "word": "cell",
+    "pos": "noun,verb",
+    "ipa": "/sˈɛl/",
+    "meaning_vi": "tế bào"
+  },
+  {
+    "id": "V0152",
+    "word": "center",
+    "pos": "noun,verb",
+    "ipa": "/sˈɛntɝ/",
+    "meaning_vi": "trung tâm"
+  },
+  {
+    "id": "V0153",
+    "word": "century",
+    "pos": "adjective",
+    "ipa": "/sˈɛntʃɝi/",
+    "meaning_vi": "thế kỷ"
+  },
+  {
+    "id": "V0154",
+    "word": "chair",
+    "pos": "noun,verb",
+    "ipa": "/tʃˈɛɹ/",
+    "meaning_vi": "ghế"
+  },
+  {
+    "id": "V0155",
+    "word": "chance",
+    "pos": "noun",
+    "ipa": "/tʃˈæns/",
+    "meaning_vi": "cơ hội"
+  },
+  {
+    "id": "V0156",
+    "word": "change",
+    "pos": "noun,verb",
+    "ipa": "/tʃˈeɪndʒ/",
+    "meaning_vi": "thay đổi"
+  },
+  {
+    "id": "V0157",
+    "word": "cheap",
+    "pos": "noun,verb",
+    "ipa": "/tʃˈip/",
+    "meaning_vi": "rẻ"
+  },
+  {
+    "id": "V0158",
+    "word": "check",
+    "pos": "noun,verb",
+    "ipa": "/tʃˈɛk/",
+    "meaning_vi": "kiểm tra"
+  },
+  {
+    "id": "V0159",
+    "word": "cheek",
+    "pos": "noun,verb",
+    "ipa": "/tʃˈik/",
+    "meaning_vi": "má"
+  },
+  {
+    "id": "V0160",
+    "word": "cheese",
+    "pos": "noun,verb",
+    "ipa": "/tʃˈiz/",
+    "meaning_vi": "phô mai"
+  },
+  {
+    "id": "V0161",
+    "word": "chef",
+    "pos": "noun,verb",
+    "ipa": "/ʃˈɛf/",
+    "meaning_vi": "đầu bếp"
+  },
+  {
+    "id": "V0162",
+    "word": "child",
+    "pos": "noun,verb",
+    "ipa": "/tʃˈaɪld/",
+    "meaning_vi": "đứa trẻ"
+  },
+  {
+    "id": "V0163",
+    "word": "children",
+    "pos": "verb",
+    "ipa": "/tʃˈɪldɹʌn/",
+    "meaning_vi": "những đứa trẻ"
+  },
+  {
+    "id": "V0164",
+    "word": "choose",
+    "pos": "noun,verb",
+    "ipa": "/tʃˈuz/",
+    "meaning_vi": "chọn"
+  },
+  {
+    "id": "V0165",
+    "word": "church",
+    "pos": "noun,verb",
+    "ipa": "/tʃˈɝtʃ/",
+    "meaning_vi": "nhà thờ"
+  },
+  {
+    "id": "V0166",
+    "word": "city",
+    "pos": "noun",
+    "ipa": "/sˈɪti/",
+    "meaning_vi": "thành phố"
+  },
+  {
+    "id": "V0167",
+    "word": "class",
+    "pos": "noun,verb",
+    "ipa": "/klˈæs/",
+    "meaning_vi": "lớp học"
+  },
+  {
+    "id": "V0168",
+    "word": "clean",
+    "pos": "noun,verb",
+    "ipa": "/klˈin/",
+    "meaning_vi": "lau dọn"
+  },
+  {
+    "id": "V0169",
+    "word": "clear",
+    "pos": "noun,verb",
+    "ipa": "/klˈɪɹ/",
+    "meaning_vi": "thông thoáng"
+  },
+  {
+    "id": "V0170",
+    "word": "climb",
+    "pos": "noun,verb",
+    "ipa": "/klˈaɪm/",
+    "meaning_vi": "leo"
+  },
+  {
+    "id": "V0171",
+    "word": "clock",
+    "pos": "noun,verb",
+    "ipa": "/klˈɑk/",
+    "meaning_vi": "cái đồng hồ"
+  },
+  {
+    "id": "V0172",
+    "word": "close",
+    "pos": "noun,verb",
+    "ipa": "/klˈoʊs/",
+    "meaning_vi": "đóng"
+  },
+  {
+    "id": "V0173",
+    "word": "clothes",
+    "pos": "noun,verb",
+    "ipa": "/klˈoʊðz/",
+    "meaning_vi": "quần áo"
+  },
+  {
+    "id": "V0174",
+    "word": "cloudy",
+    "pos": "adjective",
+    "ipa": "/klˈaʊdi/",
+    "meaning_vi": "nhiều mây"
+  },
+  {
+    "id": "V0175",
+    "word": "club",
+    "pos": "noun,verb",
+    "ipa": "/klˈʌb/",
+    "meaning_vi": "câu lạc bộ"
+  },
+  {
+    "id": "V0176",
+    "word": "coach",
+    "pos": "noun,verb",
+    "ipa": "/kˈoʊtʃ/",
+    "meaning_vi": "huấn luyện viên"
+  },
+  {
+    "id": "V0177",
+    "word": "cold",
+    "pos": "noun,verb",
+    "ipa": "/kˈoʊld/",
+    "meaning_vi": "lạnh lẽo"
+  },
+  {
+    "id": "V0178",
+    "word": "collect",
+    "pos": "noun,verb",
+    "ipa": "/kʌlˈɛkt/",
+    "meaning_vi": "sưu tầm"
+  },
+  {
+    "id": "V0179",
+    "word": "color",
+    "pos": "noun,verb",
+    "ipa": "/kˈʌlɝ/",
+    "meaning_vi": "màu sắc"
+  },
+  {
+    "id": "V0180",
+    "word": "come",
+    "pos": "noun,verb",
+    "ipa": "/kˈʌm/",
+    "meaning_vi": "đến"
+  },
+  {
+    "id": "V0181",
+    "word": "comfort",
+    "pos": "noun,verb",
+    "ipa": "/kˈʌmfɝt/",
+    "meaning_vi": "an ủi"
+  },
+  {
+    "id": "V0182",
+    "word": "common",
+    "pos": "noun,verb",
+    "ipa": "/kˈɑmʌn/",
+    "meaning_vi": "chung"
+  },
+  {
+    "id": "V0183",
+    "word": "company",
+    "pos": "adjective",
+    "ipa": "/kˈʌmpʌnˌi/",
+    "meaning_vi": "công ty"
+  },
+  {
+    "id": "V0184",
+    "word": "compare",
+    "pos": "noun,verb",
+    "ipa": "/kʌmpˈɛɹ/",
+    "meaning_vi": "so sánh"
+  },
+  {
+    "id": "V0185",
+    "word": "complete",
+    "pos": "noun,verb",
+    "ipa": "/kʌmplˈit/",
+    "meaning_vi": "hoàn thành"
+  },
+  {
+    "id": "V0186",
+    "word": "computer",
+    "pos": "noun,verb",
+    "ipa": "/kʌmpjˈutɝ/",
+    "meaning_vi": "máy tính"
+  },
+  {
+    "id": "V0187",
+    "word": "confirm",
+    "pos": "noun,verb",
+    "ipa": "/kʌnfˈɝm/",
+    "meaning_vi": "xác nhận"
+  },
+  {
+    "id": "V0188",
+    "word": "connect",
+    "pos": "noun,verb",
+    "ipa": "/kʌnˈɛkt/",
+    "meaning_vi": "kết nối"
+  },
+  {
+    "id": "V0189",
+    "word": "consider",
+    "pos": "noun,verb",
+    "ipa": "/kʌnsˈɪdɝ/",
+    "meaning_vi": "coi như"
+  },
+  {
+    "id": "V0190",
+    "word": "control",
+    "pos": "noun,verb",
+    "ipa": "/kʌntɹˈoʊl/",
+    "meaning_vi": "điều khiển"
+  },
+  {
+    "id": "V0191",
+    "word": "cook",
+    "pos": "noun,verb",
+    "ipa": "/kˈʊk/",
+    "meaning_vi": "đầu bếp"
+  },
+  {
+    "id": "V0192",
+    "word": "cookie",
+    "pos": "noun,verb",
+    "ipa": "/kˈʊki/",
+    "meaning_vi": "bánh quy"
+  },
+  {
+    "id": "V0193",
+    "word": "cool",
+    "pos": "noun,verb",
+    "ipa": "/kˈul/",
+    "meaning_vi": "mát mẻ"
+  },
+  {
+    "id": "V0194",
+    "word": "copy",
+    "pos": "adjective",
+    "ipa": "/kˈɑpi/",
+    "meaning_vi": "bản sao"
+  },
+  {
+    "id": "V0195",
+    "word": "corner",
+    "pos": "noun,verb",
+    "ipa": "/kˈɔɹnɝ/",
+    "meaning_vi": "góc"
+  },
+  {
+    "id": "V0196",
+    "word": "correct",
+    "pos": "noun,verb",
+    "ipa": "/kɝˈɛkt/",
+    "meaning_vi": "Chính xác"
+  },
+  {
+    "id": "V0197",
+    "word": "cost",
+    "pos": "noun,verb",
+    "ipa": "/kˈɑst/",
+    "meaning_vi": "trị giá"
+  },
+  {
+    "id": "V0198",
+    "word": "could",
+    "pos": "auxiliary,verb",
+    "ipa": "/kˈʊd/",
+    "meaning_vi": "có thể"
+  },
+  {
+    "id": "V0199",
+    "word": "count",
+    "pos": "noun,verb",
+    "ipa": "/kˈaʊnt/",
+    "meaning_vi": "đếm"
+  },
+  {
+    "id": "V0200",
+    "word": "country",
+    "pos": "adjective",
+    "ipa": "/kˈʌntɹi/",
+    "meaning_vi": "quốc gia"
+  },
+  {
+    "id": "V0201",
+    "word": "couple",
+    "pos": "noun,verb",
+    "ipa": "/kˈʌpʌl/",
+    "meaning_vi": "cặp đôi"
+  },
+  {
+    "id": "V0202",
+    "word": "course",
+    "pos": "noun,verb",
+    "ipa": "/kˈɔɹs/",
+    "meaning_vi": "khóa học"
+  },
+  {
+    "id": "V0203",
+    "word": "cover",
+    "pos": "noun,verb",
+    "ipa": "/kˈʌvɝ/",
+    "meaning_vi": "che phủ"
+  },
+  {
+    "id": "V0204",
+    "word": "create",
+    "pos": "noun,verb",
+    "ipa": "/kɹiˈeɪt/",
+    "meaning_vi": "tạo nên"
+  },
+  {
+    "id": "V0205",
+    "word": "creative",
+    "pos": "adjective",
+    "ipa": "/kɹiˈeɪtɪv/",
+    "meaning_vi": "sáng tạo"
+  },
+  {
+    "id": "V0206",
+    "word": "credit",
+    "pos": "noun,verb",
+    "ipa": "/kɹˈɛdʌt/",
+    "meaning_vi": "tín dụng"
+  },
+  {
+    "id": "V0207",
+    "word": "crew",
+    "pos": "noun,verb",
+    "ipa": "/kɹˈu/",
+    "meaning_vi": "phi hành đoàn"
+  },
+  {
+    "id": "V0208",
+    "word": "crime",
+    "pos": "noun,verb",
+    "ipa": "/kɹˈaɪm/",
+    "meaning_vi": "tội phạm"
+  },
+  {
+    "id": "V0209",
+    "word": "cross",
+    "pos": "noun,verb",
+    "ipa": "/kɹˈɔs/",
+    "meaning_vi": "đi qua"
+  },
+  {
+    "id": "V0210",
+    "word": "crowd",
+    "pos": "noun,verb",
+    "ipa": "/kɹˈaʊd/",
+    "meaning_vi": "đám đông"
+  },
+  {
+    "id": "V0211",
+    "word": "cry",
+    "pos": "adjective",
+    "ipa": "/kɹˈaɪ/",
+    "meaning_vi": "khóc"
+  },
+  {
+    "id": "V0212",
+    "word": "cup",
+    "pos": "noun,verb",
+    "ipa": "/kˈʌp/",
+    "meaning_vi": "tách"
+  },
+  {
+    "id": "V0213",
+    "word": "cut",
+    "pos": "noun,verb",
+    "ipa": "/kˈʌt/",
+    "meaning_vi": "cắt"
+  },
+  {
+    "id": "V0214",
+    "word": "cute",
+    "pos": "noun,verb",
+    "ipa": "/kjˈut/",
+    "meaning_vi": "dễ thương"
+  },
+  {
+    "id": "V0215",
+    "word": "dad",
+    "pos": "noun,verb",
+    "ipa": "/dˈæd/",
+    "meaning_vi": "bố"
+  },
+  {
+    "id": "V0216",
+    "word": "daily",
+    "pos": "adverb",
+    "ipa": "/dˈeɪli/",
+    "meaning_vi": "hằng ngày"
+  },
+  {
+    "id": "V0217",
+    "word": "damage",
+    "pos": "noun",
+    "ipa": "/dˈæmʌdʒ/",
+    "meaning_vi": "hư hại"
+  },
+  {
+    "id": "V0218",
+    "word": "dance",
+    "pos": "noun",
+    "ipa": "/dˈæns/",
+    "meaning_vi": "nhảy"
+  },
+  {
+    "id": "V0219",
+    "word": "danger",
+    "pos": "noun,verb",
+    "ipa": "/dˈeɪndʒɝ/",
+    "meaning_vi": "sự nguy hiểm"
+  },
+  {
+    "id": "V0220",
+    "word": "dark",
+    "pos": "noun,verb",
+    "ipa": "/dˈɑɹk/",
+    "meaning_vi": "tối tăm"
+  },
+  {
+    "id": "V0221",
+    "word": "daughter",
+    "pos": "noun,verb",
+    "ipa": "/dˈɔtɝ/",
+    "meaning_vi": "con gái"
+  },
+  {
+    "id": "V0222",
+    "word": "day",
+    "pos": "adjective",
+    "ipa": "/dˈeɪ/",
+    "meaning_vi": "ngày"
+  },
+  {
+    "id": "V0223",
+    "word": "dead",
+    "pos": "noun,verb",
+    "ipa": "/dˈɛd/",
+    "meaning_vi": "chết"
+  },
+  {
+    "id": "V0224",
+    "word": "deal",
+    "pos": "adjective",
+    "ipa": "/dˈil/",
+    "meaning_vi": "thỏa thuận"
+  },
+  {
+    "id": "V0225",
+    "word": "dear",
+    "pos": "noun,verb",
+    "ipa": "/dˈɪɹ/",
+    "meaning_vi": "Thân mến"
+  },
+  {
+    "id": "V0226",
+    "word": "decide",
+    "pos": "noun,verb",
+    "ipa": "/dˌɪsˈaɪd/",
+    "meaning_vi": "quyết định"
+  },
+  {
+    "id": "V0227",
+    "word": "decision",
+    "pos": "noun",
+    "ipa": "/dɪsˈɪʒʌn/",
+    "meaning_vi": "phán quyết"
+  },
+  {
+    "id": "V0228",
+    "word": "deep",
+    "pos": "noun,verb",
+    "ipa": "/dˈip/",
+    "meaning_vi": "sâu"
+  },
+  {
+    "id": "V0229",
+    "word": "degree",
+    "pos": "noun,verb",
+    "ipa": "/dɪɡɹˈi/",
+    "meaning_vi": "bằng cấp"
+  },
+  {
+    "id": "V0230",
+    "word": "deliver",
+    "pos": "noun,verb",
+    "ipa": "/dɪlˈɪvɝ/",
+    "meaning_vi": "giao"
+  },
+  {
+    "id": "V0231",
+    "word": "dentist",
+    "pos": "noun",
+    "ipa": "/dˈɛntʌst/",
+    "meaning_vi": "nha sĩ"
+  },
+  {
+    "id": "V0232",
+    "word": "depend",
+    "pos": "noun,verb",
+    "ipa": "/dɪpˈɛnd/",
+    "meaning_vi": "phụ thuộc"
+  },
+  {
+    "id": "V0233",
+    "word": "describe",
+    "pos": "noun,verb",
+    "ipa": "/dɪskɹˈaɪb/",
+    "meaning_vi": "mô tả"
+  },
+  {
+    "id": "V0234",
+    "word": "desert",
+    "pos": "noun,verb",
+    "ipa": "/dˈɛzɝt/",
+    "meaning_vi": "sa mạc"
+  },
+  {
+    "id": "V0235",
+    "word": "design",
+    "pos": "noun,verb",
+    "ipa": "/dɪzˈaɪn/",
+    "meaning_vi": "thiết kế"
+  },
+  {
+    "id": "V0236",
+    "word": "desk",
+    "pos": "noun,verb",
+    "ipa": "/dˈɛsk/",
+    "meaning_vi": "bàn làm việc"
+  },
+  {
+    "id": "V0237",
+    "word": "detail",
+    "pos": "noun,verb",
+    "ipa": "/dɪtˈeɪl/",
+    "meaning_vi": "chi tiết"
+  },
+  {
+    "id": "V0238",
+    "word": "develop",
+    "pos": "noun,verb",
+    "ipa": "/dɪvˈɛlʌp/",
+    "meaning_vi": "phát triển"
+  },
+  {
+    "id": "V0239",
+    "word": "device",
+    "pos": "noun,verb",
+    "ipa": "/dɪvˈaɪs/",
+    "meaning_vi": "thiết bị"
+  },
+  {
+    "id": "V0240",
+    "word": "diet",
+    "pos": "noun,verb",
+    "ipa": "/dˈaɪʌt/",
+    "meaning_vi": "ăn kiêng"
+  },
+  {
+    "id": "V0241",
+    "word": "different",
+    "pos": "noun,verb",
+    "ipa": "/dˈɪfɝʌnt/",
+    "meaning_vi": "khác biệt"
+  },
+  {
+    "id": "V0242",
+    "word": "difficult",
+    "pos": "noun,verb",
+    "ipa": "/dˈɪfʌkʌlt/",
+    "meaning_vi": "khó"
+  },
+  {
+    "id": "V0243",
+    "word": "dinner",
+    "pos": "noun,verb",
+    "ipa": "/dˈɪnɝ/",
+    "meaning_vi": "bữa tối"
+  },
+  {
+    "id": "V0244",
+    "word": "direction",
+    "pos": "noun",
+    "ipa": "/dɝˈɛkʃʌn/",
+    "meaning_vi": "phương hướng"
+  },
+  {
+    "id": "V0245",
+    "word": "dirty",
+    "pos": "adjective",
+    "ipa": "/dˈɝti/",
+    "meaning_vi": "bẩn thỉu"
+  },
+  {
+    "id": "V0246",
+    "word": "discover",
+    "pos": "noun,verb",
+    "ipa": "/dɪskˈʌvɝ/",
+    "meaning_vi": "phát hiện"
+  },
+  {
+    "id": "V0247",
+    "word": "discuss",
+    "pos": "noun,verb",
+    "ipa": "/dɪskˈʌs/",
+    "meaning_vi": "bàn luận"
+  },
+  {
+    "id": "V0248",
+    "word": "dish",
+    "pos": "adjective",
+    "ipa": "/dˈɪʃ/",
+    "meaning_vi": "món ăn"
+  },
+  {
+    "id": "V0249",
+    "word": "do",
+    "pos": "auxiliary,verb",
+    "ipa": "/dˈu/",
+    "meaning_vi": "LÀM"
+  },
+  {
+    "id": "V0250",
+    "word": "doctor",
+    "pos": "noun,verb",
+    "ipa": "/dˈɑktɝ/",
+    "meaning_vi": "bác sĩ"
+  },
+  {
+    "id": "V0251",
+    "word": "dog",
+    "pos": "noun,verb",
+    "ipa": "/dˈɔɡ/",
+    "meaning_vi": "chó"
+  },
+  {
+    "id": "V0252",
+    "word": "door",
+    "pos": "noun,verb",
+    "ipa": "/dˈɔɹ/",
+    "meaning_vi": "cửa"
+  },
+  {
+    "id": "V0253",
+    "word": "down",
+    "pos": "noun,verb",
+    "ipa": "/dˈaʊn/",
+    "meaning_vi": "xuống"
+  },
+  {
+    "id": "V0254",
+    "word": "draw",
+    "pos": "noun,verb",
+    "ipa": "/dɹˈɔ/",
+    "meaning_vi": "vẽ tranh"
+  },
+  {
+    "id": "V0255",
+    "word": "dream",
+    "pos": "noun,verb",
+    "ipa": "/dɹˈim/",
+    "meaning_vi": "mơ"
+  },
+  {
+    "id": "V0256",
+    "word": "dress",
+    "pos": "noun,verb",
+    "ipa": "/dɹˈɛs/",
+    "meaning_vi": "đầm"
+  },
+  {
+    "id": "V0257",
+    "word": "drink",
+    "pos": "noun,verb",
+    "ipa": "/dɹˈɪŋk/",
+    "meaning_vi": "uống"
+  },
+  {
+    "id": "V0258",
+    "word": "drive",
+    "pos": "adjective",
+    "ipa": "/dɹˈaɪv/",
+    "meaning_vi": "lái xe"
+  },
+  {
+    "id": "V0259",
+    "word": "driver",
+    "pos": "noun,verb",
+    "ipa": "/dɹˈaɪvɝ/",
+    "meaning_vi": "tài xế"
+  },
+  {
+    "id": "V0260",
+    "word": "drop",
+    "pos": "noun,verb",
+    "ipa": "/dɹˈɑp/",
+    "meaning_vi": "làm rơi"
+  },
+  {
+    "id": "V0261",
+    "word": "dry",
+    "pos": "adjective",
+    "ipa": "/dɹˈaɪ/",
+    "meaning_vi": "khô"
+  },
+  {
+    "id": "V0262",
+    "word": "during",
+    "pos": "preposition",
+    "ipa": "/dˈʊɹɪŋ/",
+    "meaning_vi": "trong lúc"
+  },
+  {
+    "id": "V0263",
+    "word": "each",
+    "pos": "determiner",
+    "ipa": "/ˈitʃ/",
+    "meaning_vi": "mỗi"
+  },
+  {
+    "id": "V0264",
+    "word": "early",
+    "pos": "adverb",
+    "ipa": "/ˈɝli/",
+    "meaning_vi": "sớm"
+  },
+  {
+    "id": "V0265",
+    "word": "earn",
+    "pos": "noun,verb",
+    "ipa": "/ˈɝn/",
+    "meaning_vi": "kiếm"
+  },
+  {
+    "id": "V0266",
+    "word": "earth",
+    "pos": "noun,verb",
+    "ipa": "/ˈɝθ/",
+    "meaning_vi": "trái đất"
+  },
+  {
+    "id": "V0267",
+    "word": "east",
+    "pos": "noun,verb",
+    "ipa": "/ˈist/",
+    "meaning_vi": "phía đông"
+  },
+  {
+    "id": "V0268",
+    "word": "easy",
+    "pos": "adjective",
+    "ipa": "/ˈizi/",
+    "meaning_vi": "dễ"
+  },
+  {
+    "id": "V0269",
+    "word": "eat",
+    "pos": "noun,verb",
+    "ipa": "/ˈit/",
+    "meaning_vi": "ăn"
+  },
+  {
+    "id": "V0270",
+    "word": "edge",
+    "pos": "noun,verb",
+    "ipa": "/ˈɛdʒ/",
+    "meaning_vi": "bờ rìa"
+  },
+  {
+    "id": "V0271",
+    "word": "educate",
+    "pos": "noun,verb",
+    "ipa": "/ˈɛdʒʌkˌeɪt/",
+    "meaning_vi": "giáo dục"
+  },
+  {
+    "id": "V0272",
+    "word": "education",
+    "pos": "noun",
+    "ipa": "/ˌɛdʒʌkˈeɪʃʌn/",
+    "meaning_vi": "giáo dục"
+  },
+  {
+    "id": "V0273",
+    "word": "effect",
+    "pos": "noun,verb",
+    "ipa": "/ɪfˈɛkt/",
+    "meaning_vi": "tác dụng"
+  },
+  {
+    "id": "V0274",
+    "word": "effort",
+    "pos": "noun,verb",
+    "ipa": "/ˈɛfɝt/",
+    "meaning_vi": "cố gắng"
+  },
+  {
+    "id": "V0275",
+    "word": "egg",
+    "pos": "noun,verb",
+    "ipa": "/ˈɛɡ/",
+    "meaning_vi": "trứng"
+  },
+  {
+    "id": "V0276",
+    "word": "eight",
+    "pos": "noun,verb",
+    "ipa": "/ˈeɪt/",
+    "meaning_vi": "tám"
+  },
+  {
+    "id": "V0277",
+    "word": "either",
+    "pos": "noun,verb",
+    "ipa": "/ˈiðɝ/",
+    "meaning_vi": "hoặc"
+  },
+  {
+    "id": "V0278",
+    "word": "end",
+    "pos": "noun,verb",
+    "ipa": "/ˈɛnd/",
+    "meaning_vi": "kết thúc"
+  },
+  {
+    "id": "V0279",
+    "word": "enjoy",
+    "pos": "adjective",
+    "ipa": "/ˌɛndʒˈɔɪ/",
+    "meaning_vi": "thưởng thức"
+  },
+  {
+    "id": "V0280",
+    "word": "enough",
+    "pos": "noun,verb",
+    "ipa": "/ɪnˈʌf/",
+    "meaning_vi": "đủ"
+  },
+  {
+    "id": "V0281",
+    "word": "enter",
+    "pos": "noun,verb",
+    "ipa": "/ˈɛntɝ/",
+    "meaning_vi": "đi vào"
+  },
+  {
+    "id": "V0282",
+    "word": "environment",
+    "pos": "noun",
+    "ipa": "/ɪnvˈaɪɹʌnmʌnt/",
+    "meaning_vi": "môi trường"
+  },
+  {
+    "id": "V0283",
+    "word": "equal",
+    "pos": "adjective",
+    "ipa": "/ˈikwʌl/",
+    "meaning_vi": "bình đẳng"
+  },
+  {
+    "id": "V0284",
+    "word": "especially",
+    "pos": "adverb",
+    "ipa": "/ʌspˈɛʃli/",
+    "meaning_vi": "đặc biệt"
+  },
+  {
+    "id": "V0285",
+    "word": "even",
+    "pos": "verb",
+    "ipa": "/ˈivɪn/",
+    "meaning_vi": "thậm chí"
+  },
+  {
+    "id": "V0286",
+    "word": "evening",
+    "pos": "verb,adjective",
+    "ipa": "/ˈivnɪŋ/",
+    "meaning_vi": "buổi tối"
+  },
+  {
+    "id": "V0287",
+    "word": "event",
+    "pos": "noun,verb",
+    "ipa": "/ɪvˈɛnt/",
+    "meaning_vi": "sự kiện"
+  },
+  {
+    "id": "V0288",
+    "word": "ever",
+    "pos": "noun,verb",
+    "ipa": "/ˈɛvɝ/",
+    "meaning_vi": "bao giờ"
+  },
+  {
+    "id": "V0289",
+    "word": "every",
+    "pos": "determiner",
+    "ipa": "/ˈɛvɝi/",
+    "meaning_vi": "mọi"
+  },
+  {
+    "id": "V0290",
+    "word": "everyone",
+    "pos": "noun,verb",
+    "ipa": "/ˈɛvɹiwˌʌn/",
+    "meaning_vi": "mọi người"
+  },
+  {
+    "id": "V0291",
+    "word": "everything",
+    "pos": "verb,adjective",
+    "ipa": "/ˈɛvɹiθˌɪŋ/",
+    "meaning_vi": "mọi thứ"
+  },
+  {
+    "id": "V0292",
+    "word": "exam",
+    "pos": "noun,verb",
+    "ipa": "/ɪɡzˈæm/",
+    "meaning_vi": "bài thi"
+  },
+  {
+    "id": "V0293",
+    "word": "example",
+    "pos": "noun,verb",
+    "ipa": "/ɪɡzˈæmpʌl/",
+    "meaning_vi": "ví dụ"
+  },
+  {
+    "id": "V0294",
+    "word": "excellent",
+    "pos": "noun,verb",
+    "ipa": "/ˈɛksʌlʌnt/",
+    "meaning_vi": "xuất sắc"
+  },
+  {
+    "id": "V0295",
+    "word": "except",
+    "pos": "preposition",
+    "ipa": "/ɪksˈɛpt/",
+    "meaning_vi": "ngoại trừ"
+  },
+  {
+    "id": "V0296",
+    "word": "excited",
+    "pos": "verb,adjective",
+    "ipa": "/ɪksˈaɪtʌd/",
+    "meaning_vi": "hào hứng"
+  },
+  {
+    "id": "V0297",
+    "word": "excuse",
+    "pos": "noun,verb",
+    "ipa": "/ɪkskjˈus/",
+    "meaning_vi": "thứ lỗi"
+  },
+  {
+    "id": "V0298",
+    "word": "exercise",
+    "pos": "verb",
+    "ipa": "/ˈɛksɝsˌaɪz/",
+    "meaning_vi": "bài tập"
+  },
+  {
+    "id": "V0299",
+    "word": "expect",
+    "pos": "noun,verb",
+    "ipa": "/ɪkspˈɛkt/",
+    "meaning_vi": "trông chờ"
+  },
+  {
+    "id": "V0300",
+    "word": "expensive",
+    "pos": "adjective",
+    "ipa": "/ɪkspˈɛnsɪv/",
+    "meaning_vi": "đắt"
+  },
+  {
+    "id": "V0301",
+    "word": "experience",
+    "pos": "noun",
+    "ipa": "/ɪkspˈɪɹiʌns/",
+    "meaning_vi": "kinh nghiệm"
+  },
+  {
+    "id": "V0302",
+    "word": "explain",
+    "pos": "noun,verb",
+    "ipa": "/ɪksplˈeɪn/",
+    "meaning_vi": "giải thích"
+  },
+  {
+    "id": "V0303",
+    "word": "eye",
+    "pos": "noun,verb",
+    "ipa": "/ˈaɪ/",
+    "meaning_vi": "mắt"
+  },
+  {
+    "id": "V0304",
+    "word": "face",
+    "pos": "noun,verb",
+    "ipa": "/fˈeɪs/",
+    "meaning_vi": "khuôn mặt"
+  },
+  {
+    "id": "V0305",
+    "word": "fact",
+    "pos": "noun,verb",
+    "ipa": "/fˈækt/",
+    "meaning_vi": "sự thật"
+  },
+  {
+    "id": "V0306",
+    "word": "fail",
+    "pos": "noun,verb",
+    "ipa": "/fˈeɪl/",
+    "meaning_vi": "thất bại"
+  },
+  {
+    "id": "V0307",
+    "word": "fall",
+    "pos": "noun,verb",
+    "ipa": "/fˈɔl/",
+    "meaning_vi": "ngã"
+  },
+  {
+    "id": "V0308",
+    "word": "family",
+    "pos": "adverb",
+    "ipa": "/fˈæmʌli/",
+    "meaning_vi": "gia đình"
+  },
+  {
+    "id": "V0309",
+    "word": "famous",
+    "pos": "adjective",
+    "ipa": "/fˈeɪmʌs/",
+    "meaning_vi": "nổi tiếng"
+  },
+  {
+    "id": "V0310",
+    "word": "far",
+    "pos": "noun,verb",
+    "ipa": "/fˈɑɹ/",
+    "meaning_vi": "xa"
+  },
+  {
+    "id": "V0311",
+    "word": "farm",
+    "pos": "noun,verb",
+    "ipa": "/fˈɑɹm/",
+    "meaning_vi": "nông trại"
+  },
+  {
+    "id": "V0312",
+    "word": "fast",
+    "pos": "noun,verb",
+    "ipa": "/fˈæst/",
+    "meaning_vi": "nhanh"
+  },
+  {
+    "id": "V0313",
+    "word": "fat",
+    "pos": "noun,verb",
+    "ipa": "/fˈæt/",
+    "meaning_vi": "mập"
+  },
+  {
+    "id": "V0314",
+    "word": "father",
+    "pos": "noun,verb",
+    "ipa": "/fˈɑðɝ/",
+    "meaning_vi": "bố"
+  },
+  {
+    "id": "V0315",
+    "word": "fear",
+    "pos": "noun,verb",
+    "ipa": "/fˈɪɹ/",
+    "meaning_vi": "nỗi sợ"
+  },
+  {
+    "id": "V0316",
+    "word": "feel",
+    "pos": "noun,verb",
+    "ipa": "/fˈil/",
+    "meaning_vi": "cảm thấy"
+  },
+  {
+    "id": "V0317",
+    "word": "feet",
+    "pos": "noun,verb",
+    "ipa": "/fˈit/",
+    "meaning_vi": "bàn chân"
+  },
+  {
+    "id": "V0318",
+    "word": "few",
+    "pos": "noun,verb",
+    "ipa": "/fjˈu/",
+    "meaning_vi": "một vài"
+  },
+  {
+    "id": "V0319",
+    "word": "field",
+    "pos": "noun,verb",
+    "ipa": "/fˈild/",
+    "meaning_vi": "cánh đồng"
+  },
+  {
+    "id": "V0320",
+    "word": "fight",
+    "pos": "noun,verb",
+    "ipa": "/fˈaɪt/",
+    "meaning_vi": "trận đánh"
+  },
+  {
+    "id": "V0321",
+    "word": "figure",
+    "pos": "noun",
+    "ipa": "/fˈɪɡjɝ/",
+    "meaning_vi": "nhân vật"
+  },
+  {
+    "id": "V0322",
+    "word": "fill",
+    "pos": "noun,verb",
+    "ipa": "/fˈɪl/",
+    "meaning_vi": "đổ đầy"
+  },
+  {
+    "id": "V0323",
+    "word": "final",
+    "pos": "adjective",
+    "ipa": "/fˈaɪnʌl/",
+    "meaning_vi": "cuối cùng"
+  },
+  {
+    "id": "V0324",
+    "word": "find",
+    "pos": "noun,verb",
+    "ipa": "/fˈaɪnd/",
+    "meaning_vi": "tìm thấy"
+  },
+  {
+    "id": "V0325",
+    "word": "fine",
+    "pos": "noun,verb",
+    "ipa": "/fˈaɪn/",
+    "meaning_vi": "khỏe"
+  },
+  {
+    "id": "V0326",
+    "word": "finger",
+    "pos": "noun,verb",
+    "ipa": "/fˈɪŋɡɝ/",
+    "meaning_vi": "ngón tay"
+  },
+  {
+    "id": "V0327",
+    "word": "finish",
+    "pos": "adjective",
+    "ipa": "/fˈɪnɪʃ/",
+    "meaning_vi": "hoàn thành"
+  },
+  {
+    "id": "V0328",
+    "word": "fire",
+    "pos": "noun,verb",
+    "ipa": "/fˈaɪɝ/",
+    "meaning_vi": "ngọn lửa"
+  },
+  {
+    "id": "V0329",
+    "word": "first",
+    "pos": "noun,verb",
+    "ipa": "/fˈɝst/",
+    "meaning_vi": "Đầu tiên"
+  },
+  {
+    "id": "V0330",
+    "word": "fish",
+    "pos": "adjective",
+    "ipa": "/fˈɪʃ/",
+    "meaning_vi": "cá"
+  },
+  {
+    "id": "V0331",
+    "word": "five",
+    "pos": "adjective",
+    "ipa": "/fˈaɪv/",
+    "meaning_vi": "năm"
+  },
+  {
+    "id": "V0332",
+    "word": "fix",
+    "pos": "noun,verb",
+    "ipa": "/fˈɪks/",
+    "meaning_vi": "sửa chữa"
+  },
+  {
+    "id": "V0333",
+    "word": "floor",
+    "pos": "noun,verb",
+    "ipa": "/flˈɔɹ/",
+    "meaning_vi": "sàn nhà"
+  },
+  {
+    "id": "V0334",
+    "word": "flower",
+    "pos": "noun,verb",
+    "ipa": "/flˈaʊɝ/",
+    "meaning_vi": "hoa"
+  },
+  {
+    "id": "V0335",
+    "word": "fly",
+    "pos": "adverb",
+    "ipa": "/flˈaɪ/",
+    "meaning_vi": "bay"
+  },
+  {
+    "id": "V0336",
+    "word": "focus",
+    "pos": "noun,verb",
+    "ipa": "/fˈoʊkʌs/",
+    "meaning_vi": "tập trung"
+  },
+  {
+    "id": "V0337",
+    "word": "follow",
+    "pos": "noun,verb",
+    "ipa": "/fˈɑloʊ/",
+    "meaning_vi": "theo"
+  },
+  {
+    "id": "V0338",
+    "word": "food",
+    "pos": "noun,verb",
+    "ipa": "/fˈud/",
+    "meaning_vi": "đồ ăn"
+  },
+  {
+    "id": "V0339",
+    "word": "foot",
+    "pos": "noun,verb",
+    "ipa": "/fˈʊt/",
+    "meaning_vi": "chân"
+  },
+  {
+    "id": "V0340",
+    "word": "for",
+    "pos": "preposition",
+    "ipa": "/fˈɔɹ/",
+    "meaning_vi": "vì"
+  },
+  {
+    "id": "V0341",
+    "word": "forfeit",
+    "pos": "noun,verb",
+    "ipa": "/fˈɔɹfɪt/",
+    "meaning_vi": "bỏ cuộc"
+  },
+  {
+    "id": "V0342",
+    "word": "forget",
+    "pos": "noun,verb",
+    "ipa": "/fɝɡˈɛt/",
+    "meaning_vi": "quên"
+  },
+  {
+    "id": "V0343",
+    "word": "form",
+    "pos": "noun,verb",
+    "ipa": "/fˈɔɹm/",
+    "meaning_vi": "hình thức"
+  },
+  {
+    "id": "V0344",
+    "word": "free",
+    "pos": "noun,verb",
+    "ipa": "/fɹˈi/",
+    "meaning_vi": "miễn phí"
+  },
+  {
+    "id": "V0345",
+    "word": "fresh",
+    "pos": "noun,verb",
+    "ipa": "/fɹˈɛʃ/",
+    "meaning_vi": "tươi"
+  },
+  {
+    "id": "V0346",
+    "word": "friend",
+    "pos": "noun,verb",
+    "ipa": "/fɹˈɛnd/",
+    "meaning_vi": "bạn bè"
+  },
+  {
+    "id": "V0347",
+    "word": "from",
+    "pos": "preposition",
+    "ipa": "/fɹˈʌm/",
+    "meaning_vi": "từ"
+  },
+  {
+    "id": "V0348",
+    "word": "front",
+    "pos": "noun,verb",
+    "ipa": "/fɹˈʌnt/",
+    "meaning_vi": "đằng trước"
+  },
+  {
+    "id": "V0349",
+    "word": "fruit",
+    "pos": "noun,verb",
+    "ipa": "/fɹˈut/",
+    "meaning_vi": "hoa quả"
+  },
+  {
+    "id": "V0350",
+    "word": "full",
+    "pos": "noun,verb",
+    "ipa": "/fˈʊl/",
+    "meaning_vi": "đầy"
+  },
+  {
+    "id": "V0351",
+    "word": "fun",
+    "pos": "noun,verb",
+    "ipa": "/fˈʌn/",
+    "meaning_vi": "vui vẻ"
+  },
+  {
+    "id": "V0352",
+    "word": "future",
+    "pos": "noun",
+    "ipa": "/fjˈutʃɝ/",
+    "meaning_vi": "tương lai"
+  },
+  {
+    "id": "V0353",
+    "word": "game",
+    "pos": "noun,verb",
+    "ipa": "/ɡˈeɪm/",
+    "meaning_vi": "trò chơi"
+  },
+  {
+    "id": "V0354",
+    "word": "garden",
+    "pos": "verb",
+    "ipa": "/ɡˈɑɹdʌn/",
+    "meaning_vi": "vườn"
+  },
+  {
+    "id": "V0355",
+    "word": "gas",
+    "pos": "noun,verb",
+    "ipa": "/ɡˈæs/",
+    "meaning_vi": "khí"
+  },
+  {
+    "id": "V0356",
+    "word": "general",
+    "pos": "adjective",
+    "ipa": "/dʒˈɛnɝʌl/",
+    "meaning_vi": "tổng quan"
+  },
+  {
+    "id": "V0357",
+    "word": "get",
+    "pos": "noun,verb",
+    "ipa": "/ɡˈɛt/",
+    "meaning_vi": "lấy"
+  },
+  {
+    "id": "V0358",
+    "word": "gift",
+    "pos": "noun,verb",
+    "ipa": "/ɡˈɪft/",
+    "meaning_vi": "quà"
+  },
+  {
+    "id": "V0359",
+    "word": "girl",
+    "pos": "noun,verb",
+    "ipa": "/ɡˈɝl/",
+    "meaning_vi": "con gái"
+  },
+  {
+    "id": "V0360",
+    "word": "give",
+    "pos": "adjective",
+    "ipa": "/ɡˈɪv/",
+    "meaning_vi": "đưa cho"
+  },
+  {
+    "id": "V0361",
+    "word": "glad",
+    "pos": "noun,verb",
+    "ipa": "/ɡlˈæd/",
+    "meaning_vi": "vui mừng"
+  },
+  {
+    "id": "V0362",
+    "word": "glass",
+    "pos": "noun,verb",
+    "ipa": "/ɡlˈæs/",
+    "meaning_vi": "thủy tinh"
+  },
+  {
+    "id": "V0363",
+    "word": "go",
+    "pos": "noun,verb",
+    "ipa": "/ɡˈoʊ/",
+    "meaning_vi": "đi"
+  },
+  {
+    "id": "V0364",
+    "word": "goal",
+    "pos": "adjective",
+    "ipa": "/ɡˈoʊl/",
+    "meaning_vi": "mục tiêu"
+  },
+  {
+    "id": "V0365",
+    "word": "good",
+    "pos": "noun,verb",
+    "ipa": "/ɡˈʊd/",
+    "meaning_vi": "Tốt"
+  },
+  {
+    "id": "V0366",
+    "word": "government",
+    "pos": "noun",
+    "ipa": "/ɡˈʌvɝmʌnt/",
+    "meaning_vi": "chính phủ"
+  },
+  {
+    "id": "V0367",
+    "word": "grade",
+    "pos": "noun,verb",
+    "ipa": "/ɡɹˈeɪd/",
+    "meaning_vi": "cấp"
+  },
+  {
+    "id": "V0368",
+    "word": "great",
+    "pos": "noun,verb",
+    "ipa": "/ɡɹˈeɪt/",
+    "meaning_vi": "Tuyệt"
+  },
+  {
+    "id": "V0369",
+    "word": "green",
+    "pos": "verb",
+    "ipa": "/ɡɹˈin/",
+    "meaning_vi": "màu xanh lá"
+  },
+  {
+    "id": "V0370",
+    "word": "ground",
+    "pos": "noun,verb",
+    "ipa": "/ɡɹˈaʊnd/",
+    "meaning_vi": "đất"
+  },
+  {
+    "id": "V0371",
+    "word": "group",
+    "pos": "noun,verb",
+    "ipa": "/ɡɹˈup/",
+    "meaning_vi": "nhóm"
+  },
+  {
+    "id": "V0372",
+    "word": "grow",
+    "pos": "noun,verb",
+    "ipa": "/ɡɹˈoʊ/",
+    "meaning_vi": "phát triển"
+  },
+  {
+    "id": "V0373",
+    "word": "guess",
+    "pos": "noun,verb",
+    "ipa": "/ɡˈɛs/",
+    "meaning_vi": "đoán"
+  },
+  {
+    "id": "V0374",
+    "word": "guest",
+    "pos": "noun,verb",
+    "ipa": "/ɡˈɛst/",
+    "meaning_vi": "khách mời"
+  },
+  {
+    "id": "V0375",
+    "word": "guide",
+    "pos": "noun,verb",
+    "ipa": "/ɡˈaɪd/",
+    "meaning_vi": "hướng dẫn"
+  },
+  {
+    "id": "V0376",
+    "word": "guilty",
+    "pos": "adjective",
+    "ipa": "/ɡˈɪlti/",
+    "meaning_vi": "tội lỗi"
+  },
+  {
+    "id": "V0377",
+    "word": "hair",
+    "pos": "noun,verb",
+    "ipa": "/hˈɛɹ/",
+    "meaning_vi": "tóc"
+  },
+  {
+    "id": "V0378",
+    "word": "half",
+    "pos": "noun,verb",
+    "ipa": "/hˈæf/",
+    "meaning_vi": "một nửa"
+  },
+  {
+    "id": "V0379",
+    "word": "hall",
+    "pos": "noun,verb",
+    "ipa": "/hˈɔl/",
+    "meaning_vi": "sảnh"
+  },
+  {
+    "id": "V0380",
+    "word": "hand",
+    "pos": "noun,verb",
+    "ipa": "/hˈænd/",
+    "meaning_vi": "tay"
+  },
+  {
+    "id": "V0381",
+    "word": "happen",
+    "pos": "verb",
+    "ipa": "/hˈæpʌn/",
+    "meaning_vi": "xảy ra"
+  },
+  {
+    "id": "V0382",
+    "word": "happy",
+    "pos": "adjective",
+    "ipa": "/hˈæpi/",
+    "meaning_vi": "vui mừng"
+  },
+  {
+    "id": "V0383",
+    "word": "hard",
+    "pos": "noun,verb",
+    "ipa": "/hˈɑɹd/",
+    "meaning_vi": "cứng"
+  },
+  {
+    "id": "V0384",
+    "word": "hat",
+    "pos": "noun,verb",
+    "ipa": "/hˈæt/",
+    "meaning_vi": "mũ"
+  },
+  {
+    "id": "V0385",
+    "word": "have",
+    "pos": "auxiliary,verb",
+    "ipa": "/hˈæv/",
+    "meaning_vi": "có"
+  },
+  {
+    "id": "V0386",
+    "word": "he",
+    "pos": "pronoun",
+    "ipa": "/hˈi/",
+    "meaning_vi": "Anh ta"
+  },
+  {
+    "id": "V0387",
+    "word": "head",
+    "pos": "noun,verb",
+    "ipa": "/hˈɛd/",
+    "meaning_vi": "cái đầu"
+  },
+  {
+    "id": "V0388",
+    "word": "health",
+    "pos": "noun,verb",
+    "ipa": "/hˈɛlθ/",
+    "meaning_vi": "sức khỏe"
+  },
+  {
+    "id": "V0389",
+    "word": "hear",
+    "pos": "noun,verb",
+    "ipa": "/hˈiɹ/",
+    "meaning_vi": "nghe"
+  },
+  {
+    "id": "V0390",
+    "word": "heart",
+    "pos": "noun,verb",
+    "ipa": "/hˈɑɹt/",
+    "meaning_vi": "trái tim"
+  },
+  {
+    "id": "V0391",
+    "word": "heat",
+    "pos": "noun,verb",
+    "ipa": "/hˈit/",
+    "meaning_vi": "nhiệt"
+  },
+  {
+    "id": "V0392",
+    "word": "heavy",
+    "pos": "adjective",
+    "ipa": "/hˈɛvi/",
+    "meaning_vi": "nặng"
+  },
+  {
+    "id": "V0393",
+    "word": "help",
+    "pos": "noun,verb",
+    "ipa": "/hˈɛlp/",
+    "meaning_vi": "giúp đỡ"
+  },
+  {
+    "id": "V0394",
+    "word": "her",
+    "pos": "determiner",
+    "ipa": "/hˈɝ/",
+    "meaning_vi": "cô ấy"
+  },
+  {
+    "id": "V0395",
+    "word": "here",
+    "pos": "noun,verb",
+    "ipa": "/hˈiɹ/",
+    "meaning_vi": "đây"
+  },
+  {
+    "id": "V0396",
+    "word": "high",
+    "pos": "noun,verb",
+    "ipa": "/hˈaɪ/",
+    "meaning_vi": "cao"
+  },
+  {
+    "id": "V0397",
+    "word": "hill",
+    "pos": "noun,verb",
+    "ipa": "/hˈɪl/",
+    "meaning_vi": "đồi"
+  },
+  {
+    "id": "V0398",
+    "word": "him",
+    "pos": "pronoun",
+    "ipa": "/hˈɪm/",
+    "meaning_vi": "anh ta"
+  },
+  {
+    "id": "V0399",
+    "word": "his",
+    "pos": "determiner",
+    "ipa": "/hˈɪz/",
+    "meaning_vi": "của anh ấy"
+  },
+  {
+    "id": "V0400",
+    "word": "history",
+    "pos": "adjective",
+    "ipa": "/hˈɪstɝi/",
+    "meaning_vi": "lịch sử"
+  },
+  {
+    "id": "V0401",
+    "word": "hit",
+    "pos": "noun,verb",
+    "ipa": "/hˈɪt/",
+    "meaning_vi": "đánh"
+  },
+  {
+    "id": "V0402",
+    "word": "hold",
+    "pos": "noun,verb",
+    "ipa": "/hˈoʊld/",
+    "meaning_vi": "giữ"
+  },
+  {
+    "id": "V0403",
+    "word": "home",
+    "pos": "noun,verb",
+    "ipa": "/hˈoʊm/",
+    "meaning_vi": "trang chủ"
+  },
+  {
+    "id": "V0404",
+    "word": "hope",
+    "pos": "noun,verb",
+    "ipa": "/hˈoʊp/",
+    "meaning_vi": "mong"
+  },
+  {
+    "id": "V0405",
+    "word": "horse",
+    "pos": "noun,verb",
+    "ipa": "/hˈɔɹs/",
+    "meaning_vi": "ngựa"
+  },
+  {
+    "id": "V0406",
+    "word": "hospital",
+    "pos": "adjective",
+    "ipa": "/hˈɑspˌɪtʌl/",
+    "meaning_vi": "bệnh viện"
+  },
+  {
+    "id": "V0407",
+    "word": "hot",
+    "pos": "noun,verb",
+    "ipa": "/hˈɑt/",
+    "meaning_vi": "nóng"
+  },
+  {
+    "id": "V0408",
+    "word": "hotel",
+    "pos": "noun,verb",
+    "ipa": "/hoʊtˈɛl/",
+    "meaning_vi": "khách sạn"
+  },
+  {
+    "id": "V0409",
+    "word": "hour",
+    "pos": "noun,verb",
+    "ipa": "/ˈaʊɝ/",
+    "meaning_vi": "giờ"
+  },
+  {
+    "id": "V0410",
+    "word": "house",
+    "pos": "noun,verb",
+    "ipa": "/hˈaʊs/",
+    "meaning_vi": "căn nhà"
+  },
+  {
+    "id": "V0411",
+    "word": "how",
+    "pos": "noun,verb",
+    "ipa": "/hˈaʊ/",
+    "meaning_vi": "Làm sao"
+  },
+  {
+    "id": "V0412",
+    "word": "huge",
+    "pos": "noun,verb",
+    "ipa": "/hjˈudʒ/",
+    "meaning_vi": "to lớn"
+  },
+  {
+    "id": "V0413",
+    "word": "human",
+    "pos": "noun,verb",
+    "ipa": "/hjˈumʌn/",
+    "meaning_vi": "nhân loại"
+  },
+  {
+    "id": "V0414",
+    "word": "hungry",
+    "pos": "adjective",
+    "ipa": "/hˈʌŋɡɹi/",
+    "meaning_vi": "đói bụng"
+  },
+  {
+    "id": "V0415",
+    "word": "hurry",
+    "pos": "adjective",
+    "ipa": "/hˈɝi/",
+    "meaning_vi": "sự vội vàng"
+  },
+  {
+    "id": "V0416",
+    "word": "hurt",
+    "pos": "noun,verb",
+    "ipa": "/hˈɝt/",
+    "meaning_vi": "đau"
+  },
+  {
+    "id": "V0417",
+    "word": "husband",
+    "pos": "noun,verb",
+    "ipa": "/hˈʌzbʌnd/",
+    "meaning_vi": "chồng"
+  },
+  {
+    "id": "V0418",
+    "word": "I",
+    "pos": "pronoun",
+    "ipa": "/ˈaɪ/",
+    "meaning_vi": "TÔI"
+  },
+  {
+    "id": "V0419",
+    "word": "ice",
+    "pos": "noun,verb",
+    "ipa": "/ˈaɪs/",
+    "meaning_vi": "đá"
+  },
+  {
+    "id": "V0420",
+    "word": "idea",
+    "pos": "noun,verb",
+    "ipa": "/aɪdˈiʌ/",
+    "meaning_vi": "ý tưởng"
+  },
+  {
+    "id": "V0421",
+    "word": "if",
+    "pos": "conjunction",
+    "ipa": "/ˈɪf/",
+    "meaning_vi": "nếu như"
+  },
+  {
+    "id": "V0422",
+    "word": "imagine",
+    "pos": "noun,verb",
+    "ipa": "/ˌɪmˈædʒʌn/",
+    "meaning_vi": "tưởng tượng"
+  },
+  {
+    "id": "V0423",
+    "word": "important",
+    "pos": "noun,verb",
+    "ipa": "/ˌɪmpˈɔɹtʌnt/",
+    "meaning_vi": "quan trọng"
+  },
+  {
+    "id": "V0424",
+    "word": "improve",
+    "pos": "noun,verb",
+    "ipa": "/ˌɪmpɹˈuv/",
+    "meaning_vi": "cải thiện"
+  },
+  {
+    "id": "V0425",
+    "word": "in",
+    "pos": "preposition",
+    "ipa": "/ɪn/",
+    "meaning_vi": "TRONG"
+  },
+  {
+    "id": "V0426",
+    "word": "include",
+    "pos": "noun,verb",
+    "ipa": "/ˌɪnklˈud/",
+    "meaning_vi": "bao gồm"
+  },
+  {
+    "id": "V0427",
+    "word": "increase",
+    "pos": "noun,verb",
+    "ipa": "/ˌɪnkɹˈis/",
+    "meaning_vi": "tăng"
+  },
+  {
+    "id": "V0428",
+    "word": "indeed",
+    "pos": "verb,adjective",
+    "ipa": "/ˌɪndˈid/",
+    "meaning_vi": "thực vậy"
+  },
+  {
+    "id": "V0429",
+    "word": "information",
+    "pos": "noun",
+    "ipa": "/ˌɪnfɝmˈeɪʃʌn/",
+    "meaning_vi": "thông tin"
+  },
+  {
+    "id": "V0430",
+    "word": "inside",
+    "pos": "preposition",
+    "ipa": "/ˌɪnsˈaɪd/",
+    "meaning_vi": "bên trong"
+  },
+  {
+    "id": "V0431",
+    "word": "instead",
+    "pos": "noun,verb",
+    "ipa": "/ˌɪnstˈɛd/",
+    "meaning_vi": "thay vì"
+  },
+  {
+    "id": "V0432",
+    "word": "interest",
+    "pos": "noun,verb",
+    "ipa": "/ˈɪntɹʌst/",
+    "meaning_vi": "quan tâm"
+  },
+  {
+    "id": "V0433",
+    "word": "interesting",
+    "pos": "verb,adjective",
+    "ipa": "/ˈɪntɹʌstɪŋ/",
+    "meaning_vi": "hấp dẫn"
+  },
+  {
+    "id": "V0434",
+    "word": "into",
+    "pos": "preposition",
+    "ipa": "/ˈɪntu/",
+    "meaning_vi": "vào trong"
+  },
+  {
+    "id": "V0435",
+    "word": "invite",
+    "pos": "noun,verb",
+    "ipa": "/ˌɪnvˈaɪt/",
+    "meaning_vi": "mời"
+  },
+  {
+    "id": "V0436",
+    "word": "is",
+    "pos": "auxiliary,verb",
+    "ipa": "/ˈɪz/",
+    "meaning_vi": "là"
+  },
+  {
+    "id": "V0437",
+    "word": "island",
+    "pos": "noun,verb",
+    "ipa": "/ˈaɪlʌnd/",
+    "meaning_vi": "hòn đảo"
+  },
+  {
+    "id": "V0438",
+    "word": "it",
+    "pos": "pronoun",
+    "ipa": "/ˈɪt/",
+    "meaning_vi": "Nó"
+  },
+  {
+    "id": "V0439",
+    "word": "item",
+    "pos": "noun,verb",
+    "ipa": "/ˈaɪtʌm/",
+    "meaning_vi": "món đồ"
+  },
+  {
+    "id": "V0440",
+    "word": "job",
+    "pos": "noun,verb",
+    "ipa": "/dʒˈɑb/",
+    "meaning_vi": "công việc"
+  },
+  {
+    "id": "V0441",
+    "word": "join",
+    "pos": "noun,verb",
+    "ipa": "/dʒˈɔɪn/",
+    "meaning_vi": "tham gia"
+  },
+  {
+    "id": "V0442",
+    "word": "joke",
+    "pos": "noun,verb",
+    "ipa": "/dʒˈoʊk/",
+    "meaning_vi": "câu nói đùa"
+  },
+  {
+    "id": "V0443",
+    "word": "joy",
+    "pos": "adjective",
+    "ipa": "/dʒˈɔɪ/",
+    "meaning_vi": "vui sướng"
+  },
+  {
+    "id": "V0444",
+    "word": "judge",
+    "pos": "noun,verb",
+    "ipa": "/dʒˈʌdʒ/",
+    "meaning_vi": "phán xét"
+  },
+  {
+    "id": "V0445",
+    "word": "juice",
+    "pos": "noun,verb",
+    "ipa": "/dʒˈus/",
+    "meaning_vi": "nước ép"
+  },
+  {
+    "id": "V0446",
+    "word": "jump",
+    "pos": "noun,verb",
+    "ipa": "/dʒˈʌmp/",
+    "meaning_vi": "nhảy"
+  },
+  {
+    "id": "V0447",
+    "word": "just",
+    "pos": "noun,verb",
+    "ipa": "/dʒˈʌst/",
+    "meaning_vi": "chỉ"
+  },
+  {
+    "id": "V0448",
+    "word": "keep",
+    "pos": "noun,verb",
+    "ipa": "/kˈip/",
+    "meaning_vi": "giữ"
+  },
+  {
+    "id": "V0449",
+    "word": "key",
+    "pos": "adjective",
+    "ipa": "/kˈi/",
+    "meaning_vi": "chìa khóa"
+  },
+  {
+    "id": "V0450",
+    "word": "kick",
+    "pos": "noun,verb",
+    "ipa": "/kˈɪk/",
+    "meaning_vi": "đá"
+  },
+  {
+    "id": "V0451",
+    "word": "kid",
+    "pos": "noun,verb",
+    "ipa": "/kˈɪd/",
+    "meaning_vi": "đứa trẻ"
+  },
+  {
+    "id": "V0452",
+    "word": "kill",
+    "pos": "noun,verb",
+    "ipa": "/kˈɪl/",
+    "meaning_vi": "giết"
+  },
+  {
+    "id": "V0453",
+    "word": "kind",
+    "pos": "noun,verb",
+    "ipa": "/kˈaɪnd/",
+    "meaning_vi": "loại"
+  },
+  {
+    "id": "V0454",
+    "word": "king",
+    "pos": "verb,adjective",
+    "ipa": "/kˈɪŋ/",
+    "meaning_vi": "nhà vua"
+  },
+  {
+    "id": "V0455",
+    "word": "kitchen",
+    "pos": "verb",
+    "ipa": "/kˈɪtʃʌn/",
+    "meaning_vi": "phòng bếp"
+  },
+  {
+    "id": "V0456",
+    "word": "know",
+    "pos": "noun,verb",
+    "ipa": "/nˈoʊ/",
+    "meaning_vi": "biết"
+  },
+  {
+    "id": "V0457",
+    "word": "knowledge",
+    "pos": "noun,verb",
+    "ipa": "/nˈɑlʌdʒ/",
+    "meaning_vi": "kiến thức"
+  },
+  {
+    "id": "V0458",
+    "word": "lab",
+    "pos": "noun,verb",
+    "ipa": "/lˈæb/",
+    "meaning_vi": "phòng thí nghiệm"
+  },
+  {
+    "id": "V0459",
+    "word": "label",
+    "pos": "noun,verb",
+    "ipa": "/lˈeɪbʌl/",
+    "meaning_vi": "nhãn"
+  },
+  {
+    "id": "V0460",
+    "word": "lack",
+    "pos": "noun,verb",
+    "ipa": "/lˈæk/",
+    "meaning_vi": "thiếu"
+  },
+  {
+    "id": "V0461",
+    "word": "lady",
+    "pos": "adjective",
+    "ipa": "/lˈeɪdi/",
+    "meaning_vi": "quý bà"
+  },
+  {
+    "id": "V0462",
+    "word": "lake",
+    "pos": "noun,verb",
+    "ipa": "/lˈeɪk/",
+    "meaning_vi": "hồ"
+  },
+  {
+    "id": "V0463",
+    "word": "lamp",
+    "pos": "noun,verb",
+    "ipa": "/lˈæmp/",
+    "meaning_vi": "đèn"
+  },
+  {
+    "id": "V0464",
+    "word": "land",
+    "pos": "noun,verb",
+    "ipa": "/lˈænd/",
+    "meaning_vi": "đất"
+  },
+  {
+    "id": "V0465",
+    "word": "language",
+    "pos": "noun",
+    "ipa": "/lˈæŋɡwʌdʒ/",
+    "meaning_vi": "ngôn ngữ"
+  },
+  {
+    "id": "V0466",
+    "word": "large",
+    "pos": "noun,verb",
+    "ipa": "/lˈɑɹdʒ/",
+    "meaning_vi": "lớn"
+  },
+  {
+    "id": "V0467",
+    "word": "last",
+    "pos": "noun,verb",
+    "ipa": "/lˈæst/",
+    "meaning_vi": "cuối cùng"
+  },
+  {
+    "id": "V0468",
+    "word": "late",
+    "pos": "noun,verb",
+    "ipa": "/lˈeɪt/",
+    "meaning_vi": "muộn"
+  },
+  {
+    "id": "V0469",
+    "word": "later",
+    "pos": "noun,verb",
+    "ipa": "/lˈeɪtɝ/",
+    "meaning_vi": "sau đó"
+  },
+  {
+    "id": "V0470",
+    "word": "laugh",
+    "pos": "noun,verb",
+    "ipa": "/lˈæf/",
+    "meaning_vi": "cười"
+  },
+  {
+    "id": "V0471",
+    "word": "law",
+    "pos": "noun,verb",
+    "ipa": "/lˈɔ/",
+    "meaning_vi": "pháp luật"
+  },
+  {
+    "id": "V0472",
+    "word": "lawyer",
+    "pos": "noun,verb",
+    "ipa": "/lˈɔjɝ/",
+    "meaning_vi": "luật sư"
+  },
+  {
+    "id": "V0473",
+    "word": "lay",
+    "pos": "adjective",
+    "ipa": "/lˈeɪ/",
+    "meaning_vi": "đặt nằm"
+  },
+  {
+    "id": "V0474",
+    "word": "lead",
+    "pos": "noun,verb",
+    "ipa": "/lˈɛd/",
+    "meaning_vi": "chỉ huy"
+  },
+  {
+    "id": "V0475",
+    "word": "leader",
+    "pos": "noun,verb",
+    "ipa": "/lˈidɝ/",
+    "meaning_vi": "lãnh đạo"
+  },
+  {
+    "id": "V0476",
+    "word": "learn",
+    "pos": "noun,verb",
+    "ipa": "/lˈɝn/",
+    "meaning_vi": "học hỏi"
+  },
+  {
+    "id": "V0477",
+    "word": "leave",
+    "pos": "noun,verb",
+    "ipa": "/lˈiv/",
+    "meaning_vi": "rời khỏi"
+  },
+  {
+    "id": "V0478",
+    "word": "left",
+    "pos": "noun,verb",
+    "ipa": "/lˈɛft/",
+    "meaning_vi": "bên trái"
+  },
+  {
+    "id": "V0479",
+    "word": "leg",
+    "pos": "noun,verb",
+    "ipa": "/lˈɛɡ/",
+    "meaning_vi": "chân"
+  },
+  {
+    "id": "V0480",
+    "word": "less",
+    "pos": "adjective",
+    "ipa": "/lˈɛs/",
+    "meaning_vi": "ít hơn"
+  },
+  {
+    "id": "V0481",
+    "word": "let",
+    "pos": "noun,verb",
+    "ipa": "/lˈɛt/",
+    "meaning_vi": "cho phép"
+  },
+  {
+    "id": "V0482",
+    "word": "letter",
+    "pos": "noun,verb",
+    "ipa": "/lˈɛtɝ/",
+    "meaning_vi": "thư"
+  },
+  {
+    "id": "V0483",
+    "word": "level",
+    "pos": "noun,verb",
+    "ipa": "/lˈɛvʌl/",
+    "meaning_vi": "mức độ"
+  },
+  {
+    "id": "V0484",
+    "word": "library",
+    "pos": "adjective",
+    "ipa": "/lˈaɪbɹɛɹˌi/",
+    "meaning_vi": "thư viện"
+  },
+  {
+    "id": "V0485",
+    "word": "lie",
+    "pos": "noun,verb",
+    "ipa": "/lˈaɪ/",
+    "meaning_vi": "nói dối"
+  },
+  {
+    "id": "V0486",
+    "word": "life",
+    "pos": "noun,verb",
+    "ipa": "/lˈaɪf/",
+    "meaning_vi": "mạng sống"
+  },
+  {
+    "id": "V0487",
+    "word": "light",
+    "pos": "noun,verb",
+    "ipa": "/lˈaɪt/",
+    "meaning_vi": "ánh sáng"
+  },
+  {
+    "id": "V0488",
+    "word": "like",
+    "pos": "noun,verb",
+    "ipa": "/lˈaɪk/",
+    "meaning_vi": "giống"
+  },
+  {
+    "id": "V0489",
+    "word": "line",
+    "pos": "noun,verb",
+    "ipa": "/lˈaɪn/",
+    "meaning_vi": "đường kẻ"
+  },
+  {
+    "id": "V0490",
+    "word": "list",
+    "pos": "noun",
+    "ipa": "/lˈɪst/",
+    "meaning_vi": "danh sách"
+  },
+  {
+    "id": "V0491",
+    "word": "listen",
+    "pos": "verb",
+    "ipa": "/lˈɪsʌn/",
+    "meaning_vi": "Nghe"
+  },
+  {
+    "id": "V0492",
+    "word": "little",
+    "pos": "noun,verb",
+    "ipa": "/lˈɪtʌl/",
+    "meaning_vi": "nhỏ bé"
+  },
+  {
+    "id": "V0493",
+    "word": "live",
+    "pos": "adjective",
+    "ipa": "/lˈaɪv/",
+    "meaning_vi": "sống"
+  },
+  {
+    "id": "V0494",
+    "word": "local",
+    "pos": "adjective",
+    "ipa": "/lˈoʊkʌl/",
+    "meaning_vi": "địa phương"
+  },
+  {
+    "id": "V0495",
+    "word": "long",
+    "pos": "noun,verb",
+    "ipa": "/lˈɔŋ/",
+    "meaning_vi": "dài"
+  },
+  {
+    "id": "V0496",
+    "word": "look",
+    "pos": "noun,verb",
+    "ipa": "/lˈʊk/",
+    "meaning_vi": "Nhìn"
+  },
+  {
+    "id": "V0497",
+    "word": "lose",
+    "pos": "noun,verb",
+    "ipa": "/lˈuz/",
+    "meaning_vi": "thua"
+  },
+  {
+    "id": "V0498",
+    "word": "loss",
+    "pos": "noun,verb",
+    "ipa": "/lˈɔs/",
+    "meaning_vi": "sự mất mát"
+  },
+  {
+    "id": "V0499",
+    "word": "loud",
+    "pos": "noun,verb",
+    "ipa": "/lˈaʊd/",
+    "meaning_vi": "ồn ào"
+  },
+  {
+    "id": "V0500",
+    "word": "love",
+    "pos": "noun,verb",
+    "ipa": "/lˈʌv/",
+    "meaning_vi": "yêu"
+  },
+  {
+    "id": "V0501",
+    "word": "low",
+    "pos": "noun,verb",
+    "ipa": "/lˈoʊ/",
+    "meaning_vi": "thấp"
+  },
+  {
+    "id": "V0502",
+    "word": "luck",
+    "pos": "noun,verb",
+    "ipa": "/lˈʌk/",
+    "meaning_vi": "may mắn"
+  },
+  {
+    "id": "V0503",
+    "word": "lunch",
+    "pos": "noun,verb",
+    "ipa": "/lˈʌntʃ/",
+    "meaning_vi": "bữa trưa"
+  },
+  {
+    "id": "V0504",
+    "word": "machine",
+    "pos": "noun,verb",
+    "ipa": "/mʌʃˈin/",
+    "meaning_vi": "máy móc"
+  },
+  {
+    "id": "V0505",
+    "word": "main",
+    "pos": "noun,verb",
+    "ipa": "/mˈeɪn/",
+    "meaning_vi": "chủ yếu"
+  },
+  {
+    "id": "V0506",
+    "word": "make",
+    "pos": "noun,verb",
+    "ipa": "/mˈeɪk/",
+    "meaning_vi": "làm"
+  },
+  {
+    "id": "V0507",
+    "word": "man",
+    "pos": "noun,verb",
+    "ipa": "/mˈæn/",
+    "meaning_vi": "người đàn ông"
+  },
+  {
+    "id": "V0508",
+    "word": "manage",
+    "pos": "noun",
+    "ipa": "/mˈænʌdʒ/",
+    "meaning_vi": "quản lý"
+  },
+  {
+    "id": "V0509",
+    "word": "manager",
+    "pos": "noun,verb",
+    "ipa": "/mˈænʌdʒɝ/",
+    "meaning_vi": "giám đốc"
+  },
+  {
+    "id": "V0510",
+    "word": "many",
+    "pos": "adjective",
+    "ipa": "/mˈɛni/",
+    "meaning_vi": "nhiều"
+  },
+  {
+    "id": "V0511",
+    "word": "map",
+    "pos": "noun,verb",
+    "ipa": "/mˈæp/",
+    "meaning_vi": "bản đồ"
+  },
+  {
+    "id": "V0512",
+    "word": "mark",
+    "pos": "noun,verb",
+    "ipa": "/mˈɑɹk/",
+    "meaning_vi": "đánh dấu"
+  },
+  {
+    "id": "V0513",
+    "word": "market",
+    "pos": "noun,verb",
+    "ipa": "/mˈɑɹkʌt/",
+    "meaning_vi": "chợ"
+  },
+  {
+    "id": "V0514",
+    "word": "marry",
+    "pos": "adjective",
+    "ipa": "/mˈɛɹi/",
+    "meaning_vi": "kết hôn"
+  },
+  {
+    "id": "V0515",
+    "word": "match",
+    "pos": "noun,verb",
+    "ipa": "/mˈætʃ/",
+    "meaning_vi": "cuộc thi đấu"
+  },
+  {
+    "id": "V0516",
+    "word": "matter",
+    "pos": "noun,verb",
+    "ipa": "/mˈætɝ/",
+    "meaning_vi": "vấn đề"
+  },
+  {
+    "id": "V0517",
+    "word": "may",
+    "pos": "auxiliary,verb",
+    "ipa": "/mˈeɪ/",
+    "meaning_vi": "có thể"
+  },
+  {
+    "id": "V0518",
+    "word": "maybe",
+    "pos": "noun,verb",
+    "ipa": "/mˈeɪbi/",
+    "meaning_vi": "Có lẽ"
+  },
+  {
+    "id": "V0519",
+    "word": "me",
+    "pos": "pronoun",
+    "ipa": "/mˈi/",
+    "meaning_vi": "Tôi"
+  },
+  {
+    "id": "V0520",
+    "word": "mean",
+    "pos": "noun,verb",
+    "ipa": "/mˈin/",
+    "meaning_vi": "nghĩa là"
+  },
+  {
+    "id": "V0521",
+    "word": "meaning",
+    "pos": "verb,adjective",
+    "ipa": "/mˈinɪŋ/",
+    "meaning_vi": "nghĩa"
+  },
+  {
+    "id": "V0522",
+    "word": "measure",
+    "pos": "noun",
+    "ipa": "/mˈɛʒɝ/",
+    "meaning_vi": "đo lường"
+  },
+  {
+    "id": "V0523",
+    "word": "meat",
+    "pos": "noun,verb",
+    "ipa": "/mˈit/",
+    "meaning_vi": "thịt"
+  },
+  {
+    "id": "V0524",
+    "word": "media",
+    "pos": "noun,verb",
+    "ipa": "/mˈidiʌ/",
+    "meaning_vi": "phương tiện truyền thông"
+  },
+  {
+    "id": "V0525",
+    "word": "medical",
+    "pos": "adjective",
+    "ipa": "/mˈɛdʌkʌl/",
+    "meaning_vi": "thuộc về y học"
+  },
+  {
+    "id": "V0526",
+    "word": "meet",
+    "pos": "noun,verb",
+    "ipa": "/mˈit/",
+    "meaning_vi": "gặp"
+  },
+  {
+    "id": "V0527",
+    "word": "meeting",
+    "pos": "verb,adjective",
+    "ipa": "/mˈitɪŋ/",
+    "meaning_vi": "cuộc họp"
+  },
+  {
+    "id": "V0528",
+    "word": "member",
+    "pos": "noun,verb",
+    "ipa": "/mˈɛmbɝ/",
+    "meaning_vi": "thành viên"
+  },
+  {
+    "id": "V0529",
+    "word": "memory",
+    "pos": "adjective",
+    "ipa": "/mˈɛmɝi/",
+    "meaning_vi": "ký ức"
+  },
+  {
+    "id": "V0530",
+    "word": "mention",
+    "pos": "noun",
+    "ipa": "/mˈɛnʃʌn/",
+    "meaning_vi": "đề cập đến"
+  },
+  {
+    "id": "V0531",
+    "word": "menu",
+    "pos": "noun,verb",
+    "ipa": "/mˈɛnju/",
+    "meaning_vi": "thực đơn"
+  },
+  {
+    "id": "V0532",
+    "word": "message",
+    "pos": "noun",
+    "ipa": "/mˈɛsʌdʒ/",
+    "meaning_vi": "tin nhắn"
+  },
+  {
+    "id": "V0533",
+    "word": "middle",
+    "pos": "noun,verb",
+    "ipa": "/mˈɪdʌl/",
+    "meaning_vi": "ở giữa"
+  },
+  {
+    "id": "V0534",
+    "word": "might",
+    "pos": "auxiliary,verb",
+    "ipa": "/mˈaɪt/",
+    "meaning_vi": "có thể"
+  },
+  {
+    "id": "V0535",
+    "word": "milk",
+    "pos": "noun,verb",
+    "ipa": "/mˈɪlk/",
+    "meaning_vi": "sữa"
+  },
+  {
+    "id": "V0536",
+    "word": "mind",
+    "pos": "noun,verb",
+    "ipa": "/mˈaɪnd/",
+    "meaning_vi": "tâm trí"
+  },
+  {
+    "id": "V0537",
+    "word": "minute",
+    "pos": "noun,verb",
+    "ipa": "/mˈɪnʌt/",
+    "meaning_vi": "phút"
+  },
+  {
+    "id": "V0538",
+    "word": "miss",
+    "pos": "noun,verb",
+    "ipa": "/mˈɪs/",
+    "meaning_vi": "cô"
+  },
+  {
+    "id": "V0539",
+    "word": "mistake",
+    "pos": "noun,verb",
+    "ipa": "/mɪstˈeɪk/",
+    "meaning_vi": "sai lầm"
+  },
+  {
+    "id": "V0540",
+    "word": "mix",
+    "pos": "noun,verb",
+    "ipa": "/mˈɪks/",
+    "meaning_vi": "trộn"
+  },
+  {
+    "id": "V0541",
+    "word": "mobile",
+    "pos": "noun,verb",
+    "ipa": "/mˈoʊbʌl/",
+    "meaning_vi": "điện thoại di động"
+  },
+  {
+    "id": "V0542",
+    "word": "model",
+    "pos": "noun,verb",
+    "ipa": "/mˈɑdʌl/",
+    "meaning_vi": "người mẫu"
+  },
+  {
+    "id": "V0543",
+    "word": "modern",
+    "pos": "noun,verb",
+    "ipa": "/mˈɑdɝn/",
+    "meaning_vi": "hiện đại"
+  },
+  {
+    "id": "V0544",
+    "word": "moment",
+    "pos": "noun",
+    "ipa": "/mˈoʊmʌnt/",
+    "meaning_vi": "chốc lát"
+  },
+  {
+    "id": "V0545",
+    "word": "money",
+    "pos": "adjective",
+    "ipa": "/mˈʌni/",
+    "meaning_vi": "tiền bạc"
+  },
+  {
+    "id": "V0546",
+    "word": "month",
+    "pos": "noun,verb",
+    "ipa": "/mˈʌnθ/",
+    "meaning_vi": "tháng"
+  },
+  {
+    "id": "V0547",
+    "word": "more",
+    "pos": "noun,verb",
+    "ipa": "/mˈɔɹ/",
+    "meaning_vi": "hơn"
+  },
+  {
+    "id": "V0548",
+    "word": "morning",
+    "pos": "verb,adjective",
+    "ipa": "/mˈɔɹnɪŋ/",
+    "meaning_vi": "buổi sáng"
+  },
+  {
+    "id": "V0549",
+    "word": "most",
+    "pos": "noun,verb",
+    "ipa": "/mˈoʊst/",
+    "meaning_vi": "hầu hết"
+  },
+  {
+    "id": "V0550",
+    "word": "mother",
+    "pos": "noun,verb",
+    "ipa": "/mˈʌðɝ/",
+    "meaning_vi": "mẹ"
+  },
+  {
+    "id": "V0551",
+    "word": "mouth",
+    "pos": "noun,verb",
+    "ipa": "/mˈaʊθ/",
+    "meaning_vi": "miệng"
+  },
+  {
+    "id": "V0552",
+    "word": "move",
+    "pos": "noun,verb",
+    "ipa": "/mˈuv/",
+    "meaning_vi": "di chuyển"
+  },
+  {
+    "id": "V0553",
+    "word": "movie",
+    "pos": "noun,verb",
+    "ipa": "/mˈuvi/",
+    "meaning_vi": "bộ phim"
+  },
+  {
+    "id": "V0554",
+    "word": "much",
+    "pos": "noun,verb",
+    "ipa": "/mˈʌtʃ/",
+    "meaning_vi": "nhiều"
+  },
+  {
+    "id": "V0555",
+    "word": "music",
+    "pos": "adjective",
+    "ipa": "/mjˈuzɪk/",
+    "meaning_vi": "âm nhạc"
+  },
+  {
+    "id": "V0556",
+    "word": "must",
+    "pos": "auxiliary,verb",
+    "ipa": "/mˈʌst/",
+    "meaning_vi": "phải"
+  },
+  {
+    "id": "V0557",
+    "word": "my",
+    "pos": "determiner",
+    "ipa": "/mˈaɪ/",
+    "meaning_vi": "Của tôi"
+  },
+  {
+    "id": "V0558",
+    "word": "name",
+    "pos": "noun,verb",
+    "ipa": "/nˈeɪm/",
+    "meaning_vi": "tên"
+  },
+  {
+    "id": "V0559",
+    "word": "near",
+    "pos": "preposition",
+    "ipa": "/nˈɪɹ/",
+    "meaning_vi": "gần"
+  },
+  {
+    "id": "V0560",
+    "word": "nearly",
+    "pos": "adverb",
+    "ipa": "/nˈɪɹli/",
+    "meaning_vi": "gần như"
+  },
+  {
+    "id": "V0561",
+    "word": "necessary",
+    "pos": "adjective",
+    "ipa": "/nˈɛsʌsˌɛɹi/",
+    "meaning_vi": "cần thiết"
+  },
+  {
+    "id": "V0562",
+    "word": "need",
+    "pos": "verb,adjective",
+    "ipa": "/nˈid/",
+    "meaning_vi": "nhu cầu"
+  },
+  {
+    "id": "V0563",
+    "word": "neighbor",
+    "pos": "noun,verb",
+    "ipa": "/nˈeɪbɝ/",
+    "meaning_vi": "hàng xóm"
+  },
+  {
+    "id": "V0564",
+    "word": "never",
+    "pos": "noun,verb",
+    "ipa": "/nˈɛvɝ/",
+    "meaning_vi": "không bao giờ"
+  },
+  {
+    "id": "V0565",
+    "word": "new",
+    "pos": "noun,verb",
+    "ipa": "/nˈu/",
+    "meaning_vi": "mới"
+  },
+  {
+    "id": "V0566",
+    "word": "news",
+    "pos": "noun,verb",
+    "ipa": "/nˈuz/",
+    "meaning_vi": "tin tức"
+  },
+  {
+    "id": "V0567",
+    "word": "next",
+    "pos": "noun,verb",
+    "ipa": "/nˈɛkst/",
+    "meaning_vi": "Kế tiếp"
+  },
+  {
+    "id": "V0568",
+    "word": "nice",
+    "pos": "noun,verb",
+    "ipa": "/nˈaɪs/",
+    "meaning_vi": "Đẹp"
+  },
+  {
+    "id": "V0569",
+    "word": "night",
+    "pos": "noun,verb",
+    "ipa": "/nˈaɪt/",
+    "meaning_vi": "đêm"
+  },
+  {
+    "id": "V0570",
+    "word": "no",
+    "pos": "determiner",
+    "ipa": "/nˈoʊ/",
+    "meaning_vi": "KHÔNG"
+  },
+  {
+    "id": "V0571",
+    "word": "noise",
+    "pos": "verb",
+    "ipa": "/nˈɔɪz/",
+    "meaning_vi": "tiếng ồn"
+  },
+  {
+    "id": "V0572",
+    "word": "none",
+    "pos": "noun,verb",
+    "ipa": "/nˈʌn/",
+    "meaning_vi": "không có"
+  },
+  {
+    "id": "V0573",
+    "word": "normal",
+    "pos": "adjective",
+    "ipa": "/nˈɔɹmʌl/",
+    "meaning_vi": "Bình thường"
+  },
+  {
+    "id": "V0574",
+    "word": "north",
+    "pos": "noun,verb",
+    "ipa": "/nˈɔɹθ/",
+    "meaning_vi": "phía bắc"
+  },
+  {
+    "id": "V0575",
+    "word": "not",
+    "pos": "noun,verb",
+    "ipa": "/nˈɑt/",
+    "meaning_vi": "không"
+  },
+  {
+    "id": "V0576",
+    "word": "note",
+    "pos": "noun,verb",
+    "ipa": "/nˈoʊt/",
+    "meaning_vi": "ghi chú"
+  },
+  {
+    "id": "V0577",
+    "word": "nothing",
+    "pos": "verb,adjective",
+    "ipa": "/nˈʌθɪŋ/",
+    "meaning_vi": "Không có gì"
+  },
+  {
+    "id": "V0578",
+    "word": "now",
+    "pos": "noun,verb",
+    "ipa": "/nˈaʊ/",
+    "meaning_vi": "Hiện nay"
+  },
+  {
+    "id": "V0579",
+    "word": "number",
+    "pos": "noun,verb",
+    "ipa": "/nˈʌmbɝ/",
+    "meaning_vi": "con số"
+  },
+  {
+    "id": "V0580",
+    "word": "nurse",
+    "pos": "noun,verb",
+    "ipa": "/nˈɝs/",
+    "meaning_vi": "y tá"
+  },
+  {
+    "id": "V0581",
+    "word": "object",
+    "pos": "noun,verb",
+    "ipa": "/ˈɑbdʒɛkt/",
+    "meaning_vi": "sự vật"
+  },
+  {
+    "id": "V0582",
+    "word": "of",
+    "pos": "preposition",
+    "ipa": "/ˈʌv/",
+    "meaning_vi": "của"
+  },
+  {
+    "id": "V0583",
+    "word": "off",
+    "pos": "preposition",
+    "ipa": "/ˈɔf/",
+    "meaning_vi": "tắt"
+  },
+  {
+    "id": "V0584",
+    "word": "offer",
+    "pos": "noun,verb",
+    "ipa": "/ˈɔfɝ/",
+    "meaning_vi": "lời đề nghị"
+  },
+  {
+    "id": "V0585",
+    "word": "office",
+    "pos": "noun,verb",
+    "ipa": "/ˈɔfɪs/",
+    "meaning_vi": "văn phòng"
+  },
+  {
+    "id": "V0586",
+    "word": "often",
+    "pos": "verb",
+    "ipa": "/ˈɔfʌn/",
+    "meaning_vi": "thường"
+  },
+  {
+    "id": "V0587",
+    "word": "oil",
+    "pos": "noun,verb",
+    "ipa": "/ˈɔɪl/",
+    "meaning_vi": "dầu"
+  },
+  {
+    "id": "V0588",
+    "word": "okay",
+    "pos": "adjective",
+    "ipa": "/ˌoʊkˈeɪ/",
+    "meaning_vi": "được rồi"
+  },
+  {
+    "id": "V0589",
+    "word": "old",
+    "pos": "noun,verb",
+    "ipa": "/ˈoʊld/",
+    "meaning_vi": "cũ"
+  },
+  {
+    "id": "V0590",
+    "word": "on",
+    "pos": "preposition",
+    "ipa": "/ˈɑn/",
+    "meaning_vi": "TRÊN"
+  },
+  {
+    "id": "V0591",
+    "word": "once",
+    "pos": "conjunction",
+    "ipa": "/wˈʌns/",
+    "meaning_vi": "một lần"
+  },
+  {
+    "id": "V0592",
+    "word": "one",
+    "pos": "noun,verb",
+    "ipa": "/wˈʌn/",
+    "meaning_vi": "một"
+  },
+  {
+    "id": "V0593",
+    "word": "only",
+    "pos": "adverb",
+    "ipa": "/ˈoʊnli/",
+    "meaning_vi": "chỉ một"
+  },
+  {
+    "id": "V0594",
+    "word": "open",
+    "pos": "verb",
+    "ipa": "/ˈoʊpʌn/",
+    "meaning_vi": "mở"
+  },
+  {
+    "id": "V0595",
+    "word": "opinion",
+    "pos": "noun,verb",
+    "ipa": "/ʌpˈɪnjʌn/",
+    "meaning_vi": "ý kiến"
+  },
+  {
+    "id": "V0596",
+    "word": "option",
+    "pos": "noun",
+    "ipa": "/ˈɑpʃʌn/",
+    "meaning_vi": "lựa chọn"
+  },
+  {
+    "id": "V0597",
+    "word": "or",
+    "pos": "conjunction",
+    "ipa": "/ˈɔɹ/",
+    "meaning_vi": "hoặc"
+  },
+  {
+    "id": "V0598",
+    "word": "orange",
+    "pos": "noun,verb",
+    "ipa": "/ˈɔɹʌndʒ/",
+    "meaning_vi": "quả cam"
+  },
+  {
+    "id": "V0599",
+    "word": "order",
+    "pos": "noun,verb",
+    "ipa": "/ˈɔɹdɝ/",
+    "meaning_vi": "đặt hàng"
+  },
+  {
+    "id": "V0600",
+    "word": "other",
+    "pos": "noun,verb",
+    "ipa": "/ˈʌðɝ/",
+    "meaning_vi": "khác"
+  },
+  {
+    "id": "V0601",
+    "word": "our",
+    "pos": "determiner",
+    "ipa": "/ˈaʊɝ/",
+    "meaning_vi": "của chúng tôi"
+  },
+  {
+    "id": "V0602",
+    "word": "out",
+    "pos": "preposition",
+    "ipa": "/ˈaʊt/",
+    "meaning_vi": "ngoài"
+  },
+  {
+    "id": "V0603",
+    "word": "outside",
+    "pos": "preposition",
+    "ipa": "/ˈaʊtsˈaɪd/",
+    "meaning_vi": "ngoài"
+  },
+  {
+    "id": "V0604",
+    "word": "over",
+    "pos": "preposition",
+    "ipa": "/ˈoʊvɝ/",
+    "meaning_vi": "qua"
+  },
+  {
+    "id": "V0605",
+    "word": "own",
+    "pos": "noun,verb",
+    "ipa": "/ˈoʊn/",
+    "meaning_vi": "sở hữu"
+  },
+  {
+    "id": "V0606",
+    "word": "page",
+    "pos": "noun",
+    "ipa": "/pˈeɪdʒ/",
+    "meaning_vi": "trang"
+  },
+  {
+    "id": "V0607",
+    "word": "pain",
+    "pos": "noun,verb",
+    "ipa": "/pˈeɪn/",
+    "meaning_vi": "nỗi đau"
+  },
+  {
+    "id": "V0608",
+    "word": "paint",
+    "pos": "noun,verb",
+    "ipa": "/pˈeɪnt/",
+    "meaning_vi": "sơn"
+  },
+  {
+    "id": "V0609",
+    "word": "pair",
+    "pos": "noun,verb",
+    "ipa": "/pˈɛɹ/",
+    "meaning_vi": "đôi"
+  },
+  {
+    "id": "V0610",
+    "word": "parent",
+    "pos": "noun,verb",
+    "ipa": "/pˈɛɹʌnt/",
+    "meaning_vi": "cha mẹ"
+  },
+  {
+    "id": "V0611",
+    "word": "park",
+    "pos": "noun,verb",
+    "ipa": "/pˈɑɹk/",
+    "meaning_vi": "công viên"
+  },
+  {
+    "id": "V0612",
+    "word": "part",
+    "pos": "noun,verb",
+    "ipa": "/pˈɑɹt/",
+    "meaning_vi": "phần"
+  },
+  {
+    "id": "V0613",
+    "word": "partner",
+    "pos": "noun,verb",
+    "ipa": "/pˈɑɹtnɝ/",
+    "meaning_vi": "cộng sự"
+  },
+  {
+    "id": "V0614",
+    "word": "party",
+    "pos": "adjective",
+    "ipa": "/pˈɑɹti/",
+    "meaning_vi": "buổi tiệc"
+  },
+  {
+    "id": "V0615",
+    "word": "pass",
+    "pos": "noun,verb",
+    "ipa": "/pˈæs/",
+    "meaning_vi": "vượt qua"
+  },
+  {
+    "id": "V0616",
+    "word": "past",
+    "pos": "preposition",
+    "ipa": "/pˈæst/",
+    "meaning_vi": "quá khứ"
+  },
+  {
+    "id": "V0617",
+    "word": "pay",
+    "pos": "adjective",
+    "ipa": "/pˈeɪ/",
+    "meaning_vi": "chi trả"
+  },
+  {
+    "id": "V0618",
+    "word": "payment",
+    "pos": "noun",
+    "ipa": "/pˈeɪmʌnt/",
+    "meaning_vi": "sự chi trả"
+  },
+  {
+    "id": "V0619",
+    "word": "people",
+    "pos": "noun,verb",
+    "ipa": "/pˈipʌl/",
+    "meaning_vi": "mọi người"
+  },
+  {
+    "id": "V0620",
+    "word": "per",
+    "pos": "noun,verb",
+    "ipa": "/pˈɝ/",
+    "meaning_vi": "mỗi"
+  },
+  {
+    "id": "V0621",
+    "word": "person",
+    "pos": "noun,verb",
+    "ipa": "/pˈɝsʌn/",
+    "meaning_vi": "người"
+  },
+  {
+    "id": "V0622",
+    "word": "phone",
+    "pos": "noun,verb",
+    "ipa": "/fˈoʊn/",
+    "meaning_vi": "điện thoại"
+  },
+  {
+    "id": "V0623",
+    "word": "photo",
+    "pos": "noun,verb",
+    "ipa": "/fˈoʊtˌoʊ/",
+    "meaning_vi": "ảnh"
+  },
+  {
+    "id": "V0624",
+    "word": "pick",
+    "pos": "noun,verb",
+    "ipa": "/pˈɪk/",
+    "meaning_vi": "chọn"
+  },
+  {
+    "id": "V0625",
+    "word": "picture",
+    "pos": "noun",
+    "ipa": "/pˈɪktʃɝ/",
+    "meaning_vi": "hình ảnh"
+  },
+  {
+    "id": "V0626",
+    "word": "piece",
+    "pos": "noun,verb",
+    "ipa": "/pˈis/",
+    "meaning_vi": "cái"
+  },
+  {
+    "id": "V0627",
+    "word": "place",
+    "pos": "noun,verb",
+    "ipa": "/plˈeɪs/",
+    "meaning_vi": "địa điểm"
+  },
+  {
+    "id": "V0628",
+    "word": "plan",
+    "pos": "noun,verb",
+    "ipa": "/plˈæn/",
+    "meaning_vi": "kế hoạch"
+  },
+  {
+    "id": "V0629",
+    "word": "plant",
+    "pos": "noun,verb",
+    "ipa": "/plˈænt/",
+    "meaning_vi": "thực vật"
+  },
+  {
+    "id": "V0630",
+    "word": "play",
+    "pos": "adjective",
+    "ipa": "/plˈeɪ/",
+    "meaning_vi": "chơi"
+  },
+  {
+    "id": "V0631",
+    "word": "player",
+    "pos": "noun,verb",
+    "ipa": "/plˈeɪɝ/",
+    "meaning_vi": "người chơi"
+  },
+  {
+    "id": "V0632",
+    "word": "please",
+    "pos": "noun,verb",
+    "ipa": "/plˈiz/",
+    "meaning_vi": "Xin vui lòng"
+  },
+  {
+    "id": "V0633",
+    "word": "plenty",
+    "pos": "adjective",
+    "ipa": "/plˈɛnti/",
+    "meaning_vi": "nhiều"
+  },
+  {
+    "id": "V0634",
+    "word": "pocket",
+    "pos": "noun,verb",
+    "ipa": "/pˈɑkʌt/",
+    "meaning_vi": "túi"
+  },
+  {
+    "id": "V0635",
+    "word": "point",
+    "pos": "noun,verb",
+    "ipa": "/pˈɔɪnt/",
+    "meaning_vi": "điểm"
+  },
+  {
+    "id": "V0636",
+    "word": "police",
+    "pos": "noun,verb",
+    "ipa": "/pʌlˈis/",
+    "meaning_vi": "cảnh sát"
+  },
+  {
+    "id": "V0637",
+    "word": "policy",
+    "pos": "adjective",
+    "ipa": "/pˈɑlʌsi/",
+    "meaning_vi": "chính sách"
+  },
+  {
+    "id": "V0638",
+    "word": "poor",
+    "pos": "noun,verb",
+    "ipa": "/pˈuɹ/",
+    "meaning_vi": "nghèo"
+  },
+  {
+    "id": "V0639",
+    "word": "popular",
+    "pos": "noun,verb",
+    "ipa": "/pˈɑpjʌlɝ/",
+    "meaning_vi": "phổ biến"
+  },
+  {
+    "id": "V0640",
+    "word": "position",
+    "pos": "noun",
+    "ipa": "/pʌzˈɪʃʌn/",
+    "meaning_vi": "chức vụ"
+  },
+  {
+    "id": "V0641",
+    "word": "possible",
+    "pos": "adjective",
+    "ipa": "/pˈɑsʌbʌl/",
+    "meaning_vi": "khả thi"
+  },
+  {
+    "id": "V0642",
+    "word": "post",
+    "pos": "noun,verb",
+    "ipa": "/pˈoʊst/",
+    "meaning_vi": "bưu kiện"
+  },
+  {
+    "id": "V0643",
+    "word": "power",
+    "pos": "noun,verb",
+    "ipa": "/pˈaʊɝ/",
+    "meaning_vi": "quyền lực"
+  },
+  {
+    "id": "V0644",
+    "word": "practice",
+    "pos": "noun,verb",
+    "ipa": "/pɹˈæktʌs/",
+    "meaning_vi": "luyện tập"
+  },
+  {
+    "id": "V0645",
+    "word": "prepare",
+    "pos": "noun,verb",
+    "ipa": "/pɹipˈɛɹ/",
+    "meaning_vi": "chuẩn bị"
+  },
+  {
+    "id": "V0646",
+    "word": "present",
+    "pos": "noun,verb",
+    "ipa": "/pɹˈɛzʌnt/",
+    "meaning_vi": "hiện tại"
+  },
+  {
+    "id": "V0647",
+    "word": "press",
+    "pos": "noun,verb",
+    "ipa": "/pɹˈɛs/",
+    "meaning_vi": "nhấn"
+  },
+  {
+    "id": "V0648",
+    "word": "pretty",
+    "pos": "adjective",
+    "ipa": "/pɹˈɪti/",
+    "meaning_vi": "đẹp"
+  },
+  {
+    "id": "V0649",
+    "word": "price",
+    "pos": "noun,verb",
+    "ipa": "/pɹˈaɪs/",
+    "meaning_vi": "giá"
+  },
+  {
+    "id": "V0650",
+    "word": "problem",
+    "pos": "noun,verb",
+    "ipa": "/pɹˈɑblʌm/",
+    "meaning_vi": "vấn đề"
+  },
+  {
+    "id": "V0651",
+    "word": "produce",
+    "pos": "noun,verb",
+    "ipa": "/pɹʌdˈus/",
+    "meaning_vi": "sản xuất"
+  },
+  {
+    "id": "V0652",
+    "word": "product",
+    "pos": "noun,verb",
+    "ipa": "/pɹˈɑdʌkt/",
+    "meaning_vi": "sản phẩm"
+  },
+  {
+    "id": "V0653",
+    "word": "program",
+    "pos": "noun,verb",
+    "ipa": "/pɹˈoʊɡɹˌæm/",
+    "meaning_vi": "chương trình"
+  },
+  {
+    "id": "V0654",
+    "word": "project",
+    "pos": "noun,verb",
+    "ipa": "/pɹˈɑdʒɛkt/",
+    "meaning_vi": "dự án"
+  },
+  {
+    "id": "V0655",
+    "word": "promise",
+    "pos": "verb",
+    "ipa": "/pɹˈɑmʌs/",
+    "meaning_vi": "hứa"
+  },
+  {
+    "id": "V0656",
+    "word": "protect",
+    "pos": "noun,verb",
+    "ipa": "/pɹʌtˈɛkt/",
+    "meaning_vi": "bảo vệ"
+  },
+  {
+    "id": "V0657",
+    "word": "prove",
+    "pos": "noun,verb",
+    "ipa": "/pɹˈuv/",
+    "meaning_vi": "chứng minh"
+  },
+  {
+    "id": "V0658",
+    "word": "provide",
+    "pos": "noun,verb",
+    "ipa": "/pɹʌvˈaɪd/",
+    "meaning_vi": "cung cấp"
+  },
+  {
+    "id": "V0659",
+    "word": "public",
+    "pos": "adjective",
+    "ipa": "/pˈʌblɪk/",
+    "meaning_vi": "công cộng"
+  },
+  {
+    "id": "V0660",
+    "word": "pull",
+    "pos": "noun,verb",
+    "ipa": "/pˈʊl/",
+    "meaning_vi": "sự lôi kéo"
+  },
+  {
+    "id": "V0661",
+    "word": "purpose",
+    "pos": "noun,verb",
+    "ipa": "/pˈɝpʌs/",
+    "meaning_vi": "mục đích"
+  },
+  {
+    "id": "V0662",
+    "word": "push",
+    "pos": "noun,verb",
+    "ipa": "/pˈʊʃ/",
+    "meaning_vi": "xô"
+  },
+  {
+    "id": "V0663",
+    "word": "put",
+    "pos": "noun,verb",
+    "ipa": "/pˈʊt/",
+    "meaning_vi": "đặt"
+  },
+  {
+    "id": "V0664",
+    "word": "quality",
+    "pos": "noun",
+    "ipa": "/kwˈɑlʌti/",
+    "meaning_vi": "chất lượng"
+  },
+  {
+    "id": "V0665",
+    "word": "question",
+    "pos": "noun",
+    "ipa": "/kwˈɛstʃʌn/",
+    "meaning_vi": "câu hỏi"
+  },
+  {
+    "id": "V0666",
+    "word": "quick",
+    "pos": "noun,verb",
+    "ipa": "/kwˈɪk/",
+    "meaning_vi": "nhanh"
+  },
+  {
+    "id": "V0667",
+    "word": "quietly",
+    "pos": "adverb",
+    "ipa": "/kwˈaɪʌtli/",
+    "meaning_vi": "lặng lẽ"
+  },
+  {
+    "id": "V0668",
+    "word": "quite",
+    "pos": "noun,verb",
+    "ipa": "/kwˈaɪt/",
+    "meaning_vi": "khá"
+  },
+  {
+    "id": "V0669",
+    "word": "race",
+    "pos": "noun,verb",
+    "ipa": "/ɹˈeɪs/",
+    "meaning_vi": "cuộc đua"
+  },
+  {
+    "id": "V0670",
+    "word": "radio",
+    "pos": "noun,verb",
+    "ipa": "/ɹˈeɪdiˌoʊ/",
+    "meaning_vi": "radio"
+  },
+  {
+    "id": "V0671",
+    "word": "raise",
+    "pos": "verb",
+    "ipa": "/ɹˈeɪz/",
+    "meaning_vi": "nâng lên"
+  },
+  {
+    "id": "V0672",
+    "word": "range",
+    "pos": "noun,verb",
+    "ipa": "/ɹˈeɪndʒ/",
+    "meaning_vi": "phạm vi"
+  },
+  {
+    "id": "V0673",
+    "word": "rate",
+    "pos": "noun,verb",
+    "ipa": "/ɹˈeɪt/",
+    "meaning_vi": "tỷ lệ"
+  },
+  {
+    "id": "V0674",
+    "word": "rather",
+    "pos": "noun,verb",
+    "ipa": "/ɹˈæðɝ/",
+    "meaning_vi": "hơn là"
+  },
+  {
+    "id": "V0675",
+    "word": "reach",
+    "pos": "noun,verb",
+    "ipa": "/ɹˈitʃ/",
+    "meaning_vi": "với tới"
+  },
+  {
+    "id": "V0676",
+    "word": "read",
+    "pos": "noun,verb",
+    "ipa": "/ɹˈɛd/",
+    "meaning_vi": "đọc"
+  },
+  {
+    "id": "V0677",
+    "word": "ready",
+    "pos": "adjective",
+    "ipa": "/ɹˈɛdi/",
+    "meaning_vi": "sẵn sàng"
+  },
+  {
+    "id": "V0678",
+    "word": "real",
+    "pos": "adjective",
+    "ipa": "/ɹˈil/",
+    "meaning_vi": "thực tế"
+  },
+  {
+    "id": "V0679",
+    "word": "realize",
+    "pos": "verb",
+    "ipa": "/ɹˈiʌlˌaɪz/",
+    "meaning_vi": "nhận ra"
+  },
+  {
+    "id": "V0680",
+    "word": "really",
+    "pos": "adverb",
+    "ipa": "/ɹˈɪli/",
+    "meaning_vi": "Thực ra"
+  },
+  {
+    "id": "V0681",
+    "word": "reason",
+    "pos": "noun,verb",
+    "ipa": "/ɹˈizʌn/",
+    "meaning_vi": "lý do"
+  },
+  {
+    "id": "V0682",
+    "word": "receive",
+    "pos": "adjective",
+    "ipa": "/ɹʌsˈiv/",
+    "meaning_vi": "nhận được"
+  },
+  {
+    "id": "V0683",
+    "word": "recent",
+    "pos": "noun,verb",
+    "ipa": "/ɹˈisʌnt/",
+    "meaning_vi": "gần đây"
+  },
+  {
+    "id": "V0684",
+    "word": "record",
+    "pos": "noun,verb",
+    "ipa": "/ɹʌkˈɔɹd/",
+    "meaning_vi": "ghi lại"
+  },
+  {
+    "id": "V0685",
+    "word": "red",
+    "pos": "verb,adjective",
+    "ipa": "/ɹˈɛd/",
+    "meaning_vi": "màu đỏ"
+  },
+  {
+    "id": "V0686",
+    "word": "reduce",
+    "pos": "noun,verb",
+    "ipa": "/ɹʌdˈus/",
+    "meaning_vi": "giảm bớt"
+  },
+  {
+    "id": "V0687",
+    "word": "refer",
+    "pos": "noun,verb",
+    "ipa": "/ɹʌfˈɝ/",
+    "meaning_vi": "tham khảo"
+  },
+  {
+    "id": "V0688",
+    "word": "remember",
+    "pos": "noun,verb",
+    "ipa": "/ɹɪmˈɛmbɝ/",
+    "meaning_vi": "nhớ"
+  },
+  {
+    "id": "V0689",
+    "word": "remove",
+    "pos": "noun,verb",
+    "ipa": "/ɹimˈuv/",
+    "meaning_vi": "di dời"
+  },
+  {
+    "id": "V0690",
+    "word": "repair",
+    "pos": "noun,verb",
+    "ipa": "/ɹɪpˈɛɹ/",
+    "meaning_vi": "Sửa chữa"
+  },
+  {
+    "id": "V0691",
+    "word": "repeat",
+    "pos": "noun,verb",
+    "ipa": "/ɹɪpˈit/",
+    "meaning_vi": "lặp lại"
+  },
+  {
+    "id": "V0692",
+    "word": "reply",
+    "pos": "adverb",
+    "ipa": "/ɹɪplˈaɪ/",
+    "meaning_vi": "hồi đáp"
+  },
+  {
+    "id": "V0693",
+    "word": "report",
+    "pos": "noun,verb",
+    "ipa": "/ɹipˈɔɹt/",
+    "meaning_vi": "báo cáo"
+  },
+  {
+    "id": "V0694",
+    "word": "rest",
+    "pos": "noun,verb",
+    "ipa": "/ɹˈɛst/",
+    "meaning_vi": "nghỉ ngơi"
+  },
+  {
+    "id": "V0695",
+    "word": "result",
+    "pos": "noun,verb",
+    "ipa": "/ɹɪzˈʌlt/",
+    "meaning_vi": "kết quả"
+  },
+  {
+    "id": "V0696",
+    "word": "return",
+    "pos": "noun,verb",
+    "ipa": "/ɹɪtˈɝn/",
+    "meaning_vi": "trở lại"
+  },
+  {
+    "id": "V0697",
+    "word": "review",
+    "pos": "noun,verb",
+    "ipa": "/ɹˌivjˈu/",
+    "meaning_vi": "ôn tập"
+  },
+  {
+    "id": "V0698",
+    "word": "rich",
+    "pos": "noun,verb",
+    "ipa": "/ɹˈɪtʃ/",
+    "meaning_vi": "giàu có"
+  },
+  {
+    "id": "V0699",
+    "word": "ride",
+    "pos": "noun,verb",
+    "ipa": "/ɹˈaɪd/",
+    "meaning_vi": "lái"
+  },
+  {
+    "id": "V0700",
+    "word": "right",
+    "pos": "noun,verb",
+    "ipa": "/ɹˈaɪt/",
+    "meaning_vi": "Phải"
+  },
+  {
+    "id": "V0701",
+    "word": "ring",
+    "pos": "verb,adjective",
+    "ipa": "/ɹˈɪŋ/",
+    "meaning_vi": "nhẫn"
+  },
+  {
+    "id": "V0702",
+    "word": "rise",
+    "pos": "verb",
+    "ipa": "/ɹˈaɪz/",
+    "meaning_vi": "tăng lên"
+  },
+  {
+    "id": "V0703",
+    "word": "risk",
+    "pos": "noun,verb",
+    "ipa": "/ɹˈɪsk/",
+    "meaning_vi": "rủi ro"
+  },
+  {
+    "id": "V0704",
+    "word": "road",
+    "pos": "noun,verb",
+    "ipa": "/ɹˈoʊd/",
+    "meaning_vi": "đường"
+  },
+  {
+    "id": "V0705",
+    "word": "role",
+    "pos": "noun,verb",
+    "ipa": "/ɹˈoʊl/",
+    "meaning_vi": "vai trò"
+  },
+  {
+    "id": "V0706",
+    "word": "room",
+    "pos": "noun,verb",
+    "ipa": "/ɹˈum/",
+    "meaning_vi": "phòng"
+  },
+  {
+    "id": "V0707",
+    "word": "rule",
+    "pos": "noun,verb",
+    "ipa": "/ɹˈul/",
+    "meaning_vi": "luật lệ"
+  },
+  {
+    "id": "V0708",
+    "word": "run",
+    "pos": "noun,verb",
+    "ipa": "/ɹˈʌn/",
+    "meaning_vi": "chạy"
+  },
+  {
+    "id": "V0709",
+    "word": "sad",
+    "pos": "noun,verb",
+    "ipa": "/sˈæd/",
+    "meaning_vi": "buồn"
+  },
+  {
+    "id": "V0710",
+    "word": "safe",
+    "pos": "noun,verb",
+    "ipa": "/sˈeɪf/",
+    "meaning_vi": "an toàn"
+  },
+  {
+    "id": "V0711",
+    "word": "same",
+    "pos": "noun,verb",
+    "ipa": "/sˈeɪm/",
+    "meaning_vi": "như nhau"
+  },
+  {
+    "id": "V0712",
+    "word": "save",
+    "pos": "noun,verb",
+    "ipa": "/sˈeɪv/",
+    "meaning_vi": "cứu"
+  },
+  {
+    "id": "V0713",
+    "word": "say",
+    "pos": "adjective",
+    "ipa": "/sˈeɪ/",
+    "meaning_vi": "nói"
+  },
+  {
+    "id": "V0714",
+    "word": "school",
+    "pos": "noun,verb",
+    "ipa": "/skˈul/",
+    "meaning_vi": "trường học"
+  },
+  {
+    "id": "V0715",
+    "word": "science",
+    "pos": "noun",
+    "ipa": "/sˈaɪʌns/",
+    "meaning_vi": "khoa học"
+  },
+  {
+    "id": "V0716",
+    "word": "score",
+    "pos": "noun,verb",
+    "ipa": "/skˈɔɹ/",
+    "meaning_vi": "điểm"
+  },
+  {
+    "id": "V0717",
+    "word": "screen",
+    "pos": "verb",
+    "ipa": "/skɹˈin/",
+    "meaning_vi": "màn hình"
+  },
+  {
+    "id": "V0718",
+    "word": "sea",
+    "pos": "noun,verb",
+    "ipa": "/sˈi/",
+    "meaning_vi": "biển"
+  },
+  {
+    "id": "V0719",
+    "word": "search",
+    "pos": "noun,verb",
+    "ipa": "/sˈɝtʃ/",
+    "meaning_vi": "tìm kiếm"
+  },
+  {
+    "id": "V0720",
+    "word": "season",
+    "pos": "noun,verb",
+    "ipa": "/sˈizʌn/",
+    "meaning_vi": "mùa"
+  },
+  {
+    "id": "V0721",
+    "word": "seat",
+    "pos": "noun,verb",
+    "ipa": "/sˈit/",
+    "meaning_vi": "ghế"
+  },
+  {
+    "id": "V0722",
+    "word": "second",
+    "pos": "noun,verb",
+    "ipa": "/sˈɛkʌnd/",
+    "meaning_vi": "thứ hai"
+  },
+  {
+    "id": "V0723",
+    "word": "section",
+    "pos": "noun",
+    "ipa": "/sˈɛkʃʌn/",
+    "meaning_vi": "phần"
+  },
+  {
+    "id": "V0724",
+    "word": "see",
+    "pos": "noun,verb",
+    "ipa": "/sˈi/",
+    "meaning_vi": "nhìn thấy"
+  },
+  {
+    "id": "V0725",
+    "word": "seem",
+    "pos": "noun,verb",
+    "ipa": "/sˈim/",
+    "meaning_vi": "có vẻ"
+  },
+  {
+    "id": "V0726",
+    "word": "sell",
+    "pos": "noun,verb",
+    "ipa": "/sˈɛl/",
+    "meaning_vi": "bán"
+  },
+  {
+    "id": "V0727",
+    "word": "send",
+    "pos": "noun,verb",
+    "ipa": "/sˈɛnd/",
+    "meaning_vi": "gửi"
+  },
+  {
+    "id": "V0728",
+    "word": "senior",
+    "pos": "noun,verb",
+    "ipa": "/sˈinjɝ/",
+    "meaning_vi": "người lớn tuổi"
+  },
+  {
+    "id": "V0729",
+    "word": "sense",
+    "pos": "noun,verb",
+    "ipa": "/sˈɛns/",
+    "meaning_vi": "giác quan"
+  },
+  {
+    "id": "V0730",
+    "word": "sentence",
+    "pos": "noun",
+    "ipa": "/sˈɛntʌns/",
+    "meaning_vi": "câu"
+  },
+  {
+    "id": "V0731",
+    "word": "serious",
+    "pos": "adjective",
+    "ipa": "/sˈɪɹiʌs/",
+    "meaning_vi": "nghiêm trọng"
+  },
+  {
+    "id": "V0732",
+    "word": "serve",
+    "pos": "noun,verb",
+    "ipa": "/sˈɝv/",
+    "meaning_vi": "phục vụ"
+  },
+  {
+    "id": "V0733",
+    "word": "service",
+    "pos": "noun,verb",
+    "ipa": "/sˈɝvʌs/",
+    "meaning_vi": "dịch vụ"
+  },
+  {
+    "id": "V0734",
+    "word": "set",
+    "pos": "noun,verb",
+    "ipa": "/sˈɛt/",
+    "meaning_vi": "bộ"
+  },
+  {
+    "id": "V0735",
+    "word": "seven",
+    "pos": "verb",
+    "ipa": "/sˈɛvʌn/",
+    "meaning_vi": "bảy"
+  },
+  {
+    "id": "V0736",
+    "word": "several",
+    "pos": "adjective",
+    "ipa": "/sˈɛvɹʌl/",
+    "meaning_vi": "một số"
+  },
+  {
+    "id": "V0737",
+    "word": "share",
+    "pos": "noun,verb",
+    "ipa": "/ʃˈɛɹ/",
+    "meaning_vi": "chia sẻ"
+  },
+  {
+    "id": "V0738",
+    "word": "she",
+    "pos": "pronoun",
+    "ipa": "/ʃˈi/",
+    "meaning_vi": "cô ấy"
+  },
+  {
+    "id": "V0739",
+    "word": "shop",
+    "pos": "noun,verb",
+    "ipa": "/ʃˈɑp/",
+    "meaning_vi": "cửa hàng"
+  },
+  {
+    "id": "V0740",
+    "word": "short",
+    "pos": "noun,verb",
+    "ipa": "/ʃˈɔɹt/",
+    "meaning_vi": "ngắn"
+  },
+  {
+    "id": "V0741",
+    "word": "show",
+    "pos": "noun,verb",
+    "ipa": "/ʃˈoʊ/",
+    "meaning_vi": "trình diễn"
+  },
+  {
+    "id": "V0742",
+    "word": "sick",
+    "pos": "noun,verb",
+    "ipa": "/sˈɪk/",
+    "meaning_vi": "đau ốm"
+  },
+  {
+    "id": "V0743",
+    "word": "side",
+    "pos": "noun,verb",
+    "ipa": "/sˈaɪd/",
+    "meaning_vi": "bên"
+  },
+  {
+    "id": "V0744",
+    "word": "sign",
+    "pos": "noun,verb",
+    "ipa": "/sˈaɪn/",
+    "meaning_vi": "dấu hiệu"
+  },
+  {
+    "id": "V0745",
+    "word": "simple",
+    "pos": "noun,verb",
+    "ipa": "/sˈɪmpʌl/",
+    "meaning_vi": "đơn giản"
+  },
+  {
+    "id": "V0746",
+    "word": "since",
+    "pos": "preposition",
+    "ipa": "/sˈɪns/",
+    "meaning_vi": "từ"
+  },
+  {
+    "id": "V0747",
+    "word": "sing",
+    "pos": "verb,adjective",
+    "ipa": "/sˈɪŋ/",
+    "meaning_vi": "hát"
+  },
+  {
+    "id": "V0748",
+    "word": "sister",
+    "pos": "noun,verb",
+    "ipa": "/sˈɪstɝ/",
+    "meaning_vi": "em gái"
+  },
+  {
+    "id": "V0749",
+    "word": "sit",
+    "pos": "noun,verb",
+    "ipa": "/sˈɪt/",
+    "meaning_vi": "ngồi"
+  },
+  {
+    "id": "V0750",
+    "word": "six",
+    "pos": "noun,verb",
+    "ipa": "/sˈɪks/",
+    "meaning_vi": "sáu"
+  },
+  {
+    "id": "V0751",
+    "word": "size",
+    "pos": "verb",
+    "ipa": "/sˈaɪz/",
+    "meaning_vi": "kích cỡ"
+  },
+  {
+    "id": "V0752",
+    "word": "skill",
+    "pos": "noun,verb",
+    "ipa": "/skˈɪl/",
+    "meaning_vi": "kỹ năng"
+  },
+  {
+    "id": "V0753",
+    "word": "skin",
+    "pos": "noun,verb",
+    "ipa": "/skˈɪn/",
+    "meaning_vi": "da"
+  },
+  {
+    "id": "V0754",
+    "word": "sleep",
+    "pos": "noun,verb",
+    "ipa": "/slˈip/",
+    "meaning_vi": "ngủ"
+  },
+  {
+    "id": "V0755",
+    "word": "slow",
+    "pos": "noun,verb",
+    "ipa": "/slˈoʊ/",
+    "meaning_vi": "chậm"
+  },
+  {
+    "id": "V0756",
+    "word": "small",
+    "pos": "noun,verb",
+    "ipa": "/smˈɔl/",
+    "meaning_vi": "bé nhỏ"
+  },
+  {
+    "id": "V0757",
+    "word": "smile",
+    "pos": "noun,verb",
+    "ipa": "/smˈaɪl/",
+    "meaning_vi": "nụ cười"
+  },
+  {
+    "id": "V0758",
+    "word": "so",
+    "pos": "conjunction",
+    "ipa": "/sˈoʊ/",
+    "meaning_vi": "Vì thế"
+  },
+  {
+    "id": "V0759",
+    "word": "social",
+    "pos": "adjective",
+    "ipa": "/sˈoʊʃʌl/",
+    "meaning_vi": "xã hội"
+  },
+  {
+    "id": "V0760",
+    "word": "soft",
+    "pos": "noun,verb",
+    "ipa": "/sˈɑft/",
+    "meaning_vi": "mềm mại"
+  },
+  {
+    "id": "V0761",
+    "word": "some",
+    "pos": "determiner",
+    "ipa": "/sˈʌm/",
+    "meaning_vi": "một số"
+  },
+  {
+    "id": "V0762",
+    "word": "someone",
+    "pos": "noun,verb",
+    "ipa": "/sˈʌmwˌʌn/",
+    "meaning_vi": "người nào đó"
+  },
+  {
+    "id": "V0763",
+    "word": "something",
+    "pos": "verb,adjective",
+    "ipa": "/sˈʌmθɪŋ/",
+    "meaning_vi": "thứ gì đó"
+  },
+  {
+    "id": "V0764",
+    "word": "sometimes",
+    "pos": "noun,verb",
+    "ipa": "/sʌmtˈaɪmz/",
+    "meaning_vi": "Thỉnh thoảng"
+  },
+  {
+    "id": "V0765",
+    "word": "son",
+    "pos": "noun,verb",
+    "ipa": "/sˈʌn/",
+    "meaning_vi": "con trai"
+  },
+  {
+    "id": "V0766",
+    "word": "song",
+    "pos": "noun,verb",
+    "ipa": "/sˈɔŋ/",
+    "meaning_vi": "bài hát"
+  },
+  {
+    "id": "V0767",
+    "word": "soon",
+    "pos": "noun,verb",
+    "ipa": "/sˈun/",
+    "meaning_vi": "sớm"
+  },
+  {
+    "id": "V0768",
+    "word": "sorry",
+    "pos": "interjection",
+    "ipa": "/sˈɑɹi/",
+    "meaning_vi": "Xin lỗi"
+  },
+  {
+    "id": "V0769",
+    "word": "sort",
+    "pos": "noun,verb",
+    "ipa": "/sˈɔɹt/",
+    "meaning_vi": "loại"
+  },
+  {
+    "id": "V0770",
+    "word": "sound",
+    "pos": "noun,verb",
+    "ipa": "/sˈaʊnd/",
+    "meaning_vi": "âm thanh"
+  },
+  {
+    "id": "V0771",
+    "word": "soup",
+    "pos": "noun,verb",
+    "ipa": "/sˈup/",
+    "meaning_vi": "canh"
+  },
+  {
+    "id": "V0772",
+    "word": "south",
+    "pos": "noun,verb",
+    "ipa": "/sˈaʊθ/",
+    "meaning_vi": "phía nam"
+  },
+  {
+    "id": "V0773",
+    "word": "space",
+    "pos": "noun,verb",
+    "ipa": "/spˈeɪs/",
+    "meaning_vi": "không gian"
+  },
+  {
+    "id": "V0774",
+    "word": "speak",
+    "pos": "noun,verb",
+    "ipa": "/spˈik/",
+    "meaning_vi": "nói chuyện"
+  },
+  {
+    "id": "V0775",
+    "word": "special",
+    "pos": "adjective",
+    "ipa": "/spˈɛʃʌl/",
+    "meaning_vi": "đặc biệt"
+  },
+  {
+    "id": "V0776",
+    "word": "spend",
+    "pos": "noun,verb",
+    "ipa": "/spˈɛnd/",
+    "meaning_vi": "tiêu"
+  },
+  {
+    "id": "V0777",
+    "word": "sport",
+    "pos": "noun,verb",
+    "ipa": "/spˈɔɹt/",
+    "meaning_vi": "thể thao"
+  },
+  {
+    "id": "V0778",
+    "word": "spring",
+    "pos": "verb,adjective",
+    "ipa": "/spɹˈɪŋ/",
+    "meaning_vi": "mùa xuân"
+  },
+  {
+    "id": "V0779",
+    "word": "stand",
+    "pos": "noun,verb",
+    "ipa": "/stˈænd/",
+    "meaning_vi": "đứng"
+  },
+  {
+    "id": "V0780",
+    "word": "start",
+    "pos": "noun,verb",
+    "ipa": "/stˈɑɹt/",
+    "meaning_vi": "bắt đầu"
+  },
+  {
+    "id": "V0781",
+    "word": "state",
+    "pos": "noun,verb",
+    "ipa": "/stˈeɪt/",
+    "meaning_vi": "tình trạng"
+  },
+  {
+    "id": "V0782",
+    "word": "stay",
+    "pos": "adjective",
+    "ipa": "/stˈeɪ/",
+    "meaning_vi": "ở lại"
+  },
+  {
+    "id": "V0783",
+    "word": "step",
+    "pos": "noun,verb",
+    "ipa": "/stˈɛp/",
+    "meaning_vi": "bước chân"
+  },
+  {
+    "id": "V0784",
+    "word": "still",
+    "pos": "noun,verb",
+    "ipa": "/stˈɪl/",
+    "meaning_vi": "vẫn"
+  },
+  {
+    "id": "V0785",
+    "word": "stop",
+    "pos": "noun,verb",
+    "ipa": "/stˈɑp/",
+    "meaning_vi": "dừng lại"
+  },
+  {
+    "id": "V0786",
+    "word": "store",
+    "pos": "noun,verb",
+    "ipa": "/stˈɔɹ/",
+    "meaning_vi": "cửa hàng"
+  },
+  {
+    "id": "V0787",
+    "word": "story",
+    "pos": "adjective",
+    "ipa": "/stˈɔɹi/",
+    "meaning_vi": "câu chuyện"
+  },
+  {
+    "id": "V0788",
+    "word": "street",
+    "pos": "noun,verb",
+    "ipa": "/stɹˈit/",
+    "meaning_vi": "đường phố"
+  },
+  {
+    "id": "V0789",
+    "word": "strong",
+    "pos": "noun,verb",
+    "ipa": "/stɹˈɔŋ/",
+    "meaning_vi": "mạnh"
+  },
+  {
+    "id": "V0790",
+    "word": "student",
+    "pos": "noun,verb",
+    "ipa": "/stˈudʌnt/",
+    "meaning_vi": "học sinh"
+  },
+  {
+    "id": "V0791",
+    "word": "study",
+    "pos": "adjective",
+    "ipa": "/stˈʌdi/",
+    "meaning_vi": "nghiên cứu"
+  },
+  {
+    "id": "V0792",
+    "word": "stuff",
+    "pos": "noun,verb",
+    "ipa": "/stˈʌf/",
+    "meaning_vi": "chất liệu"
+  },
+  {
+    "id": "V0793",
+    "word": "style",
+    "pos": "noun,verb",
+    "ipa": "/stˈaɪl/",
+    "meaning_vi": "phong cách"
+  },
+  {
+    "id": "V0794",
+    "word": "subject",
+    "pos": "noun,verb",
+    "ipa": "/sʌbdʒˈɛkt/",
+    "meaning_vi": "chủ thể"
+  },
+  {
+    "id": "V0795",
+    "word": "success",
+    "pos": "noun,verb",
+    "ipa": "/sʌksˈɛs/",
+    "meaning_vi": "thành công"
+  },
+  {
+    "id": "V0796",
+    "word": "such",
+    "pos": "noun,verb",
+    "ipa": "/sˈʌtʃ/",
+    "meaning_vi": "như là"
+  },
+  {
+    "id": "V0797",
+    "word": "sugar",
+    "pos": "noun,verb",
+    "ipa": "/ʃˈʊɡɝ/",
+    "meaning_vi": "đường"
+  },
+  {
+    "id": "V0798",
+    "word": "suggest",
+    "pos": "noun,verb",
+    "ipa": "/sʌdʒˈɛst/",
+    "meaning_vi": "gợi ý"
+  },
+  {
+    "id": "V0799",
+    "word": "summer",
+    "pos": "noun,verb",
+    "ipa": "/sˈʌmɝ/",
+    "meaning_vi": "mùa hè"
+  },
+  {
+    "id": "V0800",
+    "word": "sun",
+    "pos": "noun,verb",
+    "ipa": "/sˈʌn/",
+    "meaning_vi": "mặt trời"
+  },
+  {
+    "id": "V0801",
+    "word": "support",
+    "pos": "noun,verb",
+    "ipa": "/sʌpˈɔɹt/",
+    "meaning_vi": "ủng hộ"
+  },
+  {
+    "id": "V0802",
+    "word": "sure",
+    "pos": "noun",
+    "ipa": "/ʃˈʊɹ/",
+    "meaning_vi": "chắc chắn"
+  },
+  {
+    "id": "V0803",
+    "word": "system",
+    "pos": "noun,verb",
+    "ipa": "/sˈɪstʌm/",
+    "meaning_vi": "hệ thống"
+  },
+  {
+    "id": "V0804",
+    "word": "table",
+    "pos": "adjective",
+    "ipa": "/tˈeɪbʌl/",
+    "meaning_vi": "bàn"
+  },
+  {
+    "id": "V0805",
+    "word": "take",
+    "pos": "noun,verb",
+    "ipa": "/tˈeɪk/",
+    "meaning_vi": "lấy"
+  },
+  {
+    "id": "V0806",
+    "word": "talk",
+    "pos": "noun,verb",
+    "ipa": "/tˈɔk/",
+    "meaning_vi": "nói chuyện"
+  },
+  {
+    "id": "V0807",
+    "word": "task",
+    "pos": "noun,verb",
+    "ipa": "/tˈæsk/",
+    "meaning_vi": "nhiệm vụ"
+  },
+  {
+    "id": "V0808",
+    "word": "taste",
+    "pos": "noun,verb",
+    "ipa": "/tˈeɪst/",
+    "meaning_vi": "nếm"
+  },
+  {
+    "id": "V0809",
+    "word": "teach",
+    "pos": "noun,verb",
+    "ipa": "/tˈitʃ/",
+    "meaning_vi": "dạy bảo"
+  },
+  {
+    "id": "V0810",
+    "word": "teacher",
+    "pos": "noun,verb",
+    "ipa": "/tˈitʃɝ/",
+    "meaning_vi": "giáo viên"
+  },
+  {
+    "id": "V0811",
+    "word": "team",
+    "pos": "noun,verb",
+    "ipa": "/tˈim/",
+    "meaning_vi": "đội"
+  },
+  {
+    "id": "V0812",
+    "word": "tell",
+    "pos": "noun,verb",
+    "ipa": "/tˈɛl/",
+    "meaning_vi": "kể"
+  },
+  {
+    "id": "V0813",
+    "word": "ten",
+    "pos": "verb",
+    "ipa": "/tˈɛn/",
+    "meaning_vi": "mười"
+  },
+  {
+    "id": "V0814",
+    "word": "term",
+    "pos": "noun,verb",
+    "ipa": "/tˈɝm/",
+    "meaning_vi": "thuật ngữ"
+  },
+  {
+    "id": "V0815",
+    "word": "test",
+    "pos": "noun,verb",
+    "ipa": "/tˈɛst/",
+    "meaning_vi": "Bài kiểm tra"
+  },
+  {
+    "id": "V0816",
+    "word": "than",
+    "pos": "noun,verb",
+    "ipa": "/ðˈæn/",
+    "meaning_vi": "hơn"
+  },
+  {
+    "id": "V0817",
+    "word": "thank",
+    "pos": "interjection",
+    "ipa": "/θˈæŋk/",
+    "meaning_vi": "cám ơn"
+  },
+  {
+    "id": "V0818",
+    "word": "that",
+    "pos": "determiner",
+    "ipa": "/ðˈæt/",
+    "meaning_vi": "cái đó"
+  },
+  {
+    "id": "V0819",
+    "word": "the",
+    "pos": "determiner",
+    "ipa": "/ðʌ/",
+    "meaning_vi": "cái"
+  },
+  {
+    "id": "V0820",
+    "word": "their",
+    "pos": "determiner",
+    "ipa": "/ðˈɛɹ/",
+    "meaning_vi": "của họ"
+  },
+  {
+    "id": "V0821",
+    "word": "them",
+    "pos": "pronoun",
+    "ipa": "/ðˈɛm/",
+    "meaning_vi": "họ"
+  },
+  {
+    "id": "V0822",
+    "word": "then",
+    "pos": "verb",
+    "ipa": "/ðˈɛn/",
+    "meaning_vi": "sau đó"
+  },
+  {
+    "id": "V0823",
+    "word": "there",
+    "pos": "noun,verb",
+    "ipa": "/ðˈɛɹ/",
+    "meaning_vi": "ở đó"
+  },
+  {
+    "id": "V0824",
+    "word": "these",
+    "pos": "determiner",
+    "ipa": "/ðˈiz/",
+    "meaning_vi": "những cái này"
+  },
+  {
+    "id": "V0825",
+    "word": "they",
+    "pos": "pronoun",
+    "ipa": "/ðˈeɪ/",
+    "meaning_vi": "họ"
+  },
+  {
+    "id": "V0826",
+    "word": "thing",
+    "pos": "verb,adjective",
+    "ipa": "/θˈɪŋ/",
+    "meaning_vi": "điều"
+  },
+  {
+    "id": "V0827",
+    "word": "think",
+    "pos": "noun,verb",
+    "ipa": "/θˈɪŋk/",
+    "meaning_vi": "nghĩ"
+  },
+  {
+    "id": "V0828",
+    "word": "third",
+    "pos": "noun,verb",
+    "ipa": "/θˈɝd/",
+    "meaning_vi": "thứ ba"
+  },
+  {
+    "id": "V0829",
+    "word": "this",
+    "pos": "determiner",
+    "ipa": "/ðˈɪs/",
+    "meaning_vi": "cái này"
+  },
+  {
+    "id": "V0830",
+    "word": "those",
+    "pos": "determiner",
+    "ipa": "/ðˈoʊz/",
+    "meaning_vi": "những thứ kia"
+  },
+  {
+    "id": "V0831",
+    "word": "though",
+    "pos": "conjunction",
+    "ipa": "/ðˈoʊ/",
+    "meaning_vi": "mặc dù"
+  },
+  {
+    "id": "V0832",
+    "word": "thought",
+    "pos": "noun,verb",
+    "ipa": "/θˈɔt/",
+    "meaning_vi": "nghĩ"
+  },
+  {
+    "id": "V0833",
+    "word": "three",
+    "pos": "noun,verb",
+    "ipa": "/θɹˈi/",
+    "meaning_vi": "ba"
+  },
+  {
+    "id": "V0834",
+    "word": "through",
+    "pos": "preposition",
+    "ipa": "/θɹˈu/",
+    "meaning_vi": "bởi vì"
+  },
+  {
+    "id": "V0835",
+    "word": "time",
+    "pos": "noun,verb",
+    "ipa": "/tˈaɪm/",
+    "meaning_vi": "thời gian"
+  },
+  {
+    "id": "V0836",
+    "word": "tired",
+    "pos": "verb,adjective",
+    "ipa": "/tˈaɪɝd/",
+    "meaning_vi": "mệt"
+  },
+  {
+    "id": "V0837",
+    "word": "to",
+    "pos": "preposition",
+    "ipa": "/tˈu/",
+    "meaning_vi": "ĐẾN"
+  },
+  {
+    "id": "V0838",
+    "word": "today",
+    "pos": "adjective",
+    "ipa": "/tʌdˈeɪ/",
+    "meaning_vi": "Hôm nay"
+  },
+  {
+    "id": "V0839",
+    "word": "together",
+    "pos": "noun,verb",
+    "ipa": "/tʌɡˈɛðɝ/",
+    "meaning_vi": "cùng nhau"
+  },
+  {
+    "id": "V0840",
+    "word": "tomorrow",
+    "pos": "noun,verb",
+    "ipa": "/tʌmˈɑɹˌoʊ/",
+    "meaning_vi": "Ngày mai"
+  },
+  {
+    "id": "V0841",
+    "word": "tone",
+    "pos": "noun,verb",
+    "ipa": "/tˈoʊn/",
+    "meaning_vi": "âm thanh"
+  },
+  {
+    "id": "V0842",
+    "word": "too",
+    "pos": "noun,verb",
+    "ipa": "/tˈu/",
+    "meaning_vi": "cũng vậy"
+  },
+  {
+    "id": "V0843",
+    "word": "tool",
+    "pos": "noun,verb",
+    "ipa": "/tˈul/",
+    "meaning_vi": "dụng cụ"
+  },
+  {
+    "id": "V0844",
+    "word": "top",
+    "pos": "noun,verb",
+    "ipa": "/tˈɑp/",
+    "meaning_vi": "đứng đầu"
+  },
+  {
+    "id": "V0845",
+    "word": "topic",
+    "pos": "adjective",
+    "ipa": "/tˈɑpɪk/",
+    "meaning_vi": "đề tài"
+  },
+  {
+    "id": "V0846",
+    "word": "total",
+    "pos": "adjective",
+    "ipa": "/tˈoʊtʌl/",
+    "meaning_vi": "tổng cộng"
+  },
+  {
+    "id": "V0847",
+    "word": "touch",
+    "pos": "noun,verb",
+    "ipa": "/tˈʌtʃ/",
+    "meaning_vi": "chạm"
+  },
+  {
+    "id": "V0848",
+    "word": "town",
+    "pos": "noun,verb",
+    "ipa": "/tˈaʊn/",
+    "meaning_vi": "thị trấn"
+  },
+  {
+    "id": "V0849",
+    "word": "travel",
+    "pos": "noun,verb",
+    "ipa": "/tɹˈævʌl/",
+    "meaning_vi": "du lịch"
+  },
+  {
+    "id": "V0850",
+    "word": "tree",
+    "pos": "noun,verb",
+    "ipa": "/tɹˈi/",
+    "meaning_vi": "cây"
+  },
+  {
+    "id": "V0851",
+    "word": "try",
+    "pos": "adjective",
+    "ipa": "/tɹˈaɪ/",
+    "meaning_vi": "thử"
+  },
+  {
+    "id": "V0852",
+    "word": "turn",
+    "pos": "noun,verb",
+    "ipa": "/tˈɝn/",
+    "meaning_vi": "xoay"
+  },
+  {
+    "id": "V0853",
+    "word": "two",
+    "pos": "noun,verb",
+    "ipa": "/tˈu/",
+    "meaning_vi": "hai"
+  },
+  {
+    "id": "V0854",
+    "word": "type",
+    "pos": "noun,verb",
+    "ipa": "/tˈaɪp/",
+    "meaning_vi": "kiểu"
+  },
+  {
+    "id": "V0855",
+    "word": "under",
+    "pos": "preposition",
+    "ipa": "/ˈʌndɝ/",
+    "meaning_vi": "dưới"
+  },
+  {
+    "id": "V0856",
+    "word": "understand",
+    "pos": "noun,verb",
+    "ipa": "/ˌʌndɝstˈænd/",
+    "meaning_vi": "hiểu"
+  },
+  {
+    "id": "V0857",
+    "word": "unit",
+    "pos": "noun,verb",
+    "ipa": "/jˈunʌt/",
+    "meaning_vi": "đơn vị"
+  },
+  {
+    "id": "V0858",
+    "word": "until",
+    "pos": "preposition",
+    "ipa": "/ʌntˈɪl/",
+    "meaning_vi": "cho đến khi"
+  },
+  {
+    "id": "V0859",
+    "word": "up",
+    "pos": "preposition",
+    "ipa": "/ˈʌp/",
+    "meaning_vi": "hướng lên"
+  },
+  {
+    "id": "V0860",
+    "word": "update",
+    "pos": "noun,verb",
+    "ipa": "/ʌpdˈeɪt/",
+    "meaning_vi": "cập nhật"
+  },
+  {
+    "id": "V0861",
+    "word": "upload",
+    "pos": "noun,verb",
+    "ipa": "/ˈʌplˌoʊd/",
+    "meaning_vi": "tải lên"
+  },
+  {
+    "id": "V0862",
+    "word": "us",
+    "pos": "pronoun",
+    "ipa": "/ˈʌs/",
+    "meaning_vi": "chúng ta"
+  },
+  {
+    "id": "V0863",
+    "word": "use",
+    "pos": "noun,verb",
+    "ipa": "/jˈus/",
+    "meaning_vi": "sử dụng"
+  },
+  {
+    "id": "V0864",
+    "word": "user",
+    "pos": "noun,verb",
+    "ipa": "/jˈuzɝ/",
+    "meaning_vi": "người dùng"
+  },
+  {
+    "id": "V0865",
+    "word": "usually",
+    "pos": "adverb",
+    "ipa": "/jˈuʒʌwʌli/",
+    "meaning_vi": "thường xuyên"
+  },
+  {
+    "id": "V0866",
+    "word": "value",
+    "pos": "noun,verb",
+    "ipa": "/vˈælju/",
+    "meaning_vi": "giá trị"
+  },
+  {
+    "id": "V0867",
+    "word": "very",
+    "pos": "adjective",
+    "ipa": "/vˈɛɹi/",
+    "meaning_vi": "rất"
+  },
+  {
+    "id": "V0868",
+    "word": "video",
+    "pos": "noun,verb",
+    "ipa": "/vˈɪdioʊ/",
+    "meaning_vi": "băng hình"
+  },
+  {
+    "id": "V0869",
+    "word": "view",
+    "pos": "noun,verb",
+    "ipa": "/vjˈu/",
+    "meaning_vi": "xem"
+  },
+  {
+    "id": "V0870",
+    "word": "village",
+    "pos": "noun",
+    "ipa": "/vˈɪlʌdʒ/",
+    "meaning_vi": "làng bản"
+  },
+  {
+    "id": "V0871",
+    "word": "voice",
+    "pos": "noun,verb",
+    "ipa": "/vˈɔɪs/",
+    "meaning_vi": "tiếng nói"
+  },
+  {
+    "id": "V0872",
+    "word": "wait",
+    "pos": "noun,verb",
+    "ipa": "/wˈeɪt/",
+    "meaning_vi": "Chờ đợi"
+  },
+  {
+    "id": "V0873",
+    "word": "walk",
+    "pos": "noun,verb",
+    "ipa": "/wˈɔk/",
+    "meaning_vi": "đi bộ"
+  },
+  {
+    "id": "V0874",
+    "word": "want",
+    "pos": "noun,verb",
+    "ipa": "/wˈɑnt/",
+    "meaning_vi": "muốn"
+  },
+  {
+    "id": "V0875",
+    "word": "war",
+    "pos": "noun,verb",
+    "ipa": "/wˈɔɹ/",
+    "meaning_vi": "chiến tranh"
+  },
+  {
+    "id": "V0876",
+    "word": "warm",
+    "pos": "noun,verb",
+    "ipa": "/wˈɔɹm/",
+    "meaning_vi": "ấm"
+  },
+  {
+    "id": "V0877",
+    "word": "was",
+    "pos": "auxiliary,verb",
+    "ipa": "/wˈɑz/",
+    "meaning_vi": "đã từng là"
+  },
+  {
+    "id": "V0878",
+    "word": "watch",
+    "pos": "noun,verb",
+    "ipa": "/wˈɑtʃ/",
+    "meaning_vi": "xem"
+  },
+  {
+    "id": "V0879",
+    "word": "water",
+    "pos": "noun,verb",
+    "ipa": "/wˈɔtɝ/",
+    "meaning_vi": "Nước"
+  },
+  {
+    "id": "V0880",
+    "word": "way",
+    "pos": "adjective",
+    "ipa": "/wˈeɪ/",
+    "meaning_vi": "đường"
+  },
+  {
+    "id": "V0881",
+    "word": "we",
+    "pos": "pronoun",
+    "ipa": "/wˈi/",
+    "meaning_vi": "chúng tôi"
+  },
+  {
+    "id": "V0882",
+    "word": "weal",
+    "pos": "adjective",
+    "ipa": "/wil/",
+    "meaning_vi": "phúc lợi"
+  },
+  {
+    "id": "V0883",
+    "word": "wear",
+    "pos": "noun,verb",
+    "ipa": "/wˈɛɹ/",
+    "meaning_vi": "mặc"
+  },
+  {
+    "id": "V0884",
+    "word": "weather",
+    "pos": "noun,verb",
+    "ipa": "/wˈɛðɝ/",
+    "meaning_vi": "thời tiết"
+  },
+  {
+    "id": "V0885",
+    "word": "website",
+    "pos": "noun,verb",
+    "ipa": "/wˈɛbsˌaɪt/",
+    "meaning_vi": "trang web"
+  },
+  {
+    "id": "V0886",
+    "word": "week",
+    "pos": "noun,verb",
+    "ipa": "/wˈik/",
+    "meaning_vi": "tuần"
+  },
+  {
+    "id": "V0887",
+    "word": "welcome",
+    "pos": "noun,verb",
+    "ipa": "/wˈɛlkʌm/",
+    "meaning_vi": "Chào mừng"
+  },
+  {
+    "id": "V0888",
+    "word": "well",
+    "pos": "noun,verb",
+    "ipa": "/wˈɛl/",
+    "meaning_vi": "Tốt"
+  },
+  {
+    "id": "V0889",
+    "word": "west",
+    "pos": "noun,verb",
+    "ipa": "/wˈɛst/",
+    "meaning_vi": "phía tây"
+  },
+  {
+    "id": "V0890",
+    "word": "what",
+    "pos": "noun,verb",
+    "ipa": "/wˈʌt/",
+    "meaning_vi": "Gì"
+  },
+  {
+    "id": "V0891",
+    "word": "when",
+    "pos": "conjunction",
+    "ipa": "/wˈɛn/",
+    "meaning_vi": "khi"
+  },
+  {
+    "id": "V0892",
+    "word": "where",
+    "pos": "noun,verb",
+    "ipa": "/wˈɛɹ/",
+    "meaning_vi": "Ở đâu"
+  },
+  {
+    "id": "V0893",
+    "word": "which",
+    "pos": "noun,verb",
+    "ipa": "/wˈɪtʃ/",
+    "meaning_vi": "cái mà"
+  },
+  {
+    "id": "V0894",
+    "word": "while",
+    "pos": "conjunction",
+    "ipa": "/wˈaɪl/",
+    "meaning_vi": "trong khi"
+  },
+  {
+    "id": "V0895",
+    "word": "white",
+    "pos": "noun,verb",
+    "ipa": "/wˈaɪt/",
+    "meaning_vi": "trắng"
+  },
+  {
+    "id": "V0896",
+    "word": "who",
+    "pos": "noun,verb",
+    "ipa": "/hˈu/",
+    "meaning_vi": "Ai"
+  },
+  {
+    "id": "V0897",
+    "word": "why",
+    "pos": "adjective",
+    "ipa": "/wˈaɪ/",
+    "meaning_vi": "Tại sao"
+  },
+  {
+    "id": "V0898",
+    "word": "wide",
+    "pos": "noun,verb",
+    "ipa": "/wˈaɪd/",
+    "meaning_vi": "rộng"
+  },
+  {
+    "id": "V0899",
+    "word": "wife",
+    "pos": "noun,verb",
+    "ipa": "/wˈaɪf/",
+    "meaning_vi": "vợ"
+  },
+  {
+    "id": "V0900",
+    "word": "wild",
+    "pos": "noun,verb",
+    "ipa": "/wˈaɪld/",
+    "meaning_vi": "hoang dã"
+  },
+  {
+    "id": "V0901",
+    "word": "will",
+    "pos": "auxiliary,verb",
+    "ipa": "/wˈɪl/",
+    "meaning_vi": "sẽ"
+  },
+  {
+    "id": "V0902",
+    "word": "win",
+    "pos": "noun,verb",
+    "ipa": "/wˈɪn/",
+    "meaning_vi": "thắng"
+  },
+  {
+    "id": "V0903",
+    "word": "wind",
+    "pos": "noun,verb",
+    "ipa": "/wˈaɪnd/",
+    "meaning_vi": "gió"
+  },
+  {
+    "id": "V0904",
+    "word": "window",
+    "pos": "noun,verb",
+    "ipa": "/wˈɪndoʊ/",
+    "meaning_vi": "cửa sổ"
+  },
+  {
+    "id": "V0905",
+    "word": "winter",
+    "pos": "noun,verb",
+    "ipa": "/wˈɪntɝ/",
+    "meaning_vi": "mùa đông"
+  },
+  {
+    "id": "V0906",
+    "word": "wish",
+    "pos": "adjective",
+    "ipa": "/wˈɪʃ/",
+    "meaning_vi": "ước"
+  },
+  {
+    "id": "V0907",
+    "word": "with",
+    "pos": "preposition",
+    "ipa": "/wˈɪð/",
+    "meaning_vi": "với"
+  },
+  {
+    "id": "V0908",
+    "word": "within",
+    "pos": "preposition",
+    "ipa": "/wɪðˈɪn/",
+    "meaning_vi": "ở trong"
+  },
+  {
+    "id": "V0909",
+    "word": "without",
+    "pos": "preposition",
+    "ipa": "/wɪθˈaʊt/",
+    "meaning_vi": "không có"
+  },
+  {
+    "id": "V0910",
+    "word": "woman",
+    "pos": "noun,verb",
+    "ipa": "/wˈʊmʌn/",
+    "meaning_vi": "đàn bà"
+  },
+  {
+    "id": "V0911",
+    "word": "wonder",
+    "pos": "noun,verb",
+    "ipa": "/wˈʌndɝ/",
+    "meaning_vi": "thắc mắc"
+  },
+  {
+    "id": "V0912",
+    "word": "word",
+    "pos": "noun,verb",
+    "ipa": "/wˈɝd/",
+    "meaning_vi": "từ"
+  },
+  {
+    "id": "V0913",
+    "word": "work",
+    "pos": "noun,verb",
+    "ipa": "/wˈɝk/",
+    "meaning_vi": "công việc"
+  },
+  {
+    "id": "V0914",
+    "word": "worker",
+    "pos": "noun,verb",
+    "ipa": "/wˈɝkɝ/",
+    "meaning_vi": "công nhân"
+  },
+  {
+    "id": "V0915",
+    "word": "world",
+    "pos": "noun,verb",
+    "ipa": "/wˈɝld/",
+    "meaning_vi": "thế giới"
+  },
+  {
+    "id": "V0916",
+    "word": "worry",
+    "pos": "adjective",
+    "ipa": "/wˈɝi/",
+    "meaning_vi": "lo lắng"
+  },
+  {
+    "id": "V0917",
+    "word": "would",
+    "pos": "auxiliary,verb",
+    "ipa": "/wˈʊd/",
+    "meaning_vi": "sẽ"
+  },
+  {
+    "id": "V0918",
+    "word": "write",
+    "pos": "noun,verb",
+    "ipa": "/ɹˈaɪt/",
+    "meaning_vi": "viết"
+  },
+  {
+    "id": "V0919",
+    "word": "writer",
+    "pos": "noun,verb",
+    "ipa": "/ɹˈaɪtɝ/",
+    "meaning_vi": "nhà văn"
+  },
+  {
+    "id": "V0920",
+    "word": "wrong",
+    "pos": "noun,verb",
+    "ipa": "/ɹˈɔŋ/",
+    "meaning_vi": "sai"
+  },
+  {
+    "id": "V0921",
+    "word": "year",
+    "pos": "noun,verb",
+    "ipa": "/jˈɪɹ/",
+    "meaning_vi": "năm"
+  },
+  {
+    "id": "V0922",
+    "word": "yes",
+    "pos": "interjection",
+    "ipa": "/jˈɛs/",
+    "meaning_vi": "Đúng"
+  },
+  {
+    "id": "V0923",
+    "word": "yet",
+    "pos": "noun,verb",
+    "ipa": "/jˈɛt/",
+    "meaning_vi": "chưa"
+  },
+  {
+    "id": "V0924",
+    "word": "you",
+    "pos": "pronoun",
+    "ipa": "/jˈu/",
+    "meaning_vi": "Bạn"
+  },
+  {
+    "id": "V0925",
+    "word": "young",
+    "pos": "noun,verb",
+    "ipa": "/jˈʌŋ/",
+    "meaning_vi": "trẻ"
+  },
+  {
+    "id": "V0926",
+    "word": "your",
+    "pos": "determiner",
+    "ipa": "/jˈɔɹ/",
+    "meaning_vi": "của bạn"
+  },
+  {
+    "id": "V0927",
+    "word": "zero",
+    "pos": "noun,verb",
+    "ipa": "/zˈɪɹoʊ/",
+    "meaning_vi": "số không"
+  },
+  {
+    "id": "V0928",
+    "word": "ability",
+    "pos": "noun",
+    "ipa": "/ʌbˈɪlʌtˌi/",
+    "meaning_vi": "khả năng"
+  },
+  {
+    "id": "V0929",
+    "word": "able",
+    "pos": "adjective",
+    "ipa": "/ˈeɪbʌl/",
+    "meaning_vi": "có thể"
+  },
+  {
+    "id": "V0930",
+    "word": "abroad",
+    "pos": "noun,verb",
+    "ipa": "/ʌbɹˈɔd/",
+    "meaning_vi": "ở nước ngoài"
+  },
+  {
+    "id": "V0931",
+    "word": "absence",
+    "pos": "noun",
+    "ipa": "/ˈæbsʌns/",
+    "meaning_vi": "vắng mặt"
+  },
+  {
+    "id": "V0932",
+    "word": "absolute",
+    "pos": "noun,verb",
+    "ipa": "/ˈæbsʌlˌut/",
+    "meaning_vi": "tuyệt đối"
+  },
+  {
+    "id": "V0933",
+    "word": "absolutely",
+    "pos": "adverb",
+    "ipa": "/ˌæbsʌlˈutli/",
+    "meaning_vi": "tuyệt đối"
+  },
+  {
+    "id": "V0934",
+    "word": "academic",
+    "pos": "adjective",
+    "ipa": "/ˌækʌdˈɛmɪk/",
+    "meaning_vi": "học thuật"
+  },
+  {
+    "id": "V0935",
+    "word": "access",
+    "pos": "noun,verb",
+    "ipa": "/ˈæksˌɛs/",
+    "meaning_vi": "truy cập"
+  },
+  {
+    "id": "V0936",
+    "word": "accident",
+    "pos": "noun,verb",
+    "ipa": "/ˈæksʌdʌnt/",
+    "meaning_vi": "tai nạn"
+  },
+  {
+    "id": "V0937",
+    "word": "according",
+    "pos": "verb,adjective",
+    "ipa": "/ʌkˈɔɹdɪŋ/",
+    "meaning_vi": "theo"
+  },
+  {
+    "id": "V0938",
+    "word": "achieve",
+    "pos": "noun,verb",
+    "ipa": "/ʌtʃˈiv/",
+    "meaning_vi": "đạt được"
+  },
+  {
+    "id": "V0939",
+    "word": "achievement",
+    "pos": "noun",
+    "ipa": "/ʌtʃˈivmʌnt/",
+    "meaning_vi": "thành tích"
+  },
+  {
+    "id": "V0940",
+    "word": "acid",
+    "pos": "noun,verb",
+    "ipa": "/ˈæsʌd/",
+    "meaning_vi": "axit"
+  },
+  {
+    "id": "V0941",
+    "word": "actor",
+    "pos": "noun,verb",
+    "ipa": "/ˈæktɝ/",
+    "meaning_vi": "diễn viên"
+  },
+  {
+    "id": "V0942",
+    "word": "actress",
+    "pos": "noun,verb",
+    "ipa": "/ˈæktɹʌs/",
+    "meaning_vi": "nữ diễn viên"
+  },
+  {
+    "id": "V0943",
+    "word": "addition",
+    "pos": "noun",
+    "ipa": "/ʌdˈɪʃʌn/",
+    "meaning_vi": "phép cộng"
+  },
+  {
+    "id": "V0944",
+    "word": "additional",
+    "pos": "adjective",
+    "ipa": "/ʌdˈɪʃʌnʌl/",
+    "meaning_vi": "thêm vào"
+  },
+  {
+    "id": "V0945",
+    "word": "adjust",
+    "pos": "noun,verb",
+    "ipa": "/ʌdʒˈʌst/",
+    "meaning_vi": "điều chỉnh"
+  },
+  {
+    "id": "V0946",
+    "word": "advance",
+    "pos": "noun",
+    "ipa": "/ʌdvˈæns/",
+    "meaning_vi": "nâng cao"
+  },
+  {
+    "id": "V0947",
+    "word": "advantage",
+    "pos": "noun",
+    "ipa": "/ædvˈæntɪdʒ/",
+    "meaning_vi": "lợi thế"
+  },
+  {
+    "id": "V0948",
+    "word": "adventure",
+    "pos": "noun",
+    "ipa": "/ædvˈɛntʃɝ/",
+    "meaning_vi": "cuộc phiêu lưu"
+  },
+  {
+    "id": "V0949",
+    "word": "advice",
+    "pos": "noun,verb",
+    "ipa": "/ædvˈaɪs/",
+    "meaning_vi": "khuyên bảo"
+  },
+  {
+    "id": "V0950",
+    "word": "advise",
+    "pos": "verb",
+    "ipa": "/ædvˈaɪz/",
+    "meaning_vi": "khuyên nhủ"
+  },
+  {
+    "id": "V0951",
+    "word": "afraid",
+    "pos": "noun,verb",
+    "ipa": "/ʌfɹˈeɪd/",
+    "meaning_vi": "sợ"
+  },
+  {
+    "id": "V0952",
+    "word": "agency",
+    "pos": "adjective",
+    "ipa": "/ˈeɪdʒʌnsi/",
+    "meaning_vi": "hãng"
+  },
+  {
+    "id": "V0953",
+    "word": "agent",
+    "pos": "noun,verb",
+    "ipa": "/ˈeɪdʒʌnt/",
+    "meaning_vi": "đại lý"
+  },
+  {
+    "id": "V0954",
+    "word": "agreement",
+    "pos": "noun",
+    "ipa": "/ʌɡɹˈimʌnt/",
+    "meaning_vi": "hiệp định"
+  },
+  {
+    "id": "V0955",
+    "word": "ahead",
+    "pos": "noun,verb",
+    "ipa": "/ʌhˈɛd/",
+    "meaning_vi": "phía trước"
+  },
+  {
+    "id": "V0956",
+    "word": "aid",
+    "pos": "noun,verb",
+    "ipa": "/ˈeɪd/",
+    "meaning_vi": "sự giúp đỡ"
+  },
+  {
+    "id": "V0957",
+    "word": "aim",
+    "pos": "noun,verb",
+    "ipa": "/ˈeɪm/",
+    "meaning_vi": "mục tiêu"
+  },
+  {
+    "id": "V0958",
+    "word": "airport",
+    "pos": "noun,verb",
+    "ipa": "/ˈɛɹpˌɔɹt/",
+    "meaning_vi": "sân bay"
+  },
+  {
+    "id": "V0959",
+    "word": "alive",
+    "pos": "adjective",
+    "ipa": "/ʌlˈaɪv/",
+    "meaning_vi": "còn sống"
+  },
+  {
+    "id": "V0960",
+    "word": "allowance",
+    "pos": "noun",
+    "ipa": "/ʌlˈaʊʌns/",
+    "meaning_vi": "trợ cấp"
+  },
+  {
+    "id": "V0961",
+    "word": "alright",
+    "pos": "noun,verb",
+    "ipa": "/ˌɔlɹˈaɪt/",
+    "meaning_vi": "được rồi"
+  },
+  {
+    "id": "V0962",
+    "word": "altogether",
+    "pos": "noun,verb",
+    "ipa": "/ˌɔltʌɡˈɛðɝ/",
+    "meaning_vi": "toàn bộ"
+  },
+  {
+    "id": "V0963",
+    "word": "among",
+    "pos": "noun,verb",
+    "ipa": "/ʌmˈʌŋ/",
+    "meaning_vi": "giữa"
+  },
+  {
+    "id": "V0964",
+    "word": "analysis",
+    "pos": "noun,verb",
+    "ipa": "/ʌnˈælʌsʌs/",
+    "meaning_vi": "Phân tích"
+  },
+  {
+    "id": "V0965",
+    "word": "analyst",
+    "pos": "noun,verb",
+    "ipa": "/ˈænʌlɪst/",
+    "meaning_vi": "nhà phân tích"
+  },
+  {
+    "id": "V0966",
+    "word": "ancient",
+    "pos": "noun,verb",
+    "ipa": "/ˈeɪntʃʌnt/",
+    "meaning_vi": "cổ đại"
+  },
+  {
+    "id": "V0967",
+    "word": "angle",
+    "pos": "noun,verb",
+    "ipa": "/ˈæŋɡʌl/",
+    "meaning_vi": "góc"
+  },
+  {
+    "id": "V0968",
+    "word": "angry",
+    "pos": "adjective",
+    "ipa": "/ˈæŋɡɹi/",
+    "meaning_vi": "tức giận"
+  },
+  {
+    "id": "V0969",
+    "word": "announce",
+    "pos": "noun,verb",
+    "ipa": "/ʌnˈaʊns/",
+    "meaning_vi": "thông báo"
+  },
+  {
+    "id": "V0970",
+    "word": "announcement",
+    "pos": "noun",
+    "ipa": "/ʌnˈaʊnsmʌnt/",
+    "meaning_vi": "thông báo"
+  },
+  {
+    "id": "V0971",
+    "word": "annual",
+    "pos": "adjective",
+    "ipa": "/ˈænjuʌl/",
+    "meaning_vi": "hàng năm"
+  },
+  {
+    "id": "V0972",
+    "word": "another",
+    "pos": "noun,verb",
+    "ipa": "/ʌnˈʌðɝ/",
+    "meaning_vi": "khác"
+  },
+  {
+    "id": "V0973",
+    "word": "anyway",
+    "pos": "adjective",
+    "ipa": "/ˈɛniwˌeɪ/",
+    "meaning_vi": "Dẫu sao thì"
+  },
+  {
+    "id": "V0974",
+    "word": "anywhere",
+    "pos": "noun,verb",
+    "ipa": "/ˈɛniwˌɛɹ/",
+    "meaning_vi": "bất cứ nơi nào"
+  },
+  {
+    "id": "V0975",
+    "word": "apart",
+    "pos": "noun,verb",
+    "ipa": "/ʌpˈɑɹt/",
+    "meaning_vi": "riêng biệt"
+  },
+  {
+    "id": "V0976",
+    "word": "apartment",
+    "pos": "noun",
+    "ipa": "/ʌpˈɑɹtmʌnt/",
+    "meaning_vi": "căn hộ"
+  },
+  {
+    "id": "V0977",
+    "word": "apologize",
+    "pos": "verb",
+    "ipa": "/ʌpˈɑlʌdʒˌaɪz/",
+    "meaning_vi": "xin lỗi"
+  },
+  {
+    "id": "V0978",
+    "word": "app",
+    "pos": "noun,verb",
+    "ipa": "/ˈæp/",
+    "meaning_vi": "ứng dụng"
+  },
+  {
+    "id": "V0979",
+    "word": "appearance",
+    "pos": "noun",
+    "ipa": "/ʌpˈɪɹʌns/",
+    "meaning_vi": "vẻ bề ngoài"
+  },
+  {
+    "id": "V0980",
+    "word": "apple",
+    "pos": "noun,verb",
+    "ipa": "/ˈæpʌl/",
+    "meaning_vi": "quả táo"
+  },
+  {
+    "id": "V0981",
+    "word": "application",
+    "pos": "noun",
+    "ipa": "/ˌæplʌkˈeɪʃʌn/",
+    "meaning_vi": "ứng dụng"
+  },
+  {
+    "id": "V0982",
+    "word": "appointment",
+    "pos": "noun",
+    "ipa": "/ʌpˈɔɪntmʌnt/",
+    "meaning_vi": "cuộc hẹn"
+  },
+  {
+    "id": "V0983",
+    "word": "appreciate",
+    "pos": "noun,verb",
+    "ipa": "/ʌpɹˈiʃiˌeɪt/",
+    "meaning_vi": "đánh giá"
+  },
+  {
+    "id": "V0984",
+    "word": "approach",
+    "pos": "noun,verb",
+    "ipa": "/ʌpɹˈoʊtʃ/",
+    "meaning_vi": "tiếp cận"
+  },
+  {
+    "id": "V0985",
+    "word": "appropriate",
+    "pos": "noun,verb",
+    "ipa": "/ʌpɹˈoʊpɹiʌt/",
+    "meaning_vi": "phù hợp"
+  },
+  {
+    "id": "V0986",
+    "word": "approval",
+    "pos": "adjective",
+    "ipa": "/ʌpɹˈuvʌl/",
+    "meaning_vi": "sự chấp thuận"
+  },
+  {
+    "id": "V0987",
+    "word": "approve",
+    "pos": "noun,verb",
+    "ipa": "/ʌpɹˈuv/",
+    "meaning_vi": "chấp thuận"
+  },
+  {
+    "id": "V0988",
+    "word": "argument",
+    "pos": "noun",
+    "ipa": "/ˈɑɹɡjʌmʌnt/",
+    "meaning_vi": "lý lẽ"
+  },
+  {
+    "id": "V0989",
+    "word": "arise",
+    "pos": "verb",
+    "ipa": "/ɝˈaɪz/",
+    "meaning_vi": "phát sinh"
+  },
+  {
+    "id": "V0990",
+    "word": "army",
+    "pos": "adjective",
+    "ipa": "/ˈɑɹmi/",
+    "meaning_vi": "quân đội"
+  },
+  {
+    "id": "V0991",
+    "word": "arrange",
+    "pos": "noun,verb",
+    "ipa": "/ɝˈeɪndʒ/",
+    "meaning_vi": "sắp xếp"
+  },
+  {
+    "id": "V0992",
+    "word": "arrangement",
+    "pos": "noun",
+    "ipa": "/ɝˈeɪndʒmʌnt/",
+    "meaning_vi": "sắp xếp"
+  },
+  {
+    "id": "V0993",
+    "word": "arrival",
+    "pos": "adjective",
+    "ipa": "/ɝˈaɪvʌl/",
+    "meaning_vi": "đến"
+  },
+  {
+    "id": "V0994",
+    "word": "article",
+    "pos": "noun,verb",
+    "ipa": "/ˈɑɹtʌkʌl/",
+    "meaning_vi": "bài báo"
+  },
+  {
+    "id": "V0995",
+    "word": "artist",
+    "pos": "noun",
+    "ipa": "/ˈɑɹtʌst/",
+    "meaning_vi": "nghệ sĩ"
+  },
+  {
+    "id": "V0996",
+    "word": "aside",
+    "pos": "noun,verb",
+    "ipa": "/ʌsˈaɪd/",
+    "meaning_vi": "ngoài ra"
+  },
+  {
+    "id": "V0997",
+    "word": "asleep",
+    "pos": "noun,verb",
+    "ipa": "/ʌslˈip/",
+    "meaning_vi": "ngủ"
+  },
+  {
+    "id": "V0998",
+    "word": "aspect",
+    "pos": "noun,verb",
+    "ipa": "/ˈæspˌɛkt/",
+    "meaning_vi": "diện mạo"
+  },
+  {
+    "id": "V0999",
+    "word": "assist",
+    "pos": "noun",
+    "ipa": "/ʌsˈɪst/",
+    "meaning_vi": "hỗ trợ"
+  },
+  {
+    "id": "V1000",
+    "word": "assistant",
+    "pos": "noun,verb",
+    "ipa": "/ʌsˈɪstʌnt/",
+    "meaning_vi": "trợ lý"
+  },
+  {
+    "id": "V1001",
+    "word": "assume",
+    "pos": "noun,verb",
+    "ipa": "/ʌsˈum/",
+    "meaning_vi": "cho rằng"
+  },
+  {
+    "id": "V1002",
+    "word": "assumption",
+    "pos": "noun",
+    "ipa": "/ʌsˈʌmpʃʌn/",
+    "meaning_vi": "giả định"
+  },
+  {
+    "id": "V1003",
+    "word": "assure",
+    "pos": "noun",
+    "ipa": "/ʌʃˈʊɹ/",
+    "meaning_vi": "đảm bảo"
+  },
+  {
+    "id": "V1004",
+    "word": "attempt",
+    "pos": "noun,verb",
+    "ipa": "/ʌtˈɛmpt/",
+    "meaning_vi": "nỗ lực"
+  },
+  {
+    "id": "V1005",
+    "word": "attend",
+    "pos": "noun,verb",
+    "ipa": "/ʌtˈɛnd/",
+    "meaning_vi": "tham gia"
+  },
+  {
+    "id": "V1006",
+    "word": "attitude",
+    "pos": "noun,verb",
+    "ipa": "/ˈætʌtˌud/",
+    "meaning_vi": "thái độ"
+  },
+  {
+    "id": "V1007",
+    "word": "attorney",
+    "pos": "adjective",
+    "ipa": "/ʌtˈɝni/",
+    "meaning_vi": "luật sư"
+  },
+  {
+    "id": "V1008",
+    "word": "audience",
+    "pos": "noun",
+    "ipa": "/ˈɑdiʌns/",
+    "meaning_vi": "khán giả"
+  },
+  {
+    "id": "V1009",
+    "word": "author",
+    "pos": "noun,verb",
+    "ipa": "/ˈɔθɝ/",
+    "meaning_vi": "tác giả"
+  },
+  {
+    "id": "V1010",
+    "word": "authority",
+    "pos": "noun",
+    "ipa": "/ʌθˈɔɹʌti/",
+    "meaning_vi": "thẩm quyền"
+  },
+  {
+    "id": "V1011",
+    "word": "available",
+    "pos": "adjective",
+    "ipa": "/ʌvˈeɪlʌbʌl/",
+    "meaning_vi": "có sẵn"
+  },
+  {
+    "id": "V1012",
+    "word": "average",
+    "pos": "noun",
+    "ipa": "/ˈævɝɪdʒ/",
+    "meaning_vi": "trung bình"
+  },
+  {
+    "id": "V1013",
+    "word": "award",
+    "pos": "noun,verb",
+    "ipa": "/ʌwˈɔɹd/",
+    "meaning_vi": "phần thưởng"
+  },
+  {
+    "id": "V1014",
+    "word": "aware",
+    "pos": "noun,verb",
+    "ipa": "/ʌwˈɛɹ/",
+    "meaning_vi": "nhận thức"
+  },
+  {
+    "id": "V1015",
+    "word": "away",
+    "pos": "adjective",
+    "ipa": "/ʌwˈeɪ/",
+    "meaning_vi": "xa"
+  },
+  {
+    "id": "V1016",
+    "word": "awful",
+    "pos": "adjective",
+    "ipa": "/ˈɑfʌl/",
+    "meaning_vi": "tồi tệ"
+  },
+  {
+    "id": "V1017",
+    "word": "background",
+    "pos": "noun,verb",
+    "ipa": "/bˈækɡɹˌaʊnd/",
+    "meaning_vi": "lý lịch"
+  },
+  {
+    "id": "V1018",
+    "word": "badly",
+    "pos": "adverb",
+    "ipa": "/bˈædli/",
+    "meaning_vi": "tệ hại"
+  },
+  {
+    "id": "V1019",
+    "word": "balance",
+    "pos": "noun",
+    "ipa": "/bˈælʌns/",
+    "meaning_vi": "THĂNG BẰNG"
+  },
+  {
+    "id": "V1020",
+    "word": "ban",
+    "pos": "noun,verb",
+    "ipa": "/bˈæn/",
+    "meaning_vi": "cấm"
+  },
+  {
+    "id": "V1021",
+    "word": "barely",
+    "pos": "adverb",
+    "ipa": "/bˈɛɹli/",
+    "meaning_vi": "hầu như không"
+  },
+  {
+    "id": "V1022",
+    "word": "basically",
+    "pos": "adverb",
+    "ipa": "/bˈeɪsɪkli/",
+    "meaning_vi": "về cơ bản"
+  },
+  {
+    "id": "V1023",
+    "word": "basis",
+    "pos": "noun,verb",
+    "ipa": "/bˈeɪsʌs/",
+    "meaning_vi": "cơ sở"
+  },
+  {
+    "id": "V1024",
+    "word": "bath",
+    "pos": "noun,verb",
+    "ipa": "/bˈæθ/",
+    "meaning_vi": "bồn tắm"
+  },
+  {
+    "id": "V1025",
+    "word": "battery",
+    "pos": "adjective",
+    "ipa": "/bˈætɝi/",
+    "meaning_vi": "ắc quy"
+  },
+  {
+    "id": "V1026",
+    "word": "battle",
+    "pos": "noun,verb",
+    "ipa": "/bˈætʌl/",
+    "meaning_vi": "trận đánh"
+  },
+  {
+    "id": "V1027",
+    "word": "beginning",
+    "pos": "verb,adjective",
+    "ipa": "/bɪɡˈɪnɪŋ/",
+    "meaning_vi": "bắt đầu"
+  },
+  {
+    "id": "V1028",
+    "word": "behavior",
+    "pos": "noun,verb",
+    "ipa": "/bɪhˈeɪvjɝ/",
+    "meaning_vi": "hành vi"
+  },
+  {
+    "id": "V1029",
+    "word": "being",
+    "pos": "auxiliary,verb",
+    "ipa": "/bˈiɪŋ/",
+    "meaning_vi": "hiện tại"
+  },
+  {
+    "id": "V1030",
+    "word": "belief",
+    "pos": "noun,verb",
+    "ipa": "/bɪlˈif/",
+    "meaning_vi": "sự tin tưởng"
+  },
+  {
+    "id": "V1031",
+    "word": "benefit",
+    "pos": "noun,verb",
+    "ipa": "/bˈɛnʌfɪt/",
+    "meaning_vi": "lợi ích"
+  },
+  {
+    "id": "V1032",
+    "word": "besides",
+    "pos": "noun,verb",
+    "ipa": "/bɪsˈaɪdz/",
+    "meaning_vi": "bên cạnh đó"
+  },
+  {
+    "id": "V1033",
+    "word": "bet",
+    "pos": "noun,verb",
+    "ipa": "/bˈɛt/",
+    "meaning_vi": "đặt cược"
+  },
+  {
+    "id": "V1034",
+    "word": "bible",
+    "pos": "adjective",
+    "ipa": "/bˈaɪbʌl/",
+    "meaning_vi": "kinh thánh"
+  },
+  {
+    "id": "V1035",
+    "word": "billion",
+    "pos": "noun,verb",
+    "ipa": "/bˈɪljʌn/",
+    "meaning_vi": "tỷ"
+  },
+  {
+    "id": "V1036",
+    "word": "bind",
+    "pos": "noun,verb",
+    "ipa": "/bˈaɪnd/",
+    "meaning_vi": "liên kết"
+  },
+  {
+    "id": "V1037",
+    "word": "biology",
+    "pos": "adjective",
+    "ipa": "/baɪˈɑlʌdʒi/",
+    "meaning_vi": "sinh vật học"
+  },
+  {
+    "id": "V1038",
+    "word": "birth",
+    "pos": "noun,verb",
+    "ipa": "/bˈɝθ/",
+    "meaning_vi": "sinh"
+  },
+  {
+    "id": "V1039",
+    "word": "bite",
+    "pos": "noun,verb",
+    "ipa": "/bˈaɪt/",
+    "meaning_vi": "cắn"
+  },
+  {
+    "id": "V1040",
+    "word": "blame",
+    "pos": "noun,verb",
+    "ipa": "/blˈeɪm/",
+    "meaning_vi": "đổ tội"
+  },
+  {
+    "id": "V1041",
+    "word": "blanket",
+    "pos": "noun,verb",
+    "ipa": "/blˈæŋkʌt/",
+    "meaning_vi": "cái chăn"
+  },
+  {
+    "id": "V1042",
+    "word": "blow",
+    "pos": "noun,verb",
+    "ipa": "/blˈoʊ/",
+    "meaning_vi": "thổi"
+  },
+  {
+    "id": "V1043",
+    "word": "boil",
+    "pos": "noun,verb",
+    "ipa": "/bˈɔɪl/",
+    "meaning_vi": "đun sôi"
+  },
+  {
+    "id": "V1044",
+    "word": "bomb",
+    "pos": "noun,verb",
+    "ipa": "/bˈɑm/",
+    "meaning_vi": "bom"
+  },
+  {
+    "id": "V1045",
+    "word": "bond",
+    "pos": "noun,verb",
+    "ipa": "/bˈɑnd/",
+    "meaning_vi": "trái phiếu"
+  },
+  {
+    "id": "V1046",
+    "word": "bone",
+    "pos": "noun,verb",
+    "ipa": "/bˈoʊn/",
+    "meaning_vi": "xương"
+  },
+  {
+    "id": "V1047",
+    "word": "border",
+    "pos": "noun,verb",
+    "ipa": "/bˈɔɹdɝ/",
+    "meaning_vi": "ranh giới"
+  },
+  {
+    "id": "V1048",
+    "word": "bored",
+    "pos": "verb,adjective",
+    "ipa": "/bˈɔɹd/",
+    "meaning_vi": "chán"
+  },
+  {
+    "id": "V1049",
+    "word": "boring",
+    "pos": "verb,adjective",
+    "ipa": "/bˈɔɹɪŋ/",
+    "meaning_vi": "nhạt nhẽo"
+  },
+  {
+    "id": "V1050",
+    "word": "born",
+    "pos": "noun,verb",
+    "ipa": "/bˈɔɹn/",
+    "meaning_vi": "sinh"
+  },
+  {
+    "id": "V1051",
+    "word": "borrow",
+    "pos": "noun,verb",
+    "ipa": "/bˈɑɹˌoʊ/",
+    "meaning_vi": "vay mượn"
+  },
+  {
+    "id": "V1052",
+    "word": "boss",
+    "pos": "noun,verb",
+    "ipa": "/bˈɑs/",
+    "meaning_vi": "ông chủ"
+  },
+  {
+    "id": "V1053",
+    "word": "bother",
+    "pos": "noun,verb",
+    "ipa": "/bˈɑðɝ/",
+    "meaning_vi": "làm phiền"
+  },
+  {
+    "id": "V1054",
+    "word": "bowl",
+    "pos": "noun,verb",
+    "ipa": "/bˈoʊl/",
+    "meaning_vi": "cái bát"
+  },
+  {
+    "id": "V1055",
+    "word": "brand",
+    "pos": "noun,verb",
+    "ipa": "/bɹˈænd/",
+    "meaning_vi": "thương hiệu"
+  },
+  {
+    "id": "V1056",
+    "word": "brave",
+    "pos": "noun,verb",
+    "ipa": "/bɹˈeɪv/",
+    "meaning_vi": "can đảm"
+  },
+  {
+    "id": "V1057",
+    "word": "brief",
+    "pos": "noun,verb",
+    "ipa": "/bɹˈif/",
+    "meaning_vi": "ngắn gọn"
+  },
+  {
+    "id": "V1058",
+    "word": "bright",
+    "pos": "noun,verb",
+    "ipa": "/bɹˈaɪt/",
+    "meaning_vi": "sáng"
+  },
+  {
+    "id": "V1059",
+    "word": "broad",
+    "pos": "noun,verb",
+    "ipa": "/bɹˈɔd/",
+    "meaning_vi": "rộng"
+  },
+  {
+    "id": "V1060",
+    "word": "broke",
+    "pos": "noun,verb",
+    "ipa": "/bɹˈoʊk/",
+    "meaning_vi": "phá sản"
+  },
+  {
+    "id": "V1061",
+    "word": "broken",
+    "pos": "verb",
+    "ipa": "/bɹˈoʊkʌn/",
+    "meaning_vi": "vỡ"
+  },
+  {
+    "id": "V1062",
+    "word": "brush",
+    "pos": "noun,verb",
+    "ipa": "/bɹˈʌʃ/",
+    "meaning_vi": "chải"
+  },
+  {
+    "id": "V1063",
+    "word": "building",
+    "pos": "verb,adjective",
+    "ipa": "/bˈɪldɪŋ/",
+    "meaning_vi": "xây dựng"
+  },
+  {
+    "id": "V1064",
+    "word": "bullet",
+    "pos": "noun,verb",
+    "ipa": "/bˈʊlʌt/",
+    "meaning_vi": "viên đạn"
+  },
+  {
+    "id": "V1065",
+    "word": "bunch",
+    "pos": "noun,verb",
+    "ipa": "/bˈʌntʃ/",
+    "meaning_vi": "một nhóm"
+  },
+  {
+    "id": "V1066",
+    "word": "burn",
+    "pos": "noun,verb",
+    "ipa": "/bˈɝn/",
+    "meaning_vi": "cháy"
+  },
+  {
+    "id": "V1067",
+    "word": "buyer",
+    "pos": "noun,verb",
+    "ipa": "/bˈaɪɝ/",
+    "meaning_vi": "người mua"
+  },
+  {
+    "id": "V1068",
+    "word": "cabin",
+    "pos": "noun,verb",
+    "ipa": "/kˈæbʌn/",
+    "meaning_vi": "cabin"
+  },
+  {
+    "id": "V1069",
+    "word": "cable",
+    "pos": "adjective",
+    "ipa": "/kˈeɪbʌl/",
+    "meaning_vi": "cáp"
+  },
+  {
+    "id": "V1070",
+    "word": "cake",
+    "pos": "noun,verb",
+    "ipa": "/kˈeɪk/",
+    "meaning_vi": "bánh ngọt"
+  },
+  {
+    "id": "V1071",
+    "word": "camp",
+    "pos": "noun,verb",
+    "ipa": "/kˈæmp/",
+    "meaning_vi": "trại"
+  },
+  {
+    "id": "V1072",
+    "word": "campaign",
+    "pos": "noun,verb",
+    "ipa": "/kæmpˈeɪn/",
+    "meaning_vi": "chiến dịch"
+  },
+  {
+    "id": "V1073",
+    "word": "capable",
+    "pos": "adjective",
+    "ipa": "/kˈeɪpʌbʌl/",
+    "meaning_vi": "có khả năng"
+  },
+  {
+    "id": "V1074",
+    "word": "capacity",
+    "pos": "noun",
+    "ipa": "/kʌpˈæsʌti/",
+    "meaning_vi": "dung tích"
+  },
+  {
+    "id": "V1075",
+    "word": "capital",
+    "pos": "adjective",
+    "ipa": "/kˈæpʌtʌl/",
+    "meaning_vi": "thủ đô"
+  },
+  {
+    "id": "V1076",
+    "word": "captain",
+    "pos": "noun,verb",
+    "ipa": "/kˈæptʌn/",
+    "meaning_vi": "đội trưởng"
+  },
+  {
+    "id": "V1077",
+    "word": "career",
+    "pos": "noun,verb",
+    "ipa": "/kɝˈɪɹ/",
+    "meaning_vi": "sự nghiệp"
+  },
+  {
+    "id": "V1078",
+    "word": "carefully",
+    "pos": "adverb",
+    "ipa": "/kˈɛɹfʌli/",
+    "meaning_vi": "cẩn thận"
+  },
+  {
+    "id": "V1079",
+    "word": "cast",
+    "pos": "noun,verb",
+    "ipa": "/kˈæst/",
+    "meaning_vi": "dàn diễn viên"
+  },
+  {
+    "id": "V1080",
+    "word": "castle",
+    "pos": "noun,verb",
+    "ipa": "/kˈæsʌl/",
+    "meaning_vi": "lâu đài"
+  },
+  {
+    "id": "V1081",
+    "word": "category",
+    "pos": "adjective",
+    "ipa": "/kˈætʌɡˌɔɹi/",
+    "meaning_vi": "loại"
+  },
+  {
+    "id": "V1082",
+    "word": "celebration",
+    "pos": "noun",
+    "ipa": "/sˌɛlʌbɹˈeɪʃʌn/",
+    "meaning_vi": "lễ ăn mừng"
+  },
+  {
+    "id": "V1083",
+    "word": "central",
+    "pos": "adjective",
+    "ipa": "/sˈɛntɹʌl/",
+    "meaning_vi": "trung tâm"
+  },
+  {
+    "id": "V1084",
+    "word": "certain",
+    "pos": "noun,verb",
+    "ipa": "/sˈɝtʌn/",
+    "meaning_vi": "chắc chắn"
+  },
+  {
+    "id": "V1085",
+    "word": "certainly",
+    "pos": "adverb",
+    "ipa": "/sˈɝtʌnli/",
+    "meaning_vi": "chắc chắn"
+  },
+  {
+    "id": "V1086",
+    "word": "chain",
+    "pos": "noun,verb",
+    "ipa": "/tʃˈeɪn/",
+    "meaning_vi": "xích"
+  },
+  {
+    "id": "V1087",
+    "word": "challenge",
+    "pos": "noun,verb",
+    "ipa": "/tʃˈælʌndʒ/",
+    "meaning_vi": "thử thách"
+  },
+  {
+    "id": "V1088",
+    "word": "channel",
+    "pos": "noun,verb",
+    "ipa": "/tʃˈænʌl/",
+    "meaning_vi": "kênh"
+  },
+  {
+    "id": "V1089",
+    "word": "charge",
+    "pos": "noun,verb",
+    "ipa": "/tʃˈɑɹdʒ/",
+    "meaning_vi": "thù lao"
+  },
+  {
+    "id": "V1090",
+    "word": "charity",
+    "pos": "noun",
+    "ipa": "/tʃˈɛɹɪti/",
+    "meaning_vi": "tổ chức từ thiện"
+  },
+  {
+    "id": "V1091",
+    "word": "chart",
+    "pos": "noun,verb",
+    "ipa": "/tʃˈɑɹt/",
+    "meaning_vi": "biểu đồ"
+  },
+  {
+    "id": "V1092",
+    "word": "chemical",
+    "pos": "adjective",
+    "ipa": "/kˈɛmʌkʌl/",
+    "meaning_vi": "hóa chất"
+  },
+  {
+    "id": "V1093",
+    "word": "chest",
+    "pos": "noun,verb",
+    "ipa": "/tʃˈɛst/",
+    "meaning_vi": "ngực"
+  },
+  {
+    "id": "V1094",
+    "word": "chicken",
+    "pos": "verb",
+    "ipa": "/tʃˈɪkʌn/",
+    "meaning_vi": "thịt gà"
+  },
+  {
+    "id": "V1095",
+    "word": "childhood",
+    "pos": "noun",
+    "ipa": "/tʃˈaɪldhˌʊd/",
+    "meaning_vi": "thời thơ ấu"
+  },
+  {
+    "id": "V1096",
+    "word": "choice",
+    "pos": "noun,verb",
+    "ipa": "/tʃˈɔɪs/",
+    "meaning_vi": "sự lựa chọn"
+  },
+  {
+    "id": "V1097",
+    "word": "cigarette",
+    "pos": "noun,verb",
+    "ipa": "/sˌɪɡɝˈɛt/",
+    "meaning_vi": "thuốc lá"
+  },
+  {
+    "id": "V1098",
+    "word": "circle",
+    "pos": "noun,verb",
+    "ipa": "/sˈɝkʌl/",
+    "meaning_vi": "vòng tròn"
+  },
+  {
+    "id": "V1099",
+    "word": "claim",
+    "pos": "noun,verb",
+    "ipa": "/klˈeɪm/",
+    "meaning_vi": "khẳng định"
+  },
+  {
+    "id": "V1100",
+    "word": "classic",
+    "pos": "adjective",
+    "ipa": "/klˈæsɪk/",
+    "meaning_vi": "cổ điển"
+  },
+  {
+    "id": "V1101",
+    "word": "clearly",
+    "pos": "adverb",
+    "ipa": "/klˈɪɹli/",
+    "meaning_vi": "rõ ràng"
+  },
+  {
+    "id": "V1102",
+    "word": "client",
+    "pos": "noun,verb",
+    "ipa": "/klˈaɪʌnt/",
+    "meaning_vi": "khách hàng"
+  },
+  {
+    "id": "V1103",
+    "word": "climate",
+    "pos": "noun,verb",
+    "ipa": "/klˈaɪmʌt/",
+    "meaning_vi": "khí hậu"
+  },
+  {
+    "id": "V1104",
+    "word": "clothing",
+    "pos": "verb,adjective",
+    "ipa": "/klˈoʊðɪŋ/",
+    "meaning_vi": "quần áo"
+  },
+  {
+    "id": "V1105",
+    "word": "cloud",
+    "pos": "noun,verb",
+    "ipa": "/klˈaʊd/",
+    "meaning_vi": "đám mây"
+  },
+  {
+    "id": "V1106",
+    "word": "coal",
+    "pos": "adjective",
+    "ipa": "/kˈoʊl/",
+    "meaning_vi": "than đá"
+  },
+  {
+    "id": "V1107",
+    "word": "coast",
+    "pos": "noun,verb",
+    "ipa": "/kˈoʊst/",
+    "meaning_vi": "bờ biển"
+  },
+  {
+    "id": "V1108",
+    "word": "coffee",
+    "pos": "noun,verb",
+    "ipa": "/kˈɑfi/",
+    "meaning_vi": "cà phê"
+  },
+  {
+    "id": "V1109",
+    "word": "collection",
+    "pos": "noun",
+    "ipa": "/kʌlˈɛkʃʌn/",
+    "meaning_vi": "bộ sưu tập"
+  },
+  {
+    "id": "V1110",
+    "word": "college",
+    "pos": "noun,verb",
+    "ipa": "/kˈɑlɪdʒ/",
+    "meaning_vi": "trường cao đẳng"
+  },
+  {
+    "id": "V1111",
+    "word": "colorful",
+    "pos": "adjective",
+    "ipa": "/kˈʌlɝfʌl/",
+    "meaning_vi": "đầy màu sắc"
+  },
+  {
+    "id": "V1112",
+    "word": "column",
+    "pos": "noun,verb",
+    "ipa": "/kˈɑlʌm/",
+    "meaning_vi": "cột"
+  },
+  {
+    "id": "V1113",
+    "word": "comedy",
+    "pos": "adjective",
+    "ipa": "/kˈɑmʌdi/",
+    "meaning_vi": "hài kịch"
+  },
+  {
+    "id": "V1114",
+    "word": "comfortable",
+    "pos": "adjective",
+    "ipa": "/kˈʌmfɝtʌbʌl/",
+    "meaning_vi": "thoải mái"
+  },
+  {
+    "id": "V1115",
+    "word": "command",
+    "pos": "noun,verb",
+    "ipa": "/kʌmˈænd/",
+    "meaning_vi": "yêu cầu"
+  },
+  {
+    "id": "V1116",
+    "word": "comment",
+    "pos": "noun",
+    "ipa": "/kˈɑmɛnt/",
+    "meaning_vi": "bình luận"
+  },
+  {
+    "id": "V1117",
+    "word": "commercial",
+    "pos": "adjective",
+    "ipa": "/kʌmˈɝʃʌl/",
+    "meaning_vi": "thuộc về thương mại"
+  },
+  {
+    "id": "V1118",
+    "word": "commission",
+    "pos": "noun",
+    "ipa": "/kʌmˈɪʃʌn/",
+    "meaning_vi": "nhiệm vụ"
+  },
+  {
+    "id": "V1119",
+    "word": "commit",
+    "pos": "noun,verb",
+    "ipa": "/kʌmˈɪt/",
+    "meaning_vi": "làm"
+  },
+  {
+    "id": "V1120",
+    "word": "commitment",
+    "pos": "noun",
+    "ipa": "/kʌmˈɪtmʌnt/",
+    "meaning_vi": "sự cam kết"
+  },
+  {
+    "id": "V1121",
+    "word": "community",
+    "pos": "noun",
+    "ipa": "/kʌmjˈunʌti/",
+    "meaning_vi": "cộng đồng"
+  },
+  {
+    "id": "V1122",
+    "word": "comparison",
+    "pos": "noun,verb",
+    "ipa": "/kʌmpˈɛɹʌsʌn/",
+    "meaning_vi": "so sánh"
+  },
+  {
+    "id": "V1123",
+    "word": "compete",
+    "pos": "noun,verb",
+    "ipa": "/kʌmpˈit/",
+    "meaning_vi": "hoàn thành"
+  },
+  {
+    "id": "V1124",
+    "word": "competition",
+    "pos": "noun",
+    "ipa": "/kˌɑmpʌtˈɪʃʌn/",
+    "meaning_vi": "cuộc thi"
+  },
+  {
+    "id": "V1125",
+    "word": "competitive",
+    "pos": "adjective",
+    "ipa": "/kʌmpˈɛtʌtɪv/",
+    "meaning_vi": "cạnh tranh"
+  },
+  {
+    "id": "V1126",
+    "word": "complain",
+    "pos": "noun,verb",
+    "ipa": "/kʌmplˈeɪn/",
+    "meaning_vi": "phàn nàn"
+  },
+  {
+    "id": "V1127",
+    "word": "complaint",
+    "pos": "noun,verb",
+    "ipa": "/kʌmplˈeɪnt/",
+    "meaning_vi": "lời phàn nàn"
+  },
+  {
+    "id": "V1128",
+    "word": "completely",
+    "pos": "adverb",
+    "ipa": "/kʌmplˈitli/",
+    "meaning_vi": "hoàn toàn"
+  },
+  {
+    "id": "V1129",
+    "word": "complex",
+    "pos": "noun,verb",
+    "ipa": "/kˈɑmplɛks/",
+    "meaning_vi": "tổ hợp"
+  },
+  {
+    "id": "V1130",
+    "word": "concentrate",
+    "pos": "noun,verb",
+    "ipa": "/kˈɑnsʌntɹˌeɪt/",
+    "meaning_vi": "tập trung"
+  },
+  {
+    "id": "V1131",
+    "word": "concept",
+    "pos": "noun,verb",
+    "ipa": "/kˈɑnsɛpt/",
+    "meaning_vi": "ý tưởng"
+  },
+  {
+    "id": "V1132",
+    "word": "concern",
+    "pos": "noun,verb",
+    "ipa": "/kʌnsˈɝn/",
+    "meaning_vi": "bận tâm"
+  },
+  {
+    "id": "V1133",
+    "word": "concerned",
+    "pos": "verb,adjective",
+    "ipa": "/kʌnsˈɝnd/",
+    "meaning_vi": "lo âu"
+  },
+  {
+    "id": "V1134",
+    "word": "concert",
+    "pos": "noun,verb",
+    "ipa": "/kˈɑnsɝt/",
+    "meaning_vi": "buổi hòa nhạc"
+  },
+  {
+    "id": "V1135",
+    "word": "conclude",
+    "pos": "noun,verb",
+    "ipa": "/kʌnklˈud/",
+    "meaning_vi": "kết luận"
+  },
+  {
+    "id": "V1136",
+    "word": "conclusion",
+    "pos": "noun",
+    "ipa": "/kʌnklˈuʒʌn/",
+    "meaning_vi": "Phần kết luận"
+  },
+  {
+    "id": "V1137",
+    "word": "condition",
+    "pos": "noun",
+    "ipa": "/kʌndˈɪʃʌn/",
+    "meaning_vi": "tình trạng"
+  },
+  {
+    "id": "V1138",
+    "word": "conduct",
+    "pos": "noun,verb",
+    "ipa": "/kˈɑndʌkt/",
+    "meaning_vi": "chỉ đạo"
+  },
+  {
+    "id": "V1139",
+    "word": "conference",
+    "pos": "noun",
+    "ipa": "/kˈɑnfɝʌns/",
+    "meaning_vi": "hội nghị"
+  },
+  {
+    "id": "V1140",
+    "word": "confidence",
+    "pos": "noun",
+    "ipa": "/kˈɑnfʌdʌns/",
+    "meaning_vi": "sự tự tin"
+  },
+  {
+    "id": "V1141",
+    "word": "conflict",
+    "pos": "noun,verb",
+    "ipa": "/kˈɑnflɪkt/",
+    "meaning_vi": "xung đột"
+  },
+  {
+    "id": "V1142",
+    "word": "confuse",
+    "pos": "noun,verb",
+    "ipa": "/kʌnfjˈuz/",
+    "meaning_vi": "bối rối"
+  },
+  {
+    "id": "V1143",
+    "word": "confusion",
+    "pos": "noun",
+    "ipa": "/kʌnfjˈuʒʌn/",
+    "meaning_vi": "lú lẫn"
+  },
+  {
+    "id": "V1144",
+    "word": "connection",
+    "pos": "noun",
+    "ipa": "/kʌnˈɛkʃʌn/",
+    "meaning_vi": "sự liên quan"
+  },
+  {
+    "id": "V1145",
+    "word": "consideration",
+    "pos": "noun",
+    "ipa": "/kʌnsˌɪdɝˈeɪʃʌn/",
+    "meaning_vi": "xem xét"
+  },
+  {
+    "id": "V1146",
+    "word": "consistent",
+    "pos": "noun,verb",
+    "ipa": "/kʌnsˈɪstʌnt/",
+    "meaning_vi": "nhất quán"
+  },
+  {
+    "id": "V1147",
+    "word": "constant",
+    "pos": "noun,verb",
+    "ipa": "/kˈɑnstʌnt/",
+    "meaning_vi": "không thay đổi"
+  },
+  {
+    "id": "V1148",
+    "word": "constantly",
+    "pos": "adverb",
+    "ipa": "/kˈɑnstʌntli/",
+    "meaning_vi": "liên tục"
+  },
+  {
+    "id": "V1149",
+    "word": "construct",
+    "pos": "noun,verb",
+    "ipa": "/kʌnstɹˈʌkt/",
+    "meaning_vi": "xây dựng"
+  },
+  {
+    "id": "V1150",
+    "word": "construction",
+    "pos": "noun",
+    "ipa": "/kʌnstɹˈʌkʃʌn/",
+    "meaning_vi": "sự thi công"
+  },
+  {
+    "id": "V1151",
+    "word": "contact",
+    "pos": "noun,verb",
+    "ipa": "/kˈɑntˌækt/",
+    "meaning_vi": "liên hệ"
+  },
+  {
+    "id": "V1152",
+    "word": "contain",
+    "pos": "noun,verb",
+    "ipa": "/kʌntˈeɪn/",
+    "meaning_vi": "bao gồm"
+  },
+  {
+    "id": "V1153",
+    "word": "container",
+    "pos": "noun,verb",
+    "ipa": "/kʌntˈeɪnɝ/",
+    "meaning_vi": "thùng chứa"
+  },
+  {
+    "id": "V1154",
+    "word": "content",
+    "pos": "noun,verb",
+    "ipa": "/kˈɑntɛnt/",
+    "meaning_vi": "nội dung"
+  },
+  {
+    "id": "V1155",
+    "word": "contest",
+    "pos": "noun,verb",
+    "ipa": "/kˈɑntɛst/",
+    "meaning_vi": "cuộc thi"
+  },
+  {
+    "id": "V1156",
+    "word": "context",
+    "pos": "noun,verb",
+    "ipa": "/kˈɑntɛkst/",
+    "meaning_vi": "bối cảnh"
+  },
+  {
+    "id": "V1157",
+    "word": "continue",
+    "pos": "noun,verb",
+    "ipa": "/kʌntˈɪnju/",
+    "meaning_vi": "Tiếp tục"
+  },
+  {
+    "id": "V1158",
+    "word": "continuous",
+    "pos": "adjective",
+    "ipa": "/kʌntˈɪnjuʌs/",
+    "meaning_vi": "liên tục"
+  },
+  {
+    "id": "V1159",
+    "word": "contract",
+    "pos": "noun,verb",
+    "ipa": "/kˈɑntɹˌækt/",
+    "meaning_vi": "hợp đồng"
+  },
+  {
+    "id": "V1160",
+    "word": "cooker",
+    "pos": "noun,verb",
+    "ipa": "/kˈʊkɝ/",
+    "meaning_vi": "bếp"
+  },
+  {
+    "id": "V1161",
+    "word": "cooking",
+    "pos": "verb,adjective",
+    "ipa": "/kˈʊkɪŋ/",
+    "meaning_vi": "nấu ăn"
+  },
+  {
+    "id": "V1162",
+    "word": "core",
+    "pos": "noun,verb",
+    "ipa": "/kˈɔɹ/",
+    "meaning_vi": "cốt lõi"
+  },
+  {
+    "id": "V1163",
+    "word": "correctly",
+    "pos": "adverb",
+    "ipa": "/kɝˈɛktli/",
+    "meaning_vi": "đúng"
+  },
+  {
+    "id": "V1164",
+    "word": "council",
+    "pos": "noun,verb",
+    "ipa": "/kˈaʊnsʌl/",
+    "meaning_vi": "hội đồng"
+  },
+  {
+    "id": "V1165",
+    "word": "courage",
+    "pos": "noun",
+    "ipa": "/kˈɝʌdʒ/",
+    "meaning_vi": "lòng can đảm"
+  },
+  {
+    "id": "V1166",
+    "word": "court",
+    "pos": "noun,verb",
+    "ipa": "/kˈɔɹt/",
+    "meaning_vi": "tòa án"
+  },
+  {
+    "id": "V1167",
+    "word": "cousin",
+    "pos": "noun,verb",
+    "ipa": "/kˈʌzʌn/",
+    "meaning_vi": "anh em họ"
+  },
+  {
+    "id": "V1168",
+    "word": "coverage",
+    "pos": "noun",
+    "ipa": "/kˈʌvɝʌdʒ/",
+    "meaning_vi": "phạm vi bảo hiểm"
+  },
+  {
+    "id": "V1169",
+    "word": "cow",
+    "pos": "noun,verb",
+    "ipa": "/kˈaʊ/",
+    "meaning_vi": "con bò"
+  },
+  {
+    "id": "V1170",
+    "word": "crash",
+    "pos": "noun,verb",
+    "ipa": "/kɹˈæʃ/",
+    "meaning_vi": "tai nạn"
+  },
+  {
+    "id": "V1171",
+    "word": "crazy",
+    "pos": "adjective",
+    "ipa": "/kɹˈeɪzi/",
+    "meaning_vi": "điên"
+  },
+  {
+    "id": "V1172",
+    "word": "cream",
+    "pos": "noun,verb",
+    "ipa": "/kɹˈim/",
+    "meaning_vi": "kem"
+  },
+  {
+    "id": "V1173",
+    "word": "creation",
+    "pos": "noun",
+    "ipa": "/kɹiˈeɪʃʌn/",
+    "meaning_vi": "sự sáng tạo"
+  },
+  {
+    "id": "V1174",
+    "word": "creature",
+    "pos": "noun",
+    "ipa": "/kɹˈitʃɝ/",
+    "meaning_vi": "sinh vật"
+  },
+  {
+    "id": "V1175",
+    "word": "criminal",
+    "pos": "adjective",
+    "ipa": "/kɹˈɪmʌnʌl/",
+    "meaning_vi": "tội phạm"
+  },
+  {
+    "id": "V1176",
+    "word": "crisis",
+    "pos": "noun,verb",
+    "ipa": "/kɹˈaɪsʌs/",
+    "meaning_vi": "khủng hoảng"
+  },
+  {
+    "id": "V1177",
+    "word": "critic",
+    "pos": "adjective",
+    "ipa": "/kɹˈɪtɪk/",
+    "meaning_vi": "nhà phê bình"
+  },
+  {
+    "id": "V1178",
+    "word": "critical",
+    "pos": "adjective",
+    "ipa": "/kɹˈɪtɪkʌl/",
+    "meaning_vi": "phê bình"
+  },
+  {
+    "id": "V1179",
+    "word": "criticism",
+    "pos": "noun",
+    "ipa": "/kɹˈɪtɪsˌɪzʌm/",
+    "meaning_vi": "sự chỉ trích"
+  },
+  {
+    "id": "V1180",
+    "word": "criticize",
+    "pos": "verb",
+    "ipa": "/kɹˈɪtɪsˌaɪz/",
+    "meaning_vi": "chỉ trích"
+  },
+  {
+    "id": "V1181",
+    "word": "crop",
+    "pos": "noun,verb",
+    "ipa": "/kɹˈɑp/",
+    "meaning_vi": "mùa vụ"
+  },
+  {
+    "id": "V1182",
+    "word": "crowded",
+    "pos": "verb,adjective",
+    "ipa": "/kɹˈaʊdʌd/",
+    "meaning_vi": "đông đúc"
+  },
+  {
+    "id": "V1183",
+    "word": "crucial",
+    "pos": "adjective",
+    "ipa": "/kɹˈuʃʌl/",
+    "meaning_vi": "chủ yếu"
+  },
+  {
+    "id": "V1184",
+    "word": "cruel",
+    "pos": "noun,verb",
+    "ipa": "/kɹˈuʌl/",
+    "meaning_vi": "tàn nhẫn"
+  },
+  {
+    "id": "V1185",
+    "word": "culture",
+    "pos": "noun",
+    "ipa": "/kˈʌltʃɝ/",
+    "meaning_vi": "văn hoá"
+  },
+  {
+    "id": "V1186",
+    "word": "cupboard",
+    "pos": "noun,verb",
+    "ipa": "/kˈʌbɝd/",
+    "meaning_vi": "cái tủ"
+  },
+  {
+    "id": "V1187",
+    "word": "cure",
+    "pos": "noun",
+    "ipa": "/kjˈʊɹ/",
+    "meaning_vi": "sự chữa bệnh"
+  },
+  {
+    "id": "V1188",
+    "word": "curious",
+    "pos": "adjective",
+    "ipa": "/kjˈʊɹiʌs/",
+    "meaning_vi": "tò mò"
+  },
+  {
+    "id": "V1189",
+    "word": "current",
+    "pos": "noun,verb",
+    "ipa": "/kˈɝʌnt/",
+    "meaning_vi": "hiện hành"
+  },
+  {
+    "id": "V1190",
+    "word": "currently",
+    "pos": "adverb",
+    "ipa": "/kˈɝʌntli/",
+    "meaning_vi": "Hiện nay"
+  },
+  {
+    "id": "V1191",
+    "word": "curtain",
+    "pos": "noun,verb",
+    "ipa": "/kˈɝtʌn/",
+    "meaning_vi": "tấm màn"
+  },
+  {
+    "id": "V1192",
+    "word": "curve",
+    "pos": "noun,verb",
+    "ipa": "/kˈɝv/",
+    "meaning_vi": "đường cong"
+  },
+  {
+    "id": "V1193",
+    "word": "custom",
+    "pos": "noun,verb",
+    "ipa": "/kˈʌstʌm/",
+    "meaning_vi": "phong tục"
+  },
+  {
+    "id": "V1194",
+    "word": "customer",
+    "pos": "noun,verb",
+    "ipa": "/kˈʌstʌmɝ/",
+    "meaning_vi": "khách hàng"
+  },
+  {
+    "id": "V1195",
+    "word": "cycle",
+    "pos": "noun,verb",
+    "ipa": "/sˈaɪkʌl/",
+    "meaning_vi": "xe đạp"
+  },
+  {
+    "id": "V1196",
+    "word": "dangerous",
+    "pos": "adjective",
+    "ipa": "/dˈeɪndʒɝʌs/",
+    "meaning_vi": "nguy hiểm"
+  },
+  {
+    "id": "V1197",
+    "word": "dare",
+    "pos": "noun,verb",
+    "ipa": "/dˈɛɹ/",
+    "meaning_vi": "dám"
+  },
+  {
+    "id": "V1198",
+    "word": "data",
+    "pos": "noun,verb",
+    "ipa": "/dˈeɪtʌ/",
+    "meaning_vi": "dữ liệu"
+  },
+  {
+    "id": "V1199",
+    "word": "date",
+    "pos": "noun,verb",
+    "ipa": "/dˈeɪt/",
+    "meaning_vi": "ngày"
+  },
+  {
+    "id": "V1200",
+    "word": "death",
+    "pos": "noun,verb",
+    "ipa": "/dˈɛθ/",
+    "meaning_vi": "cái chết"
+  },
+  {
+    "id": "V1201",
+    "word": "debate",
+    "pos": "noun,verb",
+    "ipa": "/dʌbˈeɪt/",
+    "meaning_vi": "tranh luận"
+  },
+  {
+    "id": "V1202",
+    "word": "defeat",
+    "pos": "noun,verb",
+    "ipa": "/dɪfˈit/",
+    "meaning_vi": "đánh bại"
+  },
+  {
+    "id": "V1203",
+    "word": "defend",
+    "pos": "noun,verb",
+    "ipa": "/dɪfˈɛnd/",
+    "meaning_vi": "phòng vệ"
+  },
+  {
+    "id": "V1204",
+    "word": "defense",
+    "pos": "noun,verb",
+    "ipa": "/dɪfˈɛns/",
+    "meaning_vi": "phòng thủ"
+  },
+  {
+    "id": "V1205",
+    "word": "delay",
+    "pos": "adjective",
+    "ipa": "/dɪlˈeɪ/",
+    "meaning_vi": "trì hoãn"
+  },
+  {
+    "id": "V1206",
+    "word": "delivery",
+    "pos": "adjective",
+    "ipa": "/dɪlˈɪvɝi/",
+    "meaning_vi": "vận chuyển"
+  },
+  {
+    "id": "V1207",
+    "word": "demand",
+    "pos": "noun,verb",
+    "ipa": "/dɪmˈænd/",
+    "meaning_vi": "yêu cầu"
+  },
+  {
+    "id": "V1208",
+    "word": "democracy",
+    "pos": "adjective",
+    "ipa": "/dɪmˈɑkɹʌsi/",
+    "meaning_vi": "nền dân chủ"
+  },
+  {
+    "id": "V1209",
+    "word": "democratic",
+    "pos": "adjective",
+    "ipa": "/dˌɛmʌkɹˈætɪk/",
+    "meaning_vi": "dân chủ"
+  },
+  {
+    "id": "V1210",
+    "word": "demonstrate",
+    "pos": "noun,verb",
+    "ipa": "/dˈɛmʌnstɹˌeɪt/",
+    "meaning_vi": "chứng minh"
+  },
+  {
+    "id": "V1211",
+    "word": "deny",
+    "pos": "adjective",
+    "ipa": "/dɪnˈaɪ/",
+    "meaning_vi": "từ chối"
+  },
+  {
+    "id": "V1212",
+    "word": "dependent",
+    "pos": "noun,verb",
+    "ipa": "/dɪpˈɛndʌnt/",
+    "meaning_vi": "sự phụ thuộc"
+  },
+  {
+    "id": "V1213",
+    "word": "description",
+    "pos": "noun",
+    "ipa": "/dɪskɹˈɪpʃʌn/",
+    "meaning_vi": "Sự miêu tả"
+  },
+  {
+    "id": "V1214",
+    "word": "desire",
+    "pos": "noun,verb",
+    "ipa": "/dɪzˈaɪɝ/",
+    "meaning_vi": "sự mong muốn"
+  },
+  {
+    "id": "V1215",
+    "word": "determine",
+    "pos": "noun,verb",
+    "ipa": "/dʌtˈɝmʌn/",
+    "meaning_vi": "quyết tâm"
+  },
+  {
+    "id": "V1216",
+    "word": "development",
+    "pos": "noun",
+    "ipa": "/dɪvˈɛlʌpmʌnt/",
+    "meaning_vi": "phát triển"
+  },
+  {
+    "id": "V1217",
+    "word": "die",
+    "pos": "noun,verb",
+    "ipa": "/dˈaɪ/",
+    "meaning_vi": "chết"
+  },
+  {
+    "id": "V1218",
+    "word": "difference",
+    "pos": "noun",
+    "ipa": "/dˈɪfɝʌns/",
+    "meaning_vi": "sự khác biệt"
+  },
+  {
+    "id": "V1219",
+    "word": "direct",
+    "pos": "noun,verb",
+    "ipa": "/dɝˈɛkt/",
+    "meaning_vi": "trực tiếp"
+  },
+  {
+    "id": "V1220",
+    "word": "directly",
+    "pos": "adverb",
+    "ipa": "/dɝˈɛktli/",
+    "meaning_vi": "trực tiếp"
+  },
+  {
+    "id": "V1221",
+    "word": "director",
+    "pos": "noun,verb",
+    "ipa": "/dɝˈɛktɝ/",
+    "meaning_vi": "giám đốc"
+  },
+  {
+    "id": "V1222",
+    "word": "disappear",
+    "pos": "noun,verb",
+    "ipa": "/dˌɪsʌpˈɪɹ/",
+    "meaning_vi": "biến mất"
+  },
+  {
+    "id": "V1223",
+    "word": "discovery",
+    "pos": "adjective",
+    "ipa": "/dɪskˈʌvɝi/",
+    "meaning_vi": "khám phá"
+  },
+  {
+    "id": "V1224",
+    "word": "discussion",
+    "pos": "noun",
+    "ipa": "/dɪskˈʌʃʌn/",
+    "meaning_vi": "cuộc thảo luận"
+  },
+  {
+    "id": "V1225",
+    "word": "disease",
+    "pos": "noun,verb",
+    "ipa": "/dɪzˈiz/",
+    "meaning_vi": "bệnh"
+  },
+  {
+    "id": "V1226",
+    "word": "dismiss",
+    "pos": "noun,verb",
+    "ipa": "/dɪsmˈɪs/",
+    "meaning_vi": "miễn nhiệm"
+  },
+  {
+    "id": "V1227",
+    "word": "display",
+    "pos": "adjective",
+    "ipa": "/dɪsplˈeɪ/",
+    "meaning_vi": "trưng bày"
+  },
+  {
+    "id": "V1228",
+    "word": "distance",
+    "pos": "noun",
+    "ipa": "/dˈɪstʌns/",
+    "meaning_vi": "khoảng cách"
+  },
+  {
+    "id": "V1229",
+    "word": "district",
+    "pos": "noun,verb",
+    "ipa": "/dˈɪstɹɪkt/",
+    "meaning_vi": "huyện"
+  },
+  {
+    "id": "V1230",
+    "word": "divide",
+    "pos": "noun,verb",
+    "ipa": "/dɪvˈaɪd/",
+    "meaning_vi": "chia"
+  },
+  {
+    "id": "V1231",
+    "word": "document",
+    "pos": "noun",
+    "ipa": "/dˈɑkjʌmɛnt/",
+    "meaning_vi": "tài liệu"
+  },
+  {
+    "id": "V1232",
+    "word": "double",
+    "pos": "noun,verb",
+    "ipa": "/dˈʌbʌl/",
+    "meaning_vi": "gấp đôi"
+  },
+  {
+    "id": "V1233",
+    "word": "doubt",
+    "pos": "noun,verb",
+    "ipa": "/dˈaʊt/",
+    "meaning_vi": "nghi ngờ"
+  },
+  {
+    "id": "V1234",
+    "word": "downtown",
+    "pos": "noun,verb",
+    "ipa": "/dˈaʊntˈaʊn/",
+    "meaning_vi": "trung tâm thành phố"
+  },
+  {
+    "id": "V1235",
+    "word": "dozen",
+    "pos": "verb",
+    "ipa": "/dˈʌzʌn/",
+    "meaning_vi": "mười hai"
+  },
+  {
+    "id": "V1236",
+    "word": "draft",
+    "pos": "noun,verb",
+    "ipa": "/dɹˈæft/",
+    "meaning_vi": "bản nháp"
+  },
+  {
+    "id": "V1237",
+    "word": "drag",
+    "pos": "noun,verb",
+    "ipa": "/dɹˈæɡ/",
+    "meaning_vi": "lôi kéo"
+  },
+  {
+    "id": "V1238",
+    "word": "drama",
+    "pos": "noun,verb",
+    "ipa": "/dɹˈɑmʌ/",
+    "meaning_vi": "kịch"
+  },
+  {
+    "id": "V1239",
+    "word": "drawer",
+    "pos": "noun,verb",
+    "ipa": "/dɹˈɔɹ/",
+    "meaning_vi": "ngăn kéo"
+  },
+  {
+    "id": "V1240",
+    "word": "drawing",
+    "pos": "verb,adjective",
+    "ipa": "/dɹˈɔɪŋ/",
+    "meaning_vi": "vẽ"
+  },
+  {
+    "id": "V1241",
+    "word": "drug",
+    "pos": "noun,verb",
+    "ipa": "/dɹˈʌɡ/",
+    "meaning_vi": "thuốc"
+  },
+  {
+    "id": "V1242",
+    "word": "economic",
+    "pos": "adjective",
+    "ipa": "/ˌɛkʌnˈɑmɪk/",
+    "meaning_vi": "thuộc kinh tế"
+  },
+  {
+    "id": "V1243",
+    "word": "economy",
+    "pos": "adjective",
+    "ipa": "/ɪkˈɑnʌmi/",
+    "meaning_vi": "kinh tế"
+  },
+  {
+    "id": "V1244",
+    "word": "election",
+    "pos": "noun",
+    "ipa": "/ɪlˈɛkʃʌn/",
+    "meaning_vi": "bầu cử"
+  },
+  {
+    "id": "V1245",
+    "word": "else",
+    "pos": "noun,verb",
+    "ipa": "/ˈɛls/",
+    "meaning_vi": "khác"
+  },
+  {
+    "id": "V1246",
+    "word": "emotional",
+    "pos": "adjective",
+    "ipa": "/ɪmˈoʊʃʌnʌl/",
+    "meaning_vi": "xúc động"
+  },
+  {
+    "id": "V1247",
+    "word": "emphasize",
+    "pos": "verb",
+    "ipa": "/ˈɛmfʌsˌaɪz/",
+    "meaning_vi": "nhấn mạnh"
+  },
+  {
+    "id": "V1248",
+    "word": "employ",
+    "pos": "adjective",
+    "ipa": "/ɛmplˈɔɪ/",
+    "meaning_vi": "thuê"
+  },
+  {
+    "id": "V1249",
+    "word": "employee",
+    "pos": "noun,verb",
+    "ipa": "/ɛmplˈɔɪi/",
+    "meaning_vi": "người lao động"
+  },
+  {
+    "id": "V1250",
+    "word": "employer",
+    "pos": "noun,verb",
+    "ipa": "/ɛmplˈɔɪɝ/",
+    "meaning_vi": "nhà tuyển dụng"
+  },
+  {
+    "id": "V1251",
+    "word": "employment",
+    "pos": "noun",
+    "ipa": "/ɛmplˈɔɪmʌnt/",
+    "meaning_vi": "thuê người làm"
+  },
+  {
+    "id": "V1252",
+    "word": "empty",
+    "pos": "adjective",
+    "ipa": "/ˈɛmpti/",
+    "meaning_vi": "trống"
+  },
+  {
+    "id": "V1253",
+    "word": "enable",
+    "pos": "adjective",
+    "ipa": "/ɛnˈeɪbʌl/",
+    "meaning_vi": "cho phép"
+  },
+  {
+    "id": "V1254",
+    "word": "encounter",
+    "pos": "noun,verb",
+    "ipa": "/ɪnkˈaʊntɝ/",
+    "meaning_vi": "bắt gặp"
+  },
+  {
+    "id": "V1255",
+    "word": "enemy",
+    "pos": "adjective",
+    "ipa": "/ˈɛnʌmi/",
+    "meaning_vi": "kẻ thù"
+  },
+  {
+    "id": "V1256",
+    "word": "energy",
+    "pos": "adjective",
+    "ipa": "/ˈɛnɝdʒi/",
+    "meaning_vi": "năng lượng"
+  },
+  {
+    "id": "V1257",
+    "word": "enforce",
+    "pos": "noun,verb",
+    "ipa": "/ɛnfˈɔɹs/",
+    "meaning_vi": "thực thi"
+  },
+  {
+    "id": "V1258",
+    "word": "engage",
+    "pos": "noun",
+    "ipa": "/ɛnɡˈeɪdʒ/",
+    "meaning_vi": "đính hôn"
+  },
+  {
+    "id": "V1259",
+    "word": "engine",
+    "pos": "noun,verb",
+    "ipa": "/ˈɛndʒʌn/",
+    "meaning_vi": "động cơ"
+  },
+  {
+    "id": "V1260",
+    "word": "engineer",
+    "pos": "noun,verb",
+    "ipa": "/ˈɛndʒʌnˈɪɹ/",
+    "meaning_vi": "kỹ sư"
+  },
+  {
+    "id": "V1261",
+    "word": "engineering",
+    "pos": "verb,adjective",
+    "ipa": "/ˈɛndʒʌnˈɪɹɪŋ/",
+    "meaning_vi": "kỹ thuật"
+  },
+  {
+    "id": "V1262",
+    "word": "enormous",
+    "pos": "adjective",
+    "ipa": "/ɪnˈɔɹmʌs/",
+    "meaning_vi": "lớn lao"
+  },
+  {
+    "id": "V1263",
+    "word": "ensure",
+    "pos": "noun",
+    "ipa": "/ɛnʃˈʊɹ/",
+    "meaning_vi": "đảm bảo"
+  },
+  {
+    "id": "V1264",
+    "word": "enterprise",
+    "pos": "verb",
+    "ipa": "/ˈɛntɝpɹˌaɪz/",
+    "meaning_vi": "doanh nghiệp"
+  },
+  {
+    "id": "V1265",
+    "word": "entertainment",
+    "pos": "noun",
+    "ipa": "/ˌɛntɝtˈeɪnmʌnt/",
+    "meaning_vi": "sự giải trí"
+  },
+  {
+    "id": "V1266",
+    "word": "entire",
+    "pos": "noun,verb",
+    "ipa": "/ɪntˈaɪɝ/",
+    "meaning_vi": "toàn bộ"
+  },
+  {
+    "id": "V1267",
+    "word": "entirely",
+    "pos": "adverb",
+    "ipa": "/ɪntˈaɪɝli/",
+    "meaning_vi": "toàn bộ"
+  },
+  {
+    "id": "V1268",
+    "word": "entrance",
+    "pos": "noun",
+    "ipa": "/ˈɛntɹʌns/",
+    "meaning_vi": "cổng vào"
+  },
+  {
+    "id": "V1269",
+    "word": "environmental",
+    "pos": "adjective",
+    "ipa": "/ɪnvˌaɪɹʌnmˈɛntʌl/",
+    "meaning_vi": "môi trường"
+  },
+  {
+    "id": "V1270",
+    "word": "equally",
+    "pos": "adverb",
+    "ipa": "/ˈikwʌli/",
+    "meaning_vi": "như nhau"
+  },
+  {
+    "id": "V1271",
+    "word": "equipment",
+    "pos": "noun",
+    "ipa": "/ɪkwˈɪpmʌnt/",
+    "meaning_vi": "thiết bị"
+  },
+  {
+    "id": "V1272",
+    "word": "error",
+    "pos": "noun,verb",
+    "ipa": "/ˈɛɹɝ/",
+    "meaning_vi": "lỗi"
+  },
+  {
+    "id": "V1273",
+    "word": "escape",
+    "pos": "noun,verb",
+    "ipa": "/ɪskˈeɪp/",
+    "meaning_vi": "bỏ trốn"
+  },
+  {
+    "id": "V1274",
+    "word": "essay",
+    "pos": "adjective",
+    "ipa": "/ɛsˈeɪ/",
+    "meaning_vi": "tiểu luận"
+  },
+  {
+    "id": "V1275",
+    "word": "establish",
+    "pos": "adjective",
+    "ipa": "/ɪstˈæblɪʃ/",
+    "meaning_vi": "thành lập"
+  },
+  {
+    "id": "V1276",
+    "word": "estate",
+    "pos": "noun,verb",
+    "ipa": "/ɪstˈeɪt/",
+    "meaning_vi": "tài sản"
+  },
+  {
+    "id": "V1277",
+    "word": "estimate",
+    "pos": "noun,verb",
+    "ipa": "/ˈɛstʌmʌt/",
+    "meaning_vi": "ước lượng"
+  },
+  {
+    "id": "V1278",
+    "word": "ethics",
+    "pos": "noun,verb",
+    "ipa": "/ˈɛθɪks/",
+    "meaning_vi": "đạo đức"
+  },
+  {
+    "id": "V1279",
+    "word": "ethnic",
+    "pos": "adjective",
+    "ipa": "/ˈɛθnɪk/",
+    "meaning_vi": "dân tộc"
+  },
+  {
+    "id": "V1280",
+    "word": "evaluate",
+    "pos": "noun,verb",
+    "ipa": "/ɪvˈæljuˌeɪt/",
+    "meaning_vi": "đánh giá"
+  },
+  {
+    "id": "V1281",
+    "word": "evaluation",
+    "pos": "noun",
+    "ipa": "/ɪvˌæljuˈeɪʃʌn/",
+    "meaning_vi": "sự đánh giá"
+  },
+  {
+    "id": "V1282",
+    "word": "eventually",
+    "pos": "adverb",
+    "ipa": "/ɪvˈɛntʃʌwʌli/",
+    "meaning_vi": "sau cùng"
+  },
+  {
+    "id": "V1283",
+    "word": "everybody",
+    "pos": "adjective",
+    "ipa": "/ˈɛvɹibˌɑdi/",
+    "meaning_vi": "mọi người"
+  },
+  {
+    "id": "V1284",
+    "word": "evidence",
+    "pos": "noun",
+    "ipa": "/ˈɛvʌdʌns/",
+    "meaning_vi": "chứng cớ"
+  },
+  {
+    "id": "V1285",
+    "word": "exact",
+    "pos": "noun,verb",
+    "ipa": "/ɪɡzˈækt/",
+    "meaning_vi": "chính xác"
+  },
+  {
+    "id": "V1286",
+    "word": "exactly",
+    "pos": "adverb",
+    "ipa": "/ɪɡzˈæktli/",
+    "meaning_vi": "chính xác"
+  },
+  {
+    "id": "V1287",
+    "word": "examine",
+    "pos": "noun,verb",
+    "ipa": "/ɪɡzˈæmɪn/",
+    "meaning_vi": "nghiên cứu"
+  },
+  {
+    "id": "V1288",
+    "word": "exception",
+    "pos": "noun",
+    "ipa": "/ɪksˈɛpʃʌn/",
+    "meaning_vi": "ngoại lệ"
+  },
+  {
+    "id": "V1289",
+    "word": "exchange",
+    "pos": "noun,verb",
+    "ipa": "/ɪkstʃˈeɪndʒ/",
+    "meaning_vi": "trao đổi"
+  },
+  {
+    "id": "V1290",
+    "word": "excitement",
+    "pos": "noun",
+    "ipa": "/ɪksˈaɪtmʌnt/",
+    "meaning_vi": "sự phấn khích"
+  },
+  {
+    "id": "V1291",
+    "word": "exist",
+    "pos": "noun",
+    "ipa": "/ɪɡzˈɪst/",
+    "meaning_vi": "hiện hữu"
+  },
+  {
+    "id": "V1292",
+    "word": "existence",
+    "pos": "noun",
+    "ipa": "/ɛɡzˈɪstʌns/",
+    "meaning_vi": "sự tồn tại"
+  },
+  {
+    "id": "V1293",
+    "word": "expand",
+    "pos": "noun,verb",
+    "ipa": "/ɪkspˈænd/",
+    "meaning_vi": "mở rộng"
+  },
+  {
+    "id": "V1294",
+    "word": "expansion",
+    "pos": "noun",
+    "ipa": "/ɪkspˈænʃʌn/",
+    "meaning_vi": "sự mở rộng"
+  },
+  {
+    "id": "V1295",
+    "word": "expectation",
+    "pos": "noun",
+    "ipa": "/ˌɛkspɛktˈeɪʃʌn/",
+    "meaning_vi": "kỳ vọng"
+  },
+  {
+    "id": "V1296",
+    "word": "expert",
+    "pos": "noun,verb",
+    "ipa": "/ˈɛkspɝt/",
+    "meaning_vi": "chuyên gia"
+  },
+  {
+    "id": "V1297",
+    "word": "explanation",
+    "pos": "noun",
+    "ipa": "/ˌɛksplʌnˈeɪʃʌn/",
+    "meaning_vi": "giải thích"
+  },
+  {
+    "id": "V1298",
+    "word": "explode",
+    "pos": "noun,verb",
+    "ipa": "/ɪksplˈoʊd/",
+    "meaning_vi": "nổ"
+  },
+  {
+    "id": "V1299",
+    "word": "explore",
+    "pos": "noun,verb",
+    "ipa": "/ɪksplˈɔɹ/",
+    "meaning_vi": "khám phá"
+  },
+  {
+    "id": "V1300",
+    "word": "express",
+    "pos": "noun,verb",
+    "ipa": "/ɪkspɹˈɛs/",
+    "meaning_vi": "thể hiện"
+  },
+  {
+    "id": "V1301",
+    "word": "expression",
+    "pos": "noun",
+    "ipa": "/ɪkspɹˈɛʃʌn/",
+    "meaning_vi": "sự biểu lộ"
+  },
+  {
+    "id": "V1302",
+    "word": "extend",
+    "pos": "noun,verb",
+    "ipa": "/ɪkstˈɛnd/",
+    "meaning_vi": "mở rộng"
+  },
+  {
+    "id": "V1303",
+    "word": "extension",
+    "pos": "noun",
+    "ipa": "/ɪkstˈɛnʃʌn/",
+    "meaning_vi": "sự mở rộng"
+  },
+  {
+    "id": "V1304",
+    "word": "extra",
+    "pos": "noun,verb",
+    "ipa": "/ˈɛkstɹʌ/",
+    "meaning_vi": "thêm"
+  },
+  {
+    "id": "V1305",
+    "word": "extreme",
+    "pos": "noun,verb",
+    "ipa": "/ɛkstɹˈim/",
+    "meaning_vi": "vô cùng"
+  },
+  {
+    "id": "V1306",
+    "word": "factor",
+    "pos": "noun,verb",
+    "ipa": "/fˈæktɝ/",
+    "meaning_vi": "nhân tố"
+  },
+  {
+    "id": "V1307",
+    "word": "failure",
+    "pos": "noun",
+    "ipa": "/fˈeɪljɝ/",
+    "meaning_vi": "sự thất bại"
+  },
+  {
+    "id": "V1308",
+    "word": "fair",
+    "pos": "noun,verb",
+    "ipa": "/fˈɛɹ/",
+    "meaning_vi": "hội chợ"
+  },
+  {
+    "id": "V1309",
+    "word": "fairly",
+    "pos": "adverb",
+    "ipa": "/fˈɛɹli/",
+    "meaning_vi": "khá"
+  },
+  {
+    "id": "V1310",
+    "word": "faith",
+    "pos": "noun,verb",
+    "ipa": "/fˈeɪθ/",
+    "meaning_vi": "sự tin tưởng"
+  },
+  {
+    "id": "V1311",
+    "word": false,
+    "pos": "noun,verb",
+    "ipa": "/fˈɔls/",
+    "meaning_vi": "SAI"
+  },
+  {
+    "id": "V1312",
+    "word": "familiar",
+    "pos": "noun,verb",
+    "ipa": "/fʌmˈɪljɝ/",
+    "meaning_vi": "thân thuộc"
+  },
+  {
+    "id": "V1313",
+    "word": "fan",
+    "pos": "noun,verb",
+    "ipa": "/fˈæn/",
+    "meaning_vi": "cái quạt"
+  },
+  {
+    "id": "V1314",
+    "word": "fantasy",
+    "pos": "adjective",
+    "ipa": "/fˈæntʌsi/",
+    "meaning_vi": "tưởng tượng"
+  },
+  {
+    "id": "V1315",
+    "word": "farmer",
+    "pos": "noun,verb",
+    "ipa": "/fˈɑɹmɝ/",
+    "meaning_vi": "nông dân"
+  },
+  {
+    "id": "V1316",
+    "word": "fashion",
+    "pos": "noun,verb",
+    "ipa": "/fˈæʃʌn/",
+    "meaning_vi": "thời trang"
+  },
+  {
+    "id": "V1317",
+    "word": "fate",
+    "pos": "noun,verb",
+    "ipa": "/fˈeɪt/",
+    "meaning_vi": "định mệnh"
+  },
+  {
+    "id": "V1318",
+    "word": "fault",
+    "pos": "noun,verb",
+    "ipa": "/fˈɔlt/",
+    "meaning_vi": "lỗi"
+  },
+  {
+    "id": "V1319",
+    "word": "favor",
+    "pos": "noun,verb",
+    "ipa": "/fˈeɪvɝ/",
+    "meaning_vi": "sự ưu ái"
+  },
+  {
+    "id": "V1320",
+    "word": "favorite",
+    "pos": "noun,verb",
+    "ipa": "/fˈeɪvɝɪt/",
+    "meaning_vi": "yêu thích"
+  },
+  {
+    "id": "V1321",
+    "word": "feature",
+    "pos": "noun",
+    "ipa": "/fˈitʃɝ/",
+    "meaning_vi": "tính năng"
+  },
+  {
+    "id": "V1322",
+    "word": "federal",
+    "pos": "adjective",
+    "ipa": "/fˈɛdɝʌl/",
+    "meaning_vi": "liên bang"
+  },
+  {
+    "id": "V1323",
+    "word": "fee",
+    "pos": "noun,verb",
+    "ipa": "/fˈi/",
+    "meaning_vi": "phí"
+  },
+  {
+    "id": "V1324",
+    "word": "feed",
+    "pos": "verb,adjective",
+    "ipa": "/fˈid/",
+    "meaning_vi": "cho ăn"
+  },
+  {
+    "id": "V1325",
+    "word": "feeling",
+    "pos": "verb,adjective",
+    "ipa": "/fˈilɪŋ/",
+    "meaning_vi": "cảm giác"
+  },
+  {
+    "id": "V1326",
+    "word": "female",
+    "pos": "noun,verb",
+    "ipa": "/fˈimˌeɪl/",
+    "meaning_vi": "nữ giới"
+  },
+  {
+    "id": "V1327",
+    "word": "film",
+    "pos": "noun,verb",
+    "ipa": "/fˈɪlm/",
+    "meaning_vi": "phim ảnh"
+  },
+  {
+    "id": "V1328",
+    "word": "finally",
+    "pos": "adverb",
+    "ipa": "/fˈaɪnʌli/",
+    "meaning_vi": "Cuối cùng"
+  },
+  {
+    "id": "V1329",
+    "word": "finance",
+    "pos": "noun",
+    "ipa": "/fʌnˈæns/",
+    "meaning_vi": "tài chính"
+  },
+  {
+    "id": "V1330",
+    "word": "financial",
+    "pos": "adjective",
+    "ipa": "/fʌnˈænʃʌl/",
+    "meaning_vi": "tài chính"
+  },
+  {
+    "id": "V1331",
+    "word": "finding",
+    "pos": "verb,adjective",
+    "ipa": "/fˈaɪndɪŋ/",
+    "meaning_vi": "tìm kiếm"
+  },
+  {
+    "id": "V1332",
+    "word": "firm",
+    "pos": "noun,verb",
+    "ipa": "/fˈɝm/",
+    "meaning_vi": "vững chãi"
+  },
+  {
+    "id": "V1333",
+    "word": "flag",
+    "pos": "noun,verb",
+    "ipa": "/flˈæɡ/",
+    "meaning_vi": "lá cờ"
+  },
+  {
+    "id": "V1334",
+    "word": "flame",
+    "pos": "noun,verb",
+    "ipa": "/flˈeɪm/",
+    "meaning_vi": "ngọn lửa"
+  },
+  {
+    "id": "V1335",
+    "word": "flat",
+    "pos": "noun,verb",
+    "ipa": "/flˈæt/",
+    "meaning_vi": "phẳng"
+  },
+  {
+    "id": "V1336",
+    "word": "flight",
+    "pos": "noun,verb",
+    "ipa": "/flˈaɪt/",
+    "meaning_vi": "chuyến bay"
+  },
+  {
+    "id": "V1337",
+    "word": "flow",
+    "pos": "noun,verb",
+    "ipa": "/flˈoʊ/",
+    "meaning_vi": "chảy"
+  },
+  {
+    "id": "V1338",
+    "word": "football",
+    "pos": "noun,verb",
+    "ipa": "/fˈʊtbˌɔl/",
+    "meaning_vi": "bóng đá"
+  },
+  {
+    "id": "V1339",
+    "word": "force",
+    "pos": "noun,verb",
+    "ipa": "/fˈɔɹs/",
+    "meaning_vi": "lực lượng"
+  },
+  {
+    "id": "V1340",
+    "word": "foreign",
+    "pos": "noun,verb",
+    "ipa": "/fˈɔɹʌn/",
+    "meaning_vi": "nước ngoài"
+  },
+  {
+    "id": "V1341",
+    "word": "forest",
+    "pos": "noun,verb",
+    "ipa": "/fˈɔɹʌst/",
+    "meaning_vi": "rừng"
+  },
+  {
+    "id": "V1342",
+    "word": "forever",
+    "pos": "noun,verb",
+    "ipa": "/fɝˈɛvɝ/",
+    "meaning_vi": "mãi mãi"
+  },
+  {
+    "id": "V1343",
+    "word": "formal",
+    "pos": "adjective",
+    "ipa": "/fˈɔɹmʌl/",
+    "meaning_vi": "chính thức"
+  },
+  {
+    "id": "V1344",
+    "word": "formation",
+    "pos": "noun",
+    "ipa": "/fɔɹmˈeɪʃʌn/",
+    "meaning_vi": "sự hình thành"
+  },
+  {
+    "id": "V1345",
+    "word": "former",
+    "pos": "noun,verb",
+    "ipa": "/fˈɔɹmɝ/",
+    "meaning_vi": "trước"
+  },
+  {
+    "id": "V1346",
+    "word": "forward",
+    "pos": "noun,verb",
+    "ipa": "/fˈɔɹwɝd/",
+    "meaning_vi": "phía trước"
+  },
+  {
+    "id": "V1347",
+    "word": "four",
+    "pos": "noun,verb",
+    "ipa": "/fˈɔɹ/",
+    "meaning_vi": "bốn"
+  },
+  {
+    "id": "V1348",
+    "word": "frame",
+    "pos": "noun,verb",
+    "ipa": "/fɹˈeɪm/",
+    "meaning_vi": "khung"
+  },
+  {
+    "id": "V1349",
+    "word": "freedom",
+    "pos": "noun,verb",
+    "ipa": "/fɹˈidʌm/",
+    "meaning_vi": "tự do"
+  },
+  {
+    "id": "V1350",
+    "word": "freeze",
+    "pos": "noun,verb",
+    "ipa": "/fɹˈiz/",
+    "meaning_vi": "đông cứng"
+  },
+  {
+    "id": "V1351",
+    "word": "friendly",
+    "pos": "adverb",
+    "ipa": "/fɹˈɛndli/",
+    "meaning_vi": "thân thiện"
+  },
+  {
+    "id": "V1352",
+    "word": "fuel",
+    "pos": "noun,verb",
+    "ipa": "/fjˈuʌl/",
+    "meaning_vi": "nhiên liệu"
+  },
+  {
+    "id": "V1353",
+    "word": "function",
+    "pos": "noun",
+    "ipa": "/fˈʌŋkʃʌn/",
+    "meaning_vi": "chức năng"
+  },
+  {
+    "id": "V1354",
+    "word": "fund",
+    "pos": "noun,verb",
+    "ipa": "/fˈʌnd/",
+    "meaning_vi": "quỹ"
+  },
+  {
+    "id": "V1355",
+    "word": "funny",
+    "pos": "adjective",
+    "ipa": "/fˈʌni/",
+    "meaning_vi": "buồn cười"
+  },
+  {
+    "id": "V1356",
+    "word": "gain",
+    "pos": "noun,verb",
+    "ipa": "/ɡˈeɪn/",
+    "meaning_vi": "nhận được"
+  },
+  {
+    "id": "V1357",
+    "word": "gap",
+    "pos": "noun,verb",
+    "ipa": "/ɡˈæp/",
+    "meaning_vi": "khoảng cách"
+  },
+  {
+    "id": "V1358",
+    "word": "garage",
+    "pos": "noun",
+    "ipa": "/ɡɝˈɑʒ/",
+    "meaning_vi": "ga-ra"
+  },
+  {
+    "id": "V1359",
+    "word": "gate",
+    "pos": "noun,verb",
+    "ipa": "/ɡˈeɪt/",
+    "meaning_vi": "cổng"
+  },
+  {
+    "id": "V1360",
+    "word": "gather",
+    "pos": "noun,verb",
+    "ipa": "/ɡˈæðɝ/",
+    "meaning_vi": "tập trung"
+  },
+  {
+    "id": "V1361",
+    "word": "generation",
+    "pos": "noun",
+    "ipa": "/dʒˌɛnɝˈeɪʃʌn/",
+    "meaning_vi": "thế hệ"
+  },
+  {
+    "id": "V1362",
+    "word": "generous",
+    "pos": "adjective",
+    "ipa": "/dʒˈɛnɝʌs/",
+    "meaning_vi": "hào phóng"
+  },
+  {
+    "id": "V1363",
+    "word": "gently",
+    "pos": "adverb",
+    "ipa": "/dʒˈɛntli/",
+    "meaning_vi": "nhẹ nhàng"
+  },
+  {
+    "id": "V1364",
+    "word": "global",
+    "pos": "adjective",
+    "ipa": "/ɡlˈoʊbʌl/",
+    "meaning_vi": "toàn cầu"
+  },
+  {
+    "id": "V1365",
+    "word": "god",
+    "pos": "noun,verb",
+    "ipa": "/ɡˈɑd/",
+    "meaning_vi": "chúa"
+  },
+  {
+    "id": "V1366",
+    "word": "gold",
+    "pos": "noun,verb",
+    "ipa": "/ɡˈoʊld/",
+    "meaning_vi": "vàng"
+  },
+  {
+    "id": "V1367",
+    "word": "governor",
+    "pos": "noun,verb",
+    "ipa": "/ɡˈʌvɝnɝ/",
+    "meaning_vi": "thống đốc"
+  },
+  {
+    "id": "V1368",
+    "word": "grab",
+    "pos": "noun,verb",
+    "ipa": "/ɡɹˈæb/",
+    "meaning_vi": "vồ lấy"
+  },
+  {
+    "id": "V1369",
+    "word": "gradually",
+    "pos": "adverb",
+    "ipa": "/ɡɹˈædʒuʌli/",
+    "meaning_vi": "dần dần"
+  },
+  {
+    "id": "V1370",
+    "word": "graduate",
+    "pos": "noun,verb",
+    "ipa": "/ɡɹˈædʒʌwʌt/",
+    "meaning_vi": "tốt nghiệp"
+  },
+  {
+    "id": "V1371",
+    "word": "grain",
+    "pos": "noun,verb",
+    "ipa": "/ɡɹˈeɪn/",
+    "meaning_vi": "ngũ cốc"
+  },
+  {
+    "id": "V1372",
+    "word": "grand",
+    "pos": "noun,verb",
+    "ipa": "/ɡɹˈænd/",
+    "meaning_vi": "lớn"
+  },
+  {
+    "id": "V1373",
+    "word": "grandfather",
+    "pos": "noun,verb",
+    "ipa": "/ɡɹˈændfˌɑðɝ/",
+    "meaning_vi": "ông nội"
+  },
+  {
+    "id": "V1374",
+    "word": "grandmother",
+    "pos": "noun,verb",
+    "ipa": "/ɡɹˈændmˌʌðɝ/",
+    "meaning_vi": "bà"
+  },
+  {
+    "id": "V1375",
+    "word": "grant",
+    "pos": "noun,verb",
+    "ipa": "/ɡɹˈænt/",
+    "meaning_vi": "khoản trợ cấp"
+  },
+  {
+    "id": "V1376",
+    "word": "grass",
+    "pos": "noun,verb",
+    "ipa": "/ɡɹˈæs/",
+    "meaning_vi": "cỏ"
+  },
+  {
+    "id": "V1377",
+    "word": "grocery",
+    "pos": "adjective",
+    "ipa": "/ɡɹˈoʊsɝi/",
+    "meaning_vi": "cửa hàng tạp hóa"
+  },
+  {
+    "id": "V1378",
+    "word": "growth",
+    "pos": "noun,verb",
+    "ipa": "/ɡɹˈoʊθ/",
+    "meaning_vi": "sự phát triển"
+  },
+  {
+    "id": "V1379",
+    "word": "guarantee",
+    "pos": "noun,verb",
+    "ipa": "/ɡˌɛɹʌntˈi/",
+    "meaning_vi": "bảo đảm"
+  },
+  {
+    "id": "V1380",
+    "word": "guard",
+    "pos": "noun,verb",
+    "ipa": "/ɡˈɑɹd/",
+    "meaning_vi": "bảo vệ"
+  },
+  {
+    "id": "V1381",
+    "word": "gun",
+    "pos": "noun,verb",
+    "ipa": "/ɡˈʌn/",
+    "meaning_vi": "súng"
+  },
+  {
+    "id": "V1382",
+    "word": "guy",
+    "pos": "adjective",
+    "ipa": "/ɡˈaɪ/",
+    "meaning_vi": "chàng trai"
+  },
+  {
+    "id": "V1383",
+    "word": "habit",
+    "pos": "noun,verb",
+    "ipa": "/hˈæbʌt/",
+    "meaning_vi": "thói quen"
+  },
+  {
+    "id": "V1384",
+    "word": "handle",
+    "pos": "noun,verb",
+    "ipa": "/hˈændʌl/",
+    "meaning_vi": "xử lý"
+  },
+  {
+    "id": "V1385",
+    "word": "hang",
+    "pos": "noun,verb",
+    "ipa": "/hˈæŋ/",
+    "meaning_vi": "treo"
+  },
+  {
+    "id": "V1386",
+    "word": "hardly",
+    "pos": "adverb",
+    "ipa": "/hˈɑɹdli/",
+    "meaning_vi": "khắc nghiệt"
+  },
+  {
+    "id": "V1387",
+    "word": "harm",
+    "pos": "noun,verb",
+    "ipa": "/hˈɑɹm/",
+    "meaning_vi": "làm hại"
+  },
+  {
+    "id": "V1388",
+    "word": "hate",
+    "pos": "noun,verb",
+    "ipa": "/hˈeɪt/",
+    "meaning_vi": "ghét"
+  },
+  {
+    "id": "V1389",
+    "word": "headline",
+    "pos": "noun,verb",
+    "ipa": "/hˈɛdlˌaɪn/",
+    "meaning_vi": "tiêu đề"
+  },
+  {
+    "id": "V1390",
+    "word": "healthy",
+    "pos": "adjective",
+    "ipa": "/hˈɛlθi/",
+    "meaning_vi": "khỏe mạnh"
+  },
+  {
+    "id": "V1391",
+    "word": "hearing",
+    "pos": "verb,adjective",
+    "ipa": "/hˈiɹɪŋ/",
+    "meaning_vi": "nghe"
+  },
+  {
+    "id": "V1392",
+    "word": "height",
+    "pos": "noun,verb",
+    "ipa": "/hˈaɪt/",
+    "meaning_vi": "chiều cao"
+  },
+  {
+    "id": "V1393",
+    "word": "helpful",
+    "pos": "adjective",
+    "ipa": "/hˈɛlpfʌl/",
+    "meaning_vi": "hữu ích"
+  },
+  {
+    "id": "V1394",
+    "word": "hero",
+    "pos": "noun,verb",
+    "ipa": "/hˈɪɹoʊ/",
+    "meaning_vi": "anh hùng"
+  },
+  {
+    "id": "V1395",
+    "word": "herself",
+    "pos": "pronoun",
+    "ipa": "/hɝsˈɛlf/",
+    "meaning_vi": "chính mình"
+  },
+  {
+    "id": "V1396",
+    "word": "hey",
+    "pos": "interjection",
+    "ipa": "/hˈeɪ/",
+    "meaning_vi": "Chào"
+  },
+  {
+    "id": "V1397",
+    "word": "hi",
+    "pos": "interjection",
+    "ipa": "/hˈaɪ/",
+    "meaning_vi": "CHÀO"
+  },
+  {
+    "id": "V1398",
+    "word": "hide",
+    "pos": "noun,verb",
+    "ipa": "/hˈaɪd/",
+    "meaning_vi": "trốn"
+  },
+  {
+    "id": "V1399",
+    "word": "highlight",
+    "pos": "noun,verb",
+    "ipa": "/hˈaɪlˌaɪt/",
+    "meaning_vi": "điểm nổi bật"
+  },
+  {
+    "id": "V1400",
+    "word": "highly",
+    "pos": "adverb",
+    "ipa": "/hˈaɪli/",
+    "meaning_vi": "rất cao"
+  },
+  {
+    "id": "V1401",
+    "word": "himself",
+    "pos": "pronoun",
+    "ipa": "/hɪmsˈɛlf/",
+    "meaning_vi": "chính mình"
+  },
+  {
+    "id": "V1402",
+    "word": "hire",
+    "pos": "noun,verb",
+    "ipa": "/hˈaɪɝ/",
+    "meaning_vi": "thuê"
+  },
+  {
+    "id": "V1403",
+    "word": "hole",
+    "pos": "noun,verb",
+    "ipa": "/hˈoʊl/",
+    "meaning_vi": "hố"
+  },
+  {
+    "id": "V1404",
+    "word": "holiday",
+    "pos": "adjective",
+    "ipa": "/hˈɑlʌdˌeɪ/",
+    "meaning_vi": "ngày lễ"
+  },
+  {
+    "id": "V1405",
+    "word": "honest",
+    "pos": "noun,verb",
+    "ipa": "/ˈɑnʌst/",
+    "meaning_vi": "trung thực"
+  },
+  {
+    "id": "V1406",
+    "word": "honestly",
+    "pos": "adverb",
+    "ipa": "/ˈɑnʌstli/",
+    "meaning_vi": "Thành thật"
+  },
+  {
+    "id": "V1407",
+    "word": "household",
+    "pos": "noun,verb",
+    "ipa": "/hˈaʊshˌoʊld/",
+    "meaning_vi": "hộ gia đình"
+  },
+  {
+    "id": "V1408",
+    "word": "however",
+    "pos": "noun,verb",
+    "ipa": "/hˌaʊˈɛvɝ/",
+    "meaning_vi": "Tuy nhiên"
+  },
+  {
+    "id": "V1409",
+    "word": "humor",
+    "pos": "noun,verb",
+    "ipa": "/hjˈumɝ/",
+    "meaning_vi": "hài hước"
+  },
+  {
+    "id": "V1410",
+    "word": "hundred",
+    "pos": "verb,adjective",
+    "ipa": "/hˈʌndɹʌd/",
+    "meaning_vi": "trăm"
+  },
+  {
+    "id": "V1411",
+    "word": "identify",
+    "pos": "adjective",
+    "ipa": "/aɪdˈɛntʌfˌaɪ/",
+    "meaning_vi": "nhận dạng"
+  },
+  {
+    "id": "V1412",
+    "word": "identity",
+    "pos": "noun",
+    "ipa": "/aɪdˈɛntɪtˌi/",
+    "meaning_vi": "danh tính"
+  },
+  {
+    "id": "V1413",
+    "word": "ignore",
+    "pos": "noun,verb",
+    "ipa": "/ˌɪɡnˈɔɹ/",
+    "meaning_vi": "phớt lờ"
+  },
+  {
+    "id": "V1414",
+    "word": "illegal",
+    "pos": "adjective",
+    "ipa": "/ˌɪlˈiɡʌl/",
+    "meaning_vi": "bất hợp pháp"
+  },
+  {
+    "id": "V1415",
+    "word": "illness",
+    "pos": "noun",
+    "ipa": "/ˈɪlnʌs/",
+    "meaning_vi": "sự ốm yếu"
+  },
+  {
+    "id": "V1416",
+    "word": "image",
+    "pos": "noun",
+    "ipa": "/ˈɪmʌdʒ/",
+    "meaning_vi": "hình ảnh"
+  },
+  {
+    "id": "V1417",
+    "word": "immediate",
+    "pos": "noun,verb",
+    "ipa": "/ˌɪmˈidˌiʌt/",
+    "meaning_vi": "ngay lập tức"
+  },
+  {
+    "id": "V1418",
+    "word": "immediately",
+    "pos": "adverb",
+    "ipa": "/ˌɪmˈidˌiʌtli/",
+    "meaning_vi": "ngay lập tức"
+  },
+  {
+    "id": "V1419",
+    "word": "immigrant",
+    "pos": "noun,verb",
+    "ipa": "/ˈɪmʌɡɹʌnt/",
+    "meaning_vi": "người nhập cư"
+  },
+  {
+    "id": "V1420",
+    "word": "impact",
+    "pos": "noun,verb",
+    "ipa": "/ˌɪmpˈækt/",
+    "meaning_vi": "sự va chạm"
+  },
+  {
+    "id": "V1421",
+    "word": "implement",
+    "pos": "noun",
+    "ipa": "/ˈɪmplʌmʌnt/",
+    "meaning_vi": "thực hiện"
+  },
+  {
+    "id": "V1422",
+    "word": "improvement",
+    "pos": "noun",
+    "ipa": "/ˌɪmpɹˈuvmʌnt/",
+    "meaning_vi": "sự cải tiến"
+  },
+  {
+    "id": "V1423",
+    "word": "income",
+    "pos": "noun,verb",
+    "ipa": "/ˈɪnkˌʌm/",
+    "meaning_vi": "thu nhập"
+  },
+  {
+    "id": "V1424",
+    "word": "independent",
+    "pos": "noun,verb",
+    "ipa": "/ˌɪndɪpˈɛndʌnt/",
+    "meaning_vi": "độc lập"
+  },
+  {
+    "id": "V1425",
+    "word": "indicate",
+    "pos": "noun,verb",
+    "ipa": "/ˈɪndʌkˌeɪt/",
+    "meaning_vi": "biểu thị"
+  },
+  {
+    "id": "V1426",
+    "word": "individual",
+    "pos": "adjective",
+    "ipa": "/ˌɪndʌvˈɪdʒʌwʌl/",
+    "meaning_vi": "cá nhân"
+  },
+  {
+    "id": "V1427",
+    "word": "industry",
+    "pos": "adjective",
+    "ipa": "/ˈɪndʌstɹi/",
+    "meaning_vi": "ngành công nghiệp"
+  },
+  {
+    "id": "V1428",
+    "word": "influence",
+    "pos": "noun",
+    "ipa": "/ˈɪnfluʌns/",
+    "meaning_vi": "ảnh hưởng"
+  },
+  {
+    "id": "V1429",
+    "word": "insist",
+    "pos": "noun",
+    "ipa": "/ˌɪnsˈɪst/",
+    "meaning_vi": "khăng khăng"
+  },
+  {
+    "id": "V1430",
+    "word": "institution",
+    "pos": "noun",
+    "ipa": "/ˌɪnstɪtˈuʃʌn/",
+    "meaning_vi": "tổ chức"
+  },
+  {
+    "id": "V1431",
+    "word": "instruction",
+    "pos": "noun",
+    "ipa": "/ˌɪnstɹˈʌkʃʌn/",
+    "meaning_vi": "chỉ dẫn"
+  },
+  {
+    "id": "V1432",
+    "word": "instrument",
+    "pos": "noun",
+    "ipa": "/ˈɪnstɹʌmʌnt/",
+    "meaning_vi": "dụng cụ"
+  },
+  {
+    "id": "V1433",
+    "word": "insurance",
+    "pos": "noun",
+    "ipa": "/ˌɪnʃˈʊɹʌns/",
+    "meaning_vi": "bảo hiểm"
+  },
+  {
+    "id": "V1434",
+    "word": "intellectual",
+    "pos": "adjective",
+    "ipa": "/ˌɪntʌlˈɛktʃuʌl/",
+    "meaning_vi": "trí tuệ"
+  },
+  {
+    "id": "V1435",
+    "word": "intelligence",
+    "pos": "noun",
+    "ipa": "/ˌɪntˈɛlʌdʒʌns/",
+    "meaning_vi": "trí thông minh"
+  },
+  {
+    "id": "V1436",
+    "word": "intend",
+    "pos": "noun,verb",
+    "ipa": "/ˌɪntˈɛnd/",
+    "meaning_vi": "có ý định"
+  },
+  {
+    "id": "V1437",
+    "word": "intention",
+    "pos": "noun",
+    "ipa": "/ˌɪntˈɛntʃʌn/",
+    "meaning_vi": "chủ đích"
+  },
+  {
+    "id": "V1438",
+    "word": "international",
+    "pos": "adjective",
+    "ipa": "/ˌɪntɝnˈæʃʌnʌl/",
+    "meaning_vi": "quốc tế"
+  },
+  {
+    "id": "V1439",
+    "word": "internet",
+    "pos": "noun,verb",
+    "ipa": "/ˈɪntɝnˌɛt/",
+    "meaning_vi": "internet"
+  },
+  {
+    "id": "V1440",
+    "word": "interview",
+    "pos": "noun,verb",
+    "ipa": "/ˈɪntɝvjˌu/",
+    "meaning_vi": "phỏng vấn"
+  },
+  {
+    "id": "V1441",
+    "word": "introduce",
+    "pos": "noun,verb",
+    "ipa": "/ˌɪntɹʌdˈus/",
+    "meaning_vi": "giới thiệu"
+  },
+  {
+    "id": "V1442",
+    "word": "introduction",
+    "pos": "noun",
+    "ipa": "/ˌɪntɹʌdˈʌkʃʌn/",
+    "meaning_vi": "giới thiệu"
+  },
+  {
+    "id": "V1443",
+    "word": "investment",
+    "pos": "noun",
+    "ipa": "/ˌɪnvˈɛstmʌnt/",
+    "meaning_vi": "sự đầu tư"
+  },
+  {
+    "id": "V1444",
+    "word": "involve",
+    "pos": "noun,verb",
+    "ipa": "/ˌɪnvˈɑlv/",
+    "meaning_vi": "liên quan"
+  },
+  {
+    "id": "V1445",
+    "word": "issue",
+    "pos": "noun,verb",
+    "ipa": "/ˈɪʃu/",
+    "meaning_vi": "vấn đề"
+  },
+  {
+    "id": "V1446",
+    "word": "itself",
+    "pos": "pronoun",
+    "ipa": "/ˌɪtsˈɛlf/",
+    "meaning_vi": "chính nó"
+  },
+  {
+    "id": "V1447",
+    "word": "joint",
+    "pos": "noun,verb",
+    "ipa": "/dʒˈɔɪnt/",
+    "meaning_vi": "chung"
+  },
+  {
+    "id": "V1448",
+    "word": "judgment",
+    "pos": "noun",
+    "ipa": "/dʒˈʌdʒmʌnt/",
+    "meaning_vi": "phán quyết"
+  },
+  {
+    "id": "V1449",
+    "word": "kiss",
+    "pos": "noun,verb",
+    "ipa": "/kˈɪs/",
+    "meaning_vi": "hôn"
+  },
+  {
+    "id": "V1450",
+    "word": "knee",
+    "pos": "noun,verb",
+    "ipa": "/nˈi/",
+    "meaning_vi": "đầu gối"
+  },
+  {
+    "id": "V1451",
+    "word": "labor",
+    "pos": "noun,verb",
+    "ipa": "/lˈeɪbɝ/",
+    "meaning_vi": "nhân công"
+  },
+  {
+    "id": "V1452",
+    "word": "landscape",
+    "pos": "noun,verb",
+    "ipa": "/lˈændskˌeɪp/",
+    "meaning_vi": "phong cảnh"
+  },
+  {
+    "id": "V1453",
+    "word": "largely",
+    "pos": "adverb",
+    "ipa": "/lˈɑɹdʒli/",
+    "meaning_vi": "phần lớn"
+  },
+  {
+    "id": "V1454",
+    "word": "latest",
+    "pos": "noun,verb",
+    "ipa": "/lˈeɪtʌst/",
+    "meaning_vi": "mới nhất"
+  },
+  {
+    "id": "V1455",
+    "word": "leadership",
+    "pos": "noun",
+    "ipa": "/lˈidɝʃˌɪp/",
+    "meaning_vi": "Khả năng lãnh đạo"
+  },
+  {
+    "id": "V1456",
+    "word": "league",
+    "pos": "noun,verb",
+    "ipa": "/lˈiɡ/",
+    "meaning_vi": "liên minh"
+  },
+  {
+    "id": "V1457",
+    "word": "lean",
+    "pos": "noun,verb",
+    "ipa": "/lˈin/",
+    "meaning_vi": "độ nghiêng"
+  },
+  {
+    "id": "V1458",
+    "word": "learning",
+    "pos": "verb,adjective",
+    "ipa": "/lˈɝnɪŋ/",
+    "meaning_vi": "học hỏi"
+  },
+  {
+    "id": "V1459",
+    "word": "least",
+    "pos": "noun,verb",
+    "ipa": "/lˈist/",
+    "meaning_vi": "ít nhất"
+  },
+  {
+    "id": "V1460",
+    "word": "legal",
+    "pos": "adjective",
+    "ipa": "/lˈiɡʌl/",
+    "meaning_vi": "hợp pháp"
+  },
+  {
+    "id": "V1461",
+    "word": "leisure",
+    "pos": "noun",
+    "ipa": "/lˈɛʒɝ/",
+    "meaning_vi": "thời gian rảnh rỗi"
+  },
+  {
+    "id": "V1462",
+    "word": "lend",
+    "pos": "noun,verb",
+    "ipa": "/lˈɛnd/",
+    "meaning_vi": "cho mượn"
+  },
+  {
+    "id": "V1463",
+    "word": "length",
+    "pos": "noun,verb",
+    "ipa": "/lˈɛŋkθ/",
+    "meaning_vi": "chiều dài"
+  },
+  {
+    "id": "V1464",
+    "word": "lesson",
+    "pos": "noun,verb",
+    "ipa": "/lˈɛsʌn/",
+    "meaning_vi": "bài học"
+  },
+  {
+    "id": "V1465",
+    "word": "likely",
+    "pos": "adverb",
+    "ipa": "/lˈaɪkli/",
+    "meaning_vi": "rất có thể"
+  },
+  {
+    "id": "V1466",
+    "word": "limit",
+    "pos": "noun,verb",
+    "ipa": "/lˈɪmʌt/",
+    "meaning_vi": "giới hạn"
+  },
+  {
+    "id": "V1467",
+    "word": "link",
+    "pos": "noun,verb",
+    "ipa": "/lˈɪŋk/",
+    "meaning_vi": "liên kết"
+  },
+  {
+    "id": "V1468",
+    "word": "listener",
+    "pos": "noun,verb",
+    "ipa": "/lˈɪsʌnɝ/",
+    "meaning_vi": "người nghe"
+  },
+  {
+    "id": "V1469",
+    "word": "living",
+    "pos": "verb,adjective",
+    "ipa": "/lˈɪvɪŋ/",
+    "meaning_vi": "cuộc sống"
+  },
+  {
+    "id": "V1470",
+    "word": "loan",
+    "pos": "noun,verb",
+    "ipa": "/lˈoʊn/",
+    "meaning_vi": "khoản vay"
+  },
+  {
+    "id": "V1471",
+    "word": "location",
+    "pos": "noun",
+    "ipa": "/loʊkˈeɪʃʌn/",
+    "meaning_vi": "vị trí"
+  },
+  {
+    "id": "V1472",
+    "word": "lock",
+    "pos": "noun,verb",
+    "ipa": "/lˈɑk/",
+    "meaning_vi": "khóa"
+  },
+  {
+    "id": "V1473",
+    "word": "lost",
+    "pos": "noun,verb",
+    "ipa": "/lˈɔst/",
+    "meaning_vi": "mất"
+  },
+  {
+    "id": "V1474",
+    "word": "lot",
+    "pos": "noun,verb",
+    "ipa": "/lˈɑt/",
+    "meaning_vi": "nhiều"
+  },
+  {
+    "id": "V1475",
+    "word": "lovely",
+    "pos": "adverb",
+    "ipa": "/lˈʌvli/",
+    "meaning_vi": "đáng yêu"
+  },
+  {
+    "id": "V1476",
+    "word": "lucky",
+    "pos": "adjective",
+    "ipa": "/lˈʌki/",
+    "meaning_vi": "may mắn"
+  },
+  {
+    "id": "V1477",
+    "word": "mad",
+    "pos": "noun,verb",
+    "ipa": "/mˈæd/",
+    "meaning_vi": "điên rồ"
+  },
+  {
+    "id": "V1478",
+    "word": "magazine",
+    "pos": "noun,verb",
+    "ipa": "/mˈæɡʌzˌin/",
+    "meaning_vi": "tạp chí"
+  },
+  {
+    "id": "V1479",
+    "word": "maintain",
+    "pos": "noun,verb",
+    "ipa": "/meɪntˈeɪn/",
+    "meaning_vi": "duy trì"
+  },
+  {
+    "id": "V1480",
+    "word": "major",
+    "pos": "noun,verb",
+    "ipa": "/mˈeɪdʒɝ/",
+    "meaning_vi": "lớn lao"
+  },
+  {
+    "id": "V1481",
+    "word": "majority",
+    "pos": "noun",
+    "ipa": "/mʌdʒˈɔɹʌti/",
+    "meaning_vi": "số đông"
+  },
+  {
+    "id": "V1482",
+    "word": "management",
+    "pos": "noun",
+    "ipa": "/mˈænʌdʒmʌnt/",
+    "meaning_vi": "sự quản lý"
+  },
+  {
+    "id": "V1483",
+    "word": "marriage",
+    "pos": "noun",
+    "ipa": "/mˈɛɹɪdʒ/",
+    "meaning_vi": "kết hôn"
+  },
+  {
+    "id": "V1484",
+    "word": "mask",
+    "pos": "noun,verb",
+    "ipa": "/mˈæsk/",
+    "meaning_vi": "mặt nạ"
+  },
+  {
+    "id": "V1485",
+    "word": "mass",
+    "pos": "noun,verb",
+    "ipa": "/mˈæs/",
+    "meaning_vi": "khối"
+  },
+  {
+    "id": "V1486",
+    "word": "master",
+    "pos": "noun,verb",
+    "ipa": "/mˈæstɝ/",
+    "meaning_vi": "bậc thầy"
+  },
+  {
+    "id": "V1487",
+    "word": "material",
+    "pos": "adjective",
+    "ipa": "/mʌtˈɪɹiʌl/",
+    "meaning_vi": "vật liệu"
+  },
+  {
+    "id": "V1488",
+    "word": "meal",
+    "pos": "adjective",
+    "ipa": "/mˈil/",
+    "meaning_vi": "bữa ăn"
+  },
+  {
+    "id": "V1489",
+    "word": "meanwhile",
+    "pos": "noun,verb",
+    "ipa": "/mˈinwˌaɪl/",
+    "meaning_vi": "trong khi đó"
+  },
+  {
+    "id": "V1490",
+    "word": "measurement",
+    "pos": "noun",
+    "ipa": "/mˈɛʒɝmʌnt/",
+    "meaning_vi": "đo lường"
+  },
+  {
+    "id": "V1491",
+    "word": "membership",
+    "pos": "noun",
+    "ipa": "/mˈɛmbɝʃˌɪp/",
+    "meaning_vi": "tư cách thành viên"
+  },
+  {
+    "id": "V1492",
+    "word": "metal",
+    "pos": "adjective",
+    "ipa": "/mˈɛtʌl/",
+    "meaning_vi": "kim loại"
+  },
+  {
+    "id": "V1493",
+    "word": "method",
+    "pos": "noun,verb",
+    "ipa": "/mˈɛθʌd/",
+    "meaning_vi": "phương pháp"
+  },
+  {
+    "id": "V1494",
+    "word": "military",
+    "pos": "adjective",
+    "ipa": "/mˈɪlʌtˌɛɹi/",
+    "meaning_vi": "quân đội"
+  },
+  {
+    "id": "V1495",
+    "word": "million",
+    "pos": "noun,verb",
+    "ipa": "/mˈɪljʌn/",
+    "meaning_vi": "triệu"
+  },
+  {
+    "id": "V1496",
+    "word": "mine",
+    "pos": "pronoun",
+    "ipa": "/mˈaɪn/",
+    "meaning_vi": "của tôi"
+  },
+  {
+    "id": "V1497",
+    "word": "missing",
+    "pos": "verb,adjective",
+    "ipa": "/mˈɪsɪŋ/",
+    "meaning_vi": "mất tích"
+  },
+  {
+    "id": "V1498",
+    "word": "mixture",
+    "pos": "noun",
+    "ipa": "/mˈɪkstʃɝ/",
+    "meaning_vi": "hỗn hợp"
+  },
+  {
+    "id": "V1499",
+    "word": "mood",
+    "pos": "noun,verb",
+    "ipa": "/mˈud/",
+    "meaning_vi": "tâm trạng"
+  },
+  {
+    "id": "V1500",
+    "word": "moral",
+    "pos": "adjective",
+    "ipa": "/mˈɔɹʌl/",
+    "meaning_vi": "có đạo đức"
+  }
+]

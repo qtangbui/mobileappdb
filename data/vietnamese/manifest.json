@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "updated_at": "2026-03-12",
+  "sentences_path": "/data/vietnamese/sentences.json",
+  "vocab_path": "/data/vietnamese/vocab.json",
+  "note": "Vietnamese app content"
+}

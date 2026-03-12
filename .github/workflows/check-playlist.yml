@@ -39,6 +39,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/playlist-meta.json
+          git add data/*/playlist-meta.json
           git commit -m "chore: update playlist-meta (new video detected)"
           git push

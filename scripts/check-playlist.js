@@ -1,9 +1,8 @@
-// Check YouTube playlists for new videos and update playlist-meta.json
+// Check YouTube playlists for new videos across all app folders
 const fs = require("fs");
 const path = require("path");
-
 const API_KEY = process.env.YOUTUBE_API_KEY;
-const META_PATH = path.join(__dirname, "..", "data", "playlist-meta.json");
+const DATA_DIR = path.join(__dirname, "..", "data");
 
 async function getPlaylistInfo(playlistId) {
   // Get playlist item count
@@ -29,36 +28,52 @@ async function main() {
     process.exit(1);
   }
 
-  const meta = JSON.parse(fs.readFileSync(META_PATH, "utf-8"));
-  let changed = false;
+  let anyChanged = false;
 
-  for (const pl of meta.playlists) {
-    console.log(`Checking playlist: ${pl.playlistId}`);
-    const info = await getPlaylistInfo(pl.playlistId);
-    console.log(`  Current: ${pl.videoCount} videos, Remote: ${info.videoCount} videos`);
-    console.log(`  Latest: "${info.latestTitle}"`);
+  // Find all playlist-meta.json files in subdirectories
+  const entries = fs.readdirSync(DATA_DIR, { withFileTypes: true });
+  for (const entry of entries) {
+    if (!entry.isDirectory()) continue;
+    const metaPath = path.join(DATA_DIR, entry.name, "playlist-meta.json");
+    if (!fs.existsSync(metaPath)) continue;
 
-    if (info.videoCount !== pl.videoCount || info.latestTitle !== pl.latestTitle) {
-      pl.videoCount = info.videoCount;
-      pl.latestTitle = info.latestTitle;
-      changed = true;
-      console.log("  -> Updated!");
-    } else {
-      console.log("  -> No change");
+    console.log(`\n=== ${entry.name} ===`);
+    const meta = JSON.parse(fs.readFileSync(metaPath, "utf-8"));
+    if (!meta.playlists?.length) {
+      console.log("  No playlists configured, skipping");
+      continue;
+    }
+
+    let changed = false;
+    for (const pl of meta.playlists) {
+      console.log(`Checking playlist: ${pl.playlistId}`);
+      const info = await getPlaylistInfo(pl.playlistId);
+      console.log(`  Current: ${pl.videoCount} videos, Remote: ${info.videoCount} videos`);
+      console.log(`  Latest: "${info.latestTitle}"`);
+
+      if (info.videoCount !== pl.videoCount || info.latestTitle !== pl.latestTitle) {
+        pl.videoCount = info.videoCount;
+        pl.latestTitle = info.latestTitle;
+        changed = true;
+        console.log("  -> Updated!");
+      } else {
+        console.log("  -> No change");
+      }
+    }
+
+    if (changed) {
+      fs.writeFileSync(metaPath, JSON.stringify(meta, null, 2) + "\n");
+      console.log(`${entry.name}/playlist-meta.json updated`);
+      anyChanged = true;
     }
   }
 
-  if (changed) {
-    fs.writeFileSync(META_PATH, JSON.stringify(meta, null, 2) + "\n");
-    console.log("\nplaylist-meta.json updated");
-  } else {
-    console.log("\nNo changes detected");
-  }
+  console.log(anyChanged ? "\nChanges detected" : "\nNo changes detected");
 
   // Set GitHub Actions output
   const ghOutput = process.env.GITHUB_OUTPUT;
   if (ghOutput) {
-    fs.appendFileSync(ghOutput, `changed=${changed}\n`);
+    fs.appendFileSync(ghOutput, `changed=${anyChanged}\n`);
   }
 }
 

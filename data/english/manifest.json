@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "updated_at": "2026-03-06",
+  "sentences_path": "/data/english/sentences.json",
+  "vocab_path": "/data/english/vocab.json",
+  "note": "ZipSpeak English app content"
+}
