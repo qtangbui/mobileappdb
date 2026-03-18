@@ -1,0 +1,2282 @@
+[
+  {
+    "id": 1,
+    "pattern": "It's no use + V-ing",
+    "meaning": "Used to say that doing something is pointless or will not improve the situation.",
+    "examples": [
+      {
+        "en": "It's no use arguing with him now."
+      },
+      {
+        "en": "It's no use waiting here any longer."
+      },
+      {
+        "en": "It's no use worrying about things you can't change."
+      },
+      {
+        "en": "It's no use calling her again tonight."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "pattern": "Be supposed to + V",
+    "meaning": "Used to describe what is expected, required, or scheduled.",
+    "examples": [
+      {
+        "en": "You are supposed to arrive early."
+      },
+      {
+        "en": "I'm supposed to call her tonight."
+      },
+      {
+        "en": "We're supposed to wear our name tags at work."
+      },
+      {
+        "en": "You're supposed to check in online before the flight."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "pattern": "Would rather + V",
+    "meaning": "Used to express a personal preference.",
+    "examples": [
+      {
+        "en": "I'd rather stay home tonight."
+      },
+      {
+        "en": "She'd rather wait until tomorrow."
+      },
+      {
+        "en": "We'd rather take the train than drive."
+      },
+      {
+        "en": "I'd rather stay home than go out in the rain."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "pattern": "Have trouble + V-ing",
+    "meaning": "Used to describe having difficulty doing something.",
+    "examples": [
+      {
+        "en": "I have trouble sleeping at night."
+      },
+      {
+        "en": "He has trouble remembering names."
+      },
+      {
+        "en": "Some learners have trouble understanding fast speech."
+      },
+      {
+        "en": "I have trouble remembering people's names at parties."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "pattern": "End up + V-ing",
+    "meaning": "Used to describe the final result of a situation, often unexpected.",
+    "examples": [
+      {
+        "en": "We ended up staying late at the office."
+      },
+      {
+        "en": "She ended up buying the blue one."
+      },
+      {
+        "en": "I missed the bus and ended up taking a taxi."
+      },
+      {
+        "en": "We ended up ordering takeout because the restaurant was full."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "pattern": "Be likely to + V",
+    "meaning": "Used to show that something is probable.",
+    "examples": [
+      {
+        "en": "It is likely to rain this afternoon."
+      },
+      {
+        "en": "He is likely to win the race."
+      },
+      {
+        "en": "Prices are likely to go up next month."
+      },
+      {
+        "en": "She's likely to be late because of the traffic."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "pattern": "Not only ... but also",
+    "meaning": "Used to emphasize that two qualities or actions are both true.",
+    "examples": [
+      {
+        "en": "She is not only smart but also kind."
+      },
+      {
+        "en": "He not only cooks but also cleans."
+      },
+      {
+        "en": "The app is not only useful but also easy to use."
+      },
+      {
+        "en": "He not only cooked dinner but also washed the dishes."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "pattern": "The more..., the more...",
+    "meaning": "Used to show that as one thing increases, another also increases.",
+    "examples": [
+      {
+        "en": "The more you read, the more you learn."
+      },
+      {
+        "en": "The more we wait, the later it gets."
+      },
+      {
+        "en": "The more you practice speaking, the more confident you become."
+      },
+      {
+        "en": "The more you practice speaking, the more confident you become."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "pattern": "Be used to + V-ing",
+    "meaning": "Used to say someone is accustomed to something.",
+    "examples": [
+      {
+        "en": "I'm used to working late."
+      },
+      {
+        "en": "She is used to cold weather."
+      },
+      {
+        "en": "He's used to getting up early for work."
+      },
+      {
+        "en": "I'm used to commuting by train every morning."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "pattern": "Used to + V",
+    "meaning": "Used to talk about past habits or states that no longer exist.",
+    "examples": [
+      {
+        "en": "I used to live here."
+      },
+      {
+        "en": "He used to smoke."
+      },
+      {
+        "en": "We used to go there every weekend."
+      },
+      {
+        "en": "I used to play outside every evening after school."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "pattern": "Be about to + V",
+    "meaning": "Used to say something is going to happen very soon.",
+    "examples": [
+      {
+        "en": "I was about to leave when you called."
+      },
+      {
+        "en": "She is about to cry."
+      },
+      {
+        "en": "The movie is about to start."
+      },
+      {
+        "en": "I'm about to join the meeting now."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "pattern": "Have no choice but to + V",
+    "meaning": "Used to show there is only one possible option.",
+    "examples": [
+      {
+        "en": "I had no choice but to wait."
+      },
+      {
+        "en": "They had no choice but to cancel the trip."
+      },
+      {
+        "en": "We had no choice but to move the meeting online."
+      },
+      {
+        "en": "We had no choice but to cancel the trip."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "pattern": "Be capable of + V-ing",
+    "meaning": "Used to describe someone or something having the ability to do something.",
+    "examples": [
+      {
+        "en": "She is capable of doing the job well."
+      },
+      {
+        "en": "He is capable of solving it on his own."
+      },
+      {
+        "en": "The team is capable of handling busy periods."
+      },
+      {
+        "en": "She's capable of handling difficult customers calmly."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "pattern": "There is no point in + V-ing",
+    "meaning": "Used to say that doing something has no purpose or benefit.",
+    "examples": [
+      {
+        "en": "There is no point in arguing about it."
+      },
+      {
+        "en": "There is no point in waiting here."
+      },
+      {
+        "en": "There is no point in calling him again tonight."
+      },
+      {
+        "en": "There's no point in sending another email today."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "pattern": "As long as",
+    "meaning": "Used to express a condition under which something is true.",
+    "examples": [
+      {
+        "en": "You can stay as long as you're quiet."
+      },
+      {
+        "en": "I'll help as long as I can."
+      },
+      {
+        "en": "You can borrow my car as long as you bring it back by six."
+      },
+      {
+        "en": "You can borrow my car as long as you fill up the tank."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "pattern": "In case",
+    "meaning": "Used to describe precautions for a possible future situation.",
+    "examples": [
+      {
+        "en": "Take an umbrella in case it rains."
+      },
+      {
+        "en": "Call me in case of trouble."
+      },
+      {
+        "en": "Bring a jacket in case it gets cold later."
+      },
+      {
+        "en": "Take an umbrella in case it rains later."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "pattern": "By the time",
+    "meaning": "Used to indicate that something will happen no later than a certain time.",
+    "examples": [
+      {
+        "en": "By the time I arrived, she had left."
+      },
+      {
+        "en": "By the time we finish, it will be dark."
+      },
+      {
+        "en": "By the time you get home, dinner will be ready."
+      },
+      {
+        "en": "By the time I got to the station, the train had left."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "pattern": "No matter how",
+    "meaning": "Used to show that something happens regardless of circumstances.",
+    "examples": [
+      {
+        "en": "No matter how hard it is, keep going."
+      },
+      {
+        "en": "No matter how late it gets, call me."
+      },
+      {
+        "en": "No matter how busy you are, try to get some rest."
+      },
+      {
+        "en": "No matter how busy I am, I always call my mom."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "pattern": "It takes + time + to V",
+    "meaning": "Used to describe the amount of time needed to do something.",
+    "examples": [
+      {
+        "en": "It takes 10 minutes to walk there."
+      },
+      {
+        "en": "It takes effort to improve."
+      },
+      {
+        "en": "It takes me about an hour to get ready in the morning."
+      },
+      {
+        "en": "It takes about ten minutes to walk to the bus stop."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "pattern": "Manage to + V",
+    "meaning": "Used to say someone succeeds in doing something difficult.",
+    "examples": [
+      {
+        "en": "I managed to finish early."
+      },
+      {
+        "en": "She managed to pass the test."
+      },
+      {
+        "en": "We managed to find a parking spot nearby."
+      },
+      {
+        "en": "She managed to find a cheaper ticket online."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "pattern": "Be worth + V-ing",
+    "meaning": "Used to say an action is valuable or worthwhile.",
+    "examples": [
+      {
+        "en": "This book is worth reading."
+      },
+      {
+        "en": "It's worth trying."
+      },
+      {
+        "en": "That restaurant is worth visiting at least once."
+      },
+      {
+        "en": "This book is worth reading on the train."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "pattern": "Can't help + V-ing",
+    "meaning": "Used to express being unable to stop oneself from doing something.",
+    "examples": [
+      {
+        "en": "I can't help laughing when he says that."
+      },
+      {
+        "en": "She can't help worrying about her children."
+      },
+      {
+        "en": "He couldn't help smiling when he saw the photo."
+      },
+      {
+        "en": "I can't help checking my phone during breaks."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "pattern": "Look forward to + V-ing",
+    "meaning": "Used to express anticipation and positive expectation.",
+    "examples": [
+      {
+        "en": "I look forward to meeting you."
+      },
+      {
+        "en": "She looks forward to traveling this summer."
+      },
+      {
+        "en": "We're looking forward to hearing from you."
+      },
+      {
+        "en": "I'm looking forward to seeing everyone this weekend."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "pattern": "Be tired of + V-ing",
+    "meaning": "Used to express boredom or annoyance with something repeated.",
+    "examples": [
+      {
+        "en": "I'm tired of waiting."
+      },
+      {
+        "en": "He is tired of hearing that excuse."
+      },
+      {
+        "en": "We're tired of eating takeout every night."
+      },
+      {
+        "en": "I'm tired of hearing the same excuse."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "pattern": "Be responsible for + V-ing",
+    "meaning": "Used to show duty or accountability for an action or task.",
+    "examples": [
+      {
+        "en": "She is responsible for managing the team."
+      },
+      {
+        "en": "He is responsible for fixing it."
+      },
+      {
+        "en": "I'm responsible for checking the final report."
+      },
+      {
+        "en": "She's responsible for organizing the team schedule."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "pattern": "Be afraid of + V-ing",
+    "meaning": "Used to express fear about doing something or about an outcome.",
+    "examples": [
+      {
+        "en": "She is afraid of speaking in public."
+      },
+      {
+        "en": "I'm afraid of making a mistake."
+      },
+      {
+        "en": "He's afraid of losing his job."
+      },
+      {
+        "en": "He's afraid of speaking in front of a large group."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "pattern": "Be interested in + V-ing",
+    "meaning": "Used to express curiosity or attraction toward an activity or topic.",
+    "examples": [
+      {
+        "en": "He is interested in learning Spanish."
+      },
+      {
+        "en": "She is interested in cooking."
+      },
+      {
+        "en": "I'm interested in joining the class next month."
+      },
+      {
+        "en": "I'm interested in learning more about Australian culture."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "pattern": "Spend time + V-ing",
+    "meaning": "Used to describe how time is used for an activity.",
+    "examples": [
+      {
+        "en": "I spend time reading every night."
+      },
+      {
+        "en": "She spends time practicing speaking."
+      },
+      {
+        "en": "He spends too much time scrolling on his phone."
+      },
+      {
+        "en": "I spent the whole afternoon cleaning the kitchen."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "pattern": "Prevent someone from + V-ing",
+    "meaning": "Used to say someone stops another person from doing something.",
+    "examples": [
+      {
+        "en": "Rain prevented us from leaving."
+      },
+      {
+        "en": "Nothing can prevent him from trying."
+      },
+      {
+        "en": "A family emergency prevented her from coming."
+      },
+      {
+        "en": "The heavy rain prevented us from going for a walk."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "pattern": "Allow someone to + V",
+    "meaning": "Used to indicate giving permission to do something.",
+    "examples": [
+      {
+        "en": "They allowed me to enter."
+      },
+      {
+        "en": "She allowed him to explain."
+      },
+      {
+        "en": "My boss allowed me to work from home today."
+      },
+      {
+        "en": "My parents don't allow me to stay out too late."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "pattern": "Be forced to + V",
+    "meaning": "Used to show someone is compelled to do something.",
+    "examples": [
+      {
+        "en": "We were forced to wait outside."
+      },
+      {
+        "en": "He was forced to apologize."
+      },
+      {
+        "en": "They were forced to cancel the event because of the storm."
+      },
+      {
+        "en": "He was forced to take a taxi after missing the last bus."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "pattern": "Have difficulty + V-ing",
+    "meaning": "Used to express finding something hard to do.",
+    "examples": [
+      {
+        "en": "I have difficulty understanding strong accents."
+      },
+      {
+        "en": "She has difficulty sleeping."
+      },
+      {
+        "en": "Some students have difficulty speaking under pressure."
+      },
+      {
+        "en": "She has difficulty understanding fast English conversations."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "pattern": "Be busy + V-ing",
+    "meaning": "Used to describe being occupied with an activity.",
+    "examples": [
+      {
+        "en": "She is busy preparing dinner."
+      },
+      {
+        "en": "I'm busy finishing work."
+      },
+      {
+        "en": "Sorry, he's busy talking to a customer right now."
+      },
+      {
+        "en": "I'm busy preparing dinner right now."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "pattern": "Take advantage of + noun",
+    "meaning": "Used to show using something effectively for personal benefit.",
+    "examples": [
+      {
+        "en": "Take advantage of the opportunity."
+      },
+      {
+        "en": "We took advantage of the discount."
+      },
+      {
+        "en": "You should take advantage of the free trial before it ends."
+      },
+      {
+        "en": "Let's take advantage of the good weather and go outside."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "pattern": "Be eager to + V",
+    "meaning": "Used to express strong enthusiasm to do something.",
+    "examples": [
+      {
+        "en": "She is eager to learn."
+      },
+      {
+        "en": "They are eager to start."
+      },
+      {
+        "en": "My son is eager to show you his drawing."
+      },
+      {
+        "en": "She's eager to start her new job next week."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "pattern": "It seems that + clause",
+    "meaning": "Used to express an impression based on available evidence.",
+    "examples": [
+      {
+        "en": "It seems that he forgot."
+      },
+      {
+        "en": "It seems that they agree."
+      },
+      {
+        "en": "It seems that the train is running late again."
+      },
+      {
+        "en": "It seems that everyone already knows the news."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "pattern": "Turn out to be + noun/adjective",
+    "meaning": "Used to show the final truth about a person, thing, or event.",
+    "examples": [
+      {
+        "en": "It turned out to be true."
+      },
+      {
+        "en": "She turned out to be friendly."
+      },
+      {
+        "en": "The place turned out to be much better than we expected."
+      },
+      {
+        "en": "The quick fix turned out to be a better solution than expected."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "pattern": "Be known for + noun/V-ing",
+    "meaning": "Used to show the quality or activity for which someone is famous.",
+    "examples": [
+      {
+        "en": "The city is known for seafood."
+      },
+      {
+        "en": "He is known for helping others."
+      },
+      {
+        "en": "That café is known for its good coffee."
+      },
+      {
+        "en": "That cafe is known for serving great coffee."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "pattern": "Be satisfied with + noun",
+    "meaning": "Used to express feeling pleased with something.",
+    "examples": [
+      {
+        "en": "I'm satisfied with the result."
+      },
+      {
+        "en": "She is satisfied with her job."
+      },
+      {
+        "en": "Are you satisfied with the service so far?"
+      },
+      {
+        "en": "I'm satisfied with how the presentation went."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "pattern": "Be aware of + noun",
+    "meaning": "Used to express knowing and understanding something clearly.",
+    "examples": [
+      {
+        "en": "Be aware of the risks."
+      },
+      {
+        "en": "She is aware of the problem."
+      },
+      {
+        "en": "Please be aware of the time before you start the test."
+      },
+      {
+        "en": "Are you aware of the parking rules here?"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "pattern": "Be familiar with + noun",
+    "meaning": "Used to express having good knowledge of something through experience.",
+    "examples": [
+      {
+        "en": "I'm familiar with this app."
+      },
+      {
+        "en": "He is familiar with the process."
+      },
+      {
+        "en": "Are you familiar with the area around the station?"
+      },
+      {
+        "en": "I'm familiar with this app because I use it every day."
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "pattern": "In order to + V",
+    "meaning": "Used to express purpose.",
+    "examples": [
+      {
+        "en": "I study hard in order to improve."
+      },
+      {
+        "en": "She left early in order to catch the train."
+      },
+      {
+        "en": "He saved money in order to buy a laptop."
+      },
+      {
+        "en": "I set an alarm in order to wake up earlier."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "pattern": "As if / As though",
+    "meaning": "Used to compare something to an unreal, imagined, or uncertain situation.",
+    "examples": [
+      {
+        "en": "He talks as if he knows everything."
+      },
+      {
+        "en": "She smiled as though nothing had happened."
+      },
+      {
+        "en": "It looks as if it's going to rain."
+      },
+      {
+        "en": "He talks as if he owns the place."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "pattern": "Would you mind + V-ing",
+    "meaning": "Used to make a polite request.",
+    "examples": [
+      {
+        "en": "Would you mind opening the window?"
+      },
+      {
+        "en": "Would you mind waiting a minute?"
+      },
+      {
+        "en": "Would you mind helping me carry this box?"
+      },
+      {
+        "en": "Would you mind closing the window for a minute?"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "pattern": "Can't afford to + V",
+    "meaning": "Used to express not having enough resources or willingness to risk something.",
+    "examples": [
+      {
+        "en": "I can't afford to buy it right now."
+      },
+      {
+        "en": "We can't afford to waste time."
+      },
+      {
+        "en": "She can't afford to miss another day of work."
+      },
+      {
+        "en": "I can't afford to eat out every weekend."
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "pattern": "Be willing to + V",
+    "meaning": "Used to express readiness or willingness to do something.",
+    "examples": [
+      {
+        "en": "She is willing to help."
+      },
+      {
+        "en": "I'm willing to try."
+      },
+      {
+        "en": "They are willing to adjust the schedule if needed."
+      },
+      {
+        "en": "She's willing to help if you ask nicely."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "pattern": "Be expected to + V",
+    "meaning": "Used to describe what people think should happen.",
+    "examples": [
+      {
+        "en": "Students are expected to arrive early."
+      },
+      {
+        "en": "He is expected to finish today."
+      },
+      {
+        "en": "You're expected to switch off your phone during the meeting."
+      },
+      {
+        "en": "All staff are expected to attend the training session."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "pattern": "So that + clause",
+    "meaning": "Used to express the purpose of an action.",
+    "examples": [
+      {
+        "en": "Speak slowly so that I can understand."
+      },
+      {
+        "en": "Write it down so that you remember."
+      },
+      {
+        "en": "I left early so that I wouldn't be late."
+      },
+      {
+        "en": "I wrote it down so that I wouldn't forget."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "pattern": "Rather than + V",
+    "meaning": "Used to show preference for one choice instead of another.",
+    "examples": [
+      {
+        "en": "I'd walk rather than wait for another hour."
+      },
+      {
+        "en": "She stayed home rather than go out in the rain."
+      },
+      {
+        "en": "He chose to cook at home rather than order takeout."
+      },
+      {
+        "en": "She chose tea rather than coffee this morning."
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "pattern": "Be involved in + noun/V-ing",
+    "meaning": "Used to describe participation in an activity or situation.",
+    "examples": [
+      {
+        "en": "He is involved in planning the event."
+      },
+      {
+        "en": "She is involved in teaching new staff."
+      },
+      {
+        "en": "Are you involved in making that decision?"
+      },
+      {
+        "en": "He's involved in planning the company event."
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "pattern": "Be used for + V-ing",
+    "meaning": "Used to describe the function or purpose of something.",
+    "examples": [
+      {
+        "en": "This tool is used for cutting wood."
+      },
+      {
+        "en": "The room is used for meetings."
+      },
+      {
+        "en": "This button is used for turning on the device."
+      },
+      {
+        "en": "This bag is used for carrying gym clothes."
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "pattern": "Tend to + V",
+    "meaning": "Used to describe actions that usually happen.",
+    "examples": [
+      {
+        "en": "People tend to forget names."
+      },
+      {
+        "en": "He tends to speak fast when he's nervous."
+      },
+      {
+        "en": "I tend to drink more coffee when I'm busy."
+      },
+      {
+        "en": "He tends to overthink small problems."
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "pattern": "Be able to + V",
+    "meaning": "Used to express ability or possibility.",
+    "examples": [
+      {
+        "en": "She is able to solve it."
+      },
+      {
+        "en": "I wasn't able to call yesterday."
+      },
+      {
+        "en": "Will you be able to join us this evening?"
+      },
+      {
+        "en": "I wasn't able to answer the call earlier."
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "pattern": "Be ready to + V",
+    "meaning": "Used to express being prepared to do something.",
+    "examples": [
+      {
+        "en": "I'm ready to leave."
+      },
+      {
+        "en": "They are ready to start."
+      },
+      {
+        "en": "Are you ready to order, or do you need a few more minutes?"
+      },
+      {
+        "en": "We're ready to leave whenever you are."
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "pattern": "Be worth + noun",
+    "meaning": "Used to say something has value.",
+    "examples": [
+      {
+        "en": "The trip was worth the money."
+      },
+      {
+        "en": "It's worth the effort."
+      },
+      {
+        "en": "That course is worth the time if you really want to improve."
+      },
+      {
+        "en": "This coupon is worth ten dollars."
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "pattern": "Keep + V-ing",
+    "meaning": "Used to describe continuing an action.",
+    "examples": [
+      {
+        "en": "Keep practicing every day."
+      },
+      {
+        "en": "He kept asking questions."
+      },
+      {
+        "en": "Please keep walking until you see the bank on your left."
+      },
+      {
+        "en": "He kept asking the same question again and again."
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "pattern": "Go on + V-ing",
+    "meaning": "Used to describe continuing the same activity without stopping.",
+    "examples": [
+      {
+        "en": "She went on talking for another ten minutes."
+      },
+      {
+        "en": "They went on working despite the noise."
+      },
+      {
+        "en": "He went on explaining until everyone understood."
+      },
+      {
+        "en": "She went on talking even after the class ended."
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "pattern": "Feel like + V-ing",
+    "meaning": "Used to express desire to do something.",
+    "examples": [
+      {
+        "en": "I feel like sleeping."
+      },
+      {
+        "en": "She feels like going for a walk."
+      },
+      {
+        "en": "Do you feel like eating out tonight?"
+      },
+      {
+        "en": "I feel like staying in tonight."
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "pattern": "Be afraid to + V",
+    "meaning": "Used to express fear about doing a particular action.",
+    "examples": [
+      {
+        "en": "He is afraid to ask for help."
+      },
+      {
+        "en": "I'm afraid to say it directly."
+      },
+      {
+        "en": "Some people are afraid to speak up in meetings."
+      },
+      {
+        "en": "She's afraid to ask for help at work."
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "pattern": "Would like to + V",
+    "meaning": "Used to express a polite desire, wish, or request.",
+    "examples": [
+      {
+        "en": "I'd like to ask a question."
+      },
+      {
+        "en": "She'd like to speak to the manager."
+      },
+      {
+        "en": "We'd like to book a table for two."
+      },
+      {
+        "en": "I'd like to speak to the manager, please."
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "pattern": "Would prefer to + V",
+    "meaning": "Used to express preference for one action.",
+    "examples": [
+      {
+        "en": "I'd prefer to stay home tonight."
+      },
+      {
+        "en": "She'd prefer to wait a little longer."
+      },
+      {
+        "en": "We'd prefer to sit by the window if possible."
+      },
+      {
+        "en": "I'd prefer to pay by card."
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "pattern": "Be tired from + noun/V-ing",
+    "meaning": "Used to describe tiredness caused by an activity or situation.",
+    "examples": [
+      {
+        "en": "I'm tired from working all day."
+      },
+      {
+        "en": "She is tired from travel."
+      },
+      {
+        "en": "He's tired from carrying those heavy bags."
+      },
+      {
+        "en": "I'm tired from working all day."
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "pattern": "Have a chance to + V",
+    "meaning": "Used to indicate having an opportunity to do something.",
+    "examples": [
+      {
+        "en": "I had a chance to speak to her."
+      },
+      {
+        "en": "She had a chance to travel abroad."
+      },
+      {
+        "en": "Did you get a chance to look at my email?"
+      },
+      {
+        "en": "We had a chance to talk after the meeting."
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "pattern": "Take time to + V",
+    "meaning": "Used to show that an action requires time.",
+    "examples": [
+      {
+        "en": "Take time to rest."
+      },
+      {
+        "en": "She took time to think before answering."
+      },
+      {
+        "en": "Please take some time to read the instructions carefully."
+      },
+      {
+        "en": "Take time to read the instructions carefully."
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "pattern": "Make an effort to + V",
+    "meaning": "Used to show trying hard to do something.",
+    "examples": [
+      {
+        "en": "Make an effort to speak clearly."
+      },
+      {
+        "en": "He made an effort to improve his pronunciation."
+      },
+      {
+        "en": "Try to make an effort to be on time tomorrow."
+      },
+      {
+        "en": "He's making an effort to speak more clearly."
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "pattern": "Have a habit of + V-ing",
+    "meaning": "Used to describe a repeated personal behavior.",
+    "examples": [
+      {
+        "en": "She has a habit of arriving early."
+      },
+      {
+        "en": "He has a habit of checking twice."
+      },
+      {
+        "en": "I have a habit of making a to-do list every morning."
+      },
+      {
+        "en": "She has a habit of leaving her keys on the table."
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "pattern": "Be known to + V",
+    "meaning": "Used to describe a generally recognized characteristic.",
+    "examples": [
+      {
+        "en": "He is known to work hard."
+      },
+      {
+        "en": "She is known to be honest."
+      },
+      {
+        "en": "That singer is known to write her own songs."
+      },
+      {
+        "en": "This restaurant is known to get busy at lunchtime."
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "pattern": "Seem to + V",
+    "meaning": "Used to express appearance or likelihood.",
+    "examples": [
+      {
+        "en": "She seems to understand the problem."
+      },
+      {
+        "en": "He seems to agree with us."
+      },
+      {
+        "en": "You seem to be in a better mood today."
+      },
+      {
+        "en": "He seems to understand the problem now."
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "pattern": "Appear to + V",
+    "meaning": "Used to describe how something appears to observers.",
+    "examples": [
+      {
+        "en": "They appear to know each other."
+      },
+      {
+        "en": "It appears to work fine now."
+      },
+      {
+        "en": "The store appears to be closed already."
+      },
+      {
+        "en": "She appeared to enjoy the concert."
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "pattern": "Be supposed to have + past participle",
+    "meaning": "Used to express that something was expected to happen in the past.",
+    "examples": [
+      {
+        "en": "He was supposed to have called by now."
+      },
+      {
+        "en": "She was supposed to have arrived yesterday."
+      },
+      {
+        "en": "The package was supposed to have been delivered this morning."
+      },
+      {
+        "en": "The parcel is supposed to have arrived by now."
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "pattern": "Be likely to have + past participle",
+    "meaning": "Used to show that something probably happened in the past.",
+    "examples": [
+      {
+        "en": "He is likely to have forgotten."
+      },
+      {
+        "en": "She is likely to have left already."
+      },
+      {
+        "en": "They are likely to have missed the last train."
+      },
+      {
+        "en": "He's likely to have forgotten about the appointment."
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "pattern": "Would happen to + V",
+    "meaning": "Used to describe something happening by chance.",
+    "examples": [
+      {
+        "en": "Do you happen to know him?"
+      },
+      {
+        "en": "I happened to see her at the mall."
+      },
+      {
+        "en": "Do you happen to have a charger I can borrow?"
+      },
+      {
+        "en": "Would you happen to know where the post office is?"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "pattern": "Have something done",
+    "meaning": "Used to say someone arranges for another person to do a service.",
+    "examples": [
+      {
+        "en": "I had my hair cut yesterday."
+      },
+      {
+        "en": "She had the car repaired last week."
+      },
+      {
+        "en": "I'm going to have my phone screen fixed tomorrow."
+      },
+      {
+        "en": "I had my watch repaired last week."
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "pattern": "Be meant to + V",
+    "meaning": "Used to describe intention or design.",
+    "examples": [
+      {
+        "en": "This button is meant to start the machine."
+      },
+      {
+        "en": "The room is meant to be quiet."
+      },
+      {
+        "en": "This message is meant to remind users about payment."
+      },
+      {
+        "en": "This button is meant to start the machine."
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "pattern": "Have no intention of + V-ing",
+    "meaning": "Used to say someone does not plan to do something.",
+    "examples": [
+      {
+        "en": "I have no intention of leaving early."
+      },
+      {
+        "en": "She has no intention of changing her plan."
+      },
+      {
+        "en": "He has no intention of selling the house."
+      },
+      {
+        "en": "I have no intention of working late tonight."
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "pattern": "There is a good chance that + clause",
+    "meaning": "Used to express a strong possibility.",
+    "examples": [
+      {
+        "en": "There is a good chance that he will agree."
+      },
+      {
+        "en": "There is a good chance that it will rain tonight."
+      },
+      {
+        "en": "There's a good chance we'll finish before lunch."
+      },
+      {
+        "en": "There's a good chance that it'll be sunny tomorrow."
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "pattern": "Be on the verge of + V-ing",
+    "meaning": "Used to describe being very close to doing something.",
+    "examples": [
+      {
+        "en": "She was on the verge of crying."
+      },
+      {
+        "en": "The company is on the verge of collapse."
+      },
+      {
+        "en": "I was on the verge of calling you when you texted me."
+      },
+      {
+        "en": "She was on the verge of crying after the call."
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "pattern": "Be in the middle of + noun/V-ing",
+    "meaning": "Used to describe being currently engaged in something.",
+    "examples": [
+      {
+        "en": "I'm in the middle of cooking dinner."
+      },
+      {
+        "en": "She was in the middle of a meeting."
+      },
+      {
+        "en": "Sorry, I'm in the middle of something right now."
+      },
+      {
+        "en": "I'm in the middle of cooking dinner."
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "pattern": "Make up one's mind to + V",
+    "meaning": "Used to express making a firm decision.",
+    "examples": [
+      {
+        "en": "I made up my mind to quit."
+      },
+      {
+        "en": "She made up her mind to move abroad."
+      },
+      {
+        "en": "We've made up our minds to start fresh next year."
+      },
+      {
+        "en": "I made up my mind to apply for the course."
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "pattern": "Be under pressure to + V",
+    "meaning": "Used to describe being stressed or urged to act.",
+    "examples": [
+      {
+        "en": "He is under pressure to finish on time."
+      },
+      {
+        "en": "They were under pressure to respond quickly."
+      },
+      {
+        "en": "Many parents feel under pressure to do everything perfectly."
+      },
+      {
+        "en": "He's under pressure to finish the report today."
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "pattern": "Have every reason to + V",
+    "meaning": "Used to express having strong justification for an action or belief.",
+    "examples": [
+      {
+        "en": "You have every reason to be proud."
+      },
+      {
+        "en": "She had every reason to be upset."
+      },
+      {
+        "en": "He has every reason to ask for a refund."
+      },
+      {
+        "en": "You have every reason to be proud of your progress."
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "pattern": "Have no idea how/what/why + clause",
+    "meaning": "Used to express complete lack of knowledge about something.",
+    "examples": [
+      {
+        "en": "I have no idea how this works."
+      },
+      {
+        "en": "She had no idea why he left."
+      },
+      {
+        "en": "We have no idea what time they'll arrive."
+      },
+      {
+        "en": "I have no idea why the app keeps crashing."
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "pattern": "Can't stand + V-ing",
+    "meaning": "Used to express strong dislike or intolerance of an action.",
+    "examples": [
+      {
+        "en": "I can't stand waiting in long lines."
+      },
+      {
+        "en": "She can't stand being ignored."
+      },
+      {
+        "en": "He can't stand people talking during movies."
+      },
+      {
+        "en": "I can't stand waiting in long lines."
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "pattern": "Be better off + V-ing / noun",
+    "meaning": "Used to describe a better or more beneficial situation.",
+    "examples": [
+      {
+        "en": "You'd be better off staying home today."
+      },
+      {
+        "en": "We are better off without it."
+      },
+      {
+        "en": "She's better off taking a short break before deciding."
+      },
+      {
+        "en": "You're better off booking early to get a cheaper fare."
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "pattern": "Have a tendency to + V",
+    "meaning": "Used to describe a habitual inclination toward an action.",
+    "examples": [
+      {
+        "en": "He has a tendency to overthink."
+      },
+      {
+        "en": "Prices have a tendency to rise in summer."
+      },
+      {
+        "en": "I have a tendency to forget things when I'm stressed."
+      },
+      {
+        "en": "He has a tendency to interrupt people."
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "pattern": "For the sake of + noun",
+    "meaning": "Used to show something is done for a person or purpose.",
+    "examples": [
+      {
+        "en": "For the sake of your health, get some rest."
+      },
+      {
+        "en": "They stayed calm for the sake of the children."
+      },
+      {
+        "en": "Let's keep this simple for the sake of clarity."
+      },
+      {
+        "en": "She worked overtime for the sake of her family."
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "pattern": "At the expense of + noun",
+    "meaning": "Used to indicate that one thing is done by sacrificing another.",
+    "examples": [
+      {
+        "en": "He built his career at the expense of his health."
+      },
+      {
+        "en": "Don't improve speed at the expense of quality."
+      },
+      {
+        "en": "She shouldn't work extra hours at the expense of family time."
+      },
+      {
+        "en": "He saved money at the expense of his free time."
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "pattern": "Be in charge of + noun/V-ing",
+    "meaning": "Used to describe having responsibility and control over something.",
+    "examples": [
+      {
+        "en": "She is in charge of training new staff."
+      },
+      {
+        "en": "Who is in charge of this project?"
+      },
+      {
+        "en": "I'm in charge of booking the meeting room."
+      },
+      {
+        "en": "She's in charge of replying to customer emails."
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "pattern": "Come to think of it",
+    "meaning": "Used to introduce a thought that comes to mind suddenly.",
+    "examples": [
+      {
+        "en": "Come to think of it, I haven't seen him today."
+      },
+      {
+        "en": "Come to think of it, that sounds familiar."
+      },
+      {
+        "en": "Come to think of it, I still haven't replied to her message."
+      },
+      {
+        "en": "Come to think of it, I haven't seen him all week."
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "pattern": "That doesn't mean + clause",
+    "meaning": "Used to clarify that one fact does not imply another.",
+    "examples": [
+      {
+        "en": "He's quiet, but that doesn't mean he's unfriendly."
+      },
+      {
+        "en": "I said no, but that doesn't mean never."
+      },
+      {
+        "en": "Just because it's cheap, that doesn't mean it's bad."
+      },
+      {
+        "en": "That doesn't mean we should give up."
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "pattern": "It's not that + clause",
+    "meaning": "Used to clarify that the real reason is different from what may be assumed.",
+    "examples": [
+      {
+        "en": "It's not that I don't trust you."
+      },
+      {
+        "en": "It's not that the job is hard."
+      },
+      {
+        "en": "It's not that I don't want to go; I'm just too tired."
+      },
+      {
+        "en": "It's not that I don't like the idea; I just need more time."
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "pattern": "The last thing someone wants is + noun/to V",
+    "meaning": "Used to emphasize what someone least wants.",
+    "examples": [
+      {
+        "en": "The last thing I want is to argue."
+      },
+      {
+        "en": "The last thing she needs is more stress."
+      },
+      {
+        "en": "The last thing we want is to arrive late on the first day."
+      },
+      {
+        "en": "The last thing I want is to make things harder for you."
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "pattern": "It won't be long before + clause",
+    "meaning": "Used to say that something will happen soon.",
+    "examples": [
+      {
+        "en": "It won't be long before we hear back."
+      },
+      {
+        "en": "It won't be long before summer arrives."
+      },
+      {
+        "en": "It won't be long before your speaking improves if you keep practicing."
+      },
+      {
+        "en": "It won't be long before they announce the results."
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "pattern": "There is no doubt that + clause",
+    "meaning": "Used to express complete certainty.",
+    "examples": [
+      {
+        "en": "There is no doubt that she is talented."
+      },
+      {
+        "en": "There is no doubt that this will help."
+      },
+      {
+        "en": "There is no doubt that he worked very hard for this."
+      },
+      {
+        "en": "There is no doubt that she worked hard for this."
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "pattern": "Whether or not + clause",
+    "meaning": "Used to show that the result does not change regardless of conditions.",
+    "examples": [
+      {
+        "en": "I'll go whether or not he comes."
+      },
+      {
+        "en": "We need to decide whether or not to continue."
+      },
+      {
+        "en": "Whether or not you agree, we still have to make a decision."
+      },
+      {
+        "en": "Whether or not it rains, the event will go ahead."
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "pattern": "There is no way + clause",
+    "meaning": "Used to express impossibility.",
+    "examples": [
+      {
+        "en": "There is no way I can finish today."
+      },
+      {
+        "en": "There is no way that was an accident."
+      },
+      {
+        "en": "There's no way we can get there by five in this traffic."
+      },
+      {
+        "en": "There's no way I can finish all of this tonight."
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "pattern": "In terms of + noun",
+    "meaning": "Used to discuss something from a particular aspect.",
+    "examples": [
+      {
+        "en": "In terms of price, it's reasonable."
+      },
+      {
+        "en": "The two options differ in terms of quality."
+      },
+      {
+        "en": "In terms of convenience, this app is better for beginners."
+      },
+      {
+        "en": "In terms of price, this option is the best one."
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "pattern": "From my point of view",
+    "meaning": "Used to express a personal opinion.",
+    "examples": [
+      {
+        "en": "From my point of view, we need more time."
+      },
+      {
+        "en": "From my point of view, the plan is workable."
+      },
+      {
+        "en": "From my point of view, it's better to start small."
+      },
+      {
+        "en": "From my point of view, the update is much easier to use."
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "pattern": "To make matters worse",
+    "meaning": "Used to introduce an additional negative point.",
+    "examples": [
+      {
+        "en": "The bus was late, and to make matters worse, it started raining."
+      },
+      {
+        "en": "He forgot the keys, and to make matters worse, his phone died."
+      },
+      {
+        "en": "I lost my wallet, and to make matters worse, my card had just expired."
+      },
+      {
+        "en": "To make matters worse, my phone battery died."
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "pattern": "On the one hand ..., on the other hand ...",
+    "meaning": "Used to present two contrasting sides of an issue.",
+    "examples": [
+      {
+        "en": "On the one hand, the job pays well. On the other hand, it's stressful."
+      },
+      {
+        "en": "On the one hand, I want to travel. On the other hand, I need to save money."
+      },
+      {
+        "en": "On the one hand, online learning is flexible. On the other hand, it can feel lonely."
+      },
+      {
+        "en": "On the one hand, working from home saves time; on the other hand, it can feel lonely."
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "pattern": "How about + V-ing",
+    "meaning": "Used to make a suggestion in a casual and natural way.",
+    "examples": [
+      {
+        "en": "How about meeting after work?"
+      },
+      {
+        "en": "How about trying the chicken instead?"
+      },
+      {
+        "en": "How about taking a short break?"
+      },
+      {
+        "en": "How about grabbing lunch after class?"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "pattern": "Why don't you + V",
+    "meaning": "Used to give a friendly suggestion or advice.",
+    "examples": [
+      {
+        "en": "Why don't you ask your teacher?"
+      },
+      {
+        "en": "Why don't you take a day off?"
+      },
+      {
+        "en": "Why don't you send her a quick message?"
+      },
+      {
+        "en": "Why don't you send her a quick message first?"
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "pattern": "Do you mind if + clause",
+    "meaning": "Used to ask permission politely.",
+    "examples": [
+      {
+        "en": "Do you mind if I sit here?"
+      },
+      {
+        "en": "Do you mind if I open the window?"
+      },
+      {
+        "en": "Do you mind if we start a bit later?"
+      },
+      {
+        "en": "Do you mind if I sit here?"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "pattern": "Would you like to + V",
+    "meaning": "Used to offer, invite, or ask politely.",
+    "examples": [
+      {
+        "en": "Would you like to join us for lunch?"
+      },
+      {
+        "en": "Would you like to see the menu?"
+      },
+      {
+        "en": "Would you like to try it on?"
+      },
+      {
+        "en": "Would you like to try the new feature?"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "pattern": "Be going to + V",
+    "meaning": "Used to talk about plans or intentions.",
+    "examples": [
+      {
+        "en": "I'm going to call her later."
+      },
+      {
+        "en": "We're going to move next month."
+      },
+      {
+        "en": "He's going to study tonight."
+      },
+      {
+        "en": "I'm going to call them after dinner."
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "pattern": "Need to + V",
+    "meaning": "Used to express necessity or something important to do.",
+    "examples": [
+      {
+        "en": "I need to charge my phone."
+      },
+      {
+        "en": "You need to be there by nine."
+      },
+      {
+        "en": "We need to talk about the budget."
+      },
+      {
+        "en": "You need to back up your files regularly."
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "pattern": "Have to + V",
+    "meaning": "Used to express obligation or a rule.",
+    "examples": [
+      {
+        "en": "I have to leave now."
+      },
+      {
+        "en": "She has to wear a uniform at work."
+      },
+      {
+        "en": "Do we have to book in advance?"
+      },
+      {
+        "en": "I have to leave early tomorrow."
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "pattern": "Want someone to + V",
+    "meaning": "Used to say that you want another person to do something.",
+    "examples": [
+      {
+        "en": "I want you to be honest with me."
+      },
+      {
+        "en": "She wants me to check the email."
+      },
+      {
+        "en": "They want us to arrive early."
+      },
+      {
+        "en": "I want him to check the final version before we send it."
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "pattern": "Help someone + V",
+    "meaning": "Used to say that one person makes it easier for another person to do something.",
+    "examples": [
+      {
+        "en": "Can you help me carry this?"
+      },
+      {
+        "en": "This app helps users learn faster."
+      },
+      {
+        "en": "He helped me fix the problem."
+      },
+      {
+        "en": "Can you help me carry these boxes upstairs?"
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "pattern": "Too + adjective + to + V",
+    "meaning": "Used to say that something is excessive and causes a problem.",
+    "examples": [
+      {
+        "en": "I'm too tired to cook tonight."
+      },
+      {
+        "en": "The bag is too heavy to carry."
+      },
+      {
+        "en": "It's too late to call him now."
+      },
+      {
+        "en": "The soup was too hot to eat right away."
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "pattern": "Adjective + enough to + V",
+    "meaning": "Used to say that something is sufficient for a purpose.",
+    "examples": [
+      {
+        "en": "Is the room big enough to fit everyone?"
+      },
+      {
+        "en": "She's old enough to travel alone."
+      },
+      {
+        "en": "The soup isn't hot enough to eat yet."
+      },
+      {
+        "en": "This room is quiet enough to study in."
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "pattern": "It sounds + adjective",
+    "meaning": "Used to react to what you hear or to give an impression.",
+    "examples": [
+      {
+        "en": "It sounds good to me."
+      },
+      {
+        "en": "That sounds a bit expensive."
+      },
+      {
+        "en": "It sounds like a great idea."
+      },
+      {
+        "en": "That sounds useful for beginners."
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "pattern": "What if + clause",
+    "meaning": "Used to raise a concern, possibility, or suggestion.",
+    "examples": [
+      {
+        "en": "What if it rains tomorrow?"
+      },
+      {
+        "en": "What if they say no?"
+      },
+      {
+        "en": "What if we try a different way?"
+      },
+      {
+        "en": "What if we meet a little earlier?"
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "pattern": "The first thing I do is + V",
+    "meaning": "Used to describe a regular routine simply and clearly.",
+    "examples": [
+      {
+        "en": "The first thing I do is check my phone."
+      },
+      {
+        "en": "The first thing she does is make coffee."
+      },
+      {
+        "en": "The first thing we do is turn on the lights."
+      },
+      {
+        "en": "The first thing I do is check my messages."
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "pattern": "One of the best things about + noun/V-ing is ...",
+    "meaning": "Used to highlight a positive point in a natural speaking style.",
+    "examples": [
+      {
+        "en": "One of the best things about working from home is saving time."
+      },
+      {
+        "en": "One of the best things about this app is the simple design."
+      },
+      {
+        "en": "One of the best things about living here is the public transport."
+      },
+      {
+        "en": "One of the best things about living here is the public transport."
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "pattern": "A good way to + V is to + V",
+    "meaning": "Used to give practical advice or learning tips.",
+    "examples": [
+      {
+        "en": "A good way to remember words is to use them in sentences."
+      },
+      {
+        "en": "A good way to save money is to cook at home."
+      },
+      {
+        "en": "A good way to improve speaking is to practice out loud every day."
+      },
+      {
+        "en": "A good way to remember new words is to use them in a sentence."
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "pattern": "The reason why + clause is that + clause",
+    "meaning": "Used to explain a reason more clearly.",
+    "examples": [
+      {
+        "en": "The reason why I was late is that the train was delayed."
+      },
+      {
+        "en": "The reason why she left early is that she wasn't feeling well."
+      },
+      {
+        "en": "The reason why this works is that it's easy to repeat every day."
+      },
+      {
+        "en": "The reason why I left early is that I wasn't feeling well."
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "pattern": "One more thing ...",
+    "meaning": "Used to add an extra point in conversation.",
+    "examples": [
+      {
+        "en": "One more thing, don't forget your ID."
+      },
+      {
+        "en": "One more thing, the shop closes at six."
+      },
+      {
+        "en": "One more thing, can you send me the file tonight?"
+      },
+      {
+        "en": "One more thing, please bring your ID with you."
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "pattern": "That way, + clause",
+    "meaning": "Used to explain the benefit or result of an action.",
+    "examples": [
+      {
+        "en": "Leave early. That way, you won't get stuck in traffic."
+      },
+      {
+        "en": "Write it down. That way, you won't forget."
+      },
+      {
+        "en": "Let's split the bill. That way, it's easier for everyone."
+      },
+      {
+        "en": "Please write it down. That way, everyone can follow the plan."
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "pattern": "The best way to + V is to + V",
+    "meaning": "Used to give direct and practical advice.",
+    "examples": [
+      {
+        "en": "The best way to learn vocabulary is to review it often."
+      },
+      {
+        "en": "The best way to stay focused is to remove distractions."
+      },
+      {
+        "en": "The best way to improve pronunciation is to listen and repeat."
+      },
+      {
+        "en": "The best way to improve your speaking is to practice out loud."
+      }
+    ]
+  }
+]
