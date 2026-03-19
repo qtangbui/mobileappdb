@@ -1,8 +1,10 @@
 {
-  "version": 2,
+  "version": 3,
   "updated_at": "2026-03-19",
   "sentences_path": "/data/english/sentences.json",
   "vocab_path": "/data/english/vocab.json",
   "structures_path": "/data/english/englishstructure.json",
+  "daily_questions_path": "/data/english/daily_questions.json",
+  "shadowing_sentences_path": "/data/english/shadowing_sentences.json",
   "note": "ZipSpeak English app content. IMPORTANT: Increase 'version' (e.g. 2 -> 3) whenever you update sentences, vocab, or structures. The app only syncs when it detects a higher version number."
 }

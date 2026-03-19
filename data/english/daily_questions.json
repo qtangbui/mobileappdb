@@ -1,0 +1,1842 @@
+[
+  {
+    "id": "dq_001",
+    "text": "How was your day today?"
+  },
+  {
+    "id": "dq_002",
+    "text": "What did you do this morning?"
+  },
+  {
+    "id": "dq_003",
+    "text": "What did you do yesterday?"
+  },
+  {
+    "id": "dq_004",
+    "text": "What are you going to do tonight?"
+  },
+  {
+    "id": "dq_005",
+    "text": "What are your plans for the weekend?"
+  },
+  {
+    "id": "dq_006",
+    "text": "What time do you usually wake up?"
+  },
+  {
+    "id": "dq_007",
+    "text": "Do you usually get up quickly or slowly?"
+  },
+  {
+    "id": "dq_008",
+    "text": "What is the first thing you do after you wake up?"
+  },
+  {
+    "id": "dq_009",
+    "text": "Do you make your bed every morning?"
+  },
+  {
+    "id": "dq_010",
+    "text": "Do you check your phone soon after waking up?"
+  },
+  {
+    "id": "dq_011",
+    "text": "What does your morning routine look like?"
+  },
+  {
+    "id": "dq_012",
+    "text": "Do you usually eat breakfast?"
+  },
+  {
+    "id": "dq_013",
+    "text": "What do you usually have for breakfast?"
+  },
+  {
+    "id": "dq_014",
+    "text": "Do you prefer coffee, tea, or neither?"
+  },
+  {
+    "id": "dq_015",
+    "text": "How do you usually start your day in a good mood?"
+  },
+  {
+    "id": "dq_016",
+    "text": "What time do you usually leave home?"
+  },
+  {
+    "id": "dq_017",
+    "text": "How do you usually get to work or school?"
+  },
+  {
+    "id": "dq_018",
+    "text": "How long does your commute take?"
+  },
+  {
+    "id": "dq_019",
+    "text": "Is your commute usually easy or stressful?"
+  },
+  {
+    "id": "dq_020",
+    "text": "Do you like listening to something while you travel?"
+  },
+  {
+    "id": "dq_021",
+    "text": "What do you usually do during your lunch break?"
+  },
+  {
+    "id": "dq_022",
+    "text": "What time do you usually have lunch?"
+  },
+  {
+    "id": "dq_023",
+    "text": "Do you usually bring lunch or buy it?"
+  },
+  {
+    "id": "dq_024",
+    "text": "What kind of lunch do you like most?"
+  },
+  {
+    "id": "dq_025",
+    "text": "What do you usually do after work or school?"
+  },
+  {
+    "id": "dq_026",
+    "text": "Do you usually feel tired in the afternoon?"
+  },
+  {
+    "id": "dq_027",
+    "text": "What helps you stay awake when you feel sleepy?"
+  },
+  {
+    "id": "dq_028",
+    "text": "What time do you usually have dinner?"
+  },
+  {
+    "id": "dq_029",
+    "text": "Who do you usually eat dinner with?"
+  },
+  {
+    "id": "dq_030",
+    "text": "What do you usually do before bed?"
+  },
+  {
+    "id": "dq_031",
+    "text": "What time do you usually go to bed?"
+  },
+  {
+    "id": "dq_032",
+    "text": "Do you sleep well most nights?"
+  },
+  {
+    "id": "dq_033",
+    "text": "How many hours do you usually sleep?"
+  },
+  {
+    "id": "dq_034",
+    "text": "What helps you sleep better?"
+  },
+  {
+    "id": "dq_035",
+    "text": "Do you prefer mornings or evenings?"
+  },
+  {
+    "id": "dq_036",
+    "text": "What is your favorite day of the week?"
+  },
+  {
+    "id": "dq_037",
+    "text": "Why do you like that day?"
+  },
+  {
+    "id": "dq_038",
+    "text": "What do you usually do on weekdays?"
+  },
+  {
+    "id": "dq_039",
+    "text": "What do you usually do on weekends?"
+  },
+  {
+    "id": "dq_040",
+    "text": "Do you like a busy schedule or a relaxed one?"
+  },
+  {
+    "id": "dq_041",
+    "text": "What is one small thing that made you happy today?"
+  },
+  {
+    "id": "dq_042",
+    "text": "What do you do when your day does not go as planned?"
+  },
+  {
+    "id": "dq_043",
+    "text": "What is one thing you always try to finish every day?"
+  },
+  {
+    "id": "dq_044",
+    "text": "Do you usually make a to-do list?"
+  },
+  {
+    "id": "dq_045",
+    "text": "Do you prefer writing things down or remembering them?"
+  },
+  {
+    "id": "dq_046",
+    "text": "How do you stay organized during a busy week?"
+  },
+  {
+    "id": "dq_047",
+    "text": "Do you often check your calendar?"
+  },
+  {
+    "id": "dq_048",
+    "text": "What kind of reminders do you use?"
+  },
+  {
+    "id": "dq_049",
+    "text": "Are you usually early, on time, or late?"
+  },
+  {
+    "id": "dq_050",
+    "text": "How do you prepare for an important day?"
+  },
+  {
+    "id": "dq_051",
+    "text": "What kind of work do you do?"
+  },
+  {
+    "id": "dq_052",
+    "text": "What is a normal workday like for you?"
+  },
+  {
+    "id": "dq_053",
+    "text": "What part of your work do you enjoy most?"
+  },
+  {
+    "id": "dq_054",
+    "text": "What part of your work is the most tiring?"
+  },
+  {
+    "id": "dq_055",
+    "text": "Do you prefer working alone or with other people?"
+  },
+  {
+    "id": "dq_056",
+    "text": "Do you enjoy working from home?"
+  },
+  {
+    "id": "dq_057",
+    "text": "Would you rather work from home or in an office?"
+  },
+  {
+    "id": "dq_058",
+    "text": "What kind of work environment helps you focus?"
+  },
+  {
+    "id": "dq_059",
+    "text": "How do you handle a busy day at work?"
+  },
+  {
+    "id": "dq_060",
+    "text": "What do you do first when you start work?"
+  },
+  {
+    "id": "dq_061",
+    "text": "Do you like meetings, or do you prefer fewer meetings?"
+  },
+  {
+    "id": "dq_062",
+    "text": "How do you usually communicate with your coworkers?"
+  },
+  {
+    "id": "dq_063",
+    "text": "What makes a coworker easy to work with?"
+  },
+  {
+    "id": "dq_064",
+    "text": "What do you do when you make a mistake at work?"
+  },
+  {
+    "id": "dq_065",
+    "text": "Do you usually ask for help when you need it?"
+  },
+  {
+    "id": "dq_066",
+    "text": "What is one work skill you want to improve?"
+  },
+  {
+    "id": "dq_067",
+    "text": "What kind of job would you like in the future?"
+  },
+  {
+    "id": "dq_068",
+    "text": "What is your dream job?"
+  },
+  {
+    "id": "dq_069",
+    "text": "Why does that job interest you?"
+  },
+  {
+    "id": "dq_070",
+    "text": "What makes a workday feel productive to you?"
+  },
+  {
+    "id": "dq_071",
+    "text": "Are you studying anything right now?"
+  },
+  {
+    "id": "dq_072",
+    "text": "What are you learning these days?"
+  },
+  {
+    "id": "dq_073",
+    "text": "Do you like studying alone or with other people?"
+  },
+  {
+    "id": "dq_074",
+    "text": "Where do you study best?"
+  },
+  {
+    "id": "dq_075",
+    "text": "What time of day do you study best?"
+  },
+  {
+    "id": "dq_076",
+    "text": "How long can you study before you need a break?"
+  },
+  {
+    "id": "dq_077",
+    "text": "What helps you concentrate while studying?"
+  },
+  {
+    "id": "dq_078",
+    "text": "Do you listen to music while you study?"
+  },
+  {
+    "id": "dq_079",
+    "text": "What subject did you enjoy most at school?"
+  },
+  {
+    "id": "dq_080",
+    "text": "What subject was the hardest for you?"
+  },
+  {
+    "id": "dq_081",
+    "text": "How do you review what you learn?"
+  },
+  {
+    "id": "dq_082",
+    "text": "Do you take notes by hand or on a device?"
+  },
+  {
+    "id": "dq_083",
+    "text": "What do you do when something is hard to understand?"
+  },
+  {
+    "id": "dq_084",
+    "text": "How do you stay motivated to keep learning?"
+  },
+  {
+    "id": "dq_085",
+    "text": "What is one skill you want to improve this year?"
+  },
+  {
+    "id": "dq_086",
+    "text": "How often do you practice English?"
+  },
+  {
+    "id": "dq_087",
+    "text": "Which English skill is hardest for you right now?"
+  },
+  {
+    "id": "dq_088",
+    "text": "Which English skill do you enjoy the most?"
+  },
+  {
+    "id": "dq_089",
+    "text": "How do you practice speaking English?"
+  },
+  {
+    "id": "dq_090",
+    "text": "Do you like repeating sentences out loud?"
+  },
+  {
+    "id": "dq_091",
+    "text": "Do you use English in daily life?"
+  },
+  {
+    "id": "dq_092",
+    "text": "What kind of English content do you watch or listen to?"
+  },
+  {
+    "id": "dq_093",
+    "text": "Do you prefer short lessons or long lessons?"
+  },
+  {
+    "id": "dq_094",
+    "text": "What kind of topics help you speak more easily in English?"
+  },
+  {
+    "id": "dq_095",
+    "text": "What makes you feel nervous when speaking English?"
+  },
+  {
+    "id": "dq_096",
+    "text": "What helps you feel more confident in English?"
+  },
+  {
+    "id": "dq_097",
+    "text": "Do you try to think in English sometimes?"
+  },
+  {
+    "id": "dq_098",
+    "text": "What is a useful English phrase you learned recently?"
+  },
+  {
+    "id": "dq_099",
+    "text": "What English word do you use most often?"
+  },
+  {
+    "id": "dq_100",
+    "text": "Do you like learning English through stories?"
+  },
+  {
+    "id": "dq_101",
+    "text": "Do you prefer grammar practice or conversation practice?"
+  },
+  {
+    "id": "dq_102",
+    "text": "What kind of teacher or lesson style helps you most?"
+  },
+  {
+    "id": "dq_103",
+    "text": "What is your main reason for learning English?"
+  },
+  {
+    "id": "dq_104",
+    "text": "What do you hope English will help you do?"
+  },
+  {
+    "id": "dq_105",
+    "text": "What kind of food do you like most?"
+  },
+  {
+    "id": "dq_106",
+    "text": "What is your favorite meal of the day?"
+  },
+  {
+    "id": "dq_107",
+    "text": "Do you usually cook at home?"
+  },
+  {
+    "id": "dq_108",
+    "text": "What can you cook well?"
+  },
+  {
+    "id": "dq_109",
+    "text": "What is a simple meal you make often?"
+  },
+  {
+    "id": "dq_110",
+    "text": "How often do you eat out?"
+  },
+  {
+    "id": "dq_111",
+    "text": "Do you prefer home-cooked food or restaurant food?"
+  },
+  {
+    "id": "dq_112",
+    "text": "What food do you order most often?"
+  },
+  {
+    "id": "dq_113",
+    "text": "How often do you order food delivery?"
+  },
+  {
+    "id": "dq_114",
+    "text": "Do you like trying new dishes?"
+  },
+  {
+    "id": "dq_115",
+    "text": "What food do you never get tired of?"
+  },
+  {
+    "id": "dq_116",
+    "text": "Is there any food you do not like?"
+  },
+  {
+    "id": "dq_117",
+    "text": "What did you eat most recently?"
+  },
+  {
+    "id": "dq_118",
+    "text": "Who usually cooks in your home?"
+  },
+  {
+    "id": "dq_119",
+    "text": "Do you enjoy cooking, or do you do it only when necessary?"
+  },
+  {
+    "id": "dq_120",
+    "text": "What do you usually buy at the supermarket?"
+  },
+  {
+    "id": "dq_121",
+    "text": "Do you make a shopping list before you shop?"
+  },
+  {
+    "id": "dq_122",
+    "text": "How often do you go grocery shopping?"
+  },
+  {
+    "id": "dq_123",
+    "text": "Do you compare prices before buying something?"
+  },
+  {
+    "id": "dq_124",
+    "text": "Do you prefer online shopping or shopping in stores?"
+  },
+  {
+    "id": "dq_125",
+    "text": "What did you buy recently?"
+  },
+  {
+    "id": "dq_126",
+    "text": "Was it a good purchase? Why or why not?"
+  },
+  {
+    "id": "dq_127",
+    "text": "What do you usually spend too much money on?"
+  },
+  {
+    "id": "dq_128",
+    "text": "Are you careful with money?"
+  },
+  {
+    "id": "dq_129",
+    "text": "Do you save money every month?"
+  },
+  {
+    "id": "dq_130",
+    "text": "What are you saving up for right now?"
+  },
+  {
+    "id": "dq_131",
+    "text": "What do you usually pay for online?"
+  },
+  {
+    "id": "dq_132",
+    "text": "Do you like looking for discounts and sales?"
+  },
+  {
+    "id": "dq_133",
+    "text": "What makes you decide to buy something?"
+  },
+  {
+    "id": "dq_134",
+    "text": "Do you return items easily, or do you keep them?"
+  },
+  {
+    "id": "dq_135",
+    "text": "What is one thing you bought that was really useful?"
+  },
+  {
+    "id": "dq_136",
+    "text": "How often do you clean your room or house?"
+  },
+  {
+    "id": "dq_137",
+    "text": "Which household chore do you dislike the most?"
+  },
+  {
+    "id": "dq_138",
+    "text": "Which chore do you not mind doing?"
+  },
+  {
+    "id": "dq_139",
+    "text": "Do you usually do laundry on weekdays or weekends?"
+  },
+  {
+    "id": "dq_140",
+    "text": "How do you keep your home tidy?"
+  },
+  {
+    "id": "dq_141",
+    "text": "Do you clean a little every day or all at once?"
+  },
+  {
+    "id": "dq_142",
+    "text": "What part of the house gets messy fastest?"
+  },
+  {
+    "id": "dq_143",
+    "text": "Do you enjoy organizing things?"
+  },
+  {
+    "id": "dq_144",
+    "text": "What do you do when you do not have time to clean?"
+  },
+  {
+    "id": "dq_145",
+    "text": "What is one thing that makes your home more comfortable?"
+  },
+  {
+    "id": "dq_146",
+    "text": "Do you live in a quiet area or a busy area?"
+  },
+  {
+    "id": "dq_147",
+    "text": "What do you like about your neighborhood?"
+  },
+  {
+    "id": "dq_148",
+    "text": "Is there a good place to walk near your home?"
+  },
+  {
+    "id": "dq_149",
+    "text": "Do you know your neighbors well?"
+  },
+  {
+    "id": "dq_150",
+    "text": "What is your hometown like?"
+  },
+  {
+    "id": "dq_151",
+    "text": "What do you miss about your hometown?"
+  },
+  {
+    "id": "dq_152",
+    "text": "What is a good place to visit in your hometown?"
+  },
+  {
+    "id": "dq_153",
+    "text": "What kind of weather do you enjoy most?"
+  },
+  {
+    "id": "dq_154",
+    "text": "Do you prefer sunny days or rainy days?"
+  },
+  {
+    "id": "dq_155",
+    "text": "How does the weather affect your mood?"
+  },
+  {
+    "id": "dq_156",
+    "text": "What season do you like best?"
+  },
+  {
+    "id": "dq_157",
+    "text": "Do you prefer hot weather or cold weather?"
+  },
+  {
+    "id": "dq_158",
+    "text": "What is your favorite thing to do on a rainy day?"
+  },
+  {
+    "id": "dq_159",
+    "text": "What do you usually wear in cold weather?"
+  },
+  {
+    "id": "dq_160",
+    "text": "What do you usually wear on a casual day?"
+  },
+  {
+    "id": "dq_161",
+    "text": "Do you plan your clothes the night before?"
+  },
+  {
+    "id": "dq_162",
+    "text": "What clothes do you wear most often?"
+  },
+  {
+    "id": "dq_163",
+    "text": "What helps you relax after a long day?"
+  },
+  {
+    "id": "dq_164",
+    "text": "What do you do in your free time?"
+  },
+  {
+    "id": "dq_165",
+    "text": "Do you prefer staying home or going out on weekends?"
+  },
+  {
+    "id": "dq_166",
+    "text": "What kind of places do you like going to with friends?"
+  },
+  {
+    "id": "dq_167",
+    "text": "How often do you meet your friends in person?"
+  },
+  {
+    "id": "dq_168",
+    "text": "Do you prefer texting or calling?"
+  },
+  {
+    "id": "dq_169",
+    "text": "Are you good at replying to messages quickly?"
+  },
+  {
+    "id": "dq_170",
+    "text": "What kind of videos do you usually watch online?"
+  },
+  {
+    "id": "dq_171",
+    "text": "Do you watch more YouTube or TV shows?"
+  },
+  {
+    "id": "dq_172",
+    "text": "Have you watched anything interesting lately?"
+  },
+  {
+    "id": "dq_173",
+    "text": "Do you prefer funny videos or serious videos?"
+  },
+  {
+    "id": "dq_174",
+    "text": "What kind of music do you listen to most?"
+  },
+  {
+    "id": "dq_175",
+    "text": "Do you listen to music while working or studying?"
+  },
+  {
+    "id": "dq_176",
+    "text": "What song do you never get tired of?"
+  },
+  {
+    "id": "dq_177",
+    "text": "Do you like podcasts or audiobooks?"
+  },
+  {
+    "id": "dq_178",
+    "text": "When do you usually listen to them?"
+  },
+  {
+    "id": "dq_179",
+    "text": "Do you read books regularly?"
+  },
+  {
+    "id": "dq_180",
+    "text": "What kind of books do you enjoy most?"
+  },
+  {
+    "id": "dq_181",
+    "text": "Have you read anything good recently?"
+  },
+  {
+    "id": "dq_182",
+    "text": "Do you prefer ebooks or paper books?"
+  },
+  {
+    "id": "dq_183",
+    "text": "How often do you exercise in a normal week?"
+  },
+  {
+    "id": "dq_184",
+    "text": "What kind of exercise do you enjoy?"
+  },
+  {
+    "id": "dq_185",
+    "text": "Do you prefer walking, running, or going to the gym?"
+  },
+  {
+    "id": "dq_186",
+    "text": "Do you try to eat healthy every day?"
+  },
+  {
+    "id": "dq_187",
+    "text": "How much water do you usually drink?"
+  },
+  {
+    "id": "dq_188",
+    "text": "Do you drink coffee or tea more often?"
+  },
+  {
+    "id": "dq_189",
+    "text": "What do you do when you feel tired during the day?"
+  },
+  {
+    "id": "dq_190",
+    "text": "What do you do when you feel stressed?"
+  },
+  {
+    "id": "dq_191",
+    "text": "What helps you calm down quickly?"
+  },
+  {
+    "id": "dq_192",
+    "text": "Do you take breaks during the day?"
+  },
+  {
+    "id": "dq_193",
+    "text": "How do you know when you need rest?"
+  },
+  {
+    "id": "dq_194",
+    "text": "What is one healthy habit you want to build?"
+  },
+  {
+    "id": "dq_195",
+    "text": "Is there a habit you want to stop?"
+  },
+  {
+    "id": "dq_196",
+    "text": "Are you trying to improve any part of your daily routine?"
+  },
+  {
+    "id": "dq_197",
+    "text": "What app do you use most often on your phone?"
+  },
+  {
+    "id": "dq_198",
+    "text": "Is your phone mostly for work or personal use?"
+  },
+  {
+    "id": "dq_199",
+    "text": "How often do you check social media?"
+  },
+  {
+    "id": "dq_200",
+    "text": "Do you ever take breaks from social media?"
+  },
+  {
+    "id": "dq_201",
+    "text": "Which online service saves you the most time?"
+  },
+  {
+    "id": "dq_202",
+    "text": "Do you usually pay bills online?"
+  },
+  {
+    "id": "dq_203",
+    "text": "How do you keep your passwords safe?"
+  },
+  {
+    "id": "dq_204",
+    "text": "Have you changed any passwords recently?"
+  },
+  {
+    "id": "dq_205",
+    "text": "How often do you back up your photos or files?"
+  },
+  {
+    "id": "dq_206",
+    "text": "Do you prefer using a phone or a computer for most tasks?"
+  },
+  {
+    "id": "dq_207",
+    "text": "Who are you closest to in your family?"
+  },
+  {
+    "id": "dq_208",
+    "text": "How often do you talk to your family members?"
+  },
+  {
+    "id": "dq_209",
+    "text": "Do you usually eat meals together with your family?"
+  },
+  {
+    "id": "dq_210",
+    "text": "What do you often talk about at home?"
+  },
+  {
+    "id": "dq_211",
+    "text": "Do you enjoy family gatherings?"
+  },
+  {
+    "id": "dq_212",
+    "text": "What is the best advice someone in your family gave you?"
+  },
+  {
+    "id": "dq_213",
+    "text": "Do you prefer a quiet home or a lively home?"
+  },
+  {
+    "id": "dq_214",
+    "text": "What is something your family does together often?"
+  },
+  {
+    "id": "dq_215",
+    "text": "What makes a home feel comfortable to you?"
+  },
+  {
+    "id": "dq_216",
+    "text": "Who do you usually talk to when you need advice?"
+  },
+  {
+    "id": "dq_217",
+    "text": "Do you enjoy traveling?"
+  },
+  {
+    "id": "dq_218",
+    "text": "Do you prefer short trips or long vacations?"
+  },
+  {
+    "id": "dq_219",
+    "text": "Do you like traveling by car, train, or plane?"
+  },
+  {
+    "id": "dq_220",
+    "text": "What is the most useful thing to pack for a trip?"
+  },
+  {
+    "id": "dq_221",
+    "text": "Do you like traveling with family or friends?"
+  },
+  {
+    "id": "dq_222",
+    "text": "What is one place you would like to visit again?"
+  },
+  {
+    "id": "dq_223",
+    "text": "Do you like trying new food when you travel?"
+  },
+  {
+    "id": "dq_224",
+    "text": "What do you usually plan first before a trip?"
+  },
+  {
+    "id": "dq_225",
+    "text": "Do you pack early or at the last minute?"
+  },
+  {
+    "id": "dq_226",
+    "text": "What makes a trip comfortable for you?"
+  },
+  {
+    "id": "dq_227",
+    "text": "How often do you take photos when you go out?"
+  },
+  {
+    "id": "dq_228",
+    "text": "Do you usually post your photos online?"
+  },
+  {
+    "id": "dq_229",
+    "text": "What kind of photos do you like taking?"
+  },
+  {
+    "id": "dq_230",
+    "text": "Do you prefer taking photos or just enjoying the moment?"
+  },
+  {
+    "id": "dq_231",
+    "text": "What is one photo you are glad you took?"
+  },
+  {
+    "id": "dq_232",
+    "text": "What are you looking forward to this week?"
+  },
+  {
+    "id": "dq_233",
+    "text": "Is there anything you are worried about these days?"
+  },
+  {
+    "id": "dq_234",
+    "text": "What usually wastes your time?"
+  },
+  {
+    "id": "dq_235",
+    "text": "How do you decide what is important?"
+  },
+  {
+    "id": "dq_236",
+    "text": "What does a productive day look like for you?"
+  },
+  {
+    "id": "dq_237",
+    "text": "What makes a day feel successful?"
+  },
+  {
+    "id": "dq_238",
+    "text": "Do you like starting new things or finishing old things?"
+  },
+  {
+    "id": "dq_239",
+    "text": "Are you good at making decisions quickly?"
+  },
+  {
+    "id": "dq_240",
+    "text": "What practical skill do you think everyone should learn?"
+  },
+  {
+    "id": "dq_241",
+    "text": "What is something practical you learned recently?"
+  },
+  {
+    "id": "dq_242",
+    "text": "If you had one extra hour every day, how would you use it?"
+  },
+  {
+    "id": "dq_243",
+    "text": "What do you usually do while waiting in line or waiting for someone?"
+  },
+  {
+    "id": "dq_244",
+    "text": "Do you like having a full schedule or extra free time?"
+  },
+  {
+    "id": "dq_245",
+    "text": "What helps you feel calm when life gets busy?"
+  },
+  {
+    "id": "dq_246",
+    "text": "What is one everyday task you wish were easier?"
+  },
+  {
+    "id": "dq_247",
+    "text": "How do you usually end your day on a good note?"
+  },
+  {
+    "id": "dq_248",
+    "text": "What makes a conversation enjoyable for you?"
+  },
+  {
+    "id": "dq_249",
+    "text": "Do you prefer deep conversations or light small talk?"
+  },
+  {
+    "id": "dq_250",
+    "text": "How do you usually start a conversation with someone new?"
+  },
+  {
+    "id": "dq_251",
+    "text": "What question do you often ask other people?"
+  },
+  {
+    "id": "dq_252",
+    "text": "What kind of people do you enjoy talking to?"
+  },
+  {
+    "id": "dq_253",
+    "text": "How do you apologize when you make a mistake?"
+  },
+  {
+    "id": "dq_254",
+    "text": "What kind of customer service do you appreciate?"
+  },
+  {
+    "id": "dq_255",
+    "text": "Have you had a good service experience recently?"
+  },
+  {
+    "id": "dq_256",
+    "text": "What usually annoys you in daily life?"
+  },
+  {
+    "id": "dq_257",
+    "text": "How do you handle small problems during the day?"
+  },
+  {
+    "id": "dq_258",
+    "text": "What is one thing you need to do this week?"
+  },
+  {
+    "id": "dq_259",
+    "text": "Do you usually finish tasks early or close to the deadline?"
+  },
+  {
+    "id": "dq_260",
+    "text": "What do you do when you forget something important?"
+  },
+   {
+    "id": "dq_261",
+    "text": "How often do you call someone instead of texting?"
+  },
+  {
+    "id": "dq_262",
+    "text": "What do you usually say when you answer the phone?"
+  },
+  {
+    "id": "dq_263",
+    "text": "Do you prefer voice messages or text messages?"
+  },
+  {
+    "id": "dq_264",
+    "text": "What do you do if you miss an important call?"
+  },
+  {
+    "id": "dq_265",
+    "text": "How do you usually ask someone to call you back?"
+  },
+  {
+    "id": "dq_266",
+    "text": "Do you keep your phone on silent during work or study?"
+  },
+  {
+    "id": "dq_267",
+    "text": "How often do you check missed calls?"
+  },
+  {
+    "id": "dq_268",
+    "text": "What kind of messages do you reply to first?"
+  },
+  {
+    "id": "dq_269",
+    "text": "Do you usually reply right away or later?"
+  },
+  {
+    "id": "dq_270",
+    "text": "What do you say when a phone line is bad?"
+  },
+  {
+    "id": "dq_271",
+    "text": "How do you make an appointment with a doctor or dentist?"
+  },
+  {
+    "id": "dq_272",
+    "text": "Do you prefer morning appointments or afternoon ones?"
+  },
+  {
+    "id": "dq_273",
+    "text": "What do you usually do if you need to reschedule an appointment?"
+  },
+  {
+    "id": "dq_274",
+    "text": "Have you ever arrived late to an appointment?"
+  },
+  {
+    "id": "dq_275",
+    "text": "What do you usually bring to an appointment?"
+  },
+  {
+    "id": "dq_276",
+    "text": "Do you like to confirm appointments in advance?"
+  },
+  {
+    "id": "dq_277",
+    "text": "What do you say when you need to cancel a booking?"
+  },
+  {
+    "id": "dq_278",
+    "text": "How do you ask if a time slot is available?"
+  },
+  {
+    "id": "dq_279",
+    "text": "Do you prefer booking online or by phone?"
+  },
+  {
+    "id": "dq_280",
+    "text": "What kind of appointment do you make most often?"
+  },
+  {
+    "id": "dq_281",
+    "text": "What do you do when you start feeling sick?"
+  },
+  {
+    "id": "dq_282",
+    "text": "Do you usually rest first or take medicine first?"
+  },
+  {
+    "id": "dq_283",
+    "text": "How often do you go to the pharmacy?"
+  },
+  {
+    "id": "dq_284",
+    "text": "What do you ask for when you have a cold?"
+  },
+  {
+    "id": "dq_285",
+    "text": "Do you keep basic medicine at home?"
+  },
+  {
+    "id": "dq_286",
+    "text": "How do you describe a simple health problem in English?"
+  },
+  {
+    "id": "dq_287",
+    "text": "What do you usually do when you have a headache?"
+  },
+  {
+    "id": "dq_288",
+    "text": "Do you prefer tablets, capsules, or liquid medicine?"
+  },
+  {
+    "id": "dq_289",
+    "text": "How often do you check the expiry date on medicine?"
+  },
+  {
+    "id": "dq_290",
+    "text": "What helps you feel better when you are not well?"
+  },
+  {
+    "id": "dq_291",
+    "text": "How often do you buy things online these days?"
+  },
+  {
+    "id": "dq_292",
+    "text": "What do you usually check before placing an order?"
+  },
+  {
+    "id": "dq_293",
+    "text": "Do you read reviews before buying something online?"
+  },
+  {
+    "id": "dq_294",
+    "text": "What do you do if a package arrives late?"
+  },
+  {
+    "id": "dq_295",
+    "text": "Have you ever received the wrong item?"
+  },
+  {
+    "id": "dq_296",
+    "text": "What do you usually do if something is missing from your order?"
+  },
+  {
+    "id": "dq_297",
+    "text": "Do you track your packages often?"
+  },
+  {
+    "id": "dq_298",
+    "text": "What kind of delivery option do you prefer?"
+  },
+  {
+    "id": "dq_299",
+    "text": "How do you ask customer service for help?"
+  },
+  {
+    "id": "dq_300",
+    "text": "Have you ever asked for a refund or replacement?"
+  },
+  {
+    "id": "dq_301",
+    "text": "Do you usually keep receipts after shopping?"
+  },
+  {
+    "id": "dq_302",
+    "text": "What do you do if you need to return something?"
+  },
+  {
+    "id": "dq_303",
+    "text": "How do you decide whether to keep or return an item?"
+  },
+  {
+    "id": "dq_304",
+    "text": "Do you prefer store credit or a refund?"
+  },
+  {
+    "id": "dq_305",
+    "text": "What kind of items do you return most often?"
+  },
+  {
+    "id": "dq_306",
+    "text": "Have you ever bought something that looked different in real life?"
+  },
+  {
+    "id": "dq_307",
+    "text": "Do you try clothes on before buying them?"
+  },
+  {
+    "id": "dq_308",
+    "text": "What do you usually say when something does not fit?"
+  },
+  {
+    "id": "dq_309",
+    "text": "How do you ask if another size is available?"
+  },
+  {
+    "id": "dq_310",
+    "text": "What kind of shopping takes the most time for you?"
+  },
+  {
+    "id": "dq_311",
+    "text": "How often do you eat at a cafe or restaurant?"
+  },
+  {
+    "id": "dq_312",
+    "text": "What do you usually order when you are in a hurry?"
+  },
+  {
+    "id": "dq_313",
+    "text": "Do you ask for recommendations at restaurants?"
+  },
+  {
+    "id": "dq_314",
+    "text": "What do you say when you are ready to order?"
+  },
+  {
+    "id": "dq_315",
+    "text": "How do you ask for the bill politely?"
+  },
+  {
+    "id": "dq_316",
+    "text": "Do you prefer eating inside or taking food away?"
+  },
+  {
+    "id": "dq_317",
+    "text": "What do you do if your food comes late?"
+  },
+  {
+    "id": "dq_318",
+    "text": "Have you ever sent a dish back?"
+  },
+  {
+    "id": "dq_319",
+    "text": "What do you usually drink with your meal?"
+  },
+  {
+    "id": "dq_320",
+    "text": "What kind of service makes you want to come back?"
+  },
+  {
+    "id": "dq_321",
+    "text": "How often do you use public transport?"
+  },
+  {
+    "id": "dq_322",
+    "text": "Do you usually check the timetable before leaving?"
+  },
+  {
+    "id": "dq_323",
+    "text": "What do you do if your bus or train is delayed?"
+  },
+  {
+    "id": "dq_324",
+    "text": "How do you ask for directions in English?"
+  },
+  {
+    "id": "dq_325",
+    "text": "Do you prefer driving yourself or being a passenger?"
+  },
+  {
+    "id": "dq_326",
+    "text": "What do you usually do in traffic?"
+  },
+  {
+    "id": "dq_327",
+    "text": "How early do you leave when you have somewhere important to go?"
+  },
+  {
+    "id": "dq_328",
+    "text": "Do you use maps on your phone often?"
+  },
+  {
+    "id": "dq_329",
+    "text": "What do you do if you get lost?"
+  },
+  {
+    "id": "dq_330",
+    "text": "How do you explain where a place is?"
+  },
+  {
+    "id": "dq_331",
+    "text": "Do you usually make plans in advance or at the last minute?"
+  },
+  {
+    "id": "dq_332",
+    "text": "How do you invite someone to do something with you?"
+  },
+  {
+    "id": "dq_333",
+    "text": "What do you say when you cannot make it?"
+  },
+  {
+    "id": "dq_334",
+    "text": "Do you often change plans at the last minute?"
+  },
+  {
+    "id": "dq_335",
+    "text": "What kind of plans do you enjoy most?"
+  },
+  {
+    "id": "dq_336",
+    "text": "How do you confirm a plan with someone?"
+  },
+  {
+    "id": "dq_337",
+    "text": "What do you usually do when a friend is running late?"
+  },
+  {
+    "id": "dq_338",
+    "text": "Do you like spontaneous plans?"
+  },
+  {
+    "id": "dq_339",
+    "text": "How do you suggest a different time or place?"
+  },
+  {
+    "id": "dq_340",
+    "text": "What makes a plan easy for you to say yes to?"
+  },
+  {
+    "id": "dq_341",
+    "text": "What chores do you usually do every week?"
+  },
+  {
+    "id": "dq_342",
+    "text": "How do you divide chores at home?"
+  },
+  {
+    "id": "dq_343",
+    "text": "What do you do first when your house feels messy?"
+  },
+  {
+    "id": "dq_344",
+    "text": "How often do you take out the rubbish?"
+  },
+  {
+    "id": "dq_345",
+    "text": "Do you prefer washing dishes right away or later?"
+  },
+  {
+    "id": "dq_346",
+    "text": "What do you do when something breaks at home?"
+  },
+  {
+    "id": "dq_347",
+    "text": "Who do you usually ask for help with repairs?"
+  },
+  {
+    "id": "dq_348",
+    "text": "Have you ever fixed something by yourself?"
+  },
+  {
+    "id": "dq_349",
+    "text": "What household task do you always put off?"
+  },
+  {
+    "id": "dq_350",
+    "text": "What makes cleaning faster for you?"
+  },
+  {
+    "id": "dq_351",
+    "text": "How often do you check your email?"
+  },
+  {
+    "id": "dq_352",
+    "text": "What kind of emails do you open first?"
+  },
+  {
+    "id": "dq_353",
+    "text": "Do you delete unwanted emails right away?"
+  },
+  {
+    "id": "dq_354",
+    "text": "What do you do when you forget to reply to an email?"
+  },
+  {
+    "id": "dq_355",
+    "text": "How do you write a polite reminder message?"
+  },
+  {
+    "id": "dq_356",
+    "text": "Do you prefer email or chat for work messages?"
+  },
+  {
+    "id": "dq_357",
+    "text": "What kind of message do you usually send every day?"
+  },
+  {
+    "id": "dq_358",
+    "text": "How do you ask someone to explain something again?"
+  },
+  {
+    "id": "dq_359",
+    "text": "What do you say when you do not understand a message?"
+  },
+  {
+    "id": "dq_360",
+    "text": "How do you follow up when someone has not replied?"
+  },
+  {
+    "id": "dq_361",
+    "text": "How often do you update apps on your phone?"
+  },
+  {
+    "id": "dq_362",
+    "text": "What do you do if an app stops working?"
+  },
+  {
+    "id": "dq_363",
+    "text": "Do you remember your passwords, or do you save them?"
+  },
+  {
+    "id": "dq_364",
+    "text": "What do you do when your internet is slow?"
+  },
+  {
+    "id": "dq_365",
+    "text": "How often do you restart your phone or computer?"
+  },
+  {
+    "id": "dq_366",
+    "text": "What do you usually do when your battery is low?"
+  },
+  {
+    "id": "dq_367",
+    "text": "Do you charge your phone during the day?"
+  },
+  {
+    "id": "dq_368",
+    "text": "What kind of tech problem annoys you most?"
+  },
+  {
+    "id": "dq_369",
+    "text": "Who do you ask for help with tech issues?"
+  },
+  {
+    "id": "dq_370",
+    "text": "What app makes your day easier?"
+  },
+  {
+    "id": "dq_371",
+    "text": "How often do you help a family member with something small?"
+  },
+  {
+    "id": "dq_372",
+    "text": "What do you usually talk about with your child or a younger person?"
+  },
+  {
+    "id": "dq_373",
+    "text": "Do you help with homework at home?"
+  },
+  {
+    "id": "dq_374",
+    "text": "What do you usually prepare before leaving the house with a child?"
+  },
+  {
+    "id": "dq_375",
+    "text": "How do you keep a child busy during a long wait?"
+  },
+  {
+    "id": "dq_376",
+    "text": "What do you do when a child does not want to listen?"
+  },
+  {
+    "id": "dq_377",
+    "text": "What family routine is most important in your home?"
+  },
+  {
+    "id": "dq_378",
+    "text": "Do you usually plan family time ahead of time?"
+  },
+  {
+    "id": "dq_379",
+    "text": "What makes an outing with family go smoothly?"
+  },
+  {
+    "id": "dq_380",
+    "text": "What do you enjoy doing together at home?"
+  },
+  {
+    "id": "dq_381",
+    "text": "How often do you need to buy something for the house?"
+  },
+  {
+    "id": "dq_382",
+    "text": "What household item do you replace most often?"
+  },
+  {
+    "id": "dq_383",
+    "text": "Do you check what is running low before shopping?"
+  },
+  {
+    "id": "dq_384",
+    "text": "What do you do when you run out of something important?"
+  },
+  {
+    "id": "dq_385",
+    "text": "Do you keep extra supplies at home?"
+  },
+  {
+    "id": "dq_386",
+    "text": "What do you always forget to buy?"
+  },
+  {
+    "id": "dq_387",
+    "text": "How do you remember what your home needs?"
+  },
+  {
+    "id": "dq_388",
+    "text": "What do you usually buy in bulk?"
+  },
+  {
+    "id": "dq_389",
+    "text": "What is one small thing that makes daily life easier at home?"
+  },
+  {
+    "id": "dq_390",
+    "text": "What product do you think is worth paying more for?"
+  },
+  {
+    "id": "dq_391",
+    "text": "How often do you go to the bank or use banking apps?"
+  },
+  {
+    "id": "dq_392",
+    "text": "What do you usually check in your banking app?"
+  },
+  {
+    "id": "dq_393",
+    "text": "Do you review your spending every week or every month?"
+  },
+  {
+    "id": "dq_394",
+    "text": "What do you do if a payment fails?"
+  },
+  {
+    "id": "dq_395",
+    "text": "Have you ever forgotten to pay a bill on time?"
+  },
+  {
+    "id": "dq_396",
+    "text": "How do you remind yourself to pay bills?"
+  },
+  {
+    "id": "dq_397",
+    "text": "What kind of expenses do you track carefully?"
+  },
+  {
+    "id": "dq_398",
+    "text": "Do you set a budget before shopping?"
+  },
+  {
+    "id": "dq_399",
+    "text": "What do you usually do when something feels too expensive?"
+  },
+  {
+    "id": "dq_400",
+    "text": "What is one thing you try not to waste money on?"
+  },
+  {
+    "id": "dq_401",
+    "text": "How often do you need to print or scan something?"
+  },
+  {
+    "id": "dq_402",
+    "text": "Do you have a printer at home?"
+  },
+  {
+    "id": "dq_403",
+    "text": "What do you do if you need a document quickly?"
+  },
+  {
+    "id": "dq_404",
+    "text": "How do you send important documents safely?"
+  },
+  {
+    "id": "dq_405",
+    "text": "Have you ever filled out a form online in English?"
+  },
+  {
+    "id": "dq_406",
+    "text": "What part of forms do you find most confusing?"
+  },
+  {
+    "id": "dq_407",
+    "text": "Do you usually double-check details before submitting a form?"
+  },
+  {
+    "id": "dq_408",
+    "text": "What do you do if a website asks for too much information?"
+  },
+  {
+    "id": "dq_409",
+    "text": "How do you save important files so you can find them later?"
+  },
+  {
+    "id": "dq_410",
+    "text": "What kind of document do you use most often?"
+  },
+  {
+    "id": "dq_411",
+    "text": "How often do you check the weather before going out?"
+  },
+  {
+    "id": "dq_412",
+    "text": "What do you do if rain starts unexpectedly?"
+  },
+  {
+    "id": "dq_413",
+    "text": "Do you carry anything useful for bad weather?"
+  },
+  {
+    "id": "dq_414",
+    "text": "What weather makes your daily routine harder?"
+  },
+  {
+    "id": "dq_415",
+    "text": "How do you prepare for a very hot day?"
+  },
+  {
+    "id": "dq_416",
+    "text": "What do you do differently on a cold morning?"
+  },
+  {
+    "id": "dq_417",
+    "text": "Do you prefer to stay in or go out when the weather is bad?"
+  },
+  {
+    "id": "dq_418",
+    "text": "What is the most annoying kind of weather for commuting?"
+  },
+  {
+    "id": "dq_419",
+    "text": "Do you check the forecast for the whole week?"
+  },
+  {
+    "id": "dq_420",
+    "text": "How does bad weather change your plans?"
+  },
+  {
+    "id": "dq_421",
+    "text": "How often do you need to speak to a receptionist or front desk staff?"
+  },
+  {
+    "id": "dq_422",
+    "text": "What do you usually say when you arrive somewhere for an appointment?"
+  },
+  {
+    "id": "dq_423",
+    "text": "How do you ask where to wait?"
+  },
+  {
+    "id": "dq_424",
+    "text": "What do you say when you need help finding the right office or room?"
+  },
+  {
+    "id": "dq_425",
+    "text": "Have you ever had to fill in details at a front desk?"
+  },
+  {
+    "id": "dq_426",
+    "text": "What information do people usually ask you for?"
+  },
+  {
+    "id": "dq_427",
+    "text": "How do you say that you have a booking?"
+  },
+  {
+    "id": "dq_428",
+    "text": "What do you do if there is a long wait?"
+  },
+  {
+    "id": "dq_429",
+    "text": "How do you ask how long it will take?"
+  },
+  {
+    "id": "dq_430",
+    "text": "What kind of service desk experience do you appreciate most?"
+  },
+  {
+    "id": "dq_431",
+    "text": "How often do you help someone solve a small daily problem?"
+  },
+  {
+    "id": "dq_432",
+    "text": "What do you usually do when someone asks you for a favor?"
+  },
+  {
+    "id": "dq_433",
+    "text": "Are you comfortable asking people for help?"
+  },
+  {
+    "id": "dq_434",
+    "text": "How do you politely say no to a request?"
+  },
+  {
+    "id": "dq_435",
+    "text": "What do you say when you need a little more time?"
+  },
+  {
+    "id": "dq_436",
+    "text": "How do you ask someone to repeat themselves more slowly?"
+  },
+  {
+    "id": "dq_437",
+    "text": "What do you do when someone interrupts you?"
+  },
+  {
+    "id": "dq_438",
+    "text": "How do you get back on topic in a conversation?"
+  },
+  {
+    "id": "dq_439",
+    "text": "What do you usually say before leaving a conversation?"
+  },
+  {
+    "id": "dq_440",
+    "text": "What makes communication easy with someone?"
+  },
+  {
+    "id": "dq_441",
+    "text": "How often do you need quiet time during the day?"
+  },
+  {
+    "id": "dq_442",
+    "text": "What do you do when you feel mentally tired?"
+  },
+  {
+    "id": "dq_443",
+    "text": "Do you take short breaks between tasks?"
+  },
+  {
+    "id": "dq_444",
+    "text": "What kind of break helps you reset quickly?"
+  },
+  {
+    "id": "dq_445",
+    "text": "How do you get back to work after losing focus?"
+  },
+  {
+    "id": "dq_446",
+    "text": "What do you do when you feel overwhelmed?"
+  },
+  {
+    "id": "dq_447",
+    "text": "Do you write things down when your mind feels busy?"
+  },
+  {
+    "id": "dq_448",
+    "text": "What helps you feel in control of your day again?"
+  },
+  {
+    "id": "dq_449",
+    "text": "What is one sign that you need a break?"
+  },
+  {
+    "id": "dq_450",
+    "text": "How do you make your evenings more peaceful?"
+  },
+  {
+    "id": "dq_451",
+    "text": "How often do you use self-checkout at stores?"
+  },
+  {
+    "id": "dq_452",
+    "text": "Do you prefer paying by card, phone, or cash?"
+  },
+  {
+    "id": "dq_453",
+    "text": "What do you do if a machine does not accept your payment?"
+  },
+  {
+    "id": "dq_454",
+    "text": "How do you ask if a store is still open?"
+  },
+  {
+    "id": "dq_455",
+    "text": "Do you usually check opening hours before you go somewhere?"
+  },
+  {
+    "id": "dq_456",
+    "text": "What do you do when you cannot find an item in a store?"
+  },
+  {
+    "id": "dq_457",
+    "text": "How do you ask a staff member where something is?"
+  },
+  {
+    "id": "dq_458",
+    "text": "Do you compare brands before choosing one?"
+  },
+  {
+    "id": "dq_459",
+    "text": "What do you do when something is out of stock?"
+  },
+  {
+    "id": "dq_460",
+    "text": "How do you ask whether a product is available again soon?"
+  }
+]

@@ -1,0 +1,4002 @@
+[
+  {
+    "id": "ss_001",
+    "text": "The weather is really nice today, isn't it?"
+  },
+  {
+    "id": "ss_002",
+    "text": "I'd like to order a cup of coffee, please."
+  },
+  {
+    "id": "ss_003",
+    "text": "Could you tell me how to get to the station?"
+  },
+  {
+    "id": "ss_004",
+    "text": "I've been studying English for three years now."
+  },
+  {
+    "id": "ss_005",
+    "text": "What do you usually do on weekends?"
+  },
+  {
+    "id": "ss_006",
+    "text": "It was great meeting you today."
+  },
+  {
+    "id": "ss_007",
+    "text": "I'm looking forward to hearing from you soon."
+  },
+  {
+    "id": "ss_008",
+    "text": "Let me know if you need any help with that."
+  },
+  {
+    "id": "ss_009",
+    "text": "The meeting has been moved to next Monday."
+  },
+  {
+    "id": "ss_010",
+    "text": "I think we should focus on the main problem first."
+  },
+  {
+    "id": "ss_011",
+    "text": "I usually wake up at six o'clock every morning."
+  },
+  {
+    "id": "ss_012",
+    "text": "Can you speak a little more slowly, please?"
+  },
+  {
+    "id": "ss_013",
+    "text": "I need to buy some groceries after work today."
+  },
+  {
+    "id": "ss_014",
+    "text": "This restaurant is famous for its seafood dishes."
+  },
+  {
+    "id": "ss_015",
+    "text": "We should leave now if we want to be on time."
+  },
+  {
+    "id": "ss_016",
+    "text": "Could I have the bill when you get a chance?"
+  },
+  {
+    "id": "ss_017",
+    "text": "I forgot to charge my phone last night."
+  },
+  {
+    "id": "ss_018",
+    "text": "Please let me know your final decision tomorrow."
+  },
+  {
+    "id": "ss_019",
+    "text": "The traffic was terrible during rush hour today."
+  },
+  {
+    "id": "ss_020",
+    "text": "I enjoy listening to podcasts while cooking dinner."
+  },
+  {
+    "id": "ss_021",
+    "text": "Do you have any recommendations for a good book?"
+  },
+  {
+    "id": "ss_022",
+    "text": "Our flight was delayed because of bad weather."
+  },
+  {
+    "id": "ss_023",
+    "text": "I need a few minutes to think about it."
+  },
+  {
+    "id": "ss_024",
+    "text": "Could you help me carry these boxes upstairs?"
+  },
+  {
+    "id": "ss_025",
+    "text": "The new update makes the app much faster."
+  },
+  {
+    "id": "ss_026",
+    "text": "I try to drink more water throughout the day."
+  },
+  {
+    "id": "ss_027",
+    "text": "I'm still getting used to my new schedule."
+  },
+  {
+    "id": "ss_028",
+    "text": "Please double-check the address before you leave."
+  },
+  {
+    "id": "ss_029",
+    "text": "She gave me helpful feedback on my project."
+  },
+  {
+    "id": "ss_030",
+    "text": "Let's take a short break and continue later."
+  },
+  {
+    "id": "ss_031",
+    "text": "Do you mind if I open the window?"
+  },
+  {
+    "id": "ss_032",
+    "text": "I want to improve my pronunciation and fluency."
+  },
+  {
+    "id": "ss_033",
+    "text": "This lesson is more difficult than I expected."
+  },
+  {
+    "id": "ss_034",
+    "text": "Could you repeat that last sentence once more?"
+  },
+  {
+    "id": "ss_035",
+    "text": "I accidentally left my keys in the office."
+  },
+  {
+    "id": "ss_036",
+    "text": "We should compare prices before making a purchase."
+  },
+  {
+    "id": "ss_037",
+    "text": "The customer service here is excellent and friendly."
+  },
+  {
+    "id": "ss_038",
+    "text": "He usually goes jogging in the park after work."
+  },
+  {
+    "id": "ss_039",
+    "text": "I'm trying to cut down on sugary drinks."
+  },
+  {
+    "id": "ss_040",
+    "text": "Can we move the meeting to Wednesday morning?"
+  },
+  {
+    "id": "ss_041",
+    "text": "The hotel room was clean and comfortable."
+  },
+  {
+    "id": "ss_042",
+    "text": "I had a great time talking with your parents."
+  },
+  {
+    "id": "ss_043",
+    "text": "Let's focus on one task at a time."
+  },
+  {
+    "id": "ss_044",
+    "text": "Could you explain this grammar point again?"
+  },
+  {
+    "id": "ss_045",
+    "text": "I need to renew my passport next month."
+  },
+  {
+    "id": "ss_046",
+    "text": "She handled the situation very calmly and professionally."
+  },
+  {
+    "id": "ss_047",
+    "text": "We are looking for ways to reduce costs."
+  },
+  {
+    "id": "ss_048",
+    "text": "Please turn off the lights before you leave."
+  },
+  {
+    "id": "ss_049",
+    "text": "I don't have enough time to finish this today."
+  },
+  {
+    "id": "ss_050",
+    "text": "Can I borrow your pen for a moment?"
+  },
+  {
+    "id": "ss_051",
+    "text": "The train arrives at platform three in ten minutes."
+  },
+  {
+    "id": "ss_052",
+    "text": "I want to learn ten new words every day."
+  },
+  {
+    "id": "ss_053",
+    "text": "This coffee is too hot to drink right now."
+  },
+  {
+    "id": "ss_054",
+    "text": "Could you show me how this feature works?"
+  },
+  {
+    "id": "ss_055",
+    "text": "I'm planning a short trip to Da Nang."
+  },
+  {
+    "id": "ss_056",
+    "text": "We should celebrate after we complete the project."
+  },
+  {
+    "id": "ss_057",
+    "text": "Please keep your voice down in the library."
+  },
+  {
+    "id": "ss_058",
+    "text": "I spent the weekend cleaning and organizing my room."
+  },
+  {
+    "id": "ss_059",
+    "text": "The doctor advised me to get more rest."
+  },
+  {
+    "id": "ss_060",
+    "text": "I appreciate your patience and understanding."
+  },
+  {
+    "id": "ss_061",
+    "text": "Let's make a checklist before we start."
+  },
+  {
+    "id": "ss_062",
+    "text": "The internet connection is unstable this evening."
+  },
+  {
+    "id": "ss_063",
+    "text": "I need to return this item by tomorrow."
+  },
+  {
+    "id": "ss_064",
+    "text": "She always arrives early for important meetings."
+  },
+  {
+    "id": "ss_065",
+    "text": "Could we discuss this issue in private?"
+  },
+  {
+    "id": "ss_066",
+    "text": "I'm not sure if this is the right answer."
+  },
+  {
+    "id": "ss_067",
+    "text": "Please remind me to call my mom tonight."
+  },
+  {
+    "id": "ss_068",
+    "text": "Let's divide the work equally among everyone."
+  },
+  {
+    "id": "ss_069",
+    "text": "I was surprised by how quickly she improved."
+  },
+  {
+    "id": "ss_070",
+    "text": "Can you recommend a good place for lunch?"
+  },
+  {
+    "id": "ss_071",
+    "text": "I need to update my resume this weekend."
+  },
+  {
+    "id": "ss_072",
+    "text": "Please be careful when crossing the street."
+  },
+  {
+    "id": "ss_073",
+    "text": "They offered me a discount on the total bill."
+  },
+  {
+    "id": "ss_074",
+    "text": "I'm interested in taking an online course."
+  },
+  {
+    "id": "ss_075",
+    "text": "Could you pass me the salt, please?"
+  },
+  {
+    "id": "ss_076",
+    "text": "We should back up our data regularly."
+  },
+  {
+    "id": "ss_077",
+    "text": "I had trouble falling asleep last night."
+  },
+  {
+    "id": "ss_078",
+    "text": "Let's meet at the cafe near the station."
+  },
+  {
+    "id": "ss_079",
+    "text": "The instructions were simple and easy to follow."
+  },
+  {
+    "id": "ss_080",
+    "text": "I want to practice speaking without fear of mistakes."
+  },
+  {
+    "id": "ss_081",
+    "text": "Please check your email for the confirmation code."
+  },
+  {
+    "id": "ss_082",
+    "text": "I need to print these documents before noon."
+  },
+  {
+    "id": "ss_083",
+    "text": "The weather forecast says it will rain tomorrow."
+  },
+  {
+    "id": "ss_084",
+    "text": "Can we order food after this meeting?"
+  },
+  {
+    "id": "ss_085",
+    "text": "She is excellent at solving difficult problems."
+  },
+  {
+    "id": "ss_086",
+    "text": "Let's set a deadline and stick to it."
+  },
+  {
+    "id": "ss_087",
+    "text": "I was impressed by your communication skills."
+  },
+  {
+    "id": "ss_088",
+    "text": "Please keep this information private for now."
+  },
+  {
+    "id": "ss_089",
+    "text": "He switched to a healthier lifestyle this year."
+  },
+  {
+    "id": "ss_090",
+    "text": "I need to cancel my appointment for Monday."
+  },
+  {
+    "id": "ss_091",
+    "text": "Could you open the door for me?"
+  },
+  {
+    "id": "ss_092",
+    "text": "The lecture was longer than I expected."
+  },
+  {
+    "id": "ss_093",
+    "text": "I usually review my notes before going to bed."
+  },
+  {
+    "id": "ss_094",
+    "text": "Please make sure all fields are filled in."
+  },
+  {
+    "id": "ss_095",
+    "text": "I think we need a better strategy."
+  },
+  {
+    "id": "ss_096",
+    "text": "Can you tell me where the nearest ATM is?"
+  },
+  {
+    "id": "ss_097",
+    "text": "The package should arrive within two business days."
+  },
+  {
+    "id": "ss_098",
+    "text": "I'm trying to be more consistent with my practice."
+  },
+  {
+    "id": "ss_099",
+    "text": "Please don't forget to lock the door."
+  },
+  {
+    "id": "ss_100",
+    "text": "I learned a lot from this workshop."
+  },
+  {
+    "id": "ss_101",
+    "text": "Could you help me set up this device?"
+  },
+  {
+    "id": "ss_102",
+    "text": "The line was so long at the checkout counter."
+  },
+  {
+    "id": "ss_103",
+    "text": "I need to transfer money to my savings account."
+  },
+  {
+    "id": "ss_104",
+    "text": "Let's share our ideas and choose the best one."
+  },
+  {
+    "id": "ss_105",
+    "text": "He always takes notes during the meeting."
+  },
+  {
+    "id": "ss_106",
+    "text": "I feel more confident when I prepare in advance."
+  },
+  {
+    "id": "ss_107",
+    "text": "Please wait here while I check the system."
+  },
+  {
+    "id": "ss_108",
+    "text": "The deadline was extended until next Friday."
+  },
+  {
+    "id": "ss_109",
+    "text": "Can we have this conversation after lunch?"
+  },
+  {
+    "id": "ss_110",
+    "text": "I'm grateful for your support and encouragement."
+  },
+  {
+    "id": "ss_111",
+    "text": "Let's review the schedule for tomorrow."
+  },
+  {
+    "id": "ss_112",
+    "text": "She quickly adapted to the new environment."
+  },
+  {
+    "id": "ss_113",
+    "text": "I need to replace the battery in my watch."
+  },
+  {
+    "id": "ss_114",
+    "text": "Could you send me your location?"
+  },
+  {
+    "id": "ss_115",
+    "text": "We should focus on the most important tasks first."
+  },
+  {
+    "id": "ss_116",
+    "text": "The museum is closed on Mondays."
+  },
+  {
+    "id": "ss_117",
+    "text": "I want to spend less time on social media."
+  },
+  {
+    "id": "ss_118",
+    "text": "Please use simple words when explaining this topic."
+  },
+  {
+    "id": "ss_119",
+    "text": "He booked the tickets two weeks in advance."
+  },
+  {
+    "id": "ss_120",
+    "text": "I had to reschedule because of an emergency."
+  },
+  {
+    "id": "ss_121",
+    "text": "Let's organize the files by date."
+  },
+  {
+    "id": "ss_122",
+    "text": "Can you hear me clearly on this call?"
+  },
+  {
+    "id": "ss_123",
+    "text": "The soup tastes better with a little pepper."
+  },
+  {
+    "id": "ss_124",
+    "text": "I need to submit this form before 5 p.m."
+  },
+  {
+    "id": "ss_125",
+    "text": "She was promoted because of her strong performance."
+  },
+  {
+    "id": "ss_126",
+    "text": "Please place your bag under the seat."
+  },
+  {
+    "id": "ss_127",
+    "text": "I am still waiting for the final approval."
+  },
+  {
+    "id": "ss_128",
+    "text": "Could you check if the printer has paper?"
+  },
+  {
+    "id": "ss_129",
+    "text": "Let's keep practicing until it feels natural."
+  },
+  {
+    "id": "ss_130",
+    "text": "The classroom was quieter than usual today."
+  },
+  {
+    "id": "ss_131",
+    "text": "I need to wash the dishes after dinner."
+  },
+  {
+    "id": "ss_132",
+    "text": "Please update me as soon as possible."
+  },
+  {
+    "id": "ss_133",
+    "text": "He politely declined the invitation."
+  },
+  {
+    "id": "ss_134",
+    "text": "I want to improve both accuracy and speed."
+  },
+  {
+    "id": "ss_135",
+    "text": "Can we split the payment equally?"
+  },
+  {
+    "id": "ss_136",
+    "text": "The road is under construction this month."
+  },
+  {
+    "id": "ss_137",
+    "text": "Could you write that down for me?"
+  },
+  {
+    "id": "ss_138",
+    "text": "Please take a deep breath and relax."
+  },
+  {
+    "id": "ss_139",
+    "text": "Can you turn the air conditioner down a little?"
+  },
+  {
+    "id": "ss_140",
+    "text": "I need to leave early for a doctor's appointment."
+  },
+  {
+    "id": "ss_141",
+    "text": "Do you want to grab lunch after class?"
+  },
+  {
+    "id": "ss_142",
+    "text": "Sorry, I'm running a few minutes late."
+  },
+  {
+    "id": "ss_143",
+    "text": "Could you help me find my seat?"
+  },
+  {
+    "id": "ss_144",
+    "text": "I'll call you when I get home."
+  },
+  {
+    "id": "ss_145",
+    "text": "Please wait a moment while I check."
+  },
+  {
+    "id": "ss_146",
+    "text": "Do you accept card payments here?"
+  },
+  {
+    "id": "ss_147",
+    "text": "I think I left my wallet at home."
+  },
+  {
+    "id": "ss_148",
+    "text": "Can I get this without onions, please?"
+  },
+  {
+    "id": "ss_149",
+    "text": "We need to book the room in advance."
+  },
+  {
+    "id": "ss_150",
+    "text": "The bus was crowded this morning."
+  },
+  {
+    "id": "ss_151",
+    "text": "I'll send you the details tonight."
+  },
+  {
+    "id": "ss_152",
+    "text": "Could you speak a bit louder, please?"
+  },
+  {
+    "id": "ss_153",
+    "text": "I need to change my password today."
+  },
+  {
+    "id": "ss_154",
+    "text": "This shirt is too small for me."
+  },
+  {
+    "id": "ss_155",
+    "text": "Do you have this in a different size?"
+  },
+  {
+    "id": "ss_156",
+    "text": "I'd like to make an appointment for tomorrow."
+  },
+  {
+    "id": "ss_157",
+    "text": "Please take off your shoes at the door."
+  },
+  {
+    "id": "ss_158",
+    "text": "I usually make breakfast before work."
+  },
+  {
+    "id": "ss_159",
+    "text": "Can you help me carry the groceries?"
+  },
+  {
+    "id": "ss_160",
+    "text": "I need to stop by the bank first."
+  },
+  {
+    "id": "ss_161",
+    "text": "Let's check the menu before we order."
+  },
+  {
+    "id": "ss_162",
+    "text": "I'll have the same thing as you."
+  },
+  {
+    "id": "ss_163",
+    "text": "Could you keep an eye on my bag?"
+  },
+  {
+    "id": "ss_164",
+    "text": "I need a receipt for this purchase."
+  },
+  {
+    "id": "ss_165",
+    "text": "The room looks much brighter now."
+  },
+  {
+    "id": "ss_166",
+    "text": "I have a headache, so I want to rest."
+  },
+  {
+    "id": "ss_167",
+    "text": "Please send me a message when you arrive."
+  },
+  {
+    "id": "ss_168",
+    "text": "Can we meet a little earlier tomorrow?"
+  },
+  {
+    "id": "ss_169",
+    "text": "I'm not feeling well today."
+  },
+  {
+    "id": "ss_170",
+    "text": "The food smells really good."
+  },
+  {
+    "id": "ss_171",
+    "text": "I need to charge my laptop before the meeting."
+  },
+  {
+    "id": "ss_172",
+    "text": "Could you show me where the restroom is?"
+  },
+  {
+    "id": "ss_173",
+    "text": "Please be careful with that glass."
+  },
+  {
+    "id": "ss_174",
+    "text": "I think we took the wrong train."
+  },
+  {
+    "id": "ss_175",
+    "text": "Let's stop here for a quick photo."
+  },
+  {
+    "id": "ss_176",
+    "text": "I need to pick up my child after school."
+  },
+  {
+    "id": "ss_177",
+    "text": "Can you hold the elevator, please?"
+  },
+  {
+    "id": "ss_178",
+    "text": "I'll be ready in five minutes."
+  },
+  {
+    "id": "ss_179",
+    "text": "This chair is more comfortable than it looks."
+  },
+  {
+    "id": "ss_180",
+    "text": "Please speak naturally, not too fast."
+  },
+  {
+    "id": "ss_181",
+    "text": "I need to buy a gift for my friend."
+  },
+  {
+    "id": "ss_182",
+    "text": "Could you check the total again, please?"
+  },
+  {
+    "id": "ss_183",
+    "text": "We should leave some extra time for traffic."
+  },
+  {
+    "id": "ss_184",
+    "text": "I forgot my umbrella, and now it's raining."
+  },
+  {
+    "id": "ss_185",
+    "text": "The baby finally fell asleep."
+  },
+  {
+    "id": "ss_186",
+    "text": "I need to clean the kitchen tonight."
+  },
+  {
+    "id": "ss_187",
+    "text": "Can you email me the updated version?"
+  },
+  {
+    "id": "ss_188",
+    "text": "Let's go over the plan one more time."
+  },
+  {
+    "id": "ss_189",
+    "text": "I'm still waiting for a reply from the client."
+  },
+  {
+    "id": "ss_190",
+    "text": "Could you tell me your name again?"
+  },
+  {
+    "id": "ss_191",
+    "text": "I think this option is simpler and safer."
+  },
+  {
+    "id": "ss_192",
+    "text": "Please call me if anything changes."
+  },
+  {
+    "id": "ss_193",
+    "text": "I'm trying to save money this month."
+  },
+  {
+    "id": "ss_194",
+    "text": "The store closes at nine tonight."
+  },
+  {
+    "id": "ss_195",
+    "text": "Can you recommend something that's not too spicy?"
+  },
+  {
+    "id": "ss_196",
+    "text": "I need to refill my water bottle."
+  },
+  {
+    "id": "ss_197",
+    "text": "Let's sit near the window if possible."
+  },
+  {
+    "id": "ss_198",
+    "text": "Sorry, I didn't catch the last part."
+  },
+  {
+    "id": "ss_199",
+    "text": "Could you please say that again in a simple way?"
+  },
+  {
+    "id": "ss_200",
+    "text": "Could you help me carry this suitcase?"
+  },
+  {
+    "id": "ss_new_001",
+    "text": "Can you check whether the booking has gone through please?"
+  },
+  {
+    "id": "ss_new_002",
+    "text": "Can you check whether the booking has gone through for me?"
+  },
+  {
+    "id": "ss_new_003",
+    "text": "Can you check whether the booking has gone through before we go?"
+  },
+  {
+    "id": "ss_new_004",
+    "text": "Can you check whether the booking has gone through when you have a minute?"
+  },
+  {
+    "id": "ss_new_005",
+    "text": "Can you check whether the booking has gone through if you get a chance?"
+  },
+  {
+    "id": "ss_new_006",
+    "text": "Can you check whether the booking has gone through while you're there?"
+  },
+  {
+    "id": "ss_new_007",
+    "text": "Can you check whether the booking has gone through before tonight?"
+  },
+  {
+    "id": "ss_new_008",
+    "text": "Can you check whether the booking has gone through for tomorrow?"
+  },
+  {
+    "id": "ss_new_009",
+    "text": "Can you check whether the booking has gone through so we don't forget?"
+  },
+  {
+    "id": "ss_new_010",
+    "text": "Can you check whether the booking has gone through before lunch?"
+  },
+  {
+    "id": "ss_new_011",
+    "text": "Can you bring the water bottles over here please?"
+  },
+  {
+    "id": "ss_new_012",
+    "text": "Can you bring the water bottles over here for me?"
+  },
+  {
+    "id": "ss_new_013",
+    "text": "Can you bring the water bottles over here before we go?"
+  },
+  {
+    "id": "ss_new_014",
+    "text": "Can you bring the water bottles over here when you have a minute?"
+  },
+  {
+    "id": "ss_new_015",
+    "text": "Can you bring the water bottles over here if you get a chance?"
+  },
+  {
+    "id": "ss_new_016",
+    "text": "Can you bring the water bottles over here while you're there?"
+  },
+  {
+    "id": "ss_new_017",
+    "text": "Can you bring the water bottles over here before tonight?"
+  },
+  {
+    "id": "ss_new_018",
+    "text": "Can you bring the water bottles over here for tomorrow?"
+  },
+  {
+    "id": "ss_new_019",
+    "text": "Can you bring the water bottles over here so we don't forget?"
+  },
+  {
+    "id": "ss_new_020",
+    "text": "Can you bring the water bottles over here before lunch?"
+  },
+  {
+    "id": "ss_new_021",
+    "text": "Can you leave the stroller by the wall please?"
+  },
+  {
+    "id": "ss_new_022",
+    "text": "Can you leave the stroller by the wall for me?"
+  },
+  {
+    "id": "ss_new_023",
+    "text": "Can you leave the stroller by the wall before we go?"
+  },
+  {
+    "id": "ss_new_024",
+    "text": "Can you leave the stroller by the wall when you have a minute?"
+  },
+  {
+    "id": "ss_new_025",
+    "text": "Can you leave the stroller by the wall if you get a chance?"
+  },
+  {
+    "id": "ss_new_026",
+    "text": "Can you leave the stroller by the wall while you're there?"
+  },
+  {
+    "id": "ss_new_027",
+    "text": "Can you leave the stroller by the wall before tonight?"
+  },
+  {
+    "id": "ss_new_028",
+    "text": "Can you leave the stroller by the wall for tomorrow?"
+  },
+  {
+    "id": "ss_new_029",
+    "text": "Can you leave the stroller by the wall so we don't forget?"
+  },
+  {
+    "id": "ss_new_030",
+    "text": "Can you leave the stroller by the wall before lunch?"
+  },
+  {
+    "id": "ss_new_031",
+    "text": "Can you help me find the right form please?"
+  },
+  {
+    "id": "ss_new_032",
+    "text": "Can you help me find the right form for me?"
+  },
+  {
+    "id": "ss_new_033",
+    "text": "Can you help me find the right form before we go?"
+  },
+  {
+    "id": "ss_new_034",
+    "text": "Can you help me find the right form when you have a minute?"
+  },
+  {
+    "id": "ss_new_035",
+    "text": "Can you help me find the right form if you get a chance?"
+  },
+  {
+    "id": "ss_new_036",
+    "text": "Can you help me find the right form while you're there?"
+  },
+  {
+    "id": "ss_new_037",
+    "text": "Can you help me find the right form before tonight?"
+  },
+  {
+    "id": "ss_new_038",
+    "text": "Can you help me find the right form for tomorrow?"
+  },
+  {
+    "id": "ss_new_039",
+    "text": "Can you help me find the right form so we don't forget?"
+  },
+  {
+    "id": "ss_new_040",
+    "text": "Can you help me find the right form before lunch?"
+  },
+  {
+    "id": "ss_new_041",
+    "text": "Can you put the clean clothes on the bed please?"
+  },
+  {
+    "id": "ss_new_042",
+    "text": "Can you put the clean clothes on the bed for me?"
+  },
+  {
+    "id": "ss_new_043",
+    "text": "Can you put the clean clothes on the bed before we go?"
+  },
+  {
+    "id": "ss_new_044",
+    "text": "Can you put the clean clothes on the bed when you have a minute?"
+  },
+  {
+    "id": "ss_new_045",
+    "text": "Can you put the clean clothes on the bed if you get a chance?"
+  },
+  {
+    "id": "ss_new_046",
+    "text": "Can you put the clean clothes on the bed while you're there?"
+  },
+  {
+    "id": "ss_new_047",
+    "text": "Can you put the clean clothes on the bed before tonight?"
+  },
+  {
+    "id": "ss_new_048",
+    "text": "Can you put the clean clothes on the bed for tomorrow?"
+  },
+  {
+    "id": "ss_new_049",
+    "text": "Can you put the clean clothes on the bed so we don't forget?"
+  },
+  {
+    "id": "ss_new_050",
+    "text": "Can you put the clean clothes on the bed before lunch?"
+  },
+  {
+    "id": "ss_new_051",
+    "text": "Can you move the chairs back into place please?"
+  },
+  {
+    "id": "ss_new_052",
+    "text": "Can you move the chairs back into place for me?"
+  },
+  {
+    "id": "ss_new_053",
+    "text": "Can you move the chairs back into place before we go?"
+  },
+  {
+    "id": "ss_new_054",
+    "text": "Can you move the chairs back into place when you have a minute?"
+  },
+  {
+    "id": "ss_new_055",
+    "text": "Can you move the chairs back into place if you get a chance?"
+  },
+  {
+    "id": "ss_new_056",
+    "text": "Can you move the chairs back into place while you're there?"
+  },
+  {
+    "id": "ss_new_057",
+    "text": "Can you move the chairs back into place before tonight?"
+  },
+  {
+    "id": "ss_new_058",
+    "text": "Can you move the chairs back into place for tomorrow?"
+  },
+  {
+    "id": "ss_new_059",
+    "text": "Can you move the chairs back into place so we don't forget?"
+  },
+  {
+    "id": "ss_new_060",
+    "text": "Can you move the chairs back into place before lunch?"
+  },
+  {
+    "id": "ss_new_061",
+    "text": "Can you tell me if the payment has cleared please?"
+  },
+  {
+    "id": "ss_new_062",
+    "text": "Can you tell me if the payment has cleared for me?"
+  },
+  {
+    "id": "ss_new_063",
+    "text": "Can you tell me if the payment has cleared before we go?"
+  },
+  {
+    "id": "ss_new_064",
+    "text": "Can you tell me if the payment has cleared when you have a minute?"
+  },
+  {
+    "id": "ss_new_065",
+    "text": "Can you tell me if the payment has cleared if you get a chance?"
+  },
+  {
+    "id": "ss_new_066",
+    "text": "Can you tell me if the payment has cleared while you're there?"
+  },
+  {
+    "id": "ss_new_067",
+    "text": "Can you tell me if the payment has cleared before tonight?"
+  },
+  {
+    "id": "ss_new_068",
+    "text": "Can you tell me if the payment has cleared for tomorrow?"
+  },
+  {
+    "id": "ss_new_069",
+    "text": "Can you tell me if the payment has cleared so we don't forget?"
+  },
+  {
+    "id": "ss_new_070",
+    "text": "Can you tell me if the payment has cleared before lunch?"
+  },
+  {
+    "id": "ss_new_071",
+    "text": "Can you show me where the pickup area is please?"
+  },
+  {
+    "id": "ss_new_072",
+    "text": "Can you show me where the pickup area is for me?"
+  },
+  {
+    "id": "ss_new_073",
+    "text": "Can you show me where the pickup area is before we go?"
+  },
+  {
+    "id": "ss_new_074",
+    "text": "Can you show me where the pickup area is when you have a minute?"
+  },
+  {
+    "id": "ss_new_075",
+    "text": "Can you show me where the pickup area is if you get a chance?"
+  },
+  {
+    "id": "ss_new_076",
+    "text": "Can you show me where the pickup area is while you're there?"
+  },
+  {
+    "id": "ss_new_077",
+    "text": "Can you show me where the pickup area is before tonight?"
+  },
+  {
+    "id": "ss_new_078",
+    "text": "Can you show me where the pickup area is for tomorrow?"
+  },
+  {
+    "id": "ss_new_079",
+    "text": "Can you show me where the pickup area is so we don't forget?"
+  },
+  {
+    "id": "ss_new_080",
+    "text": "Can you show me where the pickup area is before lunch?"
+  },
+  {
+    "id": "ss_new_081",
+    "text": "Can you close the gate behind you please?"
+  },
+  {
+    "id": "ss_new_082",
+    "text": "Can you close the gate behind you for me?"
+  },
+  {
+    "id": "ss_new_083",
+    "text": "Can you close the gate behind you before we go?"
+  },
+  {
+    "id": "ss_new_084",
+    "text": "Can you close the gate behind you when you have a minute?"
+  },
+  {
+    "id": "ss_new_085",
+    "text": "Can you close the gate behind you if you get a chance?"
+  },
+  {
+    "id": "ss_new_086",
+    "text": "Can you close the gate behind you while you're there?"
+  },
+  {
+    "id": "ss_new_087",
+    "text": "Can you close the gate behind you before tonight?"
+  },
+  {
+    "id": "ss_new_088",
+    "text": "Can you close the gate behind you for tomorrow?"
+  },
+  {
+    "id": "ss_new_089",
+    "text": "Can you close the gate behind you so we don't forget?"
+  },
+  {
+    "id": "ss_new_090",
+    "text": "Can you close the gate behind you before lunch?"
+  },
+  {
+    "id": "ss_new_091",
+    "text": "Can you keep the lunch boxes together please?"
+  },
+  {
+    "id": "ss_new_092",
+    "text": "Can you keep the lunch boxes together for me?"
+  },
+  {
+    "id": "ss_new_093",
+    "text": "Can you keep the lunch boxes together before we go?"
+  },
+  {
+    "id": "ss_new_094",
+    "text": "Can you keep the lunch boxes together when you have a minute?"
+  },
+  {
+    "id": "ss_new_095",
+    "text": "Can you keep the lunch boxes together if you get a chance?"
+  },
+  {
+    "id": "ss_new_096",
+    "text": "Can you keep the lunch boxes together while you're there?"
+  },
+  {
+    "id": "ss_new_097",
+    "text": "Can you keep the lunch boxes together before tonight?"
+  },
+  {
+    "id": "ss_new_098",
+    "text": "Can you keep the lunch boxes together for tomorrow?"
+  },
+  {
+    "id": "ss_new_099",
+    "text": "Can you keep the lunch boxes together so we don't forget?"
+  },
+  {
+    "id": "ss_new_100",
+    "text": "Can you keep the lunch boxes together before lunch?"
+  },
+  {
+    "id": "ss_new_101",
+    "text": "Can you print the updated copy for me please?"
+  },
+  {
+    "id": "ss_new_102",
+    "text": "Can you print the updated copy for me for me?"
+  },
+  {
+    "id": "ss_new_103",
+    "text": "Can you print the updated copy for me before we go?"
+  },
+  {
+    "id": "ss_new_104",
+    "text": "Can you print the updated copy for me when you have a minute?"
+  },
+  {
+    "id": "ss_new_105",
+    "text": "Can you print the updated copy for me if you get a chance?"
+  },
+  {
+    "id": "ss_new_106",
+    "text": "Can you print the updated copy for me while you're there?"
+  },
+  {
+    "id": "ss_new_107",
+    "text": "Can you print the updated copy for me before tonight?"
+  },
+  {
+    "id": "ss_new_108",
+    "text": "Can you print the updated copy for me for tomorrow?"
+  },
+  {
+    "id": "ss_new_109",
+    "text": "Can you print the updated copy for me so we don't forget?"
+  },
+  {
+    "id": "ss_new_110",
+    "text": "Can you print the updated copy for me before lunch?"
+  },
+  {
+    "id": "ss_new_111",
+    "text": "Can you let me know when the doctor is ready please?"
+  },
+  {
+    "id": "ss_new_112",
+    "text": "Can you let me know when the doctor is ready for me?"
+  },
+  {
+    "id": "ss_new_113",
+    "text": "Can you let me know when the doctor is ready before we go?"
+  },
+  {
+    "id": "ss_new_114",
+    "text": "Can you let me know when the doctor is ready when you have a minute?"
+  },
+  {
+    "id": "ss_new_115",
+    "text": "Can you let me know when the doctor is ready if you get a chance?"
+  },
+  {
+    "id": "ss_new_116",
+    "text": "Can you let me know when the doctor is ready while you're there?"
+  },
+  {
+    "id": "ss_new_117",
+    "text": "Can you let me know when the doctor is ready before tonight?"
+  },
+  {
+    "id": "ss_new_118",
+    "text": "Can you let me know when the doctor is ready for tomorrow?"
+  },
+  {
+    "id": "ss_new_119",
+    "text": "Can you let me know when the doctor is ready so we don't forget?"
+  },
+  {
+    "id": "ss_new_120",
+    "text": "Can you let me know when the doctor is ready before lunch?"
+  },
+  {
+    "id": "ss_new_121",
+    "text": "Can you top up the travel card for tomorrow please?"
+  },
+  {
+    "id": "ss_new_122",
+    "text": "Can you top up the travel card for tomorrow for me?"
+  },
+  {
+    "id": "ss_new_123",
+    "text": "Can you top up the travel card for tomorrow before we go?"
+  },
+  {
+    "id": "ss_new_124",
+    "text": "Can you top up the travel card for tomorrow when you have a minute?"
+  },
+  {
+    "id": "ss_new_125",
+    "text": "Can you top up the travel card for tomorrow if you get a chance?"
+  },
+  {
+    "id": "ss_new_126",
+    "text": "Can you top up the travel card for tomorrow while you're there?"
+  },
+  {
+    "id": "ss_new_127",
+    "text": "Can you top up the travel card for tomorrow before tonight?"
+  },
+  {
+    "id": "ss_new_128",
+    "text": "Can you top up the travel card for tomorrow for tomorrow?"
+  },
+  {
+    "id": "ss_new_129",
+    "text": "Can you top up the travel card for tomorrow so we don't forget?"
+  },
+  {
+    "id": "ss_new_130",
+    "text": "Can you top up the travel card for tomorrow before lunch?"
+  },
+  {
+    "id": "ss_new_131",
+    "text": "Can you put the frozen food away first please?"
+  },
+  {
+    "id": "ss_new_132",
+    "text": "Can you put the frozen food away first for me?"
+  },
+  {
+    "id": "ss_new_133",
+    "text": "Can you put the frozen food away first before we go?"
+  },
+  {
+    "id": "ss_new_134",
+    "text": "Can you put the frozen food away first when you have a minute?"
+  },
+  {
+    "id": "ss_new_135",
+    "text": "Can you put the frozen food away first if you get a chance?"
+  },
+  {
+    "id": "ss_new_136",
+    "text": "Can you put the frozen food away first while you're there?"
+  },
+  {
+    "id": "ss_new_137",
+    "text": "Can you put the frozen food away first before tonight?"
+  },
+  {
+    "id": "ss_new_138",
+    "text": "Can you put the frozen food away first for tomorrow?"
+  },
+  {
+    "id": "ss_new_139",
+    "text": "Can you put the frozen food away first so we don't forget?"
+  },
+  {
+    "id": "ss_new_140",
+    "text": "Can you put the frozen food away first before lunch?"
+  },
+  {
+    "id": "ss_new_141",
+    "text": "Can you check whether the rice has finished cooking please?"
+  },
+  {
+    "id": "ss_new_142",
+    "text": "Can you check whether the rice has finished cooking for me?"
+  },
+  {
+    "id": "ss_new_143",
+    "text": "Can you check whether the rice has finished cooking before we go?"
+  },
+  {
+    "id": "ss_new_144",
+    "text": "Can you check whether the rice has finished cooking when you have a minute?"
+  },
+  {
+    "id": "ss_new_145",
+    "text": "Can you check whether the rice has finished cooking if you get a chance?"
+  },
+  {
+    "id": "ss_new_146",
+    "text": "Can you check whether the rice has finished cooking while you're there?"
+  },
+  {
+    "id": "ss_new_147",
+    "text": "Can you check whether the rice has finished cooking before tonight?"
+  },
+  {
+    "id": "ss_new_148",
+    "text": "Can you check whether the rice has finished cooking for tomorrow?"
+  },
+  {
+    "id": "ss_new_149",
+    "text": "Can you check whether the rice has finished cooking so we don't forget?"
+  },
+  {
+    "id": "ss_new_150",
+    "text": "Can you check whether the rice has finished cooking before lunch?"
+  },
+  {
+    "id": "ss_new_151",
+    "text": "Can you text me when you're downstairs please?"
+  },
+  {
+    "id": "ss_new_152",
+    "text": "Can you text me when you're downstairs for me?"
+  },
+  {
+    "id": "ss_new_153",
+    "text": "Can you text me when you're downstairs before we go?"
+  },
+  {
+    "id": "ss_new_154",
+    "text": "Can you text me when you're downstairs when you have a minute?"
+  },
+  {
+    "id": "ss_new_155",
+    "text": "Can you text me when you're downstairs if you get a chance?"
+  },
+  {
+    "id": "ss_new_156",
+    "text": "Can you text me when you're downstairs while you're there?"
+  },
+  {
+    "id": "ss_new_157",
+    "text": "Can you text me when you're downstairs before tonight?"
+  },
+  {
+    "id": "ss_new_158",
+    "text": "Can you text me when you're downstairs for tomorrow?"
+  },
+  {
+    "id": "ss_new_159",
+    "text": "Can you text me when you're downstairs so we don't forget?"
+  },
+  {
+    "id": "ss_new_160",
+    "text": "Can you text me when you're downstairs before lunch?"
+  },
+  {
+    "id": "ss_new_161",
+    "text": "Can you make sure the school bags are packed please?"
+  },
+  {
+    "id": "ss_new_162",
+    "text": "Can you make sure the school bags are packed for me?"
+  },
+  {
+    "id": "ss_new_163",
+    "text": "Can you make sure the school bags are packed before we go?"
+  },
+  {
+    "id": "ss_new_164",
+    "text": "Can you make sure the school bags are packed when you have a minute?"
+  },
+  {
+    "id": "ss_new_165",
+    "text": "Can you make sure the school bags are packed if you get a chance?"
+  },
+  {
+    "id": "ss_new_166",
+    "text": "Can you make sure the school bags are packed while you're there?"
+  },
+  {
+    "id": "ss_new_167",
+    "text": "Can you make sure the school bags are packed before tonight?"
+  },
+  {
+    "id": "ss_new_168",
+    "text": "Can you make sure the school bags are packed for tomorrow?"
+  },
+  {
+    "id": "ss_new_169",
+    "text": "Can you make sure the school bags are packed so we don't forget?"
+  },
+  {
+    "id": "ss_new_170",
+    "text": "Can you make sure the school bags are packed before lunch?"
+  },
+  {
+    "id": "ss_new_171",
+    "text": "Can you drop these parcels off on the way please?"
+  },
+  {
+    "id": "ss_new_172",
+    "text": "Can you drop these parcels off on the way for me?"
+  },
+  {
+    "id": "ss_new_173",
+    "text": "Can you drop these parcels off on the way before we go?"
+  },
+  {
+    "id": "ss_new_174",
+    "text": "Can you drop these parcels off on the way when you have a minute?"
+  },
+  {
+    "id": "ss_new_175",
+    "text": "Can you drop these parcels off on the way if you get a chance?"
+  },
+  {
+    "id": "ss_new_176",
+    "text": "Can you drop these parcels off on the way while you're there?"
+  },
+  {
+    "id": "ss_new_177",
+    "text": "Can you drop these parcels off on the way before tonight?"
+  },
+  {
+    "id": "ss_new_178",
+    "text": "Can you drop these parcels off on the way for tomorrow?"
+  },
+  {
+    "id": "ss_new_179",
+    "text": "Can you drop these parcels off on the way so we don't forget?"
+  },
+  {
+    "id": "ss_new_180",
+    "text": "Can you drop these parcels off on the way before lunch?"
+  },
+  {
+    "id": "ss_new_181",
+    "text": "Can you save the receipt in case we need it later please?"
+  },
+  {
+    "id": "ss_new_182",
+    "text": "Can you save the receipt in case we need it later for me?"
+  },
+  {
+    "id": "ss_new_183",
+    "text": "Can you save the receipt in case we need it later before we go?"
+  },
+  {
+    "id": "ss_new_184",
+    "text": "Can you save the receipt in case we need it later when you have a minute?"
+  },
+  {
+    "id": "ss_new_185",
+    "text": "Can you save the receipt in case we need it later if you get a chance?"
+  },
+  {
+    "id": "ss_new_186",
+    "text": "Can you save the receipt in case we need it later while you're there?"
+  },
+  {
+    "id": "ss_new_187",
+    "text": "Can you save the receipt in case we need it later before tonight?"
+  },
+  {
+    "id": "ss_new_188",
+    "text": "Can you save the receipt in case we need it later for tomorrow?"
+  },
+  {
+    "id": "ss_new_189",
+    "text": "Can you save the receipt in case we need it later so we don't forget?"
+  },
+  {
+    "id": "ss_new_190",
+    "text": "Can you save the receipt in case we need it later before lunch?"
+  },
+  {
+    "id": "ss_new_191",
+    "text": "Can you call the clinic before it closes please?"
+  },
+  {
+    "id": "ss_new_192",
+    "text": "Can you call the clinic before it closes for me?"
+  },
+  {
+    "id": "ss_new_193",
+    "text": "Can you call the clinic before it closes before we go?"
+  },
+  {
+    "id": "ss_new_194",
+    "text": "Can you call the clinic before it closes when you have a minute?"
+  },
+  {
+    "id": "ss_new_195",
+    "text": "Can you call the clinic before it closes if you get a chance?"
+  },
+  {
+    "id": "ss_new_196",
+    "text": "Can you call the clinic before it closes while you're there?"
+  },
+  {
+    "id": "ss_new_197",
+    "text": "Can you call the clinic before it closes before tonight?"
+  },
+  {
+    "id": "ss_new_198",
+    "text": "Can you call the clinic before it closes for tomorrow?"
+  },
+  {
+    "id": "ss_new_199",
+    "text": "Can you call the clinic before it closes so we don't forget?"
+  },
+  {
+    "id": "ss_new_200",
+    "text": "Can you call the clinic before it closes before lunch?"
+  },
+  {
+    "id": "ss_new_201",
+    "text": "Can you pack the umbrellas in the back please?"
+  },
+  {
+    "id": "ss_new_202",
+    "text": "Can you pack the umbrellas in the back for me?"
+  },
+  {
+    "id": "ss_new_203",
+    "text": "Can you pack the umbrellas in the back before we go?"
+  },
+  {
+    "id": "ss_new_204",
+    "text": "Can you pack the umbrellas in the back when you have a minute?"
+  },
+  {
+    "id": "ss_new_205",
+    "text": "Can you pack the umbrellas in the back if you get a chance?"
+  },
+  {
+    "id": "ss_new_206",
+    "text": "Can you pack the umbrellas in the back while you're there?"
+  },
+  {
+    "id": "ss_new_207",
+    "text": "Can you pack the umbrellas in the back before tonight?"
+  },
+  {
+    "id": "ss_new_208",
+    "text": "Can you pack the umbrellas in the back for tomorrow?"
+  },
+  {
+    "id": "ss_new_209",
+    "text": "Can you pack the umbrellas in the back so we don't forget?"
+  },
+  {
+    "id": "ss_new_210",
+    "text": "Can you pack the umbrellas in the back before lunch?"
+  },
+  {
+    "id": "ss_new_211",
+    "text": "Can you double-check the address before we leave please?"
+  },
+  {
+    "id": "ss_new_212",
+    "text": "Can you double-check the address before we leave for me?"
+  },
+  {
+    "id": "ss_new_213",
+    "text": "Can you double-check the address before we leave before we go?"
+  },
+  {
+    "id": "ss_new_214",
+    "text": "Can you double-check the address before we leave when you have a minute?"
+  },
+  {
+    "id": "ss_new_215",
+    "text": "Can you double-check the address before we leave if you get a chance?"
+  },
+  {
+    "id": "ss_new_216",
+    "text": "Can you double-check the address before we leave while you're there?"
+  },
+  {
+    "id": "ss_new_217",
+    "text": "Can you double-check the address before we leave before tonight?"
+  },
+  {
+    "id": "ss_new_218",
+    "text": "Can you double-check the address before we leave for tomorrow?"
+  },
+  {
+    "id": "ss_new_219",
+    "text": "Can you double-check the address before we leave so we don't forget?"
+  },
+  {
+    "id": "ss_new_220",
+    "text": "Can you double-check the address before we leave before lunch?"
+  },
+  {
+    "id": "ss_new_221",
+    "text": "Can you put the bins out before dinner please?"
+  },
+  {
+    "id": "ss_new_222",
+    "text": "Can you put the bins out before dinner for me?"
+  },
+  {
+    "id": "ss_new_223",
+    "text": "Can you put the bins out before dinner before we go?"
+  },
+  {
+    "id": "ss_new_224",
+    "text": "Can you put the bins out before dinner when you have a minute?"
+  },
+  {
+    "id": "ss_new_225",
+    "text": "Can you put the bins out before dinner if you get a chance?"
+  },
+  {
+    "id": "ss_new_226",
+    "text": "Can you put the bins out before dinner while you're there?"
+  },
+  {
+    "id": "ss_new_227",
+    "text": "Can you put the bins out before dinner before tonight?"
+  },
+  {
+    "id": "ss_new_228",
+    "text": "Can you put the bins out before dinner for tomorrow?"
+  },
+  {
+    "id": "ss_new_229",
+    "text": "Can you put the bins out before dinner so we don't forget?"
+  },
+  {
+    "id": "ss_new_230",
+    "text": "Can you put the bins out before dinner before lunch?"
+  },
+  {
+    "id": "ss_new_231",
+    "text": "Can you keep the wet towels off the floor please?"
+  },
+  {
+    "id": "ss_new_232",
+    "text": "Can you keep the wet towels off the floor for me?"
+  },
+  {
+    "id": "ss_new_233",
+    "text": "Can you keep the wet towels off the floor before we go?"
+  },
+  {
+    "id": "ss_new_234",
+    "text": "Can you keep the wet towels off the floor when you have a minute?"
+  },
+  {
+    "id": "ss_new_235",
+    "text": "Can you keep the wet towels off the floor if you get a chance?"
+  },
+  {
+    "id": "ss_new_236",
+    "text": "Can you keep the wet towels off the floor while you're there?"
+  },
+  {
+    "id": "ss_new_237",
+    "text": "Can you keep the wet towels off the floor before tonight?"
+  },
+  {
+    "id": "ss_new_238",
+    "text": "Can you keep the wet towels off the floor for tomorrow?"
+  },
+  {
+    "id": "ss_new_239",
+    "text": "Can you keep the wet towels off the floor so we don't forget?"
+  },
+  {
+    "id": "ss_new_240",
+    "text": "Can you keep the wet towels off the floor before lunch?"
+  },
+  {
+    "id": "ss_new_241",
+    "text": "Can you ask whether there are seats available upstairs please?"
+  },
+  {
+    "id": "ss_new_242",
+    "text": "Can you ask whether there are seats available upstairs for me?"
+  },
+  {
+    "id": "ss_new_243",
+    "text": "Can you ask whether there are seats available upstairs before we go?"
+  },
+  {
+    "id": "ss_new_244",
+    "text": "Can you ask whether there are seats available upstairs when you have a minute?"
+  },
+  {
+    "id": "ss_new_245",
+    "text": "Can you ask whether there are seats available upstairs if you get a chance?"
+  },
+  {
+    "id": "ss_new_246",
+    "text": "Can you ask whether there are seats available upstairs while you're there?"
+  },
+  {
+    "id": "ss_new_247",
+    "text": "Can you ask whether there are seats available upstairs before tonight?"
+  },
+  {
+    "id": "ss_new_248",
+    "text": "Can you ask whether there are seats available upstairs for tomorrow?"
+  },
+  {
+    "id": "ss_new_249",
+    "text": "Can you ask whether there are seats available upstairs so we don't forget?"
+  },
+  {
+    "id": "ss_new_250",
+    "text": "Can you ask whether there are seats available upstairs before lunch?"
+  },
+  {
+    "id": "ss_new_251",
+    "text": "Can you set the table before everyone gets here please?"
+  },
+  {
+    "id": "ss_new_252",
+    "text": "Can you set the table before everyone gets here for me?"
+  },
+  {
+    "id": "ss_new_253",
+    "text": "Can you set the table before everyone gets here before we go?"
+  },
+  {
+    "id": "ss_new_254",
+    "text": "Can you set the table before everyone gets here when you have a minute?"
+  },
+  {
+    "id": "ss_new_255",
+    "text": "Can you set the table before everyone gets here if you get a chance?"
+  },
+  {
+    "id": "ss_new_256",
+    "text": "Can you set the table before everyone gets here while you're there?"
+  },
+  {
+    "id": "ss_new_257",
+    "text": "Can you set the table before everyone gets here before tonight?"
+  },
+  {
+    "id": "ss_new_258",
+    "text": "Can you set the table before everyone gets here for tomorrow?"
+  },
+  {
+    "id": "ss_new_259",
+    "text": "Can you set the table before everyone gets here so we don't forget?"
+  },
+  {
+    "id": "ss_new_260",
+    "text": "Can you set the table before everyone gets here before lunch?"
+  },
+  {
+    "id": "ss_new_261",
+    "text": "Can you bring the charger into the lounge room please?"
+  },
+  {
+    "id": "ss_new_262",
+    "text": "Can you bring the charger into the lounge room for me?"
+  },
+  {
+    "id": "ss_new_263",
+    "text": "Can you bring the charger into the lounge room before we go?"
+  },
+  {
+    "id": "ss_new_264",
+    "text": "Can you bring the charger into the lounge room when you have a minute?"
+  },
+  {
+    "id": "ss_new_265",
+    "text": "Can you bring the charger into the lounge room if you get a chance?"
+  },
+  {
+    "id": "ss_new_266",
+    "text": "Can you bring the charger into the lounge room while you're there?"
+  },
+  {
+    "id": "ss_new_267",
+    "text": "Can you bring the charger into the lounge room before tonight?"
+  },
+  {
+    "id": "ss_new_268",
+    "text": "Can you bring the charger into the lounge room for tomorrow?"
+  },
+  {
+    "id": "ss_new_269",
+    "text": "Can you bring the charger into the lounge room so we don't forget?"
+  },
+  {
+    "id": "ss_new_270",
+    "text": "Can you bring the charger into the lounge room before lunch?"
+  },
+  {
+    "id": "ss_new_271",
+    "text": "Can you leave a note on the bench please?"
+  },
+  {
+    "id": "ss_new_272",
+    "text": "Can you leave a note on the bench for me?"
+  },
+  {
+    "id": "ss_new_273",
+    "text": "Can you leave a note on the bench before we go?"
+  },
+  {
+    "id": "ss_new_274",
+    "text": "Can you leave a note on the bench when you have a minute?"
+  },
+  {
+    "id": "ss_new_275",
+    "text": "Can you leave a note on the bench if you get a chance?"
+  },
+  {
+    "id": "ss_new_276",
+    "text": "Can you leave a note on the bench while you're there?"
+  },
+  {
+    "id": "ss_new_277",
+    "text": "Can you leave a note on the bench before tonight?"
+  },
+  {
+    "id": "ss_new_278",
+    "text": "Can you leave a note on the bench for tomorrow?"
+  },
+  {
+    "id": "ss_new_279",
+    "text": "Can you leave a note on the bench so we don't forget?"
+  },
+  {
+    "id": "ss_new_280",
+    "text": "Can you leave a note on the bench before lunch?"
+  },
+  {
+    "id": "ss_new_281",
+    "text": "Can you check whether the front window is locked please?"
+  },
+  {
+    "id": "ss_new_282",
+    "text": "Can you check whether the front window is locked for me?"
+  },
+  {
+    "id": "ss_new_283",
+    "text": "Can you check whether the front window is locked before we go?"
+  },
+  {
+    "id": "ss_new_284",
+    "text": "Can you check whether the front window is locked when you have a minute?"
+  },
+  {
+    "id": "ss_new_285",
+    "text": "Can you check whether the front window is locked if you get a chance?"
+  },
+  {
+    "id": "ss_new_286",
+    "text": "Can you check whether the front window is locked while you're there?"
+  },
+  {
+    "id": "ss_new_287",
+    "text": "Can you check whether the front window is locked before tonight?"
+  },
+  {
+    "id": "ss_new_288",
+    "text": "Can you check whether the front window is locked for tomorrow?"
+  },
+  {
+    "id": "ss_new_289",
+    "text": "Can you check whether the front window is locked so we don't forget?"
+  },
+  {
+    "id": "ss_new_290",
+    "text": "Can you check whether the front window is locked before lunch?"
+  },
+  {
+    "id": "ss_new_291",
+    "text": "Can you bring the pram around to the side entrance please?"
+  },
+  {
+    "id": "ss_new_292",
+    "text": "Can you bring the pram around to the side entrance for me?"
+  },
+  {
+    "id": "ss_new_293",
+    "text": "Can you bring the pram around to the side entrance before we go?"
+  },
+  {
+    "id": "ss_new_294",
+    "text": "Can you bring the pram around to the side entrance when you have a minute?"
+  },
+  {
+    "id": "ss_new_295",
+    "text": "Can you bring the pram around to the side entrance if you get a chance?"
+  },
+  {
+    "id": "ss_new_296",
+    "text": "Can you bring the pram around to the side entrance while you're there?"
+  },
+  {
+    "id": "ss_new_297",
+    "text": "Can you bring the pram around to the side entrance before tonight?"
+  },
+  {
+    "id": "ss_new_298",
+    "text": "Can you bring the pram around to the side entrance for tomorrow?"
+  },
+  {
+    "id": "ss_new_299",
+    "text": "Can you bring the pram around to the side entrance so we don't forget?"
+  },
+  {
+    "id": "ss_new_300",
+    "text": "Can you bring the pram around to the side entrance before lunch?"
+  },
+  {
+    "id": "ss_new_301",
+    "text": "Can you put the documents back in the folder please?"
+  },
+  {
+    "id": "ss_new_302",
+    "text": "Can you put the documents back in the folder for me?"
+  },
+  {
+    "id": "ss_new_303",
+    "text": "Can you put the documents back in the folder before we go?"
+  },
+  {
+    "id": "ss_new_304",
+    "text": "Can you put the documents back in the folder when you have a minute?"
+  },
+  {
+    "id": "ss_new_305",
+    "text": "Can you put the documents back in the folder if you get a chance?"
+  },
+  {
+    "id": "ss_new_306",
+    "text": "Can you put the documents back in the folder while you're there?"
+  },
+  {
+    "id": "ss_new_307",
+    "text": "Can you put the documents back in the folder before tonight?"
+  },
+  {
+    "id": "ss_new_308",
+    "text": "Can you put the documents back in the folder for tomorrow?"
+  },
+  {
+    "id": "ss_new_309",
+    "text": "Can you put the documents back in the folder so we don't forget?"
+  },
+  {
+    "id": "ss_new_310",
+    "text": "Can you put the documents back in the folder before lunch?"
+  },
+  {
+    "id": "ss_new_311",
+    "text": "Can you save this as a PDF and send it over please?"
+  },
+  {
+    "id": "ss_new_312",
+    "text": "Can you save this as a PDF and send it over for me?"
+  },
+  {
+    "id": "ss_new_313",
+    "text": "Can you save this as a PDF and send it over before we go?"
+  },
+  {
+    "id": "ss_new_314",
+    "text": "Can you save this as a PDF and send it over when you have a minute?"
+  },
+  {
+    "id": "ss_new_315",
+    "text": "Can you save this as a PDF and send it over if you get a chance?"
+  },
+  {
+    "id": "ss_new_316",
+    "text": "Can you save this as a PDF and send it over while you're there?"
+  },
+  {
+    "id": "ss_new_317",
+    "text": "Can you save this as a PDF and send it over before tonight?"
+  },
+  {
+    "id": "ss_new_318",
+    "text": "Can you save this as a PDF and send it over for tomorrow?"
+  },
+  {
+    "id": "ss_new_319",
+    "text": "Can you save this as a PDF and send it over so we don't forget?"
+  },
+  {
+    "id": "ss_new_320",
+    "text": "Can you save this as a PDF and send it over before lunch?"
+  },
+  {
+    "id": "ss_new_321",
+    "text": "Can you book the follow-up for next week please?"
+  },
+  {
+    "id": "ss_new_322",
+    "text": "Can you book the follow-up for next week for me?"
+  },
+  {
+    "id": "ss_new_323",
+    "text": "Can you book the follow-up for next week before we go?"
+  },
+  {
+    "id": "ss_new_324",
+    "text": "Can you book the follow-up for next week when you have a minute?"
+  },
+  {
+    "id": "ss_new_325",
+    "text": "Can you book the follow-up for next week if you get a chance?"
+  },
+  {
+    "id": "ss_new_326",
+    "text": "Can you book the follow-up for next week while you're there?"
+  },
+  {
+    "id": "ss_new_327",
+    "text": "Can you book the follow-up for next week before tonight?"
+  },
+  {
+    "id": "ss_new_328",
+    "text": "Can you book the follow-up for next week for tomorrow?"
+  },
+  {
+    "id": "ss_new_329",
+    "text": "Can you book the follow-up for next week so we don't forget?"
+  },
+  {
+    "id": "ss_new_330",
+    "text": "Can you book the follow-up for next week before lunch?"
+  },
+  {
+    "id": "ss_new_331",
+    "text": "Can you keep the snacks in the cooler bag please?"
+  },
+  {
+    "id": "ss_new_332",
+    "text": "Can you keep the snacks in the cooler bag for me?"
+  },
+  {
+    "id": "ss_new_333",
+    "text": "Can you keep the snacks in the cooler bag before we go?"
+  },
+  {
+    "id": "ss_new_334",
+    "text": "Can you keep the snacks in the cooler bag when you have a minute?"
+  },
+  {
+    "id": "ss_new_335",
+    "text": "Can you keep the snacks in the cooler bag if you get a chance?"
+  },
+  {
+    "id": "ss_new_336",
+    "text": "Can you keep the snacks in the cooler bag while you're there?"
+  },
+  {
+    "id": "ss_new_337",
+    "text": "Can you keep the snacks in the cooler bag before tonight?"
+  },
+  {
+    "id": "ss_new_338",
+    "text": "Can you keep the snacks in the cooler bag for tomorrow?"
+  },
+  {
+    "id": "ss_new_339",
+    "text": "Can you keep the snacks in the cooler bag so we don't forget?"
+  },
+  {
+    "id": "ss_new_340",
+    "text": "Can you keep the snacks in the cooler bag before lunch?"
+  },
+  {
+    "id": "ss_new_341",
+    "text": "Can you check whether the kids have packed their hats please?"
+  },
+  {
+    "id": "ss_new_342",
+    "text": "Can you check whether the kids have packed their hats for me?"
+  },
+  {
+    "id": "ss_new_343",
+    "text": "Can you check whether the kids have packed their hats before we go?"
+  },
+  {
+    "id": "ss_new_344",
+    "text": "Can you check whether the kids have packed their hats when you have a minute?"
+  },
+  {
+    "id": "ss_new_345",
+    "text": "Can you check whether the kids have packed their hats if you get a chance?"
+  },
+  {
+    "id": "ss_new_346",
+    "text": "Can you check whether the kids have packed their hats while you're there?"
+  },
+  {
+    "id": "ss_new_347",
+    "text": "Can you check whether the kids have packed their hats before tonight?"
+  },
+  {
+    "id": "ss_new_348",
+    "text": "Can you check whether the kids have packed their hats for tomorrow?"
+  },
+  {
+    "id": "ss_new_349",
+    "text": "Can you check whether the kids have packed their hats so we don't forget?"
+  },
+  {
+    "id": "ss_new_350",
+    "text": "Can you check whether the kids have packed their hats before lunch?"
+  },
+  {
+    "id": "ss_new_351",
+    "text": "Can you move the groceries into the kitchen please?"
+  },
+  {
+    "id": "ss_new_352",
+    "text": "Can you move the groceries into the kitchen for me?"
+  },
+  {
+    "id": "ss_new_353",
+    "text": "Can you move the groceries into the kitchen before we go?"
+  },
+  {
+    "id": "ss_new_354",
+    "text": "Can you move the groceries into the kitchen when you have a minute?"
+  },
+  {
+    "id": "ss_new_355",
+    "text": "Can you move the groceries into the kitchen if you get a chance?"
+  },
+  {
+    "id": "ss_new_356",
+    "text": "Can you move the groceries into the kitchen while you're there?"
+  },
+  {
+    "id": "ss_new_357",
+    "text": "Can you move the groceries into the kitchen before tonight?"
+  },
+  {
+    "id": "ss_new_358",
+    "text": "Can you move the groceries into the kitchen for tomorrow?"
+  },
+  {
+    "id": "ss_new_359",
+    "text": "Can you move the groceries into the kitchen so we don't forget?"
+  },
+  {
+    "id": "ss_new_360",
+    "text": "Can you move the groceries into the kitchen before lunch?"
+  },
+  {
+    "id": "ss_new_361",
+    "text": "Can you send a quick reminder before lunch please?"
+  },
+  {
+    "id": "ss_new_362",
+    "text": "Can you send a quick reminder before lunch for me?"
+  },
+  {
+    "id": "ss_new_363",
+    "text": "Can you send a quick reminder before lunch before we go?"
+  },
+  {
+    "id": "ss_new_364",
+    "text": "Can you send a quick reminder before lunch when you have a minute?"
+  },
+  {
+    "id": "ss_new_365",
+    "text": "Can you send a quick reminder before lunch if you get a chance?"
+  },
+  {
+    "id": "ss_new_366",
+    "text": "Can you send a quick reminder before lunch while you're there?"
+  },
+  {
+    "id": "ss_new_367",
+    "text": "Can you send a quick reminder before lunch before tonight?"
+  },
+  {
+    "id": "ss_new_368",
+    "text": "Can you send a quick reminder before lunch for tomorrow?"
+  },
+  {
+    "id": "ss_new_369",
+    "text": "Can you send a quick reminder before lunch so we don't forget?"
+  },
+  {
+    "id": "ss_new_370",
+    "text": "Can you send a quick reminder before lunch before lunch?"
+  },
+  {
+    "id": "ss_new_371",
+    "text": "Can you write the platform number down please?"
+  },
+  {
+    "id": "ss_new_372",
+    "text": "Can you write the platform number down for me?"
+  },
+  {
+    "id": "ss_new_373",
+    "text": "Can you write the platform number down before we go?"
+  },
+  {
+    "id": "ss_new_374",
+    "text": "Can you write the platform number down when you have a minute?"
+  },
+  {
+    "id": "ss_new_375",
+    "text": "Can you write the platform number down if you get a chance?"
+  },
+  {
+    "id": "ss_new_376",
+    "text": "Can you write the platform number down while you're there?"
+  },
+  {
+    "id": "ss_new_377",
+    "text": "Can you write the platform number down before tonight?"
+  },
+  {
+    "id": "ss_new_378",
+    "text": "Can you write the platform number down for tomorrow?"
+  },
+  {
+    "id": "ss_new_379",
+    "text": "Can you write the platform number down so we don't forget?"
+  },
+  {
+    "id": "ss_new_380",
+    "text": "Can you write the platform number down before lunch?"
+  },
+  {
+    "id": "ss_new_381",
+    "text": "Can you put the clean dishes away after they dry please?"
+  },
+  {
+    "id": "ss_new_382",
+    "text": "Can you put the clean dishes away after they dry for me?"
+  },
+  {
+    "id": "ss_new_383",
+    "text": "Can you put the clean dishes away after they dry before we go?"
+  },
+  {
+    "id": "ss_new_384",
+    "text": "Can you put the clean dishes away after they dry when you have a minute?"
+  },
+  {
+    "id": "ss_new_385",
+    "text": "Can you put the clean dishes away after they dry if you get a chance?"
+  },
+  {
+    "id": "ss_new_386",
+    "text": "Can you put the clean dishes away after they dry while you're there?"
+  },
+  {
+    "id": "ss_new_387",
+    "text": "Can you put the clean dishes away after they dry before tonight?"
+  },
+  {
+    "id": "ss_new_388",
+    "text": "Can you put the clean dishes away after they dry for tomorrow?"
+  },
+  {
+    "id": "ss_new_389",
+    "text": "Can you put the clean dishes away after they dry so we don't forget?"
+  },
+  {
+    "id": "ss_new_390",
+    "text": "Can you put the clean dishes away after they dry before lunch?"
+  },
+  {
+    "id": "ss_new_391",
+    "text": "Can you tell me if the room is ready yet please?"
+  },
+  {
+    "id": "ss_new_392",
+    "text": "Can you tell me if the room is ready yet for me?"
+  },
+  {
+    "id": "ss_new_393",
+    "text": "Can you tell me if the room is ready yet before we go?"
+  },
+  {
+    "id": "ss_new_394",
+    "text": "Can you tell me if the room is ready yet when you have a minute?"
+  },
+  {
+    "id": "ss_new_395",
+    "text": "Can you tell me if the room is ready yet if you get a chance?"
+  },
+  {
+    "id": "ss_new_396",
+    "text": "Can you tell me if the room is ready yet while you're there?"
+  },
+  {
+    "id": "ss_new_397",
+    "text": "Can you tell me if the room is ready yet before tonight?"
+  },
+  {
+    "id": "ss_new_398",
+    "text": "Can you tell me if the room is ready yet for tomorrow?"
+  },
+  {
+    "id": "ss_new_399",
+    "text": "Can you tell me if the room is ready yet so we don't forget?"
+  },
+  {
+    "id": "ss_new_400",
+    "text": "Can you tell me if the room is ready yet before lunch?"
+  },
+  {
+    "id": "ss_new_401",
+    "text": "Can you bring the towels in before it rains please?"
+  },
+  {
+    "id": "ss_new_402",
+    "text": "Can you bring the towels in before it rains for me?"
+  },
+  {
+    "id": "ss_new_403",
+    "text": "Can you bring the towels in before it rains before we go?"
+  },
+  {
+    "id": "ss_new_404",
+    "text": "Can you bring the towels in before it rains when you have a minute?"
+  },
+  {
+    "id": "ss_new_405",
+    "text": "Can you bring the towels in before it rains if you get a chance?"
+  },
+  {
+    "id": "ss_new_406",
+    "text": "Can you bring the towels in before it rains while you're there?"
+  },
+  {
+    "id": "ss_new_407",
+    "text": "Can you bring the towels in before it rains before tonight?"
+  },
+  {
+    "id": "ss_new_408",
+    "text": "Can you bring the towels in before it rains for tomorrow?"
+  },
+  {
+    "id": "ss_new_409",
+    "text": "Can you bring the towels in before it rains so we don't forget?"
+  },
+  {
+    "id": "ss_new_410",
+    "text": "Can you bring the towels in before it rains before lunch?"
+  },
+  {
+    "id": "ss_new_411",
+    "text": "Can you check whether the timer is set properly please?"
+  },
+  {
+    "id": "ss_new_412",
+    "text": "Can you check whether the timer is set properly for me?"
+  },
+  {
+    "id": "ss_new_413",
+    "text": "Can you check whether the timer is set properly before we go?"
+  },
+  {
+    "id": "ss_new_414",
+    "text": "Can you check whether the timer is set properly when you have a minute?"
+  },
+  {
+    "id": "ss_new_415",
+    "text": "Can you check whether the timer is set properly if you get a chance?"
+  },
+  {
+    "id": "ss_new_416",
+    "text": "Can you check whether the timer is set properly while you're there?"
+  },
+  {
+    "id": "ss_new_417",
+    "text": "Can you check whether the timer is set properly before tonight?"
+  },
+  {
+    "id": "ss_new_418",
+    "text": "Can you check whether the timer is set properly for tomorrow?"
+  },
+  {
+    "id": "ss_new_419",
+    "text": "Can you check whether the timer is set properly so we don't forget?"
+  },
+  {
+    "id": "ss_new_420",
+    "text": "Can you check whether the timer is set properly before lunch?"
+  },
+  {
+    "id": "ss_new_421",
+    "text": "Can you help me carry these inside please?"
+  },
+  {
+    "id": "ss_new_422",
+    "text": "Can you help me carry these inside for me?"
+  },
+  {
+    "id": "ss_new_423",
+    "text": "Can you help me carry these inside before we go?"
+  },
+  {
+    "id": "ss_new_424",
+    "text": "Can you help me carry these inside when you have a minute?"
+  },
+  {
+    "id": "ss_new_425",
+    "text": "Can you help me carry these inside if you get a chance?"
+  },
+  {
+    "id": "ss_new_426",
+    "text": "Can you help me carry these inside while you're there?"
+  },
+  {
+    "id": "ss_new_427",
+    "text": "Can you help me carry these inside before tonight?"
+  },
+  {
+    "id": "ss_new_428",
+    "text": "Can you help me carry these inside for tomorrow?"
+  },
+  {
+    "id": "ss_new_429",
+    "text": "Can you help me carry these inside so we don't forget?"
+  },
+  {
+    "id": "ss_new_430",
+    "text": "Can you help me carry these inside before lunch?"
+  },
+  {
+    "id": "ss_new_431",
+    "text": "Can you put the shopping back in the boot please?"
+  },
+  {
+    "id": "ss_new_432",
+    "text": "Can you put the shopping back in the boot for me?"
+  },
+  {
+    "id": "ss_new_433",
+    "text": "Can you put the shopping back in the boot before we go?"
+  },
+  {
+    "id": "ss_new_434",
+    "text": "Can you put the shopping back in the boot when you have a minute?"
+  },
+  {
+    "id": "ss_new_435",
+    "text": "Can you put the shopping back in the boot if you get a chance?"
+  },
+  {
+    "id": "ss_new_436",
+    "text": "Can you put the shopping back in the boot while you're there?"
+  },
+  {
+    "id": "ss_new_437",
+    "text": "Can you put the shopping back in the boot before tonight?"
+  },
+  {
+    "id": "ss_new_438",
+    "text": "Can you put the shopping back in the boot for tomorrow?"
+  },
+  {
+    "id": "ss_new_439",
+    "text": "Can you put the shopping back in the boot so we don't forget?"
+  },
+  {
+    "id": "ss_new_440",
+    "text": "Can you put the shopping back in the boot before lunch?"
+  },
+  {
+    "id": "ss_new_441",
+    "text": "Can you call the bank when you get a chance please?"
+  },
+  {
+    "id": "ss_new_442",
+    "text": "Can you call the bank when you get a chance for me?"
+  },
+  {
+    "id": "ss_new_443",
+    "text": "Can you call the bank when you get a chance before we go?"
+  },
+  {
+    "id": "ss_new_444",
+    "text": "Can you call the bank when you get a chance when you have a minute?"
+  },
+  {
+    "id": "ss_new_445",
+    "text": "Can you call the bank when you get a chance if you get a chance?"
+  },
+  {
+    "id": "ss_new_446",
+    "text": "Can you call the bank when you get a chance while you're there?"
+  },
+  {
+    "id": "ss_new_447",
+    "text": "Can you call the bank when you get a chance before tonight?"
+  },
+  {
+    "id": "ss_new_448",
+    "text": "Can you call the bank when you get a chance for tomorrow?"
+  },
+  {
+    "id": "ss_new_449",
+    "text": "Can you call the bank when you get a chance so we don't forget?"
+  },
+  {
+    "id": "ss_new_450",
+    "text": "Can you call the bank when you get a chance before lunch?"
+  },
+  {
+    "id": "ss_new_451",
+    "text": "Can you make sure the side door is shut please?"
+  },
+  {
+    "id": "ss_new_452",
+    "text": "Can you make sure the side door is shut for me?"
+  },
+  {
+    "id": "ss_new_453",
+    "text": "Can you make sure the side door is shut before we go?"
+  },
+  {
+    "id": "ss_new_454",
+    "text": "Can you make sure the side door is shut when you have a minute?"
+  },
+  {
+    "id": "ss_new_455",
+    "text": "Can you make sure the side door is shut if you get a chance?"
+  },
+  {
+    "id": "ss_new_456",
+    "text": "Can you make sure the side door is shut while you're there?"
+  },
+  {
+    "id": "ss_new_457",
+    "text": "Can you make sure the side door is shut before tonight?"
+  },
+  {
+    "id": "ss_new_458",
+    "text": "Can you make sure the side door is shut for tomorrow?"
+  },
+  {
+    "id": "ss_new_459",
+    "text": "Can you make sure the side door is shut so we don't forget?"
+  },
+  {
+    "id": "ss_new_460",
+    "text": "Can you make sure the side door is shut before lunch?"
+  },
+  {
+    "id": "ss_new_461",
+    "text": "Can you check whether the milk is still okay please?"
+  },
+  {
+    "id": "ss_new_462",
+    "text": "Can you check whether the milk is still okay for me?"
+  },
+  {
+    "id": "ss_new_463",
+    "text": "Can you check whether the milk is still okay before we go?"
+  },
+  {
+    "id": "ss_new_464",
+    "text": "Can you check whether the milk is still okay when you have a minute?"
+  },
+  {
+    "id": "ss_new_465",
+    "text": "Can you check whether the milk is still okay if you get a chance?"
+  },
+  {
+    "id": "ss_new_466",
+    "text": "Can you check whether the milk is still okay while you're there?"
+  },
+  {
+    "id": "ss_new_467",
+    "text": "Can you check whether the milk is still okay before tonight?"
+  },
+  {
+    "id": "ss_new_468",
+    "text": "Can you check whether the milk is still okay for tomorrow?"
+  },
+  {
+    "id": "ss_new_469",
+    "text": "Can you check whether the milk is still okay so we don't forget?"
+  },
+  {
+    "id": "ss_new_470",
+    "text": "Can you check whether the milk is still okay before lunch?"
+  },
+  {
+    "id": "ss_new_471",
+    "text": "Can you bring the extra pillows from upstairs please?"
+  },
+  {
+    "id": "ss_new_472",
+    "text": "Can you bring the extra pillows from upstairs for me?"
+  },
+  {
+    "id": "ss_new_473",
+    "text": "Can you bring the extra pillows from upstairs before we go?"
+  },
+  {
+    "id": "ss_new_474",
+    "text": "Can you bring the extra pillows from upstairs when you have a minute?"
+  },
+  {
+    "id": "ss_new_475",
+    "text": "Can you bring the extra pillows from upstairs if you get a chance?"
+  },
+  {
+    "id": "ss_new_476",
+    "text": "Can you bring the extra pillows from upstairs while you're there?"
+  },
+  {
+    "id": "ss_new_477",
+    "text": "Can you bring the extra pillows from upstairs before tonight?"
+  },
+  {
+    "id": "ss_new_478",
+    "text": "Can you bring the extra pillows from upstairs for tomorrow?"
+  },
+  {
+    "id": "ss_new_479",
+    "text": "Can you bring the extra pillows from upstairs so we don't forget?"
+  },
+  {
+    "id": "ss_new_480",
+    "text": "Can you bring the extra pillows from upstairs before lunch?"
+  },
+  {
+    "id": "ss_new_481",
+    "text": "Can you put the library books near the door please?"
+  },
+  {
+    "id": "ss_new_482",
+    "text": "Can you put the library books near the door for me?"
+  },
+  {
+    "id": "ss_new_483",
+    "text": "Can you put the library books near the door before we go?"
+  },
+  {
+    "id": "ss_new_484",
+    "text": "Can you put the library books near the door when you have a minute?"
+  },
+  {
+    "id": "ss_new_485",
+    "text": "Can you put the library books near the door if you get a chance?"
+  },
+  {
+    "id": "ss_new_486",
+    "text": "Can you put the library books near the door while you're there?"
+  },
+  {
+    "id": "ss_new_487",
+    "text": "Can you put the library books near the door before tonight?"
+  },
+  {
+    "id": "ss_new_488",
+    "text": "Can you put the library books near the door for tomorrow?"
+  },
+  {
+    "id": "ss_new_489",
+    "text": "Can you put the library books near the door so we don't forget?"
+  },
+  {
+    "id": "ss_new_490",
+    "text": "Can you put the library books near the door before lunch?"
+  },
+  {
+    "id": "ss_new_491",
+    "text": "Can you keep an eye on the kids for a moment please?"
+  },
+  {
+    "id": "ss_new_492",
+    "text": "Can you keep an eye on the kids for a moment for me?"
+  },
+  {
+    "id": "ss_new_493",
+    "text": "Can you keep an eye on the kids for a moment before we go?"
+  },
+  {
+    "id": "ss_new_494",
+    "text": "Can you keep an eye on the kids for a moment when you have a minute?"
+  },
+  {
+    "id": "ss_new_495",
+    "text": "Can you keep an eye on the kids for a moment if you get a chance?"
+  },
+  {
+    "id": "ss_new_496",
+    "text": "Can you keep an eye on the kids for a moment while you're there?"
+  },
+  {
+    "id": "ss_new_497",
+    "text": "Can you keep an eye on the kids for a moment before tonight?"
+  },
+  {
+    "id": "ss_new_498",
+    "text": "Can you keep an eye on the kids for a moment for tomorrow?"
+  },
+  {
+    "id": "ss_new_499",
+    "text": "Can you keep an eye on the kids for a moment so we don't forget?"
+  },
+  {
+    "id": "ss_new_500",
+    "text": "Can you keep an eye on the kids for a moment before lunch?"
+  },
+  {
+    "id": "ss_new_501",
+    "text": "Could you check whether the booking has gone through please?"
+  },
+  {
+    "id": "ss_new_502",
+    "text": "Could you check whether the booking has gone through for me?"
+  },
+  {
+    "id": "ss_new_503",
+    "text": "Could you check whether the booking has gone through before we go?"
+  },
+  {
+    "id": "ss_new_504",
+    "text": "Could you check whether the booking has gone through when you have a minute?"
+  },
+  {
+    "id": "ss_new_505",
+    "text": "Could you check whether the booking has gone through if you get a chance?"
+  },
+  {
+    "id": "ss_new_506",
+    "text": "Could you check whether the booking has gone through while you're there?"
+  },
+  {
+    "id": "ss_new_507",
+    "text": "Could you check whether the booking has gone through before tonight?"
+  },
+  {
+    "id": "ss_new_508",
+    "text": "Could you check whether the booking has gone through for tomorrow?"
+  },
+  {
+    "id": "ss_new_509",
+    "text": "Could you check whether the booking has gone through so we don't forget?"
+  },
+  {
+    "id": "ss_new_510",
+    "text": "Could you check whether the booking has gone through before lunch?"
+  },
+  {
+    "id": "ss_new_511",
+    "text": "Could you bring the water bottles over here please?"
+  },
+  {
+    "id": "ss_new_512",
+    "text": "Could you bring the water bottles over here for me?"
+  },
+  {
+    "id": "ss_new_513",
+    "text": "Could you bring the water bottles over here before we go?"
+  },
+  {
+    "id": "ss_new_514",
+    "text": "Could you bring the water bottles over here when you have a minute?"
+  },
+  {
+    "id": "ss_new_515",
+    "text": "Could you bring the water bottles over here if you get a chance?"
+  },
+  {
+    "id": "ss_new_516",
+    "text": "Could you bring the water bottles over here while you're there?"
+  },
+  {
+    "id": "ss_new_517",
+    "text": "Could you bring the water bottles over here before tonight?"
+  },
+  {
+    "id": "ss_new_518",
+    "text": "Could you bring the water bottles over here for tomorrow?"
+  },
+  {
+    "id": "ss_new_519",
+    "text": "Could you bring the water bottles over here so we don't forget?"
+  },
+  {
+    "id": "ss_new_520",
+    "text": "Could you bring the water bottles over here before lunch?"
+  },
+  {
+    "id": "ss_new_521",
+    "text": "Could you leave the stroller by the wall please?"
+  },
+  {
+    "id": "ss_new_522",
+    "text": "Could you leave the stroller by the wall for me?"
+  },
+  {
+    "id": "ss_new_523",
+    "text": "Could you leave the stroller by the wall before we go?"
+  },
+  {
+    "id": "ss_new_524",
+    "text": "Could you leave the stroller by the wall when you have a minute?"
+  },
+  {
+    "id": "ss_new_525",
+    "text": "Could you leave the stroller by the wall if you get a chance?"
+  },
+  {
+    "id": "ss_new_526",
+    "text": "Could you leave the stroller by the wall while you're there?"
+  },
+  {
+    "id": "ss_new_527",
+    "text": "Could you leave the stroller by the wall before tonight?"
+  },
+  {
+    "id": "ss_new_528",
+    "text": "Could you leave the stroller by the wall for tomorrow?"
+  },
+  {
+    "id": "ss_new_529",
+    "text": "Could you leave the stroller by the wall so we don't forget?"
+  },
+  {
+    "id": "ss_new_530",
+    "text": "Could you leave the stroller by the wall before lunch?"
+  },
+  {
+    "id": "ss_new_531",
+    "text": "Could you help me find the right form please?"
+  },
+  {
+    "id": "ss_new_532",
+    "text": "Could you help me find the right form for me?"
+  },
+  {
+    "id": "ss_new_533",
+    "text": "Could you help me find the right form before we go?"
+  },
+  {
+    "id": "ss_new_534",
+    "text": "Could you help me find the right form when you have a minute?"
+  },
+  {
+    "id": "ss_new_535",
+    "text": "Could you help me find the right form if you get a chance?"
+  },
+  {
+    "id": "ss_new_536",
+    "text": "Could you help me find the right form while you're there?"
+  },
+  {
+    "id": "ss_new_537",
+    "text": "Could you help me find the right form before tonight?"
+  },
+  {
+    "id": "ss_new_538",
+    "text": "Could you help me find the right form for tomorrow?"
+  },
+  {
+    "id": "ss_new_539",
+    "text": "Could you help me find the right form so we don't forget?"
+  },
+  {
+    "id": "ss_new_540",
+    "text": "Could you help me find the right form before lunch?"
+  },
+  {
+    "id": "ss_new_541",
+    "text": "Could you put the clean clothes on the bed please?"
+  },
+  {
+    "id": "ss_new_542",
+    "text": "Could you put the clean clothes on the bed for me?"
+  },
+  {
+    "id": "ss_new_543",
+    "text": "Could you put the clean clothes on the bed before we go?"
+  },
+  {
+    "id": "ss_new_544",
+    "text": "Could you put the clean clothes on the bed when you have a minute?"
+  },
+  {
+    "id": "ss_new_545",
+    "text": "Could you put the clean clothes on the bed if you get a chance?"
+  },
+  {
+    "id": "ss_new_546",
+    "text": "Could you put the clean clothes on the bed while you're there?"
+  },
+  {
+    "id": "ss_new_547",
+    "text": "Could you put the clean clothes on the bed before tonight?"
+  },
+  {
+    "id": "ss_new_548",
+    "text": "Could you put the clean clothes on the bed for tomorrow?"
+  },
+  {
+    "id": "ss_new_549",
+    "text": "Could you put the clean clothes on the bed so we don't forget?"
+  },
+  {
+    "id": "ss_new_550",
+    "text": "Could you put the clean clothes on the bed before lunch?"
+  },
+  {
+    "id": "ss_new_551",
+    "text": "Could you move the chairs back into place please?"
+  },
+  {
+    "id": "ss_new_552",
+    "text": "Could you move the chairs back into place for me?"
+  },
+  {
+    "id": "ss_new_553",
+    "text": "Could you move the chairs back into place before we go?"
+  },
+  {
+    "id": "ss_new_554",
+    "text": "Could you move the chairs back into place when you have a minute?"
+  },
+  {
+    "id": "ss_new_555",
+    "text": "Could you move the chairs back into place if you get a chance?"
+  },
+  {
+    "id": "ss_new_556",
+    "text": "Could you move the chairs back into place while you're there?"
+  },
+  {
+    "id": "ss_new_557",
+    "text": "Could you move the chairs back into place before tonight?"
+  },
+  {
+    "id": "ss_new_558",
+    "text": "Could you move the chairs back into place for tomorrow?"
+  },
+  {
+    "id": "ss_new_559",
+    "text": "Could you move the chairs back into place so we don't forget?"
+  },
+  {
+    "id": "ss_new_560",
+    "text": "Could you move the chairs back into place before lunch?"
+  },
+  {
+    "id": "ss_new_561",
+    "text": "Could you tell me if the payment has cleared please?"
+  },
+  {
+    "id": "ss_new_562",
+    "text": "Could you tell me if the payment has cleared for me?"
+  },
+  {
+    "id": "ss_new_563",
+    "text": "Could you tell me if the payment has cleared before we go?"
+  },
+  {
+    "id": "ss_new_564",
+    "text": "Could you tell me if the payment has cleared when you have a minute?"
+  },
+  {
+    "id": "ss_new_565",
+    "text": "Could you tell me if the payment has cleared if you get a chance?"
+  },
+  {
+    "id": "ss_new_566",
+    "text": "Could you tell me if the payment has cleared while you're there?"
+  },
+  {
+    "id": "ss_new_567",
+    "text": "Could you tell me if the payment has cleared before tonight?"
+  },
+  {
+    "id": "ss_new_568",
+    "text": "Could you tell me if the payment has cleared for tomorrow?"
+  },
+  {
+    "id": "ss_new_569",
+    "text": "Could you tell me if the payment has cleared so we don't forget?"
+  },
+  {
+    "id": "ss_new_570",
+    "text": "Could you tell me if the payment has cleared before lunch?"
+  },
+  {
+    "id": "ss_new_571",
+    "text": "Could you show me where the pickup area is please?"
+  },
+  {
+    "id": "ss_new_572",
+    "text": "Could you show me where the pickup area is for me?"
+  },
+  {
+    "id": "ss_new_573",
+    "text": "Could you show me where the pickup area is before we go?"
+  },
+  {
+    "id": "ss_new_574",
+    "text": "Could you show me where the pickup area is when you have a minute?"
+  },
+  {
+    "id": "ss_new_575",
+    "text": "Could you show me where the pickup area is if you get a chance?"
+  },
+  {
+    "id": "ss_new_576",
+    "text": "Could you show me where the pickup area is while you're there?"
+  },
+  {
+    "id": "ss_new_577",
+    "text": "Could you show me where the pickup area is before tonight?"
+  },
+  {
+    "id": "ss_new_578",
+    "text": "Could you show me where the pickup area is for tomorrow?"
+  },
+  {
+    "id": "ss_new_579",
+    "text": "Could you show me where the pickup area is so we don't forget?"
+  },
+  {
+    "id": "ss_new_580",
+    "text": "Could you show me where the pickup area is before lunch?"
+  },
+  {
+    "id": "ss_new_581",
+    "text": "Could you close the gate behind you please?"
+  },
+  {
+    "id": "ss_new_582",
+    "text": "Could you close the gate behind you for me?"
+  },
+  {
+    "id": "ss_new_583",
+    "text": "Could you close the gate behind you before we go?"
+  },
+  {
+    "id": "ss_new_584",
+    "text": "Could you close the gate behind you when you have a minute?"
+  },
+  {
+    "id": "ss_new_585",
+    "text": "Could you close the gate behind you if you get a chance?"
+  },
+  {
+    "id": "ss_new_586",
+    "text": "Could you close the gate behind you while you're there?"
+  },
+  {
+    "id": "ss_new_587",
+    "text": "Could you close the gate behind you before tonight?"
+  },
+  {
+    "id": "ss_new_588",
+    "text": "Could you close the gate behind you for tomorrow?"
+  },
+  {
+    "id": "ss_new_589",
+    "text": "Could you close the gate behind you so we don't forget?"
+  },
+  {
+    "id": "ss_new_590",
+    "text": "Could you close the gate behind you before lunch?"
+  },
+  {
+    "id": "ss_new_591",
+    "text": "Could you keep the lunch boxes together please?"
+  },
+  {
+    "id": "ss_new_592",
+    "text": "Could you keep the lunch boxes together for me?"
+  },
+  {
+    "id": "ss_new_593",
+    "text": "Could you keep the lunch boxes together before we go?"
+  },
+  {
+    "id": "ss_new_594",
+    "text": "Could you keep the lunch boxes together when you have a minute?"
+  },
+  {
+    "id": "ss_new_595",
+    "text": "Could you keep the lunch boxes together if you get a chance?"
+  },
+  {
+    "id": "ss_new_596",
+    "text": "Could you keep the lunch boxes together while you're there?"
+  },
+  {
+    "id": "ss_new_597",
+    "text": "Could you keep the lunch boxes together before tonight?"
+  },
+  {
+    "id": "ss_new_598",
+    "text": "Could you keep the lunch boxes together for tomorrow?"
+  },
+  {
+    "id": "ss_new_599",
+    "text": "Could you keep the lunch boxes together so we don't forget?"
+  },
+  {
+    "id": "ss_new_600",
+    "text": "Could you keep the lunch boxes together before lunch?"
+  },
+  {
+    "id": "ss_new_601",
+    "text": "Could you print the updated copy for me please?"
+  },
+  {
+    "id": "ss_new_602",
+    "text": "Could you print the updated copy for me for me?"
+  },
+  {
+    "id": "ss_new_603",
+    "text": "Could you print the updated copy for me before we go?"
+  },
+  {
+    "id": "ss_new_604",
+    "text": "Could you print the updated copy for me when you have a minute?"
+  },
+  {
+    "id": "ss_new_605",
+    "text": "Could you print the updated copy for me if you get a chance?"
+  },
+  {
+    "id": "ss_new_606",
+    "text": "Could you print the updated copy for me while you're there?"
+  },
+  {
+    "id": "ss_new_607",
+    "text": "Could you print the updated copy for me before tonight?"
+  },
+  {
+    "id": "ss_new_608",
+    "text": "Could you print the updated copy for me for tomorrow?"
+  },
+  {
+    "id": "ss_new_609",
+    "text": "Could you print the updated copy for me so we don't forget?"
+  },
+  {
+    "id": "ss_new_610",
+    "text": "Could you print the updated copy for me before lunch?"
+  },
+  {
+    "id": "ss_new_611",
+    "text": "Could you let me know when the doctor is ready please?"
+  },
+  {
+    "id": "ss_new_612",
+    "text": "Could you let me know when the doctor is ready for me?"
+  },
+  {
+    "id": "ss_new_613",
+    "text": "Could you let me know when the doctor is ready before we go?"
+  },
+  {
+    "id": "ss_new_614",
+    "text": "Could you let me know when the doctor is ready when you have a minute?"
+  },
+  {
+    "id": "ss_new_615",
+    "text": "Could you let me know when the doctor is ready if you get a chance?"
+  },
+  {
+    "id": "ss_new_616",
+    "text": "Could you let me know when the doctor is ready while you're there?"
+  },
+  {
+    "id": "ss_new_617",
+    "text": "Could you let me know when the doctor is ready before tonight?"
+  },
+  {
+    "id": "ss_new_618",
+    "text": "Could you let me know when the doctor is ready for tomorrow?"
+  },
+  {
+    "id": "ss_new_619",
+    "text": "Could you let me know when the doctor is ready so we don't forget?"
+  },
+  {
+    "id": "ss_new_620",
+    "text": "Could you let me know when the doctor is ready before lunch?"
+  },
+  {
+    "id": "ss_new_621",
+    "text": "Could you top up the travel card for tomorrow please?"
+  },
+  {
+    "id": "ss_new_622",
+    "text": "Could you top up the travel card for tomorrow for me?"
+  },
+  {
+    "id": "ss_new_623",
+    "text": "Could you top up the travel card for tomorrow before we go?"
+  },
+  {
+    "id": "ss_new_624",
+    "text": "Could you top up the travel card for tomorrow when you have a minute?"
+  },
+  {
+    "id": "ss_new_625",
+    "text": "Could you top up the travel card for tomorrow if you get a chance?"
+  },
+  {
+    "id": "ss_new_626",
+    "text": "Could you top up the travel card for tomorrow while you're there?"
+  },
+  {
+    "id": "ss_new_627",
+    "text": "Could you top up the travel card for tomorrow before tonight?"
+  },
+  {
+    "id": "ss_new_628",
+    "text": "Could you top up the travel card for tomorrow for tomorrow?"
+  },
+  {
+    "id": "ss_new_629",
+    "text": "Could you top up the travel card for tomorrow so we don't forget?"
+  },
+  {
+    "id": "ss_new_630",
+    "text": "Could you top up the travel card for tomorrow before lunch?"
+  },
+  {
+    "id": "ss_new_631",
+    "text": "Could you put the frozen food away first please?"
+  },
+  {
+    "id": "ss_new_632",
+    "text": "Could you put the frozen food away first for me?"
+  },
+  {
+    "id": "ss_new_633",
+    "text": "Could you put the frozen food away first before we go?"
+  },
+  {
+    "id": "ss_new_634",
+    "text": "Could you put the frozen food away first when you have a minute?"
+  },
+  {
+    "id": "ss_new_635",
+    "text": "Could you put the frozen food away first if you get a chance?"
+  },
+  {
+    "id": "ss_new_636",
+    "text": "Could you put the frozen food away first while you're there?"
+  },
+  {
+    "id": "ss_new_637",
+    "text": "Could you put the frozen food away first before tonight?"
+  },
+  {
+    "id": "ss_new_638",
+    "text": "Could you put the frozen food away first for tomorrow?"
+  },
+  {
+    "id": "ss_new_639",
+    "text": "Could you put the frozen food away first so we don't forget?"
+  },
+  {
+    "id": "ss_new_640",
+    "text": "Could you put the frozen food away first before lunch?"
+  },
+  {
+    "id": "ss_new_641",
+    "text": "Could you check whether the rice has finished cooking please?"
+  },
+  {
+    "id": "ss_new_642",
+    "text": "Could you check whether the rice has finished cooking for me?"
+  },
+  {
+    "id": "ss_new_643",
+    "text": "Could you check whether the rice has finished cooking before we go?"
+  },
+  {
+    "id": "ss_new_644",
+    "text": "Could you check whether the rice has finished cooking when you have a minute?"
+  },
+  {
+    "id": "ss_new_645",
+    "text": "Could you check whether the rice has finished cooking if you get a chance?"
+  },
+  {
+    "id": "ss_new_646",
+    "text": "Could you check whether the rice has finished cooking while you're there?"
+  },
+  {
+    "id": "ss_new_647",
+    "text": "Could you check whether the rice has finished cooking before tonight?"
+  },
+  {
+    "id": "ss_new_648",
+    "text": "Could you check whether the rice has finished cooking for tomorrow?"
+  },
+  {
+    "id": "ss_new_649",
+    "text": "Could you check whether the rice has finished cooking so we don't forget?"
+  },
+  {
+    "id": "ss_new_650",
+    "text": "Could you check whether the rice has finished cooking before lunch?"
+  },
+  {
+    "id": "ss_new_651",
+    "text": "Could you text me when you're downstairs please?"
+  },
+  {
+    "id": "ss_new_652",
+    "text": "Could you text me when you're downstairs for me?"
+  },
+  {
+    "id": "ss_new_653",
+    "text": "Could you text me when you're downstairs before we go?"
+  },
+  {
+    "id": "ss_new_654",
+    "text": "Could you text me when you're downstairs when you have a minute?"
+  },
+  {
+    "id": "ss_new_655",
+    "text": "Could you text me when you're downstairs if you get a chance?"
+  },
+  {
+    "id": "ss_new_656",
+    "text": "Could you text me when you're downstairs while you're there?"
+  },
+  {
+    "id": "ss_new_657",
+    "text": "Could you text me when you're downstairs before tonight?"
+  },
+  {
+    "id": "ss_new_658",
+    "text": "Could you text me when you're downstairs for tomorrow?"
+  },
+  {
+    "id": "ss_new_659",
+    "text": "Could you text me when you're downstairs so we don't forget?"
+  },
+  {
+    "id": "ss_new_660",
+    "text": "Could you text me when you're downstairs before lunch?"
+  },
+  {
+    "id": "ss_new_661",
+    "text": "Could you make sure the school bags are packed please?"
+  },
+  {
+    "id": "ss_new_662",
+    "text": "Could you make sure the school bags are packed for me?"
+  },
+  {
+    "id": "ss_new_663",
+    "text": "Could you make sure the school bags are packed before we go?"
+  },
+  {
+    "id": "ss_new_664",
+    "text": "Could you make sure the school bags are packed when you have a minute?"
+  },
+  {
+    "id": "ss_new_665",
+    "text": "Could you make sure the school bags are packed if you get a chance?"
+  },
+  {
+    "id": "ss_new_666",
+    "text": "Could you make sure the school bags are packed while you're there?"
+  },
+  {
+    "id": "ss_new_667",
+    "text": "Could you make sure the school bags are packed before tonight?"
+  },
+  {
+    "id": "ss_new_668",
+    "text": "Could you make sure the school bags are packed for tomorrow?"
+  },
+  {
+    "id": "ss_new_669",
+    "text": "Could you make sure the school bags are packed so we don't forget?"
+  },
+  {
+    "id": "ss_new_670",
+    "text": "Could you make sure the school bags are packed before lunch?"
+  },
+  {
+    "id": "ss_new_671",
+    "text": "Could you drop these parcels off on the way please?"
+  },
+  {
+    "id": "ss_new_672",
+    "text": "Could you drop these parcels off on the way for me?"
+  },
+  {
+    "id": "ss_new_673",
+    "text": "Could you drop these parcels off on the way before we go?"
+  },
+  {
+    "id": "ss_new_674",
+    "text": "Could you drop these parcels off on the way when you have a minute?"
+  },
+  {
+    "id": "ss_new_675",
+    "text": "Could you drop these parcels off on the way if you get a chance?"
+  },
+  {
+    "id": "ss_new_676",
+    "text": "Could you drop these parcels off on the way while you're there?"
+  },
+  {
+    "id": "ss_new_677",
+    "text": "Could you drop these parcels off on the way before tonight?"
+  },
+  {
+    "id": "ss_new_678",
+    "text": "Could you drop these parcels off on the way for tomorrow?"
+  },
+  {
+    "id": "ss_new_679",
+    "text": "Could you drop these parcels off on the way so we don't forget?"
+  },
+  {
+    "id": "ss_new_680",
+    "text": "Could you drop these parcels off on the way before lunch?"
+  },
+  {
+    "id": "ss_new_681",
+    "text": "Could you save the receipt in case we need it later please?"
+  },
+  {
+    "id": "ss_new_682",
+    "text": "Could you save the receipt in case we need it later for me?"
+  },
+  {
+    "id": "ss_new_683",
+    "text": "Could you save the receipt in case we need it later before we go?"
+  },
+  {
+    "id": "ss_new_684",
+    "text": "Could you save the receipt in case we need it later when you have a minute?"
+  },
+  {
+    "id": "ss_new_685",
+    "text": "Could you save the receipt in case we need it later if you get a chance?"
+  },
+  {
+    "id": "ss_new_686",
+    "text": "Could you save the receipt in case we need it later while you're there?"
+  },
+  {
+    "id": "ss_new_687",
+    "text": "Could you save the receipt in case we need it later before tonight?"
+  },
+  {
+    "id": "ss_new_688",
+    "text": "Could you save the receipt in case we need it later for tomorrow?"
+  },
+  {
+    "id": "ss_new_689",
+    "text": "Could you save the receipt in case we need it later so we don't forget?"
+  },
+  {
+    "id": "ss_new_690",
+    "text": "Could you save the receipt in case we need it later before lunch?"
+  },
+  {
+    "id": "ss_new_691",
+    "text": "Could you call the clinic before it closes please?"
+  },
+  {
+    "id": "ss_new_692",
+    "text": "Could you call the clinic before it closes for me?"
+  },
+  {
+    "id": "ss_new_693",
+    "text": "Could you call the clinic before it closes before we go?"
+  },
+  {
+    "id": "ss_new_694",
+    "text": "Could you call the clinic before it closes when you have a minute?"
+  },
+  {
+    "id": "ss_new_695",
+    "text": "Could you call the clinic before it closes if you get a chance?"
+  },
+  {
+    "id": "ss_new_696",
+    "text": "Could you call the clinic before it closes while you're there?"
+  },
+  {
+    "id": "ss_new_697",
+    "text": "Could you call the clinic before it closes before tonight?"
+  },
+  {
+    "id": "ss_new_698",
+    "text": "Could you call the clinic before it closes for tomorrow?"
+  },
+  {
+    "id": "ss_new_699",
+    "text": "Could you call the clinic before it closes so we don't forget?"
+  },
+  {
+    "id": "ss_new_700",
+    "text": "Could you call the clinic before it closes before lunch?"
+  },
+  {
+    "id": "ss_new_701",
+    "text": "Could you pack the umbrellas in the back please?"
+  },
+  {
+    "id": "ss_new_702",
+    "text": "Could you pack the umbrellas in the back for me?"
+  },
+  {
+    "id": "ss_new_703",
+    "text": "Could you pack the umbrellas in the back before we go?"
+  },
+  {
+    "id": "ss_new_704",
+    "text": "Could you pack the umbrellas in the back when you have a minute?"
+  },
+  {
+    "id": "ss_new_705",
+    "text": "Could you pack the umbrellas in the back if you get a chance?"
+  },
+  {
+    "id": "ss_new_706",
+    "text": "Could you pack the umbrellas in the back while you're there?"
+  },
+  {
+    "id": "ss_new_707",
+    "text": "Could you pack the umbrellas in the back before tonight?"
+  },
+  {
+    "id": "ss_new_708",
+    "text": "Could you pack the umbrellas in the back for tomorrow?"
+  },
+  {
+    "id": "ss_new_709",
+    "text": "Could you pack the umbrellas in the back so we don't forget?"
+  },
+  {
+    "id": "ss_new_710",
+    "text": "Could you pack the umbrellas in the back before lunch?"
+  },
+  {
+    "id": "ss_new_711",
+    "text": "Could you double-check the address before we leave please?"
+  },
+  {
+    "id": "ss_new_712",
+    "text": "Could you double-check the address before we leave for me?"
+  },
+  {
+    "id": "ss_new_713",
+    "text": "Could you double-check the address before we leave before we go?"
+  },
+  {
+    "id": "ss_new_714",
+    "text": "Could you double-check the address before we leave when you have a minute?"
+  },
+  {
+    "id": "ss_new_715",
+    "text": "Could you double-check the address before we leave if you get a chance?"
+  },
+  {
+    "id": "ss_new_716",
+    "text": "Could you double-check the address before we leave while you're there?"
+  },
+  {
+    "id": "ss_new_717",
+    "text": "Could you double-check the address before we leave before tonight?"
+  },
+  {
+    "id": "ss_new_718",
+    "text": "Could you double-check the address before we leave for tomorrow?"
+  },
+  {
+    "id": "ss_new_719",
+    "text": "Could you double-check the address before we leave so we don't forget?"
+  },
+  {
+    "id": "ss_new_720",
+    "text": "Could you double-check the address before we leave before lunch?"
+  },
+  {
+    "id": "ss_new_721",
+    "text": "Could you put the bins out before dinner please?"
+  },
+  {
+    "id": "ss_new_722",
+    "text": "Could you put the bins out before dinner for me?"
+  },
+  {
+    "id": "ss_new_723",
+    "text": "Could you put the bins out before dinner before we go?"
+  },
+  {
+    "id": "ss_new_724",
+    "text": "Could you put the bins out before dinner when you have a minute?"
+  },
+  {
+    "id": "ss_new_725",
+    "text": "Could you put the bins out before dinner if you get a chance?"
+  },
+  {
+    "id": "ss_new_726",
+    "text": "Could you put the bins out before dinner while you're there?"
+  },
+  {
+    "id": "ss_new_727",
+    "text": "Could you put the bins out before dinner before tonight?"
+  },
+  {
+    "id": "ss_new_728",
+    "text": "Could you put the bins out before dinner for tomorrow?"
+  },
+  {
+    "id": "ss_new_729",
+    "text": "Could you put the bins out before dinner so we don't forget?"
+  },
+  {
+    "id": "ss_new_730",
+    "text": "Could you put the bins out before dinner before lunch?"
+  },
+  {
+    "id": "ss_new_731",
+    "text": "Could you keep the wet towels off the floor please?"
+  },
+  {
+    "id": "ss_new_732",
+    "text": "Could you keep the wet towels off the floor for me?"
+  },
+  {
+    "id": "ss_new_733",
+    "text": "Could you keep the wet towels off the floor before we go?"
+  },
+  {
+    "id": "ss_new_734",
+    "text": "Could you keep the wet towels off the floor when you have a minute?"
+  },
+  {
+    "id": "ss_new_735",
+    "text": "Could you keep the wet towels off the floor if you get a chance?"
+  },
+  {
+    "id": "ss_new_736",
+    "text": "Could you keep the wet towels off the floor while you're there?"
+  },
+  {
+    "id": "ss_new_737",
+    "text": "Could you keep the wet towels off the floor before tonight?"
+  },
+  {
+    "id": "ss_new_738",
+    "text": "Could you keep the wet towels off the floor for tomorrow?"
+  },
+  {
+    "id": "ss_new_739",
+    "text": "Could you keep the wet towels off the floor so we don't forget?"
+  },
+  {
+    "id": "ss_new_740",
+    "text": "Could you keep the wet towels off the floor before lunch?"
+  },
+  {
+    "id": "ss_new_741",
+    "text": "Could you ask whether there are seats available upstairs please?"
+  },
+  {
+    "id": "ss_new_742",
+    "text": "Could you ask whether there are seats available upstairs for me?"
+  },
+  {
+    "id": "ss_new_743",
+    "text": "Could you ask whether there are seats available upstairs before we go?"
+  },
+  {
+    "id": "ss_new_744",
+    "text": "Could you ask whether there are seats available upstairs when you have a minute?"
+  },
+  {
+    "id": "ss_new_745",
+    "text": "Could you ask whether there are seats available upstairs if you get a chance?"
+  },
+  {
+    "id": "ss_new_746",
+    "text": "Could you ask whether there are seats available upstairs while you're there?"
+  },
+  {
+    "id": "ss_new_747",
+    "text": "Could you ask whether there are seats available upstairs before tonight?"
+  },
+  {
+    "id": "ss_new_748",
+    "text": "Could you ask whether there are seats available upstairs for tomorrow?"
+  },
+  {
+    "id": "ss_new_749",
+    "text": "Could you ask whether there are seats available upstairs so we don't forget?"
+  },
+  {
+    "id": "ss_new_750",
+    "text": "Could you ask whether there are seats available upstairs before lunch?"
+  },
+  {
+    "id": "ss_new_751",
+    "text": "Could you set the table before everyone gets here please?"
+  },
+  {
+    "id": "ss_new_752",
+    "text": "Could you set the table before everyone gets here for me?"
+  },
+  {
+    "id": "ss_new_753",
+    "text": "Could you set the table before everyone gets here before we go?"
+  },
+  {
+    "id": "ss_new_754",
+    "text": "Could you set the table before everyone gets here when you have a minute?"
+  },
+  {
+    "id": "ss_new_755",
+    "text": "Could you set the table before everyone gets here if you get a chance?"
+  },
+  {
+    "id": "ss_new_756",
+    "text": "Could you set the table before everyone gets here while you're there?"
+  },
+  {
+    "id": "ss_new_757",
+    "text": "Could you set the table before everyone gets here before tonight?"
+  },
+  {
+    "id": "ss_new_758",
+    "text": "Could you set the table before everyone gets here for tomorrow?"
+  },
+  {
+    "id": "ss_new_759",
+    "text": "Could you set the table before everyone gets here so we don't forget?"
+  },
+  {
+    "id": "ss_new_760",
+    "text": "Could you set the table before everyone gets here before lunch?"
+  },
+  {
+    "id": "ss_new_761",
+    "text": "Could you bring the charger into the lounge room please?"
+  },
+  {
+    "id": "ss_new_762",
+    "text": "Could you bring the charger into the lounge room for me?"
+  },
+  {
+    "id": "ss_new_763",
+    "text": "Could you bring the charger into the lounge room before we go?"
+  },
+  {
+    "id": "ss_new_764",
+    "text": "Could you bring the charger into the lounge room when you have a minute?"
+  },
+  {
+    "id": "ss_new_765",
+    "text": "Could you bring the charger into the lounge room if you get a chance?"
+  },
+  {
+    "id": "ss_new_766",
+    "text": "Could you bring the charger into the lounge room while you're there?"
+  },
+  {
+    "id": "ss_new_767",
+    "text": "Could you bring the charger into the lounge room before tonight?"
+  },
+  {
+    "id": "ss_new_768",
+    "text": "Could you bring the charger into the lounge room for tomorrow?"
+  },
+  {
+    "id": "ss_new_769",
+    "text": "Could you bring the charger into the lounge room so we don't forget?"
+  },
+  {
+    "id": "ss_new_770",
+    "text": "Could you bring the charger into the lounge room before lunch?"
+  },
+  {
+    "id": "ss_new_771",
+    "text": "Could you leave a note on the bench please?"
+  },
+  {
+    "id": "ss_new_772",
+    "text": "Could you leave a note on the bench for me?"
+  },
+  {
+    "id": "ss_new_773",
+    "text": "Could you leave a note on the bench before we go?"
+  },
+  {
+    "id": "ss_new_774",
+    "text": "Could you leave a note on the bench when you have a minute?"
+  },
+  {
+    "id": "ss_new_775",
+    "text": "Could you leave a note on the bench if you get a chance?"
+  },
+  {
+    "id": "ss_new_776",
+    "text": "Could you leave a note on the bench while you're there?"
+  },
+  {
+    "id": "ss_new_777",
+    "text": "Could you leave a note on the bench before tonight?"
+  },
+  {
+    "id": "ss_new_778",
+    "text": "Could you leave a note on the bench for tomorrow?"
+  },
+  {
+    "id": "ss_new_779",
+    "text": "Could you leave a note on the bench so we don't forget?"
+  },
+  {
+    "id": "ss_new_780",
+    "text": "Could you leave a note on the bench before lunch?"
+  },
+  {
+    "id": "ss_new_781",
+    "text": "Could you check whether the front window is locked please?"
+  },
+  {
+    "id": "ss_new_782",
+    "text": "Could you check whether the front window is locked for me?"
+  },
+  {
+    "id": "ss_new_783",
+    "text": "Could you check whether the front window is locked before we go?"
+  },
+  {
+    "id": "ss_new_784",
+    "text": "Could you check whether the front window is locked when you have a minute?"
+  },
+  {
+    "id": "ss_new_785",
+    "text": "Could you check whether the front window is locked if you get a chance?"
+  },
+  {
+    "id": "ss_new_786",
+    "text": "Could you check whether the front window is locked while you're there?"
+  },
+  {
+    "id": "ss_new_787",
+    "text": "Could you check whether the front window is locked before tonight?"
+  },
+  {
+    "id": "ss_new_788",
+    "text": "Could you check whether the front window is locked for tomorrow?"
+  },
+  {
+    "id": "ss_new_789",
+    "text": "Could you check whether the front window is locked so we don't forget?"
+  },
+  {
+    "id": "ss_new_790",
+    "text": "Could you check whether the front window is locked before lunch?"
+  },
+  {
+    "id": "ss_new_791",
+    "text": "Could you bring the pram around to the side entrance please?"
+  },
+  {
+    "id": "ss_new_792",
+    "text": "Could you bring the pram around to the side entrance for me?"
+  },
+  {
+    "id": "ss_new_793",
+    "text": "Could you bring the pram around to the side entrance before we go?"
+  },
+  {
+    "id": "ss_new_794",
+    "text": "Could you bring the pram around to the side entrance when you have a minute?"
+  },
+  {
+    "id": "ss_new_795",
+    "text": "Could you bring the pram around to the side entrance if you get a chance?"
+  },
+  {
+    "id": "ss_new_796",
+    "text": "Could you bring the pram around to the side entrance while you're there?"
+  },
+  {
+    "id": "ss_new_797",
+    "text": "Could you bring the pram around to the side entrance before tonight?"
+  },
+  {
+    "id": "ss_new_798",
+    "text": "Could you bring the pram around to the side entrance for tomorrow?"
+  },
+  {
+    "id": "ss_new_799",
+    "text": "Could you bring the pram around to the side entrance so we don't forget?"
+  },
+  {
+    "id": "ss_new_800",
+    "text": "Could you bring the pram around to the side entrance before lunch?"
+  }
+]
