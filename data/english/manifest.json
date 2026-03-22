@@ -1,6 +1,6 @@
 {
-  "version": 3,
-  "updated_at": "2026-03-19",
+  "version": 4,
+  "updated_at": "2026-03-22",
   "sentences_path": "/data/english/sentences.json",
   "vocab_path": "/data/english/vocab.json",
   "structures_path": "/data/english/englishstructure.json",
